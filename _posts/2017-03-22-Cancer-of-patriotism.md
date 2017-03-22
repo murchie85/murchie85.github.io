@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Cancer of Patriotism"
+date: 2017-03-19
+---
+
 Edinburgh, May 28, 2014 (Alochonaa): Right now as this article is being produced, martial law has just been declared in Thailand, China has declared
 
 Courtesy Google Image
