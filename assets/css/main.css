@@ -2095,7 +2095,35 @@
  	font-size:0.8rem;
 
  }
-	
+
+/* CODE STYLE */
+
+pre code {
+  background: #4d004d;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+  font-size: 1rem;
+}	
+
+
+#codeStyler {
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+margin: 1em 0;}
+
+pre code red {
+color: red;	
+}
+pre code blue {
+color: blue;	
+}
+pre code yellow {
+color: yellow;	
+}
+
+
 
 /* Footer */
 
