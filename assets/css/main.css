@@ -2078,18 +2078,24 @@
 	}
 
 
-	.blogs nav ul li {
-				font-size:0.8rem;	
+	#blogs nav ul li {
+				font-size:0.2rem;	
 			}
 
 /* SIDE BAR */
-/* Sidebar */
+	
+
 #sidebar {
     position:fixed;
     left:2%; top:5%; bottom: 0;
     width: 178px;
 }
-		
+
+ #sidebar nav ul li{
+ 	font-size:0.8rem;
+
+ }
+	
 
 /* Footer */
 
