@@ -2069,6 +2069,7 @@
 
 	#blogs {
 			padding: 2.5rem 2.5rem 1.5rem 2.5rem ;
+			margin-left: 10rem ;
 			position: relative;
 			width: 60rem;
 			max-width: 100%;
@@ -2078,6 +2079,17 @@
 	}
 
 
+	.blogs nav ul li {
+				font-size:0.8rem;	
+			}
+
+/* SIDE BAR */
+/* Sidebar */
+#sidebar {
+    position:fixed;
+    left:2%; top:5%; bottom: 0;
+    width: 178px;
+}
 		
 
 /* Footer */
