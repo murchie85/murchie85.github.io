@@ -2088,10 +2088,22 @@
 #blog #sidebar {
     position:fixed;
     left:110%; top:5%;
-    width: 220px;
+    width: 240px;
     background-color: rgba(27, 31, 34, 0.95);
-	border-radius: 40px;
+	border-radius: 10px;
 	opacity: 100;
+}
+#blog #quicknav {
+	position:fixed;
+	text-align: center;
+    top:20%; left: 35%;
+    width: 30%;
+    background-color: rgba(27, 31, 34, 1.5);
+	border-radius: 10px;
+	opacity: 100;
+}
+#blog #quicknav ul li{
+	list-style: none;
 }
 
  #sidebar nav ul li{
