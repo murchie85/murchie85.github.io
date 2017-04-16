@@ -2085,10 +2085,13 @@
 /* SIDE BAR */
 	
 
-#sidebar {
+#blog #sidebar {
     position:fixed;
-    left:2%; top:5%; bottom: 0;
-    width: 178px;
+    left:110%; top:5%;
+    width: 220px;
+    background-color: rgba(27, 31, 34, 0.95);
+	border-radius: 40px;
+	opacity: 100;
 }
 
  #sidebar nav ul li{
