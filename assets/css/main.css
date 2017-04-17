@@ -659,7 +659,9 @@
 		.image.main {
 			display: block;
 			margin: 2.5rem 0;
-			width: 100%;
+			width: 80%;
+			display: block;
+    		margin: 0 auto;
 		}
 
 			.image.main img {
