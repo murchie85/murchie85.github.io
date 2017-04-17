@@ -2116,7 +2116,7 @@
 /* CODE STYLE */
 
 pre code {
-  background: #4d004d;
+  background: black;
   border: 1px solid #999;
   display: block;
   padding: 20px;
@@ -2139,7 +2139,18 @@ color: blue;
 pre code yellow {
 color: yellow;	
 }
+pre code black {
+color: black;	
+}
+pre code purple {
+color: purple;		
+}
 
+#green {
+	color: green;
+	background-color:rgba(0, 0, 0, 0.5);
+
+}
 
 
 /* Footer */
