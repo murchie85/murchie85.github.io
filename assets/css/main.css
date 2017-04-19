@@ -671,7 +671,7 @@
 		@media screen and (max-width: 736px) {
 
 			.image.main {
-				margin: 2rem 3rem;
+				margin: 2rem 0rem;
 				position: center;
 			}
 
@@ -680,7 +680,7 @@
 		@media screen and (max-width: 480px) {
 
 			.image.main {
-				margin: 3rem 35rem;
+				margin: 3rem 0rem 0rem 3rem;
 				position: center;
 			}
 
