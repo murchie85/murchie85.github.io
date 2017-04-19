@@ -653,7 +653,7 @@
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 70%;
 			}
 
 		.image.main {
@@ -680,7 +680,7 @@
 		@media screen and (max-width: 480px) {
 
 			.image.main {
-				margin: 1.5rem 0;
+				margin: 3rem 0;
 				position: center;
 			}
 
