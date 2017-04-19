@@ -680,7 +680,7 @@
 		@media screen and (max-width: 480px) {
 
 			.image.main {
-				margin: 3rem 0;
+				margin: 3rem 3rem;
 				position: center;
 			}
 
