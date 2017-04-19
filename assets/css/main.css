@@ -598,7 +598,7 @@
 
 	.image {
 		border-radius: 4px;
-		border: 0;
+		border: 10;
 		display: inline-block;
 		position: relative;
 	}
@@ -658,8 +658,8 @@
 
 		.image.main {
 			display: block;
-			margin: 2.5rem 0;
-			width: 80%;
+			margin: 2.5rem 10;
+			width: 70%;
 			display: block;
     		margin: 0 auto;
 		}
@@ -672,6 +672,7 @@
 
 			.image.main {
 				margin: 2rem 0;
+				width: 70%;
 			}
 
 		}
@@ -680,6 +681,7 @@
 
 			.image.main {
 				margin: 1.5rem 0;
+				width: 70%;
 			}
 
 		}
