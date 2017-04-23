@@ -667,6 +667,10 @@
 			.image.main img {
 				width: 100%;
 			}
+			.image.smaller img {
+				width: 50%;
+				margin: 1rem 7rem;
+			}
 
 		@media screen and (max-width: 736px) {
 
