@@ -668,8 +668,8 @@
 				width: 100%;
 			}
 			.image.smaller img {
-				width: 50%;
-				margin: 1rem 7rem;
+				width: 60%;
+				margin: 1rem 5rem;
 			}
 
 		@media screen and (max-width: 736px) {
