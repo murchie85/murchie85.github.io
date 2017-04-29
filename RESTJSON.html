@@ -62,6 +62,7 @@ First set up a folder structure like the below, don’t worry about the ‘vendo
 </p>
 
 											<center>	<h2>INSTALL SLIMPHP and Create Our Home Script</h2> </center>
+
 <p>Next in order to add our vendor files (including the libs that lets us handle JSON) we should download a PHP tool, slimPHP, the easiest way to do this is to run the suggested command from the SlimPHP <a style = "color:silver;" href = "https://www.slimframework.com/"> site</a> for mac and the current script its 
 											<center><code>composer require slim/slim "^3.0"</code></center> <br>
 Now its time to start creating some files, I am using sublime to do my coding and file creation but you can use brackets notepad ++ or many others.
@@ -70,8 +71,10 @@ In the DEMO folder, create an index.php this is where the main php scripts are g
 											<center>	<span class="image main"><img src="images/rest/code.jpg" alt="" /></span></center>
 </p>
 <p>
-When we create a restful API we create routes that deal with requests and response objects, that is what we are doing in the first two lines, we are dealing with the request/response objects. So every SLIM application/route is given these object as the argument for the call back routine. SLIM supports PSR7 the php standard for messaging, a great approach for writing apps. Autoload.php is created by composer and allows us to refer to SLIM </p>
-
+When we create a restful API we create routes that deal with requests and response objects, that is what we are doing in the first two lines, we are dealing with the request/response objects. So every SLIM application/route is given these object as the argument for the call back routine. SLIM supports PSR7 the php standard for messaging, a great approach for writing apps. Autoload.php is created by composer and allows us to refer to SLIM dependencies. $app-> allows us to create our route. in this case its /hello/name <br>
+We then compose the response and return it. Finally we need to do the run command at the end to make it actually work. In our case we modify the require statement to add ../ as we are in the sub directory. 
+ </p>
+ 											<center>	<h2>STARTING AND STOPPING YOUR SERVER</h2> </center>
 
 
 <strong> Adam McMurchie  27/April/2017 </strong>
