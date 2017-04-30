@@ -61,7 +61,7 @@ First set up a folder structure like the below, don’t worry about the ‘vendo
 											<center>	<span class="image smaller"><img src="images/rest/file.jpg" alt="" /></span></center>
 </p>
 
-											<center>	<h2>INSTALL SLIMPHP and Create Our Home Script</h2> </center>
+											<center>	<h2>Install SLIMPHP and Create Our Home Script</h2> </center>
 
 <p>Next in order to add our vendor files (including the libs that lets us handle JSON) we should download a PHP tool, slimPHP, the easiest way to do this is to run the suggested command from the SlimPHP <a style = "color:silver;" href = "https://www.slimframework.com/"> site</a> for mac and the current script its 
 											<center><code>composer require slim/slim "^3.0"</code></center> <br>
@@ -74,7 +74,7 @@ In the DEMO folder, create an index.php this is where the main php scripts are g
 When we create a restful API we create routes that deal with requests and response objects, that is what we are doing in the first two lines, we are dealing with the request/response objects. So every SLIM application/route is given these object as the argument for the call back routine. SLIM supports PSR7 the php standard for messaging, a great approach for writing apps. Autoload.php is created by composer and allows us to refer to SLIM dependencies. $app-> allows us to create our route. in this case its /hello/name <br>
 We then compose the response and return it. Finally we need to do the run command at the end to make it actually work. In our case we modify the require statement to add ../ as we are in the sub directory. 
  </p>
- 											<center>	<h2>STARTING AND STOPPING YOUR SERVER</h2> </center>
+ 											<center>	<h2>Starting and Stopping Your Server </h2> </center>
 
 <p>In order to run our php pages on a server, and navigate to them via the browser we need to start our servers. Locate the XAMPP application and click start all servers. This can be a tricky step as sometimes the severs don’t start due to other applications using port 80, any problems just drop me a message. Once you are ready go ahead and open up a  browser and put in </p>
 											<center><code>http://localhost/slimapp/public/index.php/hello/bob</code></center> <br>
@@ -98,7 +98,8 @@ Add a .htaccess file, add this code and save in the public folder. Now try out y
 	</pre></code>
 Uncomment the second line, next add Virtual Hosts which can be found at <code>conf >> extra>>httpd-vhosts.conf</code> or <code>/Applications/XAMPP/xamppfiles/etc/httpd.conf</code> on the mac. Note make sure this isn't the folder with the tag original, that is just a backup in case the httpd file is corrupted or mistakes are made. Follow the steps in the help link provided in the httpd.conf doc, and once you are happy you have set up your virtual host, you need to go to the hosts document and add the host database. Either way be very careful in this process as its easy to cause problems to your server. </p>
 
- 											<center>	<h2>POINT TO WORKING DIRECTORY</h2> </center>
+ 											<center>	<h2>Point to a Working Directory </h2> </center>
+
 <p>Now we are going to modify our main index.php file so it points to our customer script, this is where we will perform our main part of our work. Note once you do this, your original URL you used for returning hello/name will no longer work  Follow the step below </p>
 											<center>	<span class="image main"><img src="images/rest/code2.jpg" alt="" /></span></center>
 <p>In our customers php file, lets  add the following and run the code by navigating to it in the browser as shown in the example below
@@ -107,7 +108,8 @@ Uncomment the second line, next add Virtual Hosts which can be found at <code>co
 Navigate path to run the code is <code> http://localhost/demo/public/api/customers</code> once loaded into the browser you should see a the text CUSTOMERS printed to the screen	
 </p>
 
- 											<center>	<h2>CREATE A DATABASE</h2> </center>
+ 											<center>	<h2>Create a Database</h2> </center>
+
 <p>The whole point of building this API is so we can store information on a database and allow customers/ front end users to interact with it via the service API we provide. Lets  create a bare bones database. First log into <code> http://localhost/phpmyadmin</code> you should see a screen like the following
 
 											<center>	<span class="image main"><img src="images/rest/db.jpg" alt="" /></span></center>
@@ -124,7 +126,8 @@ district
 This GUI is rather self intuitive but if you have any issues I have included a copy of the SQL package you can upload. </p>
 
 
- 											<center>	<h2>CONNECT TO A DATABASE</h2> </center>
+ 											<center>	<h2>Connect to a Database</h2> </center>
+
 <P>DEMO has no native data database wrappers so we will use PHP, specifically PDO which are PHP data objects (info can be found <a style = "color:silver;" href = " http://php.net/manual/en/book.pdo.php"> here</a>) . This is an alternative to mySQLI, <a style = "color:silver;" href = "http://php.net/manual/en/pdo.connections.php"> here</a> you can find the connection documentation which you may need to reference when learning about setting up connections to your database, for now we can use my example.   
 Now its time to set up your database configuration, its worth reading up on how this all works, but I have included my code sample for a starter, note that you will need to configure user/passwork/database name accordingly. If you are doing something different from my steps, then this can be quite an in-depth process so please contact me if you have any issues.
 
@@ -134,11 +137,122 @@ After the DB.PHP config has been set we need to add it in our main php file.
 
 </P>
 
- 												<center>	<h2>TEST CONNECTION STRING</h2> </center>
+ 												<center>	<h2>Test Connection String</h2> </center>
+
+<p>Add a reference to the database in the main index.php script below the autoload require clause like so 
+<center><pre><code>
+require '../vendor/autoload.php';
+require '../src/config/db.php'; 
+
+</center></pre></code>
+now open up the URL  <code> http://localhost/demo/public/api/customers</code> if you see any errors, then there is an issue with connecting to the database and you may need to trouble shoot your user/password/host settings. </p>
 
 
+ 												<center>	<h2>Using PHP and PDO</h2> </center>
+
+<p>Before we go to creating statements, here are some tips on using PHP with PDO standards, remember there is also links to the documentation provided in the ‘connect to a database’ section above.  To create a variable, we use the $ sign, applying a function like connect looks like this. <br>
+												<center> <code> $db->connect();</center> </code>
+We create statements like this 
+												<center><pre> <code> 
+$stmt = $db->query($sql);
+$customers = $stmt->fetchAll(PDO: :FETCH_OBJ);
+
+												</center> </pre></code>
+<pre>
+In general...
+	// when we are working with PDO we need to create statements 
+	// there are a few benefits to creating prepared statements
+	// 1. the query only needs to be parsed once 
+	// 2. can be executed multiple times with the same / or diff peramaters
+	// 3. the parameters don't need to be quoted.
+</pre>
+</p>
 
 
+ 												<center>	<h2>Retrieve customer information as JSON</h2> </center>
+
+<p>Now its time to writes some code that will pull customer information from our database . Instead of doing an echo of CUSTOMERS text, we want to add an SQL variable that selects all from our database. This will be executed in a try/catch  step, the modified code looks as follows.
+<pre> <code>
+//Get All Customers 
+
+$app->get('/api/customers', function(Request $request, Response $response){
+	$sql = "SELECT * FROM customers";
+
+		try{
+			// Get DB object 
+			$db = new db();
+			// connect 
+			$db = $db->connect(); 
+			// when we are working with PDO we need to  create statements 
+			// there are a few benefits to creating prepared statements
+			// 1. the query only needs to be parsed once 
+			// 2. can be executed multiple times with the same / or diff peramaters
+			// 3. the parameters don't need to be quoted. 
+			//stmt is standard 
+			// passes in $sql var
+
+
+			$stmt = $db->query($sql);
+			$customers = $stmt->fetchAll(PDO::FETCH_OBJ);
+			$db = null;
+			echo json_encode($customers);
+
+
+		} catch(PDOException $e){
+			//e for errors exception handling
+       		 echo '{"error": {"text": '.$e->getMessage().'}';
+    	}
+});
+</pre></code>
+ I understand there is a lot of new things we added, including the SQL so please look through the code to familiarize yourself, if you are struggling to understand then start by reading up on basic sql, then php DB connection examples. Call the same URL <code> http://localhost/demo/public/api/customers</code> and you should now see the record outputted into the screen .
+</p>
+
+ 												<center>	<h2>Interrogate API with RestEasy</h2> </center>
+<p>
+It is time to treat our code like a professional API backend and interrogate it the proper way, with a front end mockup. Open RESTeasy application and follow the steps shown in the screen shot below. 
+
+
+											<center>	<span class="image main"><img src="images/rest/rest1.jpg" alt="" /></span></center><br>
+
+If it works you will see 200 which means that everything is OK! Well done!  This is a big step, you have effectively managed the core functionality of your API, now we simply add more features to the process, such as the full CRUD service of create, read, update and delete.</p>
+
+
+ 												<center>	<h2>Retrieve a Single Customer from Database</h2> </center>
+<p>Again there is a lot of code that would take another tutorial to explain, so for this purpose it will be to get us up and running, I advise revisting the code for a deeper study afterwards. Copy the get all customers code and paste below, first change the route to point to the id as follows
+
+<pre> <code>
+//Get A SINGLE CUSTOMER 
+//****All customers terms changed to customer, except in SQL statement
+$app->get('/api/customer/{id}', function(Request $request, Response $response){
+	$id = $request->getAttribute('id');
+
+	$sql = "SELECT * FROM customers WHERE id = $id"; //$id comes from the URL 
+
+		try{
+			// Get DB object 
+			$db = new db();
+			// connect 
+			$db = $db->connect(); 
+
+
+			$stmt = $db->query($sql);
+			$customer = $stmt->fetchAll(PDO::FETCH_OBJ); // changed to singular
+			$db = null;
+			echo json_encode($customer);  // changed to singular
+
+
+		} catch(PDOException $e){
+			//e for errors exception handling
+       		 echo '{"error": {"text": '.$e->getMessage().'}';
+    	}
+});
+</pre></code>
+
+
+These steps simply allow the database to fish out one record which matches the user input. Now lets use the Resteasy front end to call our API, note we need to change the url, as we amended in the code. This time its not customers in the URL, it is customer, followed by a number (which related to the ID) as shown below. 
+
+											<center>	<span class="image main"><img src="images/rest/rest2.jpg" alt="" /></span></center><br>
+Note if we change id to 2, we can pull back the second customer from the database (more specifically, the customer whose ID relates to 2).
 <br><strong> Adam McMurchie  27/April/2017 </strong>
 <br><br><br><br>
 
