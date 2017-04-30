@@ -218,6 +218,7 @@ If it works you will see 200 which means that everything is OK! Well done!  This
 
 
  												<center>	<h2>Retrieve a Single Customer from Database</h2> </center>
+
 <p>Again there is a lot of code that would take another tutorial to explain, so for this purpose it will be to get us up and running, I advise revisting the code for a deeper study afterwards. Copy the get all customers code and paste below, first change the route to point to the id as follows
 
 <pre> <code>
@@ -249,10 +250,84 @@ $app->get('/api/customer/{id}', function(Request $request, Response $response){
 </pre></code>
 
 
-These steps simply allow the database to fish out one record which matches the user input. Now lets use the Resteasy front end to call our API, note we need to change the url, as we amended in the code. This time its not customers in the URL, it is customer, followed by a number (which related to the ID) as shown below. 
+These steps simply allow the database to fish out one record which matches the user input. Now lets use the Resteasy front end to call our API, note we need to change the url, as we amended in the code. This time its not customers in the URL, it is customer, followed by a number (which related to the ID) as shown below. <br><br>
+
+											<center>	<span class="image main"><img src="images/rest/rest0.jpg" alt="" /></span></center><br>
+
+Note if we change id to 2, we can pull back the second customer from the database, more specifically, the customer whose ID relates to number 2.</p>
+
+
+ 												<center>	<h2>Add a Customer</h2> </center>
+ 												
+<p>Now we want to add a customer, here is the add customer code to adde below in your customers.php file.
+<pre> <code>
+// Add Customer
+//we need to get the parameters, usually these would be thru a form, instead of get attribute which is the url
+	// if now we want to get param
+$app->post('/api/customer/add', function(Request $request, Response $response){
+    $first_name = $request->getParam('first_name');// GETS PARAMETERS FROM USER INPUT
+    $last_name = $request->getParam('last_name');
+    $phone = $request->getParam('phone');
+    $email = $request->getParam('email');
+    $address = $request->getParam('address');
+    $city = $request->getParam('city');
+    $district = $request->getParam('district');
+    $sql = "INSERT INTO customers (first_name,last_name,phone,email,address,city,district) VALUES
+    (:first_name,:last_name,:phone,:email,:address,:city,:district)";
+    try{
+        // Get DB Object
+        $db = new db();
+        // Connect
+        $db = $db->connect();
+        $stmt = $db->prepare($sql);
+        $stmt->bindParam(':first_name', $first_name);  // BIND EACH PARAMATER
+        $stmt->bindParam(':last_name',  $last_name);
+        $stmt->bindParam(':phone',      $phone);
+        $stmt->bindParam(':email',      $email);
+        $stmt->bindParam(':address',    $address);
+        $stmt->bindParam(':city',       $city);
+        $stmt->bindParam(':district',      $district);
+        $stmt->execute();
+        echo '{"notice": {"text": "Customer Added"}';
+    } catch(PDOException $e){
+        echo '{"error": {"text": '.$e->getMessage().'}';
+    }
+});
+</pre></code>
+
+Now we want to actually execute this with our front end using the GET request instead of the post request. Do the following  add to the headers, content-type and call the value application/json.
+
+											<center>	<span class="image main"><img src="images/rest/rest2.jpg" alt="" /></span></center><br>
+here is some example code to try to add into the database. 
+
+<pre> <code>
+{
+	"first_name" : "Stacey",
+	"last_name" : "Hoffman",
+	"phone" : "444-333-111-34",
+	"email" : "stacy@gmail.com",
+	"address" : "27 London St",
+	"city" : "London",
+	"district" : "center"
+
+}
+</pre></code>
+
+
+Remember to change the URL and set the method to post (since we are using the REST update functionality). An example is shown below. <br><br>
 
 											<center>	<span class="image main"><img src="images/rest/rest3.jpg" alt="" /></span></center><br>
-Note if we change id to 2, we can pull back the second customer from the database (more specifically, the customer whose ID relates to 2).
+If performed correctly, you should see a response message saying customer added in the JSON response. You can reload the database to check, and it should look like something below. <br>
+
+											<center>	<span class="image main"><img src="images/rest/db2.jpg" alt="" /></span></center><br>
+<strong> CHALLENGE</strong> Try to pull back the newly added customer using the get a single customer method.
+
+</p>
+
+
+
+
+
 <br><strong> Adam McMurchie  27/April/2017 </strong>
 <br><br><br><br>
 
