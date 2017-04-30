@@ -671,6 +671,11 @@
 				width: 60%;
 				margin: 1rem 5rem;
 			}
+			.image.smallerstill img {
+				width: 35%;
+				margin: 1rem 5rem;
+			}
+
 
 		@media screen and (max-width: 736px) {
 
