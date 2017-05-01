@@ -88,7 +88,7 @@ We then compose the response and return it. Finally we need to do the run comman
 <p>Bob can in fact be any name due to the way the code is set up, have a look at your index script to make sure you understand what is happening .</p>
 
  											<center>	<h2>ACCESS TO OMIT INDEX.PHP PATH</h2> </center>
-<p>We don't want to include the index.php every time so we will use a ht access file, additionally to omit the pubic we can add a virtual host in Apache. 
+<p>We don't want to include the index.php every time so we will use a ht access file, additionally to omit the xxpubicxx part of the URL, we can add a virtual host in Apache. 
 	<pre><code> 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
