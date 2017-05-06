@@ -2358,7 +2358,7 @@
 /* CODE STYLE */
 
 pre code {
-  background: black;
+  background: black;	
   border: 1px solid #999;
   display: block;
   padding: 20px;
@@ -2387,12 +2387,12 @@ color: black;
 pre code purple {
 color: purple;		
 }
-
-#green {
-	color: green;
-	background-color:rgba(0, 0, 0, 0.5);
-
+pre code green {
+color: green;		
 }
+
+	
+
 
 
 /* Footer */
