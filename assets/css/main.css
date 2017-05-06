@@ -667,6 +667,10 @@
 			.image.main img {
 				width: 100%;
 			}
+			.image.small img {
+				width: 75%;
+			}
+
 			.image.smaller img {
 				width: 60%;
 				margin: 1rem 5rem;
