@@ -139,7 +139,7 @@ Also go ahead and add text price and a value for the price, simply repeat the tw
 
 <br><br>
 <center>
-<span class="image smallerstill"><a href="images/NoodleApp/3.jpg"><img src="images/NoodleApp/3.jpg" alt="App layout example"/></a></span>
+<span class="image small"><a href="images/NoodleApp/3.jpg"><img src="images/NoodleApp/3.jpg" alt="App layout example"/></a></span>
 </center>
 <br>
 
@@ -179,7 +179,7 @@ public void submitOrder(View view) {
 Now when we press the submit order button we should see the following .
 <br><br>
 <center>
-<span class="image smallerstill"><a href="images/NoodleApp/4.jpg"><img src="images/NoodleApp/4.jpg" alt="App layout example"/></a></span>
+<span class="image small"><a href="images/NoodleApp/4.jpg"><img src="images/NoodleApp/4.jpg" alt="App layout example"/></a></span>
 </center>
 <br>
 If you don’t have a pound sign in your price text view, then the pound sign will appear to come from nowhere, but its entirely up to you. As we progress I will leave out less steps of design and low level code detail but I will have frequent checkpoint links to my source code that you can refer to so you don’t get lost.  <a href="https://github.com/murchie85/NaughtyNoodles/tree/JavaStep2-Display-price/app/src/main" style="color:red;">Here </a> is where we should be by now.
@@ -195,11 +195,20 @@ Now we we want to add a plus and minus button above and below the number 2 in qu
 
 <br><br>
 <center>
-<span class="image smallerstill"><a href="images/NoodleApp/cd4.jpg"><img src="images/NoodleApp/cd4.jpg" alt="Code Snippets"/></a></span>
+<span class="image small"><a href="images/NoodleApp/cd4.jpg"><img src="images/NoodleApp/cd4.jpg" alt="Code Snippets"/></a></span>
 </center>
 <br>
-Now we want the java to call a method called increment when the plus is selected and decrement when the - is selected. These both are the same as before with the onclick method. Bring the noodleAmount variable outside of the onClick methods and keep it global. For future you may want to find a way to prevent the conflict of Quantity in your text view and Noodle amount linked as your JAVA, this is a challenge step for honing coding fundamentals.
- Also we will put a limit on the number going under 1 and over 10. The source code should look like <a href="https://github.com/murchie85/NaughtyNoodles/blob/java3_+-Buttons/app/src/main/java/com/example/android/naughtynoodles/MainActivity.java" style="color:red;">this </a>. 
+Now we want the java to call a method called increment when the plus is selected and decrement when the - is selected. These both work in a similar way as the onClick method before in that the these methods will be linked to the increment/decrement xml views. 
+Bring the noodleAmount variable outside of the onClick methods this keeps it a global variable. For future you may want to find a way to prevent the conflict of Quantity in your text view and Noodle amount linked as your JAVA, this is a challenge step for honing coding fundamentals.
+ Also we will put a limit on the number going under 1 and over 10. 
+
+
+
+
+
+
+
+ The source code should look like <a href="https://github.com/murchie85/NaughtyNoodles/blob/java3_+-Buttons/app/src/main/java/com/example/android/naughtynoodles/MainActivity.java" style="color:red;">this </a>. 
 
 
 
