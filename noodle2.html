@@ -198,24 +198,32 @@ Now we we want to add a plus and minus button above and below the number 2 in qu
 <span class="image small"><a href="images/NoodleApp/cd4.jpg"><img src="images/NoodleApp/cd4.jpg" alt="Code Snippets"/></a></span>
 </center>
 <br>
-Now we want the java to call a method called increment when the plus is selected and decrement when the - is selected. These both work in a similar way as the onClick method before in that the these methods will be linked to the increment/decrement xml views. 
+Now we want the java to call a method called increment when the plus is selected and decrement when the - is selected. These both work in a similar way as the submit button before in that the these methods will be linked to the increment/decrement xml views using the onClick function. 
 Bring the noodleAmount variable outside of the onClick methods this keeps it a global variable. For future you may want to find a way to prevent the conflict of Quantity in your text view and Noodle amount linked as your JAVA, this is a challenge step for honing coding fundamentals.
- Also we will put a limit on the number going under 1 and over 10. 
+ Also we will put a limit on the number going under 1 and over 10. To give you a head start, I have included an example of the increment java code you want to include below. The name increment can't change as this is what we declared in the onClick field in our XML view, what is happening under the covers is the variable increment is assigned when we declare onClick and is ready to be used in our MainActivity java class. 
+<br><br>
+<center>
+<span class="image small"><a href="images/NoodleApp/cd5.jpg"><img src="images/NoodleApp/cd5.jpg" alt="increment method"/></a></span>
+</center>
+<br>
 
+ The increment method evaluates the variable noodleAmount, and if its less than 10 it will add 1 to the value and display the amount. Otherwise it displays a message (using the TOAST function) to tell the user only 10 coffees are allowed as a maximum. Hopefully you should have been able to replicate this, next up is for you to try and code the decrement utility yourself. <br>
 
+ Stop the bus! when you press the increment button you should notice the noodle amount increase, but sometimes when you press submit the number changes. There is a bug in the code, see if you can find it before reading the solution coming right up……<br> <br> <br> <br> <br>
 
+Did you spot the bug? What we have done wrong is that we display the noodle amount in our increment/decrement and our submit order view. In our submit order we don’t need to modify the noodle amount, since that is already taken care of by increment and decrement functions. Also notice that in the submitOrder we are also resetting the noodle amount to 2, we need to get rid of this too. So delete the following code from SubmitOrder.<br>
+<center><code>
+int noodleAmount = 2;<br>
+display(noodleAmount);
+</code></center><br>
 
+Now its time to re-run your app and once you are done or if you are lost then the source code should look like <a href="https://github.com/murchie85/NaughtyNoodles/blob/java3_+-Buttons/app/src/main/java/com/example/android/naughtynoodles/MainActivity.java" style="color:red;">this </a>. 
 
-
-
- The source code should look like <a href="https://github.com/murchie85/NaughtyNoodles/blob/java3_+-Buttons/app/src/main/java/com/example/android/naughtynoodles/MainActivity.java" style="color:red;">this </a>. 
-
-
-
-
+<br>
 
 						 							<center>	<h3> PART 2 COMPLETE</h3> </center><br>
-<p>Part 3 will be added on to the end of this in the coming days, so keep checking here, and drop me an email if you are having any issues following the tutorial.</p>
+<p>Fantastic work on getting this far, now we have achieved the ability to allow the user to run our app on their phone/simulated device, they can enter the amount of noodles they want then submit to find the cost. I know this seemed like quite al to for a small amount of functionality, but you can rest assured more complex functionality doesn’t take that much more, additionally we have the main foundations in place. <br>
+In the next and final lesson we are going to allow the user to input their name, pick more noodle options and when they submit they will get the order repeated back to them, and it will connect to the ‘shop’ and pass on the customers order ready to be picked up. </p>
 
 <strong> Adam McMurchie  6/May/2017 </strong>
 <br><br><br><br>
