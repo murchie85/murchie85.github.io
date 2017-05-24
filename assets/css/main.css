@@ -89,6 +89,8 @@
 			transition-delay: none !important;
 		}
 
+
+
 /* Type */
 
 	html {
@@ -205,6 +207,8 @@
 	h6 {
 		font-size: 0.6rem;
 	}
+
+
 
 	@media screen and (max-width: 736px) {
 
