@@ -173,7 +173,7 @@ A genome is these set of weight values which improve over times. The  agent make
 
 <br>
 
-<h3> Function Order For after setting global parameters </h3>
+<h3> Order of Helper Functions (after global parms have been set)</h3>
 <ol>
 <li> createinitialpopulation </li>
 <li> evaluatenextgenome (SELECTION)</li>
@@ -191,6 +191,7 @@ A genome is these set of weight values which improve over times. The  agent make
 
 <p>
 							<center> <h2> building the game </h2> </center>
+Ok, that is a lot of coverage, now its time to get into the meat of the code by building up the core high level flow which is within the first 100 lines.
 First define an array as shown below. <br>
 
 			<center><span class="image smaller"><a href = "EvoTetris/1.jpg"> <img src="EvoTetris/1.jpg" alt="Tetris played by ENN"></a></span></center>
@@ -249,26 +250,93 @@ Now we have our initialize function:<br>
 The first step is to initialise the population size and store in the archive. <br>
 Then we get next shape (from the bag) and we apply that shape to the grid  (stick it in the grid). The get state will have two clones one will save and one will set to current state. Now we create our randomly generated initial values for these seven weights then we start our game loop. The loop is a nested function and we can allow changes to the speed by clearing interval and set a new interval, so this is only if the speed is changed.
 If speed is zero (if game is stopped), then we instruct - don’t draw anything , now update the game (regardless if we draw or not). Otherwise we will just keep drawing.<br>
-The update function updates the game, including the fitness, the move that the A.I makes then it evaluates the next move .
+The update function updates the game, including the fitness, the move that the A.I makes then it evaluates the next move.<br>
 Finally we initialise with document unload function, this happens right when DOM loads up for this function. 
 
+</p>
 
+<p>
+
+
+														<center> <h2> helper functions </h2> </center>
+<br><br>
+Now its time to cover in detail the  AIs core functions - the helper functions. A quick recap, there are 8 functions in total: 
+
+
+<br><br>
+		<center><span class="image small"><a href = "EvoTetris/9.jpg"> <img src="EvoTetris/9.jpg" alt="Initialize function"></a></span></center>
+<br>
+
+
+
+														<center> <h3>  1. create initial population  </h3> </center>
+
+We will initialise the genome array where we store the genome, so we say ok given a population size 50, then each individual genome will be initialised.  So these are the 7 values you see on the game screen (below )that we hope improve overtime with each generation.
+
+
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/17.jpg"> <img src="EvoTetris/17.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+Now to cover each of the 7 parameters.
+<pre>
+<code>
+
+var genome = {
+	//unique identifier for a genome
+<red>id: Math.random(),</red>
+	//The weight of each row cleared by the given move. the more rows that are cleared, the more this weight increases
+<red>rowsCleared: Math.random() - 0.5,</red>
+	//the absolute height of the highest column to the power of 1.5
+	//added so that the algorithm can be able to detect if the blocks are stacking too high
+<red>weightedHeight: Math.random() - 0.5,</red>
+	//The sum of all the column’s heights
+<red>cumulativeHeight: Math.random() - 0.5,</red>
+	//the highest column minus the lowest column
+<red>relativeHeight: Math.random() - 0.5,</red>
+	//the sum of all the empty cells that have a block above them (basically, cells that are unable to be filled)
+<red>holes: Math.random() * 0.5,</red>
+	// the sum of absolute differences between the height of each column 
+	//(for example, if all the shapes on the grid lie completely flat, then the roughness would equal 0).
+<red>roughness: Math.random() - 0.5,</red>
+};
+
+
+</code></pre>
+
+</p>
+
+<p>
+
+In short these are all things we want to optimise for like minimising the amount of holes, maximising the number of rows cleared etc. 
+<br>
+ Lets look at the gene for clearing rows, the more the rows are cleared then the more this weight increases, why not have the absolute value instead? This weight value looks unrelated to input and output data, but in reality they are measurements we use to compute an output scalars that multiply/optimise. We initialise it randomly. We use crossover to update all the values .
+
+
+
+
+														<center> <h3>  2. Evaluate Next Genome  </h3> </center>
+
+Now we have created the initial population, we want to select for the best genome, firstly we want to increment where we are in the genome array and we will do this for each genome. If there is none we will evolve the population, so its time to move on to the next generation (then start breeding). If there is one we will load up where we are in the game, we will reset the move, make the next move (and try out a bunch of moves). <br>
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/13.jpg"> <img src="EvoTetris/13.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+
+														<center> <h3>  3. Evolve  </h3> </center>
+<br>
+In the high level genetics flow, this is step two (where the interesting stuff is about to happen). So lets talk about what evolution looks like in this case. This is where the mating happens. Firstly we reset the current genome for this generation, then increment to the next, then reset the grid/game to start again. Assuming we calculated what our fitness will be we then sort the genomes in order of fitness (so we can push the best ones into the elites array i.e. they are fit to breed). Then we remove the tail end by popping it off (this is the bad half we don't want to make it). We then sum the total fitness of the genomes together. 
+
+
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/14.jpg"> <img src="EvoTetris/14.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+If you got this far then I am truly grateful for you taking the time, there are still another 5 helper functions to go - I have decided to focus my time on the next big thing. That said if you made it this far please drop me a message and I will finishing the final five off straight away. 
 
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-<center> <b> PART 2 COMING IN 24 HOURS</b></center>
 
 
 </p>
