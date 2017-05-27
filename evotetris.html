@@ -227,6 +227,47 @@ We have an index in a speed value array for four speed values. <br>
 
 We have a value to set A.I on or off. A draw value to draw the game and a function to update the algorithm.Moves take and a limitation (more than 500 moves will go over the ceiling) Keeping it here will allow our machine to optimise for the score, so a point each move.MoveAlgorithm are our seven parameters. Inspect move selection is a boolean for inspecting which moves we will play next.
 
+
+
+
+							<center> <h3> genetic Algorithm values </h3> </center>
+<p>
+Lets start off with 50 genomes, then then an array to store them in, the current genome keeps track of that (the index we start off with). We iterate through this as we start off with thing. The first generation is called the zeroth generation. Archive is used to store what our values are for each generation, we will use javascript built in local storage function, allows us to store these values in ram (this is super useful, we don’t need to use a database). The elites are the genomes that we want to reproduce, and all our genomes
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/6.jpg"> <img src="EvoTetris/6.jpg" alt="Genetic Algorithm code"></a></span></center>
+<br>
+
+Now we have our mutation rate, this is our value we use to mutate the children (this can be tuned like hyper parameters in a neural network - we can tune this to  make it better). This is like al earning rate. We then have a mutation step - this is a bit like momentum, ‘what is the interval we want to apply the mutation rate too’. <br> 
+
+Now we have our initialize function:<br>
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/8.jpg"> <img src="EvoTetris/8.jpg" alt="Initialize function"></a></span></center>
+<br>
+
+The first step is to initialise the population size and store in the archive. <br>
+Then we get next shape (from the bag) and we apply that shape to the grid  (stick it in the grid). The get state will have two clones one will save and one will set to current state. Now we create our randomly generated initial values for these seven weights then we start our game loop. The loop is a nested function and we can allow changes to the speed by clearing interval and set a new interval, so this is only if the speed is changed.
+If speed is zero (if game is stopped), then we instruct - don’t draw anything , now update the game (regardless if we draw or not). Otherwise we will just keep drawing.<br>
+The update function updates the game, including the fitness, the move that the A.I makes then it evaluates the next move .
+Finally we initialise with document unload function, this happens right when DOM loads up for this function. 
+
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <center> <b> PART 2 COMING IN 24 HOURS</b></center>
 
 
