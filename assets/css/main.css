@@ -2440,6 +2440,18 @@
 
  }
 
+
+		/* quote */
+
+#quote {
+		padding: 2.5rem 2.5rem 1.5rem 2.5rem ;
+		position: relative;
+		width: 50rem;
+		max-width: 100%;
+		background-color: rgba(27, 31, 34, 0.55);
+		border-radius: 40px;
+		opacity: 100;
+}
 /* CODE STYLE */
 
 pre code {
