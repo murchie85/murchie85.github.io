@@ -69,56 +69,72 @@
 				<div id="blogs">
 					<article id="Blog">
 
-
+<center> <h2> Now is the time- maybe</h2></center>
 <a style = "font-size:110%;color:silver" href = " "> <i> Skip Intro</i></a>. <br><br>
 
 <p>
-Right now in 2017 its fair to say machine learning A.I. is arguable the hottest topic in the world of technology and computing. Some of the biggest companies to the most innovative start ups are investing heavily in A.I and already are seeing the benefits, take this typical example - google have been able to reduce the amount of energy their data centres consume by enabling deep mind A.I (Neural Nets), to manage power flow - by being predictive rather than reactive to demand.
+Right now in 2017 its fair to say machine learning A.I. is arguable the hottest topic in the world of technology and computing. Some of the biggest companies to the most innovative start ups are investing heavily in A.I and already are seeing the benefits, take this typical example - google have been able to reduce the amount of energy their data centres consume (about 40% reduction) by enabling deep mind A.I Neural Nets, to manage power flow - by being predictive rather than reactive to demand.
 </p>
 
-<center> <span class="image main"><img src="images/dnc/pue.jpg" alt="Google Power Flow Chart using DNC as control" /></span></center>	<br>
 
 <p>
-To be clear these new A.I can do more than manage power.. A LOT MORE. Unlike previous tailored algorithms, new breed A.I. are not limited to niche tasks, adoption is rapidly spreading in manufacturing, medicine, research, finance and banking. Even if technological progress was to run to a complete halt today, the current machine learning A.Is that are being to roll out, will have seismic effects around the globe and prove disruptive in all fields - and that is putting it lightly. <br>
- Andrew Ng, professor at Stanford University and chief scientist at Baidu Research has said “A.I is the new electricity”, but to dial back the hype (a little) consider the following. <p>
+To be clear these new A.I can do more than manage power.. A LOT MORE. Unlike previous tailored algorithms, new breed A.I. are not limited to niche tasks, adoption is rapidly spreading in manufacturing, medicine, research, finance and banking. Even if technological progress was to run to a complete halt today, A.I is still in the embryonic stages of rolling out to the mainstream, when it does it will have seismic effects around the globe and prove disruptive in all fields - and that is putting it lightly.  <br><br>
+<center> <span class="image main"><img src="images/dnc/pue.jpg" alt="Google Power Flow Chart using DNC as control" /></span><br>
+			<i> Snapshot of google's datacenter power output when AI management is switched on and off</i></center>
+	<br>
+ Andrew Ng, professor at Stanford University and chief scientist at Baidu Research has said “A.I is the new electricity”.  Since we are on the hype train, lets take a moment to consider the following. <p>
 
-<quote>
-“Around 15 years ago there were vast lasting viral marketing campaign targeted  companies to 'get online' - this represented the transformation of internet adoption. History will repeat this with A.I. & neural networks and will occur within 10 years”
-</quote>
-<br>
+<div id="quote"><center>
+<i style = "font-size:120%;color:white;">
+“Around 15 years ago massive viral marketing campaigns around the world targeted  companies to 'get online’. This was a big sign it was really happening and represented the transformation of internet adoption. This where we are with A.I right now”
+</i>
+</center>
+<br> <br>
+</div>
+
 <p>
-Neural Networks represent the most recent block added to the A.I pyramid, and are responsible for driving both the renewed  almost psychotic like hype in A.I as well as solving problems that have either eluded specialists for decades or were considered impossible. 
+Neural Networks represent the most recent block added to the A.I pyramid, and are responsible for driving both the renewed and almost psychotic like hype in A.I as well as solving problems that have either eluded specialists for decades or were just considered impossible. 
 <br>
  Yet whilst Neural Networks (NNs) are arguably the pinnacle of A.I. progress, they are only good at learning and mastering a certain field. Such as self driving cars, chat bots and predicting the weather. We are still a long way away from Artificial General Intelligence (AGI) - that is being able to apply learning gained in one subject to another completely different subject. If a computer is able to learn how to talk to a human like Siri, drive a car independently and then use these learnings to say teach someone verbally how to drive a car - this would represent the holy grail in machine learning.
  </p>
 
 
- 								<center> <b> Enter the Differentiable Neural Computer.... </b></center><br> <br>
+ 							<i> Enter the Differentiable Neural Computer.... </i><br> <br>
 
 
-								<center>	<h2>Moving towards A General Purpose A.I</h2> </center>
+								<center>	<h2>Chapter 2 <br> Moving towards A General Purpose A.I</h2> </center>
 
 <br><br>
-<p>The Differentiable Neural Computer model came from deep mind a few months ago, and is the successor to the Turing machine. This is a relatively complex model but fear not, I will do my best to break it down into digestible parts.  The  core problem faced by the deep learning team is how to create a more general purpose learning machine - and this is the pretext for building this model.  </p>
-<article id="quote"><center>
-<b style = "font-size:220%;color:silver; color:orange">“This DNC is working towards meta learning in other words, learning to learn - the edge of deep learning”
-</b>
-<i>Siraj Raval</i></center>
-<br> <br>
-</article>
+<p>The Differentiable Neural Computer model came from deep mind a few months ago, and is the successor to the Turing machine. This is a relatively complex model but fear not, I will do my best to break it down into digestible parts.  The  core problem faced by the deep learning team is how to create a more general purpose learning machine - and that is the pretext for building this model.  </p>
 
-The problem with neural networks are that they are made to focus on a single task or whatever you train it on. You can’t use the same neural network that learned to recognise music to learn to navigate say the London Undeground. 
+ 	<center> <span class="image main"><img src="images/dnc/dnc.jpg" alt="" /></span><i> The far left represents a standard neural network, from the heads column moving to the right - represents the external memory which is the key difference from other neural Network architectures.</i></center><br><br>
+
+
+The problem with neural networks are that they are made to focus on a single task or whatever you train it on. You can’t use the same neural network that learned to recognise music to learn to navigate say the London Underground. <br>
+
 The DNN is a neural network with an external memory store, so it has two parts - the controller which is normal NN , like a feed forward net or a recurrent net or anyone you want. Then you have the memory bank, which is an external matrix, the controller interacts with the memory bank using heads which is read write operations. Takes an input, propagates it through the network, and simultaneously writes to the matrix to both write what it learned and read from the past time steps to look for useful info to help it with its prediction.
 </p>
 
 
+<div id="quote"><center>
+<b style = "font-size:220%;color:orange">“This DNC is working towards meta learning in other words, learning to learn - the edge of deep learning”
+</b>
+<i>Siraj Raval</i></center>
+<br> <br>
+</div>
+
+But what Deep mind did was apply it to the London Underground.  The first thing they did was generate lots of random graphs. Subway systems are all graphs, they have nodes and are all connected, so they gave it a bunch of graphs with handcrafted inputs including labels - so its a supervised learning problem. The labels would be different paths from point A to B. After they trained it on randomly generated graphs, then they applied it to the actual London Underground. If you said point a to b, it would find the optimal path. You could do this already with a recurrent network a LSTM network.
+
+</p>
+<p>
+	<center><i>What was really cool then?</center></i>
+
+	Then they added a question answering system, natural language was added. Not only did they train it on the London Underground path, they added natural language. They trained it first on randomly generated graphs then on a text database which was a question answer database. Then associated both, so then you could ask it “hey what’s the best way to get from point A to B , because it had this external memory story which had the previous learning graphs it was able to apply those. <br>It learned to optimise for one data set, then another and associate the two. This was a text database, it learned to associate questions with answers, then associate that to the london underground map. This is because it had the external memory store which allowed it to apply the map problem to the spoken questions.
+
+</p>
 
 
-
-
-
-
- 	<center> <span class="image main"><img src="images/dnc/dnc.jpg" alt="" /></span></center>	
+	
  	
 
  	<center> <span class="image main"><img src="images/dnc/3.jpg" alt="" /></span></center>	
@@ -189,7 +205,7 @@ Tweet</a></div>
 			</div>
 
 		<!-- **************************background picture goes here *********************************************** -->
-			<div id="bg6"></div>
+			<div id="bg10"></div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
