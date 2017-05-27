@@ -16,9 +16,13 @@
     <meta prefix="og: http://ogp.me/ns#" property="og:description" content="This blog takes a look at genetic algorithms by use of example - A customisable genetic algorythm that applies evolutional learning by playing Tetris. ">
     <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+
 	</head>
+
 	<body>
 
 		<!-- Facebook Like Code -->
@@ -70,7 +74,7 @@
 					<article id="Blog">
 
 							<center><span class="image med"><img src="EvoTetris/mario.gif" alt="Deep Learning Mario"></span></center>
-<center> <i> Mario being played by a Neural Network</i></center>
+										<center> <i> Mario being played by a Neural Network</i></center>
 
 <a style = "font-size:110%;color:silver" href = "#start"> <i> Skip Intro</i></a>.<br><br>
 
@@ -87,7 +91,7 @@ About 30 years ago, ENNs or Genetic Neural Networks came onto the scene. For 25 
 
 
 
-							<center><img src="EvoTetris/tetrisg.gif" alt="Tetris"></center><br>
+							<center><span class="image med"><img src="EvoTetris/tetrisg.gif" alt="Tetris"></span></center><br>
 
 <p>
 In this hybrid blog/tutorial we are going to walk through all the key features of ENNs by looking at code (provided<a style = "color:silver;" href = "https://github.com/murchie85/murchie85.github.io/tree/master/EvoTetris"> here</a>.) that has been popular amongst A.I machine learning scientists. It is a genetic algorithm embedded with a javascript Tetris game, and applies an evolutional (survival of the fittest) approach to playing the game. By allowing nature to take its course over hundreds of generations (game session),  complexity arises and the A.I starts to make increasingly efficient selections. 
@@ -135,8 +139,98 @@ So instead of that we evolve the weights (genomes) by selection and mutation (in
 Conventional neural networks that use gradient decent (backwards propagation) doesn’t always converge to the global minima, it converges to the local minima. If we consider the optimisation options as a bendy curve, conventional methods will find the local minima instead of the global minima (so not the actual lowest point i.e. the best cost). This is where NeuroEvolution can be beat by evolutionary algorithms.</p>
 <p>
 They are also able to discover and work on entire neural networks, instead of hyper parameters (previous network state). If we consider a neural network zoo (a bunch of networks), one used for binary data another scalar data  and so so that we may have 10 or more different choices, this can present a huge problem figuring out which NN to apply and when. What if we could learn what NNs would be optimal for a certain use case, THIS is where genetic algorithms are most appropriate because standard backward propagation NNs are not configurable for this. Evolutionary algorithms can optimise for the entire type. <p/>
+<p> <b> <i> So..........</i> </b> </p>
 
 
+
+												<center> <h2> back to tetris </center> </h2>
+
+<br><br>
+
+			<center><span class="image med"><a href = "EvoTetris/tet.jpg"> <img src="EvoTetris/tet.jpg" alt="Tetris played by ENN"></a></span></center>
+										<center> <i> This is what the final produce looksl like, not the generation number on the right</i></center>
+<br> <br>	
+<p> In the context of a tetris AI
+<ol><b>
+<li>We initialize a population of 50 genomes.</li>
+<li>Each genome is a set of 7 parameter values of the game state.</li>
+<li>Our AI makes moves based on these parameters values.</li>
+<li>It tries out all possible moves based on each genomes in the current population to make a single move.</li>
+<li>once we've gone through all genomes in the population we create a new set via the crossover approach.</li></b>
+</ol>
+<p>
+The goal is to get a score of at least 500. we keep evolving until then.<br>
+A genome is these set of weight values which improve over times. The  agent makes decisions based on these genome values
+
+<br>
+
+<h3> score calculations</h3>
+<ol>
+<li>Each time the block moves down the score is incremented by one </li>
+<li>When a row is cleared the score is increased depending on how many rows cleared at once	</li>
+
+</ol>	
+
+<br>
+
+<h3> Function Order For after setting global parameters </h3>
+<ol>
+<li> createinitialpopulation </li>
+<li> evaluatenextgenome (SELECTION)</li>
+<li> evolve (CROSSOVER)</li>
+<li> makechild (MUTATION)</li>
+<li> makenextmove</li>
+<li> getAllPossibleMoves</li>
+<li> gethighestratedmove</li>
+<li> update</li>
+
+</ol>	
+
+</p>
+
+
+<p>
+							<center> <h2> building the game </h2> </center>
+First define an array as shown below. <br>
+
+			<center><span class="image smaller"><a href = "EvoTetris/1.jpg"> <img src="EvoTetris/1.jpg" alt="Tetris played by ENN"></a></span></center>
+										<center> <i> a 10 by 20 nested array grid</i></center><br> 
+Now we define the block shapes as neatest arrays with coordinates
+
+
+			<center><span class="image smaller"><a href = "EvoTetris/2.jpg"> <img src="EvoTetris/2.jpg" alt="Tetris played by ENN"></a></span></center>
+Now we define block colours which are just hex values
+
+		<center><span class="image smaller"><a href = "EvoTetris/3.jpg"> <img src="EvoTetris/3.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+We want to seed our code so its reproducible so it is deterministic, this means we will have a lot of randomness. So whenever we compile the game over and over again we will start from same point and our random values will be the same every time (this is good for  debugging)
+
+
+		<center><span class="image med"><a href = "EvoTetris/18.jpg"> <img src="EvoTetris/18.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+Lets start writing code for our block shapes. We want to keep track of current block we are on, for the x value and y value we want zero, and we want to change over time. the shape in this case is undefined (that is our I,J,L etc).<br>
+<br>
+		<center><span class="image small"><a href = "EvoTetris/5.jpg"> <img src="EvoTetris/5.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+Then we want our upcoming shape and we want to store them in a bag var. Then we define an index, to show where we are in the bag, what block are we using .
+	</p>
+
+<p>
+
+Now we want our upcoming shape and we want to store them in a bag var. Then we define an index, to show where we are in the bag, what block are we using .
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/4.jpg"> <img src="EvoTetris/4.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+We can change speed, and a boolean to say if we want to even change the speed or not.Then we want to save the state of the game, the state is going to be used as a way to save it and reload it later. It is like model checkpoints in tensor flow. 
+We have an index in a speed value array for four speed values. <br>
+
+We have a value to set A.I on or off. A draw value to draw the game and a function to update the algorithm.Moves take and a limitation (more than 500 moves will go over the ceiling) Keeping it here will allow our machine to optimise for the score, so a point each move.MoveAlgorithm are our seven parameters. Inspect move selection is a boolean for inspecting which moves we will play next.
+
+<center> <b> PART 2 COMING IN 24 HOURS</b></center>
+
+
+</p>
 <div>
 <a class="twitter-share-button"
   href="https://twitter.com/intent/tweet?text=Understanding%20a Genetic Neural Networks">
@@ -147,7 +241,7 @@ Tweet</a></div>
 
 <br><strong> Adam McMurchie  26/May/2017 </strong>
 <br><br>
-<center> <b> PART 2 COMING IN 24 HOURS</b></center>
+
 
 		<!-- **************************footer picture goes here *********************************************** -->
 
