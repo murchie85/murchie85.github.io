@@ -9,7 +9,7 @@
  	<title>Evotetris</title>
     <meta property="og:url"       content="https://murchie85.github.io/evotetris.html" />
     <meta property="og:type"          content="website" />
-    <meta property="og:title" content="Understanding Genetic Algorithms" />
+    <meta property="og:title" content="Understanding Genetic Neural Networks" />
     <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
     <meta itemprop="image" content="images/blog/tetris.jpg" />
     <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/blog/tetris.jpg">
@@ -60,7 +60,7 @@
 					<header id="header">
 						<div class="content">
 							<div class="inner">
-								<a href="index.html"><h1>Understanding Genetic Algorithms</h1></a>
+								<a href="index.html"><h1>Understanding Genetic Neural Netorks</h1></a>
 							</div>
 						</div>
 					</header>
@@ -69,103 +69,67 @@
 				<div id="blogs">
 					<article id="Blog">
 
+							<center><img src="EvoTetris/mario.gif" alt="Deep Learning Mario"></center>
+<center> <i> Mario being played by a Neural Network</i></center>
 
-<a style = "font-size:110%;color:silver" href = " "> <i> Skip Intro</i></a>. <br><br>
+<a style = "font-size:110%;color:silver" href = "#start"> <i> Skip Intro</i></a>.<br><br>
 
-<p>
-About 30 years ago, a type of new type of A.I called Evolutional Neural Network or Genetic Neural Networks came onto the scene. For 25 years it hadn’t made much of an impact and there was little to no real utility in the mainstream. However in the recent 4/5 years with the increase of computational power and the introduction of easier coding practices genetic NNs have risen from the flames and begun to see huge adoption in startups, big corporations to your curious scientists looking to find optimal solutions to complex problems. 
+<p> There is so much happening in the world of AI right now, that even an experienced software engineer would still need about 6-8 months training to get up to speed.  No doubt of heard of the terms Neural Networks and machine learning or LTSMs, SVMs, recurrent & feedforward networks if you are a bit more involved. 
+That said, almost all neural networks today (which are a sub set of machine learning systems modelled on the brain) ultimately rely on the same core principles. That is they are directed somehow to achieve a desired outcome, be it feed forward with hidden layers or recursive error corrective approaches. 
 </p>
 
-							<center><img src="EvoTetris/mario.gif" alt="Deep Learning Mario"></center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<center> <span class="image main"><img src="images/dnc/pue.jpg" alt="Google Power Flow Chart using DNC as control" /></span></center>	<br>
 
 <p>
-To be clear these new A.I can do more than manage power.. A LOT MORE. Unlike previous tailored algorithms, new breed A.I. are not limited to niche tasks, adoption is rapidly spreading in manufacturing, medicine, research, finance and banking. Even if technological progress was to run to a complete halt today, the current machine learning A.Is that are being to roll out, will have seismic effects around the globe and prove disruptive in all fields - and that is putting it lightly. <br>
- Andrew Ng, professor at Stanford University and chief scientist at Baidu Research has said “A.I is the new electricity”, but to dial back the hype (a little) consider the following. <p>
+As ‘exciting’ as that sounds, in this blog we will discuss a different one which is the dark horse of the pack - The Evolutional Neural Network. 
+As suggested in the name, Evolutional Neural Networks (ENNs) follow a process of natural selection and are subject to a degree of randomness as well as other features that we see in nature. 
+About 30 years ago, ENNs or Genetic Neural Networks came onto the scene. For 25 years it hadn’t made much of an impact and there was little to no real utility in the mainstream. However just recently about 4 or 5 years ago with the increase of computational power and the introduction of neural network libraries like tenor flow - genetic NNs have risen from the flames.  Now we are  seeing widespread adoption of ENNs in startups, big corporations and research where scientists are looking for new ways to find optimal solutions to complex problems. 
+</p>
 
-<quote>
-“Around 15 years ago there were vast lasting viral marketing campaign targeted  companies to 'get online' - this represented the transformation of internet adoption. History will repeat this with A.I. & neural networks and will occur within 10 years”
-</quote>
-<br>
 <p>
-Neural Networks represent the most recent block added to the A.I pyramid, and are responsible for driving both the renewed  almost psychotic like hype in A.I as well as solving problems that have either eluded specialists for decades or were considered impossible. 
-<br>
- Yet whilst Neural Networks (NNs) are arguably the pinnacle of A.I. progress, they are only good at learning and mastering a certain field. Such as self driving cars, chat bots and predicting the weather. We are still a long way away from Artificial General Intelligence (AGI) - that is being able to apply learning gained in one subject to another completely different subject. If a computer is able to learn how to talk to a human like Siri, drive a car independently and then use these learnings to say teach someone verbally how to drive a car - this would represent the holy grail in machine learning.
- </p>
+In this hybrid blog/tutorial we are going to walk through all the key features of ENNs by looking at code (provided here) that has been popular amongst A.I machine learning scientists. It is a genetic algorithm embedded with a javascript Tetris game, and applies an evolutional (survival of the fittest) approach to playing the game. By allowing nature to take its course over hundreds of generations (game session),  complexity arises and the A.I starts to make increasingly efficient selections. 
+ The code in total is 1000 lines of javascript, which I will provide (including links to the original author of the code) and we will be coding the first100 lines This constitutes the highest level approach, the initialisation function all the helper methods. We will see exactly what the high level architecture is then we will talk about the helper functions. But ultimately will cover all 1000 lines of code.
+</p>
+												<center><div id="start"> <h2> HOW EVOLUTIONAL MODELS WORK </h2> </div></center> 
+
+<p>
+
+The terms evolutionary and genetic are used interchangeably, e.g. a genetic algorithm - they are the same thing. There are three parts to a evolutionary/genetic algorithm<br><br>
+
+<b> 1 - Selection</b> <br><br>
+We create a population of genomes (sometimes called chromosomes) they can be anything, but ultimately they are some kind of entity you want to improve over time. 
+Say for example you want to create a 3D simulation and we wanted to create a bipedal robot, we would have a bunch of spiders or quadrupeds. They would be our genomes, they would then breed and the idea is each genome has multiple genes (parameters) then we use a fitness function to select what the best ones are. We can decide what these fitness functions are, such as who can walk past 2 meters - congratulations you get to breed. Essentially we SELECT who is fit to breed. <br><br>
+<b>2 - Crossover</b><br><br>
+Now we come to the reproduction (the fittest ones get to make babies here) reproduction can mean many things. In this case we have some sort of merging combination that is analogous to reproduction so for example we may take two spiders that are fittest, we find a way to convert their stats to a scalar, multiply together and then we get some output scalar. Now we revert it back to a 3D spider. This is entirely application dependent.  So they will create offspring.<br><br>
+
+<b>3 - mutation </b><br><br>
+Now after the fittest have bred, we randomly edit the genes, or parameters in some way so we hope to create beneficial features in the future.  This could be simply multiplying the scaler by a random number.
+The resulting flow looks like this. 
 
 
- 								<center> <b> Enter the Differentiable Neural Computer.... </b></center><br> <br>
+<br><br>
+		
 
-
-								<center>	<h2 style = "color:silver;">Moving towards A General Purpose A.I</h2> </center>
-
-
-<p>The Differentiable Neural Computer model came from deep mind a few months ago, and is the successor to the Turing machine. This is a relatively complex model but fear not, I will do my best to break it down into digestible parts.  The  core problem faced by the deep learning team is how to create a more general purpose learning machine - and this is the pretext for building this model.  </p>
-
-<b style = "font-size:220%;color:silver;">This DNC is working towards meta learning in other words, learning to learn - the edge of deep learning</b>
-<i>Siraj Raval</i>
-
- 	<center> <span class="image main"><img src="images/dnc/dnc.jpg" alt="" /></span></center>	
+ 							<center> <span class="image smaller"><img src="EvoTetris/nn.jpg" alt="Neural Network Flow" /></span></center>	
  	
 
- 	<center> <span class="image main"><img src="images/dnc/3.jpg" alt="" /></span></center>	
- 	<center> <span class="image main"><img src="images/dnc/4.jpg" alt="" /></span></center>	
 
- 	<center> <span class="image main"><img src="images/dnc/5.jpg" alt="" /></span></center>														
 
- 	<center> <span class="image main"><img src="images/dnc/6.jpg" alt="" /></span></center>	
+ </p>
+<p>
+The idea is to replicated Darwinian evolution, and just like in DE we have a population, they breed and only the fittest survives. The fittest then get to mate, and their offspring will have their genes (forcibly) mutated so that there is an element of change which can hopefully result in positive features over time in the environment.
+So in a nutshell we initialise a population, then perform a selection and we breed them finally we apply a mutation.</p>
 
- 	<center> <span class="image main"><img src="images/dnc/7.jpg" alt="" /></span></center>	
-
-	<center> <span class="image smaller"><img src="images/blog/dnc.jpg" alt="" /></span></center>
+												<center> <h2> THE GOOD THE BAD AND THE DARWIN AWARD </center> </h2>
 
 
 
-
-
-
-
-	<a style = "color:silver;" href = " "> here</a>. 
-
-
-
- 									<center>	<h2>Installing the required Software</h2> </center>
-
-						
-																<h3>Composer</h3>
-
-											<center><code>$ mv composer.phar /usr/local/bin/composer</code></center> <br>
-N
-	<pre><code> 
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule . index.php [L]
-	</pre></code>
-
-
-
+<p>So why don’t we use this more often? First lets understand how normal neural networks work. A conventional neural net will use a process known as backwards propagation to error correct.We take some input data then we propagate it through each layer, then we have an output value and compare with expected value (the difference between the two) - this is our error value and we use that to calculate the partial derivative with respect to each layer going backwards and then multiply by our weights to update our network.</p>
+<p>
+So instead of that we evolve the weights (genomes) by selection and mutation (instead of using the derivative approach). At present backwards propagation is still the best approach,  but evolutionary algorithms are promising and they have been around since the 80s. For example open A.I have released a paper on evolution strategies as a scalable alternative to reinforcement learning. Another good use case is neuro-evolution used in games, it is a neural network optimised for a certain objective and it doesn’t stop there. </p>
+<p>
+Conventional neural networks that use gradient decent (backwards propagatio) sometimes doesn’t always converge to the global minima, it converges to the local minima. If we consider the optimisation options as a bendy curve, conventional methods will find the local minima instead of the global minima (so not the actual lowest point i.e. the best cost). This is where NeuroEvolution can be beat by evolutionary algorithms.</p>
+<p>
+They are also able to discover and work on entire neural networks, instead of hyper parameters (previous network state). If we consider a neural network zoo (a bunch of networks), one used for binary data another scalar data  and so so that we may have 10 or more different choices, this can present a huge problem figuring out which NN to apply and when. What if we could learn what NNs would be optimal for a certain use case, THIS is where genetic algorithms are most appropriate because standard backward propagation NNs are not configurable for this. Evolutionary algorithms can optimise for the entire type. <p/>
 
 
 <div>
@@ -173,8 +137,9 @@ RewriteRule . index.php [L]
   href="https://twitter.com/intent/tweet?text=Building%20a Rest Service">
 Tweet</a></div>
 
-<br><strong> Adam McMurchie  23/May/2017 </strong>
+<br><strong> Adam McMurchie  26/May/2017 </strong>
 <br><br>
+<center> <b> PART 2 COMING IN 24 HOURS</b></center>
 
 
 
