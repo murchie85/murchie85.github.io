@@ -78,31 +78,92 @@
 
 <a style = "font-size:110%;color:silver" href = "#start"> <i> Skip Intro</i></a>.<br><br>
 
-<p> There is so much happening in the world of AI right now, that even an experienced software engineer would still need about 6-8 months training to get up to speed.  No doubt of heard of the terms Neural Networks and machine learning or LTSMs, SVMs, recurrent & feedforward networks if you are a bit more involved. 
-That said, almost all neural networks today (which are a sub set of machine learning systems modelled on the brain) ultimately rely on the same core principles. That is they are directed somehow to achieve a desired outcome, be it feed forward with hidden layers or recursive error corrective approaches. 
+<p>  This tutorial walks through how to use vagrant a sophisticated virtualisation tool to spin up virtual servers and environments, as well as roll out pre-fabricated operating systems. Additionally we will manipulate our virtual IP addresses and add a domain name (for free) to make the environment as much like production as we can. This of course is just the first steps towards proper configuration, but at least gives a primer on how to quickly and efficiently spin up virtual servers. 
 </p>
 
 
 <p>
-As <i>‘exciting’</i> as that sounds, in this blog we will discuss a different one which is the dark horse of the pack - The Evolutional Neural Network. 
-As suggested in the name, Evolutional Neural Networks <b>(ENNs)</b> follow a process of natural selection and are subject to a degree of randomness as well as other features that we see in nature. 
-About 30 years ago, ENNs or Genetic Neural Networks came onto the scene. For 25 years it hadn’t made much of an impact and there was little to no real utility in the mainstream. However just recently about 4 or 5 years ago with the increase of computational power and the introduction of neural network libraries like tenor flow - genetic NNs have risen from the flames.  Now we are  seeing widespread adoption of ENNs in startups, big corporations and research where scientists are looking for new ways to find optimal solutions to complex problems. 
+Note that you will need a linux operating system in order to follow along, if you have a Mac then that should be fine.
 </p>
 
 
+									<center><div id="start"> <h2> Getting Started</h2> </div></center> 
 
-							<center><span class="image med"><img src="EvoTetris/tetrisg.gif" alt="Tetris"></span></center><br>
 
-<p>
-In this hybrid blog/tutorial we are going to walk through all the key features of ENNs by looking at code (provided<a style = "color:silver;" href = "https://github.com/murchie85/murchie85.github.io/tree/master/EvoTetris"> here</a>.) that has been popular amongst A.I machine learning scientists. It is a genetic algorithm embedded with a javascript Tetris game, and applies an evolutional (survival of the fittest) approach to playing the game. By allowing nature to take its course over hundreds of generations (game session),  complexity arises and the A.I starts to make increasingly efficient selections. 
- The code in total is 1000 lines of javascript, which I will provide (including links to the original author of the code) and we will be coding the first100 lines This constitutes the highest level approach, the initialisation function all the helper methods. We will see exactly what the high level architecture is then we will talk about the helper functions. But ultimately will cover all 1000 lines of code.
-</p>
-												<center><div id="start"> <h2> HOW EVOLUTIONAL MODELS WORK </h2> </div></center> 
+<p>First think that is required is to download and install both <a style = "color:silver;" href = "https://www.virtualbox.org/wiki/Downloads"> Virtual Box</a> and <a style = "color:silver;" href = "https://www.vagrantup.com"> vagrant</a>, these can be found on their respective websites that I have linked in this sentence. In a nutshell, virtual box allows your operating system to spin up virtual servers, and vagrant allows a more simplified command line interface with lightweight available servers pre configured to use.  </p>
+
+
+<p> Once the applications are installed, try running the following command to ensure vagrant is working. </p>
+
+							<center><span class="image med"><img src="images/vagrant/1.jpg" alt="Vagrant"></span></center>
+
+<p>Go to Vagrant cloud.com to look at some popular boxes to install in our system </p>
+
+							<center><span class="image med"><img src="images/vagrant/2.jpg" alt="vagrant sit"></span></center><br>
+
+<p>In a moment we will want to download the Precise 32 bit since it only takes about 300mb of ram to run, the other requires 5/600. If you have about 4 gig ram, then select 32 bit because you can spin up more parallel instances.</p>
+
+							<center><span class="image med"><img src="images/vagrant/3.jpg" alt="Server Instances"></span></center> <br>
+
+<p>We will not download via the website however, we will do all of our work on the terminal command line. First enter the command shown below, ignoring my name before the dollar sign. Note many of the commands I show can not be copied and pasted, I want you to get used to entering these commands into the terminal to develop your muscle memory - it is an essential part towards becoming a skilled programmer.</p>
+
+							<center><span class="image med"><img src="images/vagrant/4.jpg" alt="hashicorp/precise32"></span></center><br>
+
+<p> The above command will download the vagrant file to the directory that you are currently in, but it will not install the image. To do so enter the following command.</p>
+
+							<center><span class="image med"><img src="images/vagrant/5.jpg" alt="initialize"></span></center><br>
+
+												<center> <h3> Spinning up a Virtual Server </center> </h3>
+<p> Now it is time to spin up an instance of the server image we downloaded, this will actually create the virtual server allocating memory dynamically to the virtual server. Enter the following command to make that happen:</p>
+
+							<center><span class="image smaller"><img src="images/vagrant/6.jpg" alt="vagrant up "></span></center>
+
+<p> Now the box has been succesfully spun up, and will be running constantly on your computers ram, you should see the following output. </p>
+
+							<center><span class="image med"><img src="images/vagrant/7.jpg" alt="vagrant success"></span></center><br>
+
+												<center> <h3> Connecting to your Virtual Server</center> </h3>
+<p> It is time to connect to your virtual server, to do this we want to use the SSH method. When creating the vagrant instance a key pair was generated in order for your local instance to talk to the virtual server. In real work envirionments, these keys will need to be managed and should not be handed out to anyone. Enter the following commands to connect via ssh</P>
+
+							<center><span class="image med"><img src="images/vagrant/8.jpg" alt="ssh connect"></span></center><br>
+
+<P> You should see the following successful output</p>
+
+							<center><span class="image med"><img src="images/vagrant/9.jpg" alt="success output"></span></center><br>
+
+<p> Now that is us connected to the precise box, (you can tell by looking at the text preceeding the dollar sign on the command line). As far as your computer is concerned, it is actually connecting to a real server on the internet. It does not know the difference</p>
+
+
+									<center><div id="start"> <h2> Installing Software</h2> </div></center> 
+
+<p>Try installing GitHub to see if it works (remember this is installing on the virtual server, not your actual linux local terminal). Press Y to confirm  </p>
+
+							<center><span class="image med"><img src="images/vagrant/10.jpg" alt="install"></span></center><br>
+
+
+
+
+
+							<center><span class="image med"><img src="images/vagrant/11.jpg" alt="install success"></span></center><br>
+							<center><span class="image med"><img src="images/vagrant/12.jpg" alt="Vagrant"></span></center><br>
+							<center><span class="image med"><img src="images/vagrant/13.jpg" alt="Vagrant"></span></center><br>
+							<center><span class="image med"><img src="images/vagrant/14.jpg" alt="Vagrant"></span></center><br>
+							<center><span class="image med"><img src="images/vagrant/15.jpg" alt="Vagrant"></span></center><br>
+							<center><span class="image med"><img src="images/vagrant/16.jpg" alt="Vagrant"></span></center><br>
+
+
+
+
+
+
+
+
+
+
 
 <p>
 
 The terms evolutionary and genetic are used interchangeably, e.g. a genetic algorithm - they are the same thing. There are three parts to a evolutionary/genetic algorithm<br><br>
-
 <b> 1 - Selection</b> <br><br>
 We create a population of genomes (sometimes called chromosomes) they can be anything, but ultimately they are some kind of entity you want to improve over time. 
 Say for example you want to create a 3D simulation and we wanted to create a bipedal robot, we would have a bunch of spiders or quadrupeds. They would be our genomes, they would then breed and the idea is each genome has multiple genes (parameters) then we use a fitness function to select what the best ones are. We can decide what these fitness functions are, such as who can walk past 2 meters - congratulations you get to breed. Essentially we SELECT who is fit to breed. <br><br>
