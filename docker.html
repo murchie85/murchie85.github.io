@@ -100,16 +100,27 @@ Docker is awesome, that’s what it is. In a nutshell, docker helps you get roun
 <p>So “whats a container?” I hear you ask. Containers are a way to package software in a format that can run isolated on a shared operating system. Unlike VMs, containers do not bundle a full operating system - only libraries and settings required to make the software work are needed. This makes for efficient, lightweight, self-contained systems and guarantees that software will always run the same, regardless of where it’s deployed. </p><br>
 
 
+							<center><span class="image med"><img src="images/docker/dockershot.jpg" alt="docker options"></span></center>
+										<center> <i>Docker has a large community of open source and official images</i></center><br>
+
+<p>
+<h3> Docker Engine</h3>
+ The docker engine: 
+<li>Has ability to run containers</li>
+<li>in the background runs on linux virtual machines </li>
+<li>Adopts linux container technology </li>
+<li>Docker container shares resources - efficient </li>
+<li>They look like seperate isolated machines, resources, items etc but actually share resources </li><br><br>
+
+Images are obtained from docker hub, You can get custom made images as well as  official <a style = "color:red;" href = "https://hub.docker.com/ "> ones</a>
+</p>
 
 
 
+										<center> <h2> Docker Tutorial </center> </h2><br><br>
 
 
-
-										<center> <h3> Docker Tutorial </center> </h3><br><br>
-
-
-<p>Right lets get stuck in, first up here are some useful links you can use</p>
+<p>Right lets get stuck in, first up here are some useful links you can use for installation</p>
 
 
 <li> Docker install options <a style = "color:silver;" href = "https://docs.docker.com/engine/installation/#time-based-release-schedule"> here</a></li>
@@ -124,40 +135,21 @@ Docker is awesome, that’s what it is. In a nutshell, docker helps you get roun
 
 
 
-<p>First off lets rename file to netwire.js because that is the name of the malware that it drops. You will want to view this in a good code editor, sublime may crash when you try to save as a .js file or change the syntax to js. I recommend Atom for those with a slower computer. 
-First lets have an eyeball of the code and you will notice right off the bat a big long variable being defined. </p>
-
-							<center><span class="image med"><img src="images/virus/1.jpg" alt="viruscode"></span></center><br>
-
-
-<p>This variable has over 10,000 characters  of code, and is a fair to say it likely has the contents of the malicious binary encoded into it and will have some kind of decoding routine going on at run time to drop the executables to disk.
-</p>
 
 
 
 
+<pre>
+<code>$ docker --version
+<red>Docker version 17.03.0-ce, build 60ccb22</red>
+$ docker-compose --version
+<red>docker-compose version 1.11.2, build dfed245</red>
+$ docker-machine --version
+<red>docker-machine version 0.10.0, build 76ed2a6</red></code></pre>
 
-			
-
-												<center> <h2> Spotting the Deploy Function</center> </h2>
 
 
-<p>Our job is to decipher the code to find out whats going on. If we look at the code below the variable we notice the following.
-</p>
 
-
-							<center><span class="image med"><img src="images/virus/2.jpg" alt="trycatch"></span></center><br>
-
-<p>
-This is essentially trying to create an exception that it will catch, and then invoking the following function below it. The catch may be another way of throwing anti-virus software off the scent, as it only executes the function if the main criteria is not fulfilled. 
-</p>
-
-							<center><span class="image med"><img src="images/virus/3.jpg" alt="alphabet"></span></center><br>
-
-<p>It has some variables being defined, and what looks like an alphabet. If you know your ASCII then you will know that 65 = A 66 = B 67 = C etc, so we have an alphabet being declared in an array.
-
-The next line is converting the array into a string. We can validate our assumption by cutting the following code snippet:
-</p>
 
 
 <pre><code>var uvqwdfyuwtrzln = [65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,48,49,50,51,52,53,54,55,56,57,43,47,61];
