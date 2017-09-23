@@ -86,7 +86,7 @@ Tweet</a></div>
 
 
 <p>
-Docker is <b>awesome</b>, that’s what it is. In a nutshell, docker helps you get round the problem of ‘well it worked on my machine’ routine. In a nutshell it does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from simple images, so a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
+Docker is <b>awesome</b>, that’s what it is.<br> In a nutshell, docker helps you get round the problem of ‘well it worked on my machine’ routine. In a nutshell it does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from simple images, so a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
 </p>
 
 							<center><span class="image smaller"><img src="images/docker/docker2.jpg" alt="docker"></span></center>
@@ -134,7 +134,7 @@ Docker is <b>awesome</b>, that’s what it is. In a nutshell, docker helps you g
 $ docker run hello-world 
 <green>downloads and runs standard hello world docker application </green>
 </code></pre>	
-Once you have installed and are happy that the service is up and running open terminal or command line and run the above commands.
+Once you have installed docker, and are happy that the service is up and running create your own directory lets call it docker-tutorial and then open terminal or command line and run the above commands. 
 Now its time to navigate to the official Docker site to look for some pre designed images we can use to spin up containers. First go <a style = "color:gold;" href = "https://hub.docker.com/ "> here</a>. Then in the top left corner you see a search bar, you can search for the application/lib/config combo you wish to use - note you don't actually download it here as you can do that from terminal<br><br>
 
 
@@ -196,7 +196,7 @@ As mentioned above we enter the same run script specifying ports etc, but this t
 <code>$ docker run --name my-nginx -d -p 80:80 nginx:1.10.1-alpine
 <green>Runs in background</green></code></pre><br><br>
 
-You might want to verify this by running the <code> docker ps </code> command and going to localhost on your browser. 
+You might want to verify this by running the <code> docker ps </code> command and going to localhost on your browser.<br> <br><p><br><br> </p>
 
 											<center> <h2> important information</h2></center> 
 <li>Do not put information into containers </li>
@@ -218,30 +218,49 @@ $ ls -al
 $ whoami
 <green>prints user </green></code></pre><br><br> 
 
-Now lets go and look at the nginx configuration file, take a note and copy this into sublime or any other text editor. 
+Now lets go and look at the nginx configuration file, take a note and copy this into sublime or any other text editor. <br><br>
 
 <pre>
 <code>$ -v /host/path/nginx.conf
 <green>mounts the volume</green>
 $ cat /etc/nginx/nginx.conf 
 <green>prints to screen the contents of nginx.conf</green>
+$exit 
+<green> exits the docker application</green></code></pre><br><br>
 
+ Now its time to stop and remove the container as we are going to create a new instance with a configuration file, in which we will make a minor change to show that we can pass parameters in via a mounted volume.<br><br>
 
+<pre>
+<code>$ docker stop my-nginx 
+<green>Stops the application</green>
+$ docker rm my-nginx 
+<green>removes the container named my-nginx</green></code></pre><br><br>
 
-</code></pre>
+Now its time to open up nginx.conf in sublime, within our directory. Just CD to docker-tutorials and run sublime nginx.conf. Now lets paste our output that we had copied from inside the previous docker container. Look for the commented section that says gzip on; and uncomment this. Now apply the  following command to run a new docker container except passing in your configuration. <br><br>
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 -v /Users/adammcmurchie/docker-tutorial/docker/nginx.conf:/etc/nginx/nginx.conf:ro nginx:1.10.1-alpine
+<green>You will need to amend the path to point to your nginx.conf but keep in the :ro that follows</green></code></pre><br><br>
 
+Now lets go to localhost in the browser, if you use google chrome open up developers tools, then click on network and click local. Refresh and you should notice that the content-encoding will now say gzip. You may need to clear the cash in google if it doesn't update automatically. <br><br>
+
+<h2> adding a webstite</h2>
+
+Lets make it more interesting and add a website so that we can navigate to when the application and thus the nginx server is running. First clear down your existing nginx docker containers. <br><br>
 
 
 <pre>
-<code>$ docker --version
-<red>Docker version 17.03.0-ce, build 60ccb22</red>
-$ docker-compose --version
-<red>docker-compose version 1.11.2, build dfed245</red>
-$ docker-machine --version
-<red>docker-machine version 0.10.0, build 76ed2a6</red></code></pre>
+<code>$ docker stop my-nginx 
+<green>Stops the application</green>
+$ docker rm my-nginx 
+<green>removes the container named my-nginx</green></code></pre><br><br>
 
+Now in your directory (which we called docker-tutorials) on the same level make a source folder (mkdir source) and in that folder add a webpage index file (touch index.html). Now in that file add some basic text you can surround it in tags if you like such as bold, header and so on. Save the file and note the directory from terminal by running pwd (present working directory). <br><br>
 
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 -v /Users/adammcmurchie/docker-tutorial/docker/nginx.conf:/etc/nginx/nginx.conf:ro -v /Users/adammcmurchie/docker-tutorial/docker/src:/usr/share/nginx/html:ro nginx:1.10.1-alpine
+<green>Again change the paths to match your instance, the first is to your docker configuration and the second is to the src folder</green></code></pre><br><br>
 
+GREAT! Now you are done, if you go to the localhost in the browser page you can see your text in your virtual website. Good Job!
 
 
 <br><strong> Adam McMurchie  23/Sep/2017 </strong>
