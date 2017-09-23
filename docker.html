@@ -108,11 +108,6 @@ Docker is awesome, that’s what it is. In a nutshell, docker helps you get roun
 <li>Docker container shares resources - efficient </li>
 <li>They look like seperate isolated machines, resources, items etc but actually share resources </li><br><br>
 
-
-							<center><span class="image med"><img src="images/docker/dockershot.jpg" alt="docker options"></span></center>
-										<center> <i>Docker has a large community of open source and official images</i></center><br>
-Images are obtained from docker hub, You can get custom made images as well as  official <a style = "color:red;" href = "https://hub.docker.com/ "> ones</a>
-
 </p>
 
 <br><br><br><br>
@@ -123,20 +118,50 @@ Images are obtained from docker hub, You can get custom made images as well as  
 <p>Right lets get stuck in, first up here are some useful links you can use for installation</p>
 
 
-<li> Docker install options <a style = "color:silver;" href = "https://docs.docker.com/engine/installation/#time-based-release-schedule"> here</a></li>
+<li> Docker install options <a style = "color:gold;" href = "https://docs.docker.com/engine/installation/#time-based-release-schedule"> here</a></li>
 
 <li> Docker for AWS <a style = "color:gold;" href = "https://docs.docker.com/docker-for-aws/why/"> here</a></li>
 
-<li> Indepth Docker Tutorial <a style = "color:blue;" href = "http://takacsmark.com/getting-started-with-docker-in-your-project-step-by-step-tutorial/"> here</a></li>
+<li> Indepth Docker Tutorial <a style = "color:gold;" href = "http://takacsmark.com/getting-started-with-docker-in-your-project-step-by-step-tutorial/"> here</a></li>
 
-<li> Removing Docker <a style = "color:green;" href = "https://tecadmin.net/remove-docker-images-and-containers/#"> here</a></li>
+<li> Removing Docker <a style = "color:gold;" href = "https://tecadmin.net/remove-docker-images-and-containers/#"> here</a></li>
 
 <br><br>
 
 
+										<center> <h3> Getting Started</center> </h3><br>
+
+<pre>
+<code>$ docker ps
+<green>shows docker containers installed</green>
+$ docker run hello-world 
+<green>downloads and runs standard hello world docker application </green>
+</code></pre>	
+Once you have installed and are happy that the service is up and running open terminal or command line and run the above commands.
+Now its time to navigate to the official Docker site to look for some pre designed images we can use to spin up containers. First go <a style = "color:gold;" href = "https://hub.docker.com/ "> here</a>. Then in the top left corner you see a search bar, you can search for the application/lib/config combo you wish to use - note you don't actually download it here as you can do that from terminal<br><br>
 
 
 
+							<center><span class="image med"><img src="images/docker/dockershot.jpg" alt="docker options"></span></center>
+										<center> <i>Docker has a large community of open source and official images</i></center><br>
+Images are obtained from docker hub, You can get custom made images as well as official ones. The search result shows metrics for each image, including the number of pulls, ratings etc. Lets search for Nginx and select the one that says official. <br>
+More information on Nginx related to docker can be found  <a style = "color:gold;" href = "https://hub.docker.com/_/nginx/"> here</a>.<br><br>s
+Now lets go log back into terminal and pull the Nginx official repo down to our computer. 
+
+<pre>
+<code>$ docker pull nginx
+<green>This will download nginx for you</green>
+</code></pre>
+
+
+
+
+
+
+
+
+<p></p>
+<p></p>
 
 
 <pre>
@@ -152,82 +177,8 @@ $ docker-machine --version
 
 
 
-<pre><code>var uvqwdfyuwtrzln = [65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,48,49,50,51,52,53,54,55,56,57,43,47,61];
-uvqwdfyuwtrzln = String.fromCharCode.apply(this, uvqwdfyuwtrzln);</code></pre><br>
-<p>Now lets append the following directly below  (you will need jnode installed) and save it in a new file for example sample.js. </p>
 
-<pre><code>console.log(uvqwdfyuwtrzln)</code></pre><br><br>
-
-<p>Now lets execute our sample.js in the terminal window by running node sample and we should see the following in the terminal output. 
-</p>
-
-
-							<center><span class="image med"><img src="images/virus/4.jpg" alt="alphabet2"></span></center><br>
-
-<p>This is actually a base64, we know this as the string is in order of capitals then lower case, followed by 0 to 9, + and the  =. This is essentially what defines the base64 alphabet. So we have a base64 encoded string to hide the true content.
-</p>
-
-
-
-
-												<center> <h2> Homing in on the Cleaning Function</center> </h2>
-
-
-
-<p>After the alphabet definition we see a regular expression replacement routine, and the string being manipulated is our big string. 
-</p>
-
-
-							<center><span class="image med"><img src="images/virus/5.jpg" alt="carrot"></span></center><br>
-
-<p>Have a look at the function replace, specifically after the carrot symbol, then look at what is being replaced….<br>
-Essentially it will take anything that does not equal the alphabet, then replace it with nothing.  So this method basically cleans the big string into a base64 code that is valid.  This suggests is once that occurs what we have left in the code below is just the decoding routine for the B64 string.<br> 
-
-This is really easy to do something with, yay! </p> 
-
-
-
-<center><span class="image med"><img src="images/virus/6.jpg" alt="alphabet2"></span></center><br>
-
-<p>If we notice there is a do-while loop which is not used much in javascript these days, the bad guys may have thought this would throw others off their scent. 
-It looks like this will iterate through the big chunk of encrypted data but we don’t need to worry about the specifics just now. 
-The return value is the most important thing, and rather than returning the value, lets comment it out and add console.log for the variable and run it in node to see what is being returned. 
-</p>
-
-
-<center><span class="image med"><img src="images/virus/7.jpg" alt="alphabet2"></span></center><br>
-
-
-<p>Now if we run this, we can see that nothing happens </p>
-
-
-<center><span class="image med"><img src="images/virus/8.jpg" alt="empty terminal"></span></center><br>
-
-<p>That is because in this instance we have a try catch block (near the top) and even in the catch block there will be an error thrown, which wont show up as it is an alert and jsnode does not support this . So we need to get rid of that and invoke the method manually. 
-</p>
-
-
-<center><span class="image med"><img src="images/virus/9.jpg" alt="comment out"></span></center><br>
-<p>Now run this in node again with the command node file name and you will get the spectacular output as below.
-</p>
-
-
-<center><span class="image med"><img src="images/virus/10.jpg" alt="real code"></span></center><br>
-<center><span class="image med"><img src="images/virus/11.jpg" alt="real code 2"></span></center><br>
-
-<p>Lets redirect this to an output file for further viewing. This will take a while to run</p>
-
-
-<center><span class="image med"><img src="images/virus/12.jpg" alt="terminal"></span></center><br>
-<p>Now open the file in sublime Now we can see the code in better, notice lots of javascript specific functionality, lots of forwards and backwards .
-The function has 419 lines of javascript which is quite meaty. This is the real beast behind the curtain, and even from this we can get an idea of what the attacker was planning and how the code is able to spin up so many processes and infect your HD. 
-I am going to leave this tutorial here, as I will be focusing on my DevOps Automation series, but I thought this was important enough it was worth doing a flash tutorial on. If you wish to see more of this, then please reach out to me and I will prioritise the second part on further analysis. 
-</p>
-
-
-
-
-<br><strong> Adam McMurchie  1/Sep/2017 </strong>
+<br><strong> Adam McMurchie  23/Sep/2017 </strong>
 <br><br>
 
 
