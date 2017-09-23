@@ -85,11 +85,8 @@ Tweet</a></div>
 													<center><h1>What is Docker?</h1></center>
 
 
-<p>  Docker is aw</p>
-
-
 <p>
-Docker is awesome, that’s what it is. In a nutshell, docker helps you get round the problem of ‘well it worked on my machine’ routine. In a nutshell it does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from simple images, so a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
+Docker is <b>awesome</b>, that’s what it is. In a nutshell, docker helps you get round the problem of ‘well it worked on my machine’ routine. In a nutshell it does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from simple images, so a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
 </p>
 
 							<center><span class="image smaller"><img src="images/docker/docker2.jpg" alt="docker"></span></center>
@@ -110,7 +107,7 @@ Docker is awesome, that’s what it is. In a nutshell, docker helps you get roun
 
 </p>
 
-<br><br><br><br>
+<br>
 
 										<center> <h2> Docker Tutorial </center> </h2><br><br>
 
@@ -145,23 +142,76 @@ Now its time to navigate to the official Docker site to look for some pre design
 							<center><span class="image med"><img src="images/docker/dockershot.jpg" alt="docker options"></span></center>
 										<center> <i>Docker has a large community of open source and official images</i></center><br>
 Images are obtained from docker hub, You can get custom made images as well as official ones. The search result shows metrics for each image, including the number of pulls, ratings etc. Lets search for Nginx and select the one that says official. <br>
-More information on Nginx related to docker can be found  <a style = "color:gold;" href = "https://hub.docker.com/_/nginx/"> here</a>.<br><br>s
-Now lets go log back into terminal and pull the Nginx official repo down to our computer. 
+More information on Nginx related to docker can be found  <a style = "color:gold;" href = "https://hub.docker.com/_/nginx/"> here</a>.<br><br> On the docker Nginx information page, it also shows you examples of how to use the image, which I will flesh out. Normally the default nginx is based on Db and Jessie (a linux distribution which is feature rich and stable), but today we will be using the Alpine version - a trendy distribution that is linear and optimised for secrurity. Also it is MUCH smaller, from about 71mb down to 17mb. 
+Now lets go log back into terminal and pull the Nginx official repo down to our computer. <br><br>
 
 <pre>
-<code>$ docker pull nginx
+<code>$ docker pull nginx:1.10.2-alpine
 <green>This will download nginx for you</green>
+$ docker images
+<green>Now we can see our new image</green>
 </code></pre>
+<br>
+
+Awesome, now that nginx has been downloaded and verified we want to run the docker container, but first we need to map our container to host ports. This is simple with docker, we simply use the format pxx:yy where xx is the container port and yy is your host port. If you try it without maping you wont be able to access your container port. <br> 
+<center> <code>docker run --name my-nginx -p 80:80 nginx:1.10.1-alpine</code></center>
+<br>
+Once complete, lets open up our browser and navigate to localhost. Simpley enter http://localhost or put in your local ip address. You should see the following output:<br><br>
+
+
+							<center><span class="image med"><img src="images/docker/nginx.jpg" alt="nginx welcome screen"></span></center>
+<br>
+
+Notice that when you refresh the browser if you look on the terminal screen you can see it adds a new transaction for every refresh. <br><br>
+
+
+							<center><span class="image med"><img src="images/docker/transactions.jpg" alt="transaction count"></span></center>
+
+<h3> Terminate Container</h3>
 
 
 
+<pre>
+<code>$ CTL + C
+<red>terminates docker container application run</red>
+$ docker ps -a
+<red>displays all active and inactive containers</red></code></pre>
 
 
 
+<pre>
+<code>$ docker rm my-nginx
+<red>Removes container</red>
+$ docker ps -a
+<red>displays all active and inactive containers</red></code></pre>
 
 
-<p></p>
-<p></p>
+
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 nginx:1.10.1-alpine
+<red>Runs in background</red></code></pre>
+
+
+<pre>
+<code>$ docker exec -ti my-nginx /bin/sh
+<red>Executes nginx commands inside the container</red>
+$ #/bin/sh 
+<red>starts shell</red></code></pre>
+
+
+
+<pre>
+<code>$ ls -al
+<red>list all components</red>
+$ whoami
+<red>prints user </red></code></pre>
+
+
+
+<pre>
+<code>$ -v /host/path/nginx.conf
+<red>mounts the volume</red></code></pre>
+
 
 
 <pre>
@@ -171,8 +221,6 @@ $ docker-compose --version
 <red>docker-compose version 1.11.2, build dfed245</red>
 $ docker-machine --version
 <red>docker-machine version 0.10.0, build 76ed2a6</red></code></pre>
-
-
 
 
 
