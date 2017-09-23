@@ -153,7 +153,7 @@ $ docker images
 </code></pre>
 <br>
 
-Awesome, now that nginx has been downloaded and verified we want to run the docker container, but first we need to map our container to host ports. This is simple with docker, we simply use the format pxx:yy where xx is the container port and yy is your host port. If you try it without maping you wont be able to access your container port. <br> 
+Awesome, now that nginx has been downloaded and verified we want to run the docker container, but first we need to map our container to host ports. This is simple with docker, we simply use the format pxx:yy where xx is the container port and yy is your host port. If you try it without maping you wont be able to access your container port. <br> <br>
 <center> <code>docker run --name my-nginx -p 80:80 nginx:1.10.1-alpine</code></center>
 <br>
 Once complete, lets open up our browser and navigate to localhost. Simpley enter http://localhost or put in your local ip address. You should see the following output:<br><br>
@@ -169,48 +169,66 @@ Notice that when you refresh the browser if you look on the terminal screen you 
 
 <h3> Terminate Container</h3>
 
-
+Now its time to close down the container <br>
 
 <pre>
 <code>$ CTL + C
-<red>terminates docker container application run</red>
+<green>terminates docker container application run</green>
 $ docker ps -a
-<red>displays all active and inactive containers</red></code></pre>
-
-
-
-<pre>
-<code>$ docker rm my-nginx
-<red>Removes container</red>
+<green>displays all active and inactive containers</green>
+$ docker rm my-nginx
+<green>Removes container</green>
 $ docker ps -a
-<red>displays all active and inactive containers</red></code></pre>
+<green>displays all active and inactive containers</green></code></pre>
+<br> 
+So just now we were able to quickly and rapidly, download a docker image, spin up the image and run it so that we were able to start the nginx reverse proxy server. Also: <br>
+<li>We could see the container in the foreground (everytime we refreshed a transaction was added) </li>
+<li>If we wish to run in the background, we simply add -D as a runtime parameter (this means it runs as Daemon)</li>
+<li>You can't change runtime parameters of an existing container, you need to create a new container (I will show you a way to modify parms later)</li>
+<li>So this means if you want to change port mappings of a container once its spun up, you can't do that</li>
+<li>You need to launch a new container, and drive that container using configuration map</li><br><br>
 
 
+<h3> Run Application in Background</h3>
 
+As mentioned above we enter the same run script specifying ports etc, but this time we add in a -d parameter which is our runtime parameter to tell docker to run it as daemon.<br><br>
 <pre>
 <code>$ docker run --name my-nginx -d -p 80:80 nginx:1.10.1-alpine
-<red>Runs in background</red></code></pre>
+<green>Runs in background</green></code></pre><br><br>
 
+You might want to verify this by running the <code> docker ps </code> command and going to localhost on your browser. 
+
+											<center> <h2> important information</h2></center> 
+<li>Do not put information into containers </li>
+<li>You can not set up a new container with the same information as the one previous </li>
+<li>To solve this we put data outside the container and map to it with volumes</li>
+<br>
+
+<h3> Mounting Docker to A Volume </h3>
+
+Lets create a configuration file and map that configuration file into our container (NGINX), but to do that we must first get inside the container and run a command to mount the volume, then take a copy as a template we can configure later: <br> <br>
 
 <pre>
 <code>$ docker exec -ti my-nginx /bin/sh
-<red>Executes nginx commands inside the container</red>
+<green>Executes nginx commands inside the container</green>
 $ #/bin/sh 
-<red>starts shell</red></code></pre>
-
-
-
-<pre>
-<code>$ ls -al
-<red>list all components</red>
+<greej>starts shell</green>
+$ ls -al
+<green>list all components</green>
 $ whoami
-<red>prints user </red></code></pre>
+<green>prints user </green></code></pre><br><br> 
 
-
+Now lets go and look at the nginx configuration file, take a note and copy this into sublime or any other text editor. 
 
 <pre>
 <code>$ -v /host/path/nginx.conf
-<red>mounts the volume</red></code></pre>
+<green>mounts the volume</green>
+$ cat /etc/nginx/nginx.conf 
+<green>prints to screen the contents of nginx.conf</green>
+
+
+
+</code></pre>
 
 
 
