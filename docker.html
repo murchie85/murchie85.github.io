@@ -9,10 +9,10 @@
  	<title>Containerization with Docker</title>
     <meta property="og:url"      content="https://murchie85.github.io/docker.html" />
     <meta property="og:type"          content="website" />
-    <meta property="og:title" content="McMurchie's Tutorials - How to Reverse Engineer Malware for Analysis" />
+    <meta property="og:title" content="McMurchie's Tutorials - Containerization with Docker" />
     <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
-    <meta itemprop="image" content="images/virus/rat.jpg" />   <!-- PREVIEW IMAGE -->
-    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/virus/rat.jpg"> <!-- PREVIEW IMAGE -->
+    <meta itemprop="image" content="images/dockerr/docker4.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/docker/docker4.jpg"> <!-- PREVIEW IMAGE -->
     <meta prefix="og: http://ogp.me/ns#" property="og:description" content="In this tutorial I show you how to dissect and reverse engineer a javascript RAT Virus code to extract the decoded contents of the malicious binary. This will allow you, and others to perform a proper and thorough analysis - which is critical for understanding how these viruses are manufactured, the mindset of the attacker and to better model future attacks to develop better defences. ">
     <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -71,9 +71,9 @@
 				<div id="blogs">
 					<article id="Blog">
 
-
-							<center><span class="image smaller"><img src="images/docker/docker4.jpg" alt="docker"></span></center>
+							<center><span class="image"><img src="images/docker/docker4.jpg" alt="docker"></span></center>
 										<center> <i>Shipping and Containing your Applications with Docker</i></center><br>
+
 
 
 <div>
@@ -81,25 +81,23 @@
   href="https://twitter.com/intent/tweet?text=Reverse Engineering a RAT Virus">
 Tweet</a></div>
 <div class="fb-like" data-href="https://murchie85.github.io/rat.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
-<i style = "color:silver";>Important: this blog is for anyone to enjoy, that said you should not attempt to follow the steps if you don't have a solid grounding in Javascript, jsNode and code obfuscation. </i><br><br>
 
-<p>  “Don’t you just hate being infested with rats?” No longer an antiquated phrase fit for the 19th century. RATs, or Remote Access Trojans, are a malicious form of <i>zombie malware</i> that sits on your computer quietly waiting for the moment you input sensitive details such as passwords for your email accounts, logins to internet banking and more. These Trojans can tap your microphone, webcam and run scripts in the background without your knowledge. They have been such a severe issue that the recent RAT activity has been making the mainstream news as many victims have had their details stolen, resulting in material theft. </p>
+													<center><h1>What is Docker?</h1></center>
+
+
+<p>  Docker is aw</p>
 
 
 <p>
- In this tutorial I am going to walk through how we can reverse engineer a recent javascript RAT virus to pick apart the javascript to extract the decoded contents of the malicious binary. This will allow you, and others to perform a proper and thorough analysis - which is critical for understanding how these viruses are manufactured, the mindset of the attacker and to better model future attacks to develop better defences. That said, lets get this out the way
-</p>
-<p>
-<div id="quote"><center>
-<b style = "font-size:220%;color:silver">“PREVENTION IS BETTER THAN A CURE”
-</b><br>
-<i>Sir Common Sense</i></center>
-</div>
-
+Docker is awesome, that’s what it is. In a nutshell, docker helps you get round the problem of ‘well it worked on my machine’ routine. In a nutshell it does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from simple images, so a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
 </p>
 
+							<center><span class="image smaller"><img src="images/docker/docker2.jpg" alt="docker"></span></center>
+										<center> <i>Docking uses less memory, as each container can share resources but remain isloated</i></center><br>
 
-<p>The malicious code has been distributed via email with a link that downloaded the script in the hopes someone would click and run the executable bringing them into a whole world of pain.  Why would anyone do this? Well the executable was masked as an image file such as IMG-0001 where there could be a description such as ‘Dave was so crazy on his night out, check how wasted he got here’.  It is very easy to complete child's play to trap a few victims when the email was disseminated to tens of thousands of users.  </p><br>
+
+
+<p>So “whats a container?” I hear you ask. Containers are a way to package software in a format that can run isolated on a shared operating system. Unlike VMs, containers do not bundle a full operating system - only libraries and settings required to make the software work are needed. This makes for efficient, lightweight, self-contained systems and guarantees that software will always run the same, regardless of where it’s deployed. </p><br>
 
 
 
