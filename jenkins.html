@@ -57,21 +57,16 @@
 				<!-- Header -->
 					<header id="header">
 						<div class="content">
-							<div class="inner">
-								<a href="index.html"><h1>Jenkins like a boss</h1></a>
-							</div>
+
 						</div>
 					</header>
-					<br>
+					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-				<div id="blogs" style = "background-color: rgba(27, 31, 34, 0.90);">
+				<div id="blogs" style = "background-color: rgba(27, 31, 34, 1.0);">
 					<article id="Blog">
 
 
-													<center><h1>Jenkins CI integration with AWS</h1></center>
-							<center><span class="image med"><img src="images/jenkins/jenkins.jpg" alt="jenkins"></span></center>
-										<center> <i>Jenkins like a boss</i></center><br>
-
+													<center><h1>Jenkins like a Boss</h1></center>
 
 
 <div>
@@ -93,6 +88,9 @@ So without further ado, the breakdown of what we will learn today is as follows:
 Slave nodes are important when you have a large set up and a lot of jobs because Jenkins is smart enough to evenly distribute these jobs across multiple nodes. This means you aren’t waiting for critical jobs to complete, it is essentially parallel processing. 
  </p>
 
+							<center><span class="image med"><img src="images/jenkins/jenkins.jpg" alt="jenkins"></span></center>
+										<center> <i>Jenkins like a boss</i></center><br>
+
 
 										<center> <h2> AWS - Spinning up EC2 Instances </center> </h2><br><br>
 
@@ -107,7 +105,7 @@ Our first step is using AWS to build and configure our three instances. Log into
 							<center><span class="image small"><img src="images/jenkins/ec2.jpg" alt="jenkins options"></span></center>
 										<center> <i></i></center><br>
 
-In this screen you will notice a lot of options and metrics, feel free to explore but when you are ready to proceed click the blue launch instance button as shown below.
+In this screen you will notice a lot of options and metrics, feel free to explore but when you are ready to proceed click the blue launch instance button as shown below.<br>
 
 							<center><span class="image med"><img src="images/jenkins/launch.jpg" alt="jenkins options"></span></center>
 										<center> <i></i></center><br>
@@ -138,7 +136,7 @@ You need to create a new security group, this will define how EC2 can be accesse
 										<center> <i></i></center><br>
 
 We need to generate a key pair, this is because when we launch our instances we need to connect to them (via your computer). Your computer wont have direct access to ssh connect, this is why you need to save the key to a local directory on your computer. Fortunately AWS is very self explanitory and should keep you right. Click create a new pair, then download to a folder on your computer that you can get to easily via terminal or command line. <br><br>
-							<center><span class="image med"><img src="images/jenkins/key.jpg" alt="jenkins options"></span></center>
+							<center><span class="image small"><img src="images/jenkins/key.jpg" alt="jenkins options"></span></center>
 										<center> <i></i></center><br>
 Once you have clicked launch, you will have to navigate back to your EC2 instances screen and wait a moment for the serveres to come online. Feel free to name your instances as I have done below.<br><br>
 							<center><span class="image med"><img src="images/jenkins/up.jpg" alt="jenkins options"></span></center>
@@ -261,13 +259,13 @@ Great, we can now see our master node. <br><br>
 Now before we start kicking off jobs we need to build our two nodes. Before we do that we need to ensure we have our SSH slaves plugin installed. To do this navigate to jenkins home -> manage jenkins -> manage plugins -> installed tab. You can scroll down to check if you have the SSH Slaves plugin if you don't you can download it from <a href="https://wiki.jenkins.io/display/JENKINS/SSH+Slaves+plugin" style="color:gold;">this link</a>.
 Once you have downloaded the plugin you need to go to the advanced tab in Jenkins manage plugins (where you just were before), scroll down to upload plugin and point to your downloaded plugin (it is a .hpi file) and upload. <br>
 
-Now create a new node by selecting new node (where we viewed the master node) as shown below.<br>
+Now create a new node by selecting new node (where we viewed the master node) as shown below.<br><br>
 
 
 					<center><span class="image med"><img src="images/jenkins/newnode.jpg" alt="jenkins options"></span></center>
 										<center> <i></i></center><br><br>
 
-Add name and select permanent agent (this name may change in the future, before it was called dumb slave). The first one we will call Jenkins Node 1<br>
+Add name and select permanent agent (this name may change in the future, before it was called dumb slave). The first one we will call Jenkins Node 1<br><br>
 
 
 					<center><span class="image med"><img src="images/jenkins/node1.jpg" alt="jenkins options"></span></center>
@@ -277,23 +275,46 @@ you will now have a lot of options to fill in. Important - we have to make sure 
 <li>Remote root directory : /home/ec2-user </li>
 <li>Usage: Use this node as much as possible</li>
 <li>Launch Method: Launch slave agents via SSH</li>
-<li>HOST: Enter the <b>PRIVATE IP</br> for your first slave ndoe (you can find this on AWS, instances, click node1 look for private ip details at the bottom)</li>
+<li>Host key Verification strategy : Manually trusted key verification strategy (don't check the tick box)</li>
+<li>HOST: Enter the <b>PRIVATE IP</b> for your first slave ndoe (you can find this on AWS, instances, click node1 look for private ip details at the bottom)</li>
 <br>
  
  Don't leave this page, but open up a ssh session with the master node again. Now we need to copy the private key that of the pair we generated earlier. Enter the following command: 
 <br>
 <cetner> <code> cat .ssh/id_rsa</code> </center>
 <br>
-Now go back to our Jenkins Node setup page, and click on the add button next to credentials. Fill in the username as ec2-user and select kind as SSH username with private key as shown below then paste in your private key.
+Now go back to our Jenkins Node setup page, and click on the add button next to credentials. Fill in the username as ec2-user and select kind as SSH username with private key as shown below then paste in your private key.<br><br>
 
 
 					<center><span class="image med"><img src="images/jenkins/credentials.jpg" alt="jenkins options"></span></center>
 										<center> <i></i></center><br><br>
 
 
-Now click the add button next to credentials, 
+Now click save, Refresh the status, if we keep clicking the response time should drop to under 5ms. Now repeat for the second node, but we will get the option to select copy from existing node. Everything stays the same except for the host ip. We can note our build executor status, on each node we can have multiple processes running but for our nodes we only have one configured for now. <br><br>
 
-GREAT! Now you are done, if you go to the localhost in the browser page you can see your text in your virtual website. Good Job!
+
+
+										<center> <h2> Running Jobs in Parallel</center> </h2><br><br>
+
+Lets create a new job, we can do this by clicking on create new jobs, you can do this by clicking on create new jobs on the welcom screen. Or new item in the top left hand side. Give it a name and make it a free style project.<br>
+Lets just do something simple like make it sleep for 10 seconds so we can show the different nodes working. In job configuration scroll down to the build option and select execute shell from the list. Then enter the following command.<br><br>
+<center> <code> sleep 10s</code> </center>
+<br><br>
+
+Now select apply and save. Repeate the process for job two. You should have two jobs like below. <br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/job2.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+The quickest way to run both jobs is to click the clock dial on the right hand side, go and click both of them to trigger both jobs. You should now see in the bottom left hand side both jobs running but on different nodes. <br><br>
+
+					<center><span class="image med"><img src="images/jenkins/jobs.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+GREAT! We have now configured Jenkins to run jobs on multiple nodes over AWS!! It was a bit of a long haul but well done for making it here. Please drop me an email if you want to see any more of this or have any issues. Again well done! <br><br>
 
 
 <br><strong> Adam McMurchie  28/Sep/2017 </strong>
@@ -317,7 +338,7 @@ GREAT! Now you are done, if you go to the localhost in the browser page you can 
 			</div>
 
 		<!-- **************************background picture goes here *********************************************** -->
-			<div id="bg14"></div>
+			<div id="bg15"></div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
