@@ -2928,13 +2928,22 @@
 
 
 
+	/* blogs wide*/
+
+	#blogsWide {
+			padding: 2.5rem 2.5rem 1.5rem 2.5rem ;
+			position: relative;
+			width: 85rem;
+			max-width: 100%;
+			background-color: rgba(27, 31, 34, 0.50);
+			border-radius: 40px;
+			opacity: 100;
+	}
 
 
 
 
-
-
-		/* blogs */
+	/* blogs */
 
 	#blogs {
 			padding: 2.5rem 2.5rem 1.5rem 2.5rem ;
