@@ -671,6 +671,9 @@
 			.image.main img {
 				width: 100%;
 			}
+			.image.large img {
+				width: 130%;
+			}
 			.image.med img {
 				width: 90%;
 			}
