@@ -58,6 +58,12 @@
 		<!-- Wrapper -->
 			<div id="wrapper">
 
+
+
+				<div id="blogsWide" style = "background-color: rgba(27, 31, 34, 0.90);">
+					<article id="Blog">
+
+
 				<!-- Header -->
 					<header id="header">
 						<div class="content">
@@ -68,8 +74,9 @@
 					</header>
 					<br>
 
-				<div id="blogsWide" style = "background-color: rgba(27, 31, 34, 0.50);">
-					<article id="Blog">
+
+
+
 
 							<center><span class="image small"><img src="images/crypto/crypto.jpg" alt="crypto"></span></center>
 										<center> <i>An aggregated overview of Crypto Currency performance</i></center><br>
@@ -85,20 +92,41 @@ Tweet</a></div>
 <div align="center"> <a href="#Rates" style="color:yellow;">Jump to Rates only </a></div></p>
 <br></br><br></br>
 
+<center><h1>Summary</h1></center>
+<p>
+In 2017 from discussions on the success of crytpocurrencies, advantages and shortcomings a plan was devised to explore potential gaps and opportunities in the market. A strategy was devised initially on a high level basis of building a user friendly trading interface and eventually a back end that would take advantage of the interface to automate trading.
+The Front End would become multiplatform both desktop and mobile, and the backend would employ machine learning to take advantage of recent developments in Neural Networks to optimise trading returns.
+
+Significant progress has been made by Allan in this area, and both a prototype as well as an initial release of the front end has already been completed and can be sourced here https://github.com/doubleelforbes Whilst the front end will continue to be improved and further iterations released - work will now begin on designing and building the back end automation.
+
+</p>
+
+
+<center><h2>Backend</h2></center>
+<p>
+The aim of this project is to build an automated predictive and reactive custom built programatic solution for selecting optimal trading pairs based upon historical and current crypto data as well as user balance and limitations (i.e. base pairs, SWOT analysis and profit margin).
+</p>
+
+
+ <center><h2>Analysis</h2></center>
+<p>
+This Document will provide all the necessary code and design for obtaining metrics that will be required for the back end to initiate trading. This project is designed to be built upon incrementally and is a living breathing document. This means the initial goals will be basic objectives like, aggrigate data and sort into useful batches.
+</p>
+
+
+ <center><h2>Initial Target Coin : FTC Feathers</h2></center>
+<p>
+For the purposes of building up a frame work to be used for all coins, we will start with one coin and work with data brought back from cryptopia API via Allan's front end and process data for history, probabilities, predictions etc.
+FTC is currently 2500-3000 satoshi but has been as low as 900-1200 in the past. FTC has LTC and DOGE pairs and they bounce a lot LESS than the BTC price. This would be a good template to work from.
+</p>
+ 
+<center><h2>Initial Target Coin : FTC Feathers</h2></center>
+<p>
+From the preliminary Analysis notebook we have been able to pull values for one coin FTC and report on several metrics. Theb biggest challenge was passing the 2D array into a list that allows for drilling down to specific values but high level enough for us to pick a given market
+</p>
 
 
 
-
- 'DASH-USDT',
- 'DOGE-BTC',
- 'DOGE-LTC',
- 'DOGE-NZDT',
- 'DOGE-USDT',
- 'ETH-BTC',
- 'ETH-DOGE',
- 'ETH-LTC',
- 'ETH-NZDT',
- 'ETH-USDT',
  'ETN-BTC',
  'ETN-DOGE',
  'ETN-LTC',
@@ -134,18 +162,15 @@ Tweet</a></div>
 
 
 
-<center><h2>DASH MARKET DATA </h2></center>
+<center><h1>DASH MARKET DATA </h1></center>
 <br></br>
 	<center><img src="images/crypto/DASH-BTC RATES.png" alt="graph of rates"> <img src="images/crypto/DASH-DOGE RATES.png" alt="graph of rates"></center><br></br>
 	<center><img src="images/crypto/DASH-LTC RATES.png" alt="graph of rates"> <img src="images/crypto/DASH-USDT RATES.png" alt="graph of rates"></center>
-	<center> <i>Some description to come</i></center><br>
 
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
 
-
-
-
-
-
+<br></br>
 	<center><img src="images/crypto/DASH-BTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DASH-BTC Buy-Sell.png" alt="graph of buy and sell"></center>
 	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
 
@@ -155,42 +180,133 @@ Tweet</a></div>
 	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
 	<center><img src="images/crypto/DASH-USDT Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DASH-USDT Buy-Sell.png" alt="graph of buy and sell"></center>
 	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
+<!-- **************************END*********************************************** -->
 
+<center><h1>DOGE MARKET DATA </h1></center>
+<br></br>
+	<center><img src="images/crypto/DOGE-BTC RATES.png" alt="graph of rates"> <img src="images/crypto/DOGE-LTC RATES.png" alt="graph of rates"></center><br></br>
+	<center><img src="images/crypto/DOGE-NZDT RATES.png" alt="graph of rates"> <img src="images/crypto/DOGE-USDT RATES.png" alt="graph of rates"></center>
 
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
 
+<br></br>
+	<center><img src="images/crypto/DOGE-BTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DOGE-BTC Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/DOGE-LTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DOGE-LTC Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/DOGE-NZDT Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DOGE-NZDT Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/DOGE-USDT Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DOGE-USDT Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
 <!-- **************************END*********************************************** -->
 
 
-<!-- ++++++++++++++++++++++++++++++++++++++  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
+<center><h1>ETH MARKET DATA </h1></center>
+<br></br>
+	<center><img src="images/crypto/ETH-BTC RATES.png" alt="graph of rates"> <img src="images/crypto/ETH-DOGE RATES.png" alt="graph of rates"></center><br></br>
+	<center><img src="images/crypto/ETH-LTC RATES.png" alt="graph of rates"> <img src="images/crypto/ETH-NZDT RATES.png" alt="graph of rates"> <img src="images/crypto/ETH-USDT RATES.png" alt="graph of rates"></center>
 
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
 
-<center><h2>DASH MARKET DATA </h2></center>
-
-	<center><span class="image"><img src="images/crypto/DASH-BTC RATES.png" alt="graph of rates"></span></center>
-	<center> <i>Some description to come</i></center><br>
-	<center><span class="image"><img src="images/crypto/DASH-DOGE RATES.png" alt="graph of rates"></span></center>
-	<center> <i>Some description to come</i></center><br>
-	<center><span class="image"><img src="images/crypto/DASH-LTC RATES.png" alt="graph of rates"></span></center>
-	<center> <i>Some description to come</i></center><br>
-	<center><span class="image"><img src="images/crypto/DASH-USDT RATES.png" alt="graph of rates"></span></center>
-	<center> <i>Some description to come</i></center><br>
-
-
-
-
-
-
-
-
-	<center><img src="images/crypto/DASH-BTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DASH-BTC Buy-Sell.png" alt="graph of buy and sell"></center>
-	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
-	
-	<center><img src="images/crypto/DASH-BTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/DASH-BTC Buy-Sell.png" alt="graph of buy and sell"></center>
+<br></br>
+	<center><img src="images/crypto/ETH-BTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ETH-BTC Buy-Sell.png" alt="graph of buy and sell"></center>
 	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
 
+	<center><img src="images/crypto/ETH-DOGE Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ETH-DOGE Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ETH-LTC Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ETH-LTC Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ETH-NZDT Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ETH-NZDT Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ETH-USDT Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ETH-USDT Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
+<!-- **************************END*********************************************** -->
 
 
+
+<center><h1>X MARKET DATA </h1></center>
+<br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center><br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center>
+
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
+
+<br></br>
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
+<!-- **************************END*********************************************** -->
+
+
+
+<center><h1>X MARKET DATA </h1></center>
+<br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center><br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center>
+
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
+
+<br></br>
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
+<!-- **************************END*********************************************** -->
+
+
+
+<center><h1>X MARKET DATA </h1></center>
+<br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center><br></br>
+	<center><img src="images/crypto/ RATES.png" alt="graph of rates"> <img src="images/crypto/ RATES.png" alt="graph of rates"></center>
+
+<br></br><br></br>
+<center><h2>VOLUMES AND BUY/SELL RATIO </h2></center>
+
+<br></br>
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+
+	<center><img src="images/crypto/ Volumes.png" alt="graph of Volumes">   <img src="images/crypto/ Buy-Sell.png" alt="graph of buy and sell"></center>
+	<center> <i>LEFT: trade volumes.   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RIGHT: Bought Versus Sold coins</i></center><br>
+<br></br>
 <!-- **************************END*********************************************** -->
 
 
@@ -243,7 +359,7 @@ Tweet</a></div>
 			</div>
 
 		<!-- **************************background picture goes here *********************************************** -->
-			<div id="bg13"></div>
+			<div id="bg11"></div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
