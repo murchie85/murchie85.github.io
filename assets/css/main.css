@@ -2553,10 +2553,10 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-		-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
+		-moz-transition: -moz-transform 0.125s ease-in-out, -moz-filter 0.125s ease-in-out, opacity 0.125s ease-in-out;
+		-webkit-transition: -webkit-transform 0.125s ease-in-out, -webkit-filter 0.125s ease-in-out, opacity 0.125s ease-in-out;
+		-ms-transition: -ms-transform 0.125s ease-in-out, -ms-filter 0.125s ease-in-out, opacity 0.125s ease-in-out;
+		transition: transform 0.125s ease-in-out, filter 0.125s ease-in-out, opacity 0.125s ease-in-out;
 		background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
 		background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
 		background-image: -ms-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
@@ -2566,10 +2566,10 @@
 	}
 
 		#header > * {
-			-moz-transition: opacity 0.325s ease-in-out;
-			-webkit-transition: opacity 0.325s ease-in-out;
-			-ms-transition: opacity 0.325s ease-in-out;
-			transition: opacity 0.325s ease-in-out;
+			-moz-transition: opacity 0.125s ease-in-out;
+			-webkit-transition: opacity 0.125s ease-in-out;
+			-ms-transition: opacity 0.125s ease-in-out;
+			transition: opacity 0.125s ease-in-out;
 			position: relative;
 			margin-top: 3.5rem;
 		}
@@ -2614,10 +2614,10 @@
 		}
 
 			#header .content .inner {
-				-moz-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
-				-webkit-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
-				-ms-transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
-				transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;
+				-moz-transition: max-height 0.45s ease, padding 0.45s ease, opacity 0.125s ease-in-out;
+				-webkit-transition: max-height 0.45s ease, padding 0.45s ease, opacity 0.125s ease-in-out;
+				-ms-transition: max-height 0.45s ease, padding 0.45s ease, opacity 0.125s ease-in-out;
+				transition: max-height 0.45s ease, padding 0.45s ease, opacity 0.315s ease-in-out;
 				-moz-transition-delay: 0.25s;
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
@@ -2841,10 +2841,10 @@
 			-webkit-transform: translateY(0.25rem);
 			-ms-transform: translateY(0.25rem);
 			transform: translateY(0.25rem);
-			-moz-transition: opacity 0.325s ease-in-out, -moz-transform 0.325s ease-in-out;
-			-webkit-transition: opacity 0.325s ease-in-out, -webkit-transform 0.325s ease-in-out;
-			-ms-transition: opacity 0.325s ease-in-out, -ms-transform 0.325s ease-in-out;
-			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
+			-moz-transition: opacity 0.125s ease-in-out, -moz-transform 0.125s ease-in-out;
+			-webkit-transition: opacity 0.125s ease-in-out, -webkit-transform 0.125s ease-in-out;
+			-ms-transition: opacity 0.125s ease-in-out, -ms-transform 0.155s ease-in-out;
+			transition: opacity 0.125s ease-in-out, transform 0.125s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
 			width: 40rem;
