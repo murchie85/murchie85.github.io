@@ -85,13 +85,14 @@ Tweet</a></div>
 <center><h3>Quick Navigation</h3></center>
 <p>
 <center> <span>
-<a href="#DASH" class="button">RATES</a> 
-<a href="#DOGE" class="button">VOLUMES</a>  
-<a href="#ETH" class="button">BUY vs SELL</a> 
+<a href="#RATES" class="button">RATES</a> 
+<a href="#VOLUMES-BTC" class="button">VOLUMES</a>  
+<a href="#BS-BTC" class="button">BUY vs SELL</a> 
   </span> </center>
 
 
 <br></br><br></br> <br></br><br></br> <br></br><br></br><br></br><br></br> <br></br><br></br> <br></br><br></br>
+
 
 
 <!DOCTYPE html>
@@ -99,34 +100,61 @@ Tweet</a></div>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none}
-</style>
 <body>
 
 <div class="w3-container">
-  <h2>Slideshow Indicators</h2>
-  <p>An example of using buttons to indicate how many slides there are in the slideshow, and which slide the user is currently viewing.</p>
+  <h2 id ="RATES">All DASH RATES </h2>
+  <p>Add a caption text for each image slide with the w3-display-* classes (topleft, topmiddle, topright, bottomleft, bottommiddle, bottomright or middle).</p>
 </div>
 
-<div class="w3-content" style="max-width:800px">
-	<center>
-  <span class="image "><img class="mySlides"         src="../images/crypto/DASH-BTC RATES.png" style="width:100%"></span>
-  <span class="image "><img class="mySlides"   src="../images/crypto/daily/DASH-BTC RATES.png" style="width:100%">
-  <span class="image "><img class="mySlides"  src="../images/crypto/hourly/DASH-BTC RATES.png" style="width:100%">
-  <span class="image "><img class="mySlides" src="../images/crypto/monthly/DASH-BTC RATES.png" style="width:100%">
+<div class="w3-content w3-display-container">
+
+
+<!-- **********************************DASH BTC    ******************* -->
+
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/DASH-BTC RATES.png" style="width:100%">
+  		</span>
   	</center>
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-blue">
+    DASH ALL TIME RATES
+  </div>
 </div>
 
-<div class="w3-center">
-  <div class="w3-section">
-    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
-    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+	
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/daily/DASH-BTC RATES.png" style="width:100%">
+  		</span>
+  	</center>
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-red">
+    DASH DAILY RATES
   </div>
-  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
-  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
-  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
-  <button class="w3-button demo" onclick="currentDiv(4)">3</button> 
+</div>
+
+	
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/hourly/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
+  		</span>
+  	</center>
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-green">
+    DASH HOURLY RATES
+  </div>
+</div>
+
+
+
+
+
+
+<button class="w3-button w3-display-left w3-blue" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-blue" onclick="plusDivs(1)">&#10095;</button>
+
 </div>
 
 <script>
@@ -137,29 +165,39 @@ function plusDivs(n) {
   showDivs(slideIndex += n);
 }
 
-function currentDiv(n) {
-  showDivs(slideIndex = n);
-}
-
 function showDivs(n) {
   var i;
   var x = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
   if (n > x.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = x.length}
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";  
   }
-  for (i = 0; i < dots.length; i++) {
-     dots[i].className = dots[i].className.replace(" w3-red", "");
-  }
   x[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " w3-red";
 }
 </script>
 
 </body>
 </html>
+
+
+
+<br></br><br></br> <br></br><br></br> <br></br><br></br><br></br><br></br> <br></br><br></br> <br></br><br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
