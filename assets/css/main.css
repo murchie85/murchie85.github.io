@@ -2537,6 +2537,1375 @@
 
 
 
+/* coin-dash 	----------------------------------------------------------	*/
+
+	#coin-dash {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-dash:before, #coin-dash:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-dash:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-dash:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-dash.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-dash:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-dash:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+/* coin-DOGE 	----------------------------------------------------------	*/
+
+	#coin-DOGE {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-DOGE:before, #coin-DOGE:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-DOGE:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-DOGE:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-DOGE.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-DOGE:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-DOGE:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+
+
+
+
+
+/* coin-ETH 	----------------------------------------------------------	*/
+
+	#coin-ETH {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-ETH:before, #coin-ETH:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-ETH:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-ETH:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-ETH.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-ETH:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-ETH:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+
+
+
+
+
+
+
+/* coin-ETN 	----------------------------------------------------------	*/
+
+	#coin-ETN {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-ETN:before, #coin-ETN:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-ETN:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-ETN:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-ETN.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-ETN:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-ETN:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+
+
+
+
+
+
+/* coin-FTC 	----------------------------------------------------------	*/
+
+	#coin-FTC {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-FTC:before, #coin-FTC:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-FTC:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-FTC:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-FTC.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-FTC:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-FTC:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+
+
+
+/* coin-GLD 	----------------------------------------------------------	*/
+
+	#coin-GLD {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-GLD:before, #coin-GLD:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-GLD:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-GLD:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-GLD.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-GLD:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-GLD:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+/* coin-LTC 	----------------------------------------------------------	*/
+
+	#coin-LTC {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-LTC:before, #coin-LTC:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-LTC:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-LTC:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-LTC.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-LTC:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-LTC:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+/* coin-UNO 	----------------------------------------------------------	*/
+
+	#coin-UNO {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-UNO:before, #coin-UNO:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-UNO:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-UNO:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-UNO.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-UNO:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-UNO:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+/* coin-XMR 	----------------------------------------------------------	*/
+
+	#coin-XMR {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-XMR:before, #coin-XMR:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-XMR:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-XMR:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-XMR.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-XMR:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-XMR:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+/* coin-ZEC 	----------------------------------------------------------	*/
+
+	#coin-ZEC {
+		-moz-transform: scale(1.0);
+		-webkit-transform: scale(1.0);
+		-ms-transform: scale(1.0);
+		transform: scale(1.0);
+		-webkit-backface-visibility: hidden;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		z-index: 1;
+	}
+
+		#coin-ZEC:before, #coin-ZEC:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		#coin-ZEC:before {
+			-moz-transition: background-color 2.5s ease-in-out;
+			-webkit-transition: background-color 2.5s ease-in-out;
+			-ms-transition: background-color 2.5s ease-in-out;
+			transition: background-color 2.5s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-size: auto, 256px 256px;
+			background-position: center, center;
+			background-repeat: no-repeat, repeat;
+			z-index: 2;
+		}
+
+		#coin-ZEC:after {
+			-moz-transform: scale(1.125);
+			-webkit-transform: scale(1.125);
+			-ms-transform: scale(1.125);
+			transform: scale(1.125);
+			-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+			background-image: url("../../images/coin-ZEC.jpg");
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			z-index: 1;
+		}
+
+		body.is-article-visible #coin-ZEC:after {
+			-moz-transform: scale(1.0825);
+			-webkit-transform: scale(1.0825);
+			-ms-transform: scale(1.0825);
+			transform: scale(1.0825);
+			-moz-filter: blur(0.2rem);
+			-webkit-filter: blur(0.2rem);
+			-ms-filter: blur(0.2rem);
+			filter: blur(0.2rem);
+		}
+
+		body.is-loading #coin-ZEC:before {
+			background-color: #000000;
+		}
+
+
+/* Wrapper */
+
+	#wrapper {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: space-between;
+		-webkit-justify-content: space-between;
+		-ms-justify-content: space-between;
+		justify-content: space-between;
+		position: relative;
+		min-height: 100vh;
+		width: 100%;
+		padding: 4rem 2rem;
+		z-index: 3;
+	}
+
+		#wrapper:before {
+			content: '';
+			display: block;
+		}
+
+		@media screen and (max-width: 1680px) {
+
+			#wrapper {
+				padding: 3rem 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#wrapper {
+				padding: 2rem 1rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			#wrapper {
+				padding: 1rem;
+			}
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Header */
 
