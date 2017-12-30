@@ -99,7 +99,6 @@ Tweet</a></div>
 <html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
 <div class="w3-container">
@@ -226,12 +225,56 @@ Tweet</a></div>
 
 
 
+<!-- **********************************DASH USDT    ******************* -->
 
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/DASH-USDT RATES.png" style="width:100%">
+  		</span>
+  	</center>
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-20 w3-blue">
+    DASH/USDT ALL TIME RATES
+  </div>
+</div>
+
+	
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/daily/DASH-USDT RATES.png" style="width:100%">
+  		</span>
+  	</center>
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-20 w3-red">
+    DASH/USDT DAILY RATES
+  </div>
+</div>
+
+	
+<div class="w3-display-container mySlides">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/hourly/DASH-USDT RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
+  		</span>
+  	</center>
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-20 w3-green">
+    DASH/USDT HOURLY RATES
+  </div>
+</div>
 
 <button class="w3-button w3-display-left w3-blue" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-blue" onclick="plusDivs(1)">&#10095;</button>
 
 </div>
+<br>
+<div class="w3-center">
+  <button class="w3-button demo" onclick="currentDiv(1)">BTC</button> 
+  <button class="w3-button demo" onclick="currentDiv(4)">DOGE</button> 
+  <button class="w3-button demo" onclick="currentDiv(7)">LTC</button> 
+  <button class="w3-button demo" onclick="currentDiv(10)">USDT</button> 
+</div>
+
+
 
 <script>
 var slideIndex = 1;
@@ -240,6 +283,12 @@ showDivs(slideIndex);
 function plusDivs(n) {
   showDivs(slideIndex += n);
 }
+
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
 
 function showDivs(n) {
   var i;
@@ -265,7 +314,74 @@ function showDivs(n) {
 
 
 
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
 
+<div class="w3-container">
+  <center><h2 id ="RATES">All DASH RATES </h2></center>
+ <center><p>All of the rates for DASH - BTC, DOGE, LTC AND USDT VALUES.</p></center> 
+</div>
+
+<div class="w3-content w3-display-container">
+
+
+<!-- **********************************DASH BTC    ******************* -->
+
+<div class="w3-display-container vol">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/DASH-BTC Volumes.png" style="width:100%">
+  		</span>
+  	</center>
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-20 w3-blue">
+    DASH/BTC ALL TIME RATES
+  </div>
+</div>
+
+	
+<div class="w3-display-container vol">
+  <center>
+  		<span class="image med">
+  			<img src="../images/crypto/daily/DASH-BTC Volumes.png" style="width:100%">
+  		</span>
+  	</center>
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-20 w3-red">
+    DASH/BTC DAILY RATES
+  </div>
+</div>
+
+
+<button class="w3-button w3-display-left w3-blue" onclick="upDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-blue" onclick="upDivs(1)">&#10095;</button>
+
+</div>
+
+<script>
+var volinded = 1;
+dispDivs(volinded);
+
+function upDivs(n) {
+  dispDivs(volinded += n);
+}
+
+function dispDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("vol");
+  if (n > x.length) {volinded = 1}    
+  if (n < 1) {volinded = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[volinded-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
 
 
 
