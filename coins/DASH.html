@@ -85,8 +85,8 @@ Tweet</a></div>
 <p>
 <center> <span>
 <a href="#RATES" class="button">RATES</a> 
-<a href="#VOL" class="button">VOLUMES</a>  
-<a href="#BS-BTC" class="button">BUY vs SELL</a> 
+<a href="DASH-VOL.html" class="button">VOLUMES</a>  
+<a href="#BS" class="button">BUY vs SELL</a> 
   </span> </center>
 
 
@@ -108,26 +108,36 @@ Masternodes represent a new layer of network servers that work in highly secure 
 
 
 
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <style>
 .mySlides {display:none}
 </style>
 
 
 <div class="w3-container">
-  <CENTER><h2 id = "RATES">ALL DASH BASE EXCHANGE RATES</h2>
+  <CENTER><h2>ALL DASH BASE EXCHANGE RATES</h2>
   <p>Below are the metrics for the DASH rates for corresponding bases BTC, DOGE, LTC AND USDT with adjustable time frames.</p></CENTER>
 </div>
 
-<center><span class="image med">
+<center><span class="image med" id = "RATES">
 <div class="w3-content" style="max-width:800px">
   
   <!-- BTC -->
-  <img class="mySlides" src="../images/crypto/allTime/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
-  <img class="mySlides" src="../images/crypto/daily/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="/images/crypto/no-data.png">
-  <img class="mySlides" src="../images/crypto/hourly/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
+
+  <div class = "mySlides">
+  <h3> ALL TIME</h3> 
+  <img src="../images/crypto/allTime/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
+  </div>
+
+  <div class = "mySlides">
+  <h3> DAILY</h3> 
+  <img src="../images/crypto/daily/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="/images/crypto/no-data.png">
+  </div>
+  
+  <div class = "mySlides">
+  <h3> 2 HOURS</h3> 
+  <img src="../images/crypto/hourly/DASH-BTC RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
+  </div>
 
 <!-- DOGE -->
   <img class="mySlides" src="../images/crypto/allTime/DASH-DOGE RATES.png" style="width:100%" alt="Not Found" onerror=this.src="../images/crypto/no-data.png">
@@ -146,7 +156,7 @@ Masternodes represent a new layer of network servers that work in highly secure 
 </div>
 </span></center>
 <div class="w3-center">
-  <div class="w3-section">
+  <div class="w3-section" >
     <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
     <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
   </div>
@@ -189,6 +199,8 @@ function showDivs(n) {
 
 
 
+
+ <br></br><br></br> <br></br><br></br> <br></br><br></br><br></br><br></br> <br></br><br></br> <br></br><br></br>
 
 
 
@@ -244,15 +256,16 @@ div.desc {
 }
 </style>
 
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
+<center><h2 id="VOL">Volumes</h2></center>
+<center><h4>Select Appropriate Base to get Volume Overview.</h4></center>
+
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_fjords.jpg">
-      <img src="../images/coin-LTC.jpg" alt="Trolltunga Norway" width="300" height="200">
+    <a target="_blank" href="img_fjordsa.jpg">
+      <img src="../images/crypto/crypto.jpg" alt="BTC volumes" >
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">BTC</div>
   </div>
 </div>
 
@@ -260,35 +273,28 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
-      <img src="../images/coin-FTC.jpg" alt="Forest" width="600" height="400">
+      <img src="../images/coin-DOGE.jpg" alt="Doge Volumes" >
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">DOGE</div>
   </div>
 </div>
+
 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_lights.jpg">
-      <img src="../images/coin-doge.jpg" alt="Northern Lights" width="600" height="400">
+      <img src="../images/coin-LTC.jpg" alt="LTC Volumes" > 
     </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="../images/coin-dash.jpg" alt="Mountains" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">LTC</div>
   </div>
 </div>
 
 <div class="clearfix"></div>
 
+
 <div style="padding:6px;">
-  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
-  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+  <p>This site is still undergoing development, please feel free to drop feedback to murchie85@gmail.com</p>
+  
 </div>
 
 
