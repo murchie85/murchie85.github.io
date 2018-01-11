@@ -8,7 +8,7 @@
 <meta property="og:title" content="McMurchie's CryptoReports - GBP metrics" />
 <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
 <meta itemprop="image" content="../images/coin-GLD.jpg" />   <!-- PREVIEW IMAGE -->
-<meta prefix="og: http://ogp.me/ns#" property="og:image" content="coin-GLD.jpg"> <!-- PREVIEW IMAGE -->
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="../images/coin-GLD.jpg"> <!-- PREVIEW IMAGE -->
 <meta prefix="og: http://ogp.me/ns#" property="og:description" content="This page is primarily for GBP reporting on some select cryptocoins and is for casual quick reference updating - reports updated every 2 hours.">
 <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
@@ -25,7 +25,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
 <!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-bar-block w3-light-green w3-animate-left w3-text-grey w3-collapse w3-top w3-center" style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
+<nav class="w3-sidebar w3-bar-block w3-green w3-animate-left w3-text-grey w3-collapse w3-top w3-center" style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
   <h3 class="w3-padding-64 w3-center"><b>CRYPTO<br>ZONE</b></h3>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLOSE</a>
   <a href="#" onclick="w3_close()" class="w3-bar-item w3-button">GBP RATES</a> 
@@ -34,7 +34,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 </nav>
 
 <!-- Top menu on small screens -->
-<header class="w3-container w3-top w3-hide-large w3-light-green w3-xlarge w3-padding-16">
+<header class="w3-container w3-top w3-hide-large w3-green w3-xlarge w3-padding-16">
   <span class="w3-left w3-padding">CRYPTO ZONE</span>
   <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
 </header>
@@ -51,17 +51,22 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="../images/crypto/gbp/ZEC-report.png" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-      <img src="../images/crypto/gbp/XEM-report.png" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
-      <img src="../images/crypto/gbp/USDT-report.png" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="../images/crypto/allTime/DASH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="All time rates">
+      <img src="../images/crypto/daily/DASH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Daily rates">
+      <img src="../images/crypto/hourly/DASH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Hourly rates">
     </div>
 
-
- 
-
+    <div class="w3-third">
+      <img src="../images/crypto/allTime/LTC-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="All time rates">
+      <img src="../images/crypto/daily/LTC-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Daily rates">
+      <img src="../images/crypto/hourly/LTC-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Hourly rates">
     </div>
-
-
+    
+    <div class="w3-third">
+      <img src="../images/crypto/allTime/ETH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="All time rates">
+      <img src="../images/crypto/daily/ETH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Daily rates">
+      <img src="../images/crypto/hourly/ETH-BTC RATES.png" style="width:100%" onclick="onClick(this)" alt="Hourly rates">
+    </div>
     
   </div>
 
@@ -197,8 +202,7 @@ function w3_close() {
 }
 
 // Modal Image Gallery
-function onClick(id) {
-  element = document.getElementById(id);
+function onClick(element) {
   document.getElementById("img01").src = element.src;
   document.getElementById("modal01").style.display = "block";
   var captionText = document.getElementById("caption");
