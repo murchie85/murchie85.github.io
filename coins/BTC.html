@@ -84,7 +84,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", overflow:hidden;, sans-serif}
   <!-- First Photo Grid-->
   <div class="w3-row-padding" id="DASH">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="../images/crypto/allTime/DASH-BTC RATES.png" alt="All time" style="width:100%" class="w3-hover-opacity">
+      <img src="../images/crypto/allTime/DASH-BTC RATES.png" alt="All time" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>All Time</b></p>
         <br><center><p><iframe src="Alltime/DASH-BTC.html" width=100% height=350 frameborder=0 ></iframe></p> </center>
@@ -343,6 +343,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", overflow:hidden;, sans-serif}
     </div>
   </div>
 
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>About US</b></h4>
@@ -464,6 +473,14 @@ function w3_open() {
 function w3_close() {
     document.getElementById("mySidebar").style.display = "none";
     document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
 }
 </script>
 
