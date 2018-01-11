@@ -51,10 +51,17 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="../images/crypto/gbp/ZEC-report.png" style="width:100%" onclick="onClick(this)" alt="Canoeing again">
+
+      <img src="../images/crypto/gbp/ZEC-report.png" style="width:100%" onclick="onClick('second-image-ocean')" alt="Canoeing again">
+      <img src="../images/crypto/gbp/USDT-report.png" style="display:none" id="second-image-ocean" alt="This ocean really reminds me of a boy...">
+
       <img src="../images/crypto/gbp/XEM-report.png" style="width:100%" onclick="onClick(this)" alt="A girl, and a train passing">
       <img src="../images/crypto/gbp/USDT-report.png" style="width:100%" onclick="onClick(this)" alt="What a beautiful day!">
     </div>
+
+    <img src="/w3images/natureboy.jpg" style="width:100%" onclick="onClick('second-image-ocean')" alt="A boy surrounded by beautiful nature">
+
+
     
   </div>
 
@@ -190,7 +197,8 @@ function w3_close() {
 }
 
 // Modal Image Gallery
-function onClick(element) {
+function onClick(id) {
+  element = document.getElementById(id);
   document.getElementById("img01").src = element.src;
   document.getElementById("modal01").style.display = "block";
   var captionText = document.getElementById("caption");
