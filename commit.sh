@@ -1,5 +1,7 @@
 #simple shell script to auto commit
 
+git remote set-url origin git@github.com:murchie85/murchie85.github.io.git
+git remote add origin https://murchie85:commando85@github.com/murchie85/murchie85.github.io.git
 
 git add .
 
