@@ -225,7 +225,7 @@ Some things to consider in our 30 lines of code that we ran,<br>
 <br><br>
 
 <center><h2>BREAKING IT DOWN</h2></center>
-<h3>What's a sigmoid?</h3>
+<center><h3>What's a sigmoid?</h3></center>
 
 <center> <span class="image main"><img src="images/NN/sigmoidf.png" alt="A breif overview of variables used" /></span><br>
 			<i>^^ that's it (don't worry if you don't get it)</i></center><br></br>
@@ -235,11 +235,11 @@ Remember the bit in our code which said sigmoid? It was a non linear function, a
 <p>
 Without going into to much detail, for our l1 we apply the sigmoid for probabilities but later we need to work out how much our error is (that is the slope of the graph). If you remember from calculus classes, to work out the slope you need to take the derrivative (hence how our funcion also can return the derivitive if we ask it to) and indeed we do when we work out the l1_delta.</p>
 
-<h3>Why seed random values?</h3>
+<center><h3>Why seed random values?</h3></center>
 <p>
 By seeding the numbers we get a random distribution, but each time round they are randomly distributed in the same way each time we train the network. This makes it easier for us to see how our changes impact on the network.</p>
 
-<h3>synaptic weights (syn0) </h3>
+<center><h3>synaptic weights (syn0) </h3></center>
 <p>
 In neuroscience and computer science, synaptic weight refers to the strength or amplitude of a connection between two nodes, corresponding in biology to the amount of influence the firing of one neuron has on another.<p>
 <p>
@@ -255,24 +255,24 @@ Since we have size L0 = 3 and size L1 = 1 so we need shape syn0 = (3,1)
 Some final points, we initialize syn0 randomly, and it should get updated over time - because this is where the learning is stored, not in the input output X, Y values.</p>
 
 
-<h3>Training</h3>
+<center><h3>Training</h3></center>
 <p>
 As you may have guessed the actually training happens within the loop, L0 = X because it is the first layer, remember that X has four input values(rows) but we process them at the same time. This is called full batch training, you don't need to know anything else other than more complex models break it down at row level.</p>
 <p>
 <b>l1 = nonlin(np.dot(l0,syn0)) </b> is our step where we perform predictions. Basically we take a stab then adjust each iteration. The equation takes the dot product of l0 and syn0 (in this case multiplies them) then passes the result through the sigmoid function. This is a bit complicated and i definitely recommend more study as you go, but for now this is a matrix multiplication of layer0 (i.e. input) by our weights.
 	</p>
 
-<h3>Quantifying the Error</h3>
+<center><h3>Quantifying the Error</h3></center>
 <p>
 Our value l1 represents a 'stab' at each of our inputs, we now subtract the actual output value (y) from this guess. The results is either positive or negative, i.e. the difference represents how much we missed by for our four inputs and represented as a vector.<p>
 <p>
 
-<h3>Course correcting</h3>
+<center><h3>Course correcting</h3></center>
 <p>
 This is quite tough to grasp without a background in calculus, I will explain the basic principle here then go into more detail at the end in the theory section (that may be a work in progress). Generally we want to preserve the state of high confidence predictions and banish the low confidence guesses. This is what multiplying the slope by the error does.</p>	
 
 <center><H1>aaaaaaaand we are done!</H1></center>
-<p>Ok, that was a lot to take in! For now read over the notes a few times until you are comfortable. Next week I will pick up on a three layer neural network (with the magic sauce - back propagation). <br>
+<p>Ok, that was a lot to take in! For now read over the notes a few times until you are comfortable. If you got this far, seriously a huge well done - you have built your first network that statistically converges on the right model - independently, pretty neat eh? This is what machine learning is all about! Next week I will pick up on a three layer neural network (with the magic sauce - back propagation). <br>
 	Many thanks for reading, please like or share below if you want to see more. 
 </p>
 
