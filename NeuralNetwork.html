@@ -71,52 +71,116 @@
 					<article id="Blog">
 
 <center> <h2> ....In as few lines of code as possible</h2></center>
-<a style = "font-size:110%;color:silver" href = "#chapter2"> <i> Skip Intro</i></a>. <br><br>
 
+<br></br>
+<a style = "font-size:110%;color:silver" href = "#chapter2"> <i> Take me to the code</i></a>. <br><br>
+<b>
 <p>
-Right now in 2017 its fair to say that machine learning A.I. is arguable the hottest topic in the world of technology and computing. Some of the biggest companies to the most innovative start ups are investing heavily in A.I and already are seeing the benefits, for example google have been able to reduce the amount of energy their data centres consume (about 40% reduction) by enabling deep mind A.I Neural Nets, to manage power flow - by being predictive rather than reactive to demand.
+AI, Deep learning and Neural nets are all buzzwords these days and it can be quite intimidating given the rapid growth and interest in the area. I am going to solve this in two code dumps (one if you are in a hurry). Because you are already here, I am going to assume you don't need any convincing of the vast potential of Neural Networks, but if you do - click the top title to jump to my home page where there are lots of articles I have written on the merits of Neural Nets. 
 </p>
 
-
 <p>
-To be clear these new A.I can do more than manage power.. A LOT MORE. Unlike previous tailored algorithms, new breed A.I. are not limited to niche tasks, adoption is rapidly spreading in manufacturing, medicine, research, finance and banking. Even if technological progress was to run to a complete halt today, A.I is still in the embryonic stages of rolling out to the mainstream, when it does it will have seismic effects around the globe and prove disruptive in all fields - and that is putting it lightly.  <br><br>
-<center> <span class="image main"><img src="images/NN/NN.png" alt="Google Power Flow Chart using DNC as control" /></span><br>
-			<i> Snapshot of google's datacenter power output when AI management is switched on and off</i></center>
-	<br>
- Andrew Ng, professor at Stanford University and chief scientist at Baidu Research has said “A.I is the new electricity”.  Since we are on the hype train, lets take a moment to consider the following. <p>
-
-<div id="quote"><center>
-<b style = "font-size:120%;color:#4286f4;">
-“Around 15 years ago massive viral marketing campaigns around the world targeted  companies to 'get online’. This was a big sign it was really happening and represented the transformation of internet adoption. This where we are with A.I right now”
+	If you stick with me for the first code dump (30 lines) you will understand the core concept of how a Neural Network is used to build predictive models. If you are still around near halfway down the page for the second code dump (50 ~ lines) then you will see the hidden sauce which makes DeepLearning and Neural networks the hype they are today - backwards propagation.
+</p>
 </b>
-</center>
-<br> <br>
-</div>
+
+<center> <span class="image main"><img src="images/bg9.jpg" alt="Neural Networks" /></span><br>
+			<i>Neural Networks exist both in nature (the structure of neurons in your brain) and in software - the digital imitation of this process</i></center><br></br>
+
 
 <p>
-Neural Networks represent the most recent block added to the A.I pyramid, and are responsible for driving both the renewed and almost psychotic like hype in A.I as well as solving problems that have either eluded specialists for decades or were just considered impossible. 
-<br>
- Yet whilst Neural Networks (NNs) are arguably the pinnacle of A.I. progress, they are only good at learning and mastering a certain field. Such as self driving cars, chat bots and predicting the weather. We are still a long way away from Artificial General Intelligence (AGI) - that is being able to apply learning gained in one subject to another completely different subject. If a computer is able to learn how to talk to a human like Siri, drive a car independently and then use these learnings to say teach someone verbally how to drive a car - this would represent the holy grail in machine learning.
- </p>
-
-
- 							<i> Enter the Differentiable Neural Computer.... </i><br> <br>
-
-
-								<center>	<div id = "chapter2"> <h2>Chapter 2 <br> Moving towards A General Purpose A.I</h2> </div> </center>
-
-<br><br>
-<p>The Differentiable Neural Computer model came from deep mind a few months ago, and is the successor to the Turing machine. This is a relatively complex model but fear not, I will do my best to break it down into digestible parts.  The  core problem faced by the deep learning team is how to create a more general purpose learning machine - and that is the pretext for building this model.  </p>
-
- 	<center> <span class="image main"><img src="images/dnc/dnc.jpg" alt="" /></span><i> The far left represents a standard neural network, from the heads column moving to the right - represents the external memory which is the key difference from other neural Network architectures.</i></center><br><br>
-
-
-The problem with neural networks are that they are made to focus on a single task or whatever you train it on. You can’t use the same neural network that learned to recognise music to learn to navigate say the London Underground. <br>
-
-The DNN is a neural network with an external memory store, so it has two parts - the controller which is normal NN , like a feed forward net or a recurrent net or anyone you want. Then you have the memory bank, which is an external matrix, the controller interacts with the memory bank using heads which is read write operations. Takes an input, propagates it through the network, and simultaneously writes to the matrix to both write what it learned and read from the past time steps to look for useful info to help it with its prediction.
+All the code here is in Python, I suggest you use an IDE like pycharm but if you are up for learning new things then Jupyter notebook is the way to go (it's what I wrote this blog in).
 </p>
 
 
+
+
+											<center><h2> NETWORK PRINCIPLE</h2></center>
+
+<p>
+The image below shows a list of input/output relationships.<br>
+
+In the source code below, we are going to try and predict the output values by allowing the network to tune itself in the direction of the actual output so that the NN arrives at the answer independently. What we have in the end is a tuned 'model'.<br>
+
+Imagine you are trying to predict the output given the inputs, in this case there is a perfect correlation.
+
+</p>
+
+<center> <span class="image main"><img src="images/NN/NET.JPEG" alt="Input Output Matrix" /></span><br>
+			<i>Above is a table of input output parameters. You can think of this as each row being a training case for the networ, where it has to work out the output given a set of inputs</i></center><br></br>
+
+<p>Models are necessery for applications in real life, for example, if this was a fraud engine the model would give us a probability of fraud given certain input parameters. In this case, the outputs 1 would be fraud and 0 would be instances of no fraud. Of course this model would be far too simple, but the basic principles are the same.
+</p>
+
+<br></br>
+<br></br>
+
+											<center><h2> Lets build a 2 Layer Neural Network</h2></center>
+
+
+<p>
+	Lets go straight to the code, I will explain the key steps afterwards. This network performs forward propagation, basically there are two layers at each layer calculations are performed on nodes to steer in the direction of desired values.
+</p>
+
+
+
+<pre><code><white>import <blue>numpy</blue> as np
+
+
+<green>#SIGMOID FUNCTION </green>
+<green>def</green> <blue>sigmoid</blue>(x,deriv=<green>False</green>): <green># deriv is a trigger we set based upon the function boolean passed in</green> 
+    <green>if</green>(deriv==<green>True</green>):
+        <green>return</green> x*(1-x)
+    <green>return</green> 1/(1+np.exp(-x))
+
+X = np.array([  [<green>0</green>,<green>0</green>,<green>1</green>],
+                [<green>1</green>,<green>1</green>,<green>1</green>],
+                [<green>1</green>,<green>0</green>,<green>1</green>],
+                [<green>0</green>,<green>1</green>,<green>1</green>] ])
+
+
+y = np.array([[<green>0</green>,<green>1</green>,<green>1</green>,<green>0</green>]]).T <green># TRANSPOSE IT</green>  
+
+<green># seed random numbers to make calculation
+# deterministic (just a good practice)</green>
+np.random.seed(<green>1</green>)
+
+syn0 = 2*np.random.random((<green>3</green>,<green>1</green>)) - <green>1</green>    <green>#synaptic weigths </green>
+
+
+<green>for iter in range</green>(<green>10000</green>):
+    
+    
+    <green>#forward propagate</green>
+    l0 = X
+    l1 = sigmoid(np.dot(l0,syn0))
+
+    
+    <green>#how much did we miss by? </green>
+    l1_error = y - l1
+    
+    
+    
+    <green># MULTIPLY THE AMOUNT WE MISSED BY THE
+    # SLOPE OF THE SIGMOID AT THE VALUES IN L1</green>
+    l1_delta = l1_error * sigmoid(l1,True)
+    
+    
+    <green>#update weights</green> 
+    syn0 += np.dot(l0.T,l1_delta)
+    
+    
+<green>print</green>(<red>"training complete"</red>)
+<green>print</green>(l1)
+</white></code></pre>
+
+
+
+
+
+
+<br></br>
+<br></br>
 <div id="quote"><center>
 <b style = "font-size:220%;color:orange">“This DNC is working towards achieving meta learning, in other words - learning to learn. This is the edge of deep learning”
 </b>
@@ -224,7 +288,7 @@ Tweet</a></div>
 			</div>
 
 		<!-- **************************background picture goes here *********************************************** -->
-			<div id="bg16"></div>
+			<div id="bg17"></div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
