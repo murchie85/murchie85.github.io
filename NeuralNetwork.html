@@ -215,8 +215,8 @@ Some things to consider in our 30 lines of code that we ran:<br>
 <ol>
 <li>Our network ran 10000 times</li>
 <li>Each time L1 got closer and closer to the predicted values (try printing l1 in the loop)</li>
-<li>The most important part is l1_delta = l1_error * nonlin(l1,True), this is slope of sigmoid more on this in another blog, but the bigger the slope the further away we are from the answer</li>
-<li>This part (syn0 += np.dot(l0.T,l1_delta)) of the code is the actual end game, it is where we update our weights i.e. this is building our model. In the future if applied in a real life context, it would be the part that takes any input you give it and predict an output</li></ol>
+<li>The most important part is <b> l1_delta = l1_error * nonlin(l1,True), </b> this is slope of sigmoid more on this in another blog, but the bigger the slope the more certain the prediction.</li>
+<li>This part <b>(syn0 += np.dot(l0.T,l1_delta))</b> of the code is the actual end game, it is where we update our weights i.e. this is building our model. In the future if applied in a real life context, it would be the part that takes any input you give it and predict an output</li></ol>
 <br><br>
 
 <center><h2>BREAKING IT DOWN</h2></center>
