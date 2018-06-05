@@ -29,7 +29,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12&appId=1751839964842666&autoLogAppEvents=1';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -54,6 +54,7 @@
 
 
 
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -72,9 +73,14 @@
 
 <center> <h2> ....In as few lines of code as possible</h2></center>
 
+
 <br></br>
-<a style = "font-size:110%;color:silver" href = "#chapter2"> <i> Take me to the code</i></a>. <br><br>
-<b>
+<a style = "font-size:110%;color:silver" href = "#codesection"> <i> Take me to the code</i></a>. <br><br>
+<div>
+<a class="twitter-share-button"
+  href="https://murchie85.github.io/NeuralNetwork.html">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/startupsAI.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 <p>
 AI, Deep learning and Neural nets are all buzzwords these days and it can be quite intimidating given the rapid growth and interest in the area. I am going to solve this in two code dumps (one if you are in a hurry). Because you are already here, I am going to assume you don't need any convincing of the vast potential of Neural Networks, but if you do - click the top title to jump to my home page where there are lots of articles I have written on the merits of Neural Nets. 
 </p>
@@ -82,7 +88,7 @@ AI, Deep learning and Neural nets are all buzzwords these days and it can be qui
 <p>
 	If you stick with me for the first code dump (30 lines) you will understand the core concept of how a Neural Network is used to build predictive models. If you are still around near halfway down the page for the second code dump (50 ~ lines) then you will see the hidden sauce which makes DeepLearning and Neural networks the hype they are today - backwards propagation.
 </p>
-</b>
+
 
 <center> <span class="image main"><img src="images/bg9.jpg" alt="Neural Networks" /></span><br>
 			<i>Neural Networks exist both in nature (the structure of neurons in your brain) and in software - the digital imitation of this process</i></center><br></br>
@@ -115,7 +121,7 @@ Imagine you are trying to predict the output given the inputs, in this case ther
 <br></br>
 <br></br>
 
-											<center><h2> Lets build a 2 Layer Neural Network</h2></center>
+											<center><h2 id = "codesection"> Lets build a 2 Layer Neural Network</h2></center>
 
 
 <p>
@@ -174,102 +180,110 @@ syn0 = 2*np.random.random((<green>3</green>,<green>1</green>)) - <green>1</green
 <green>print</green>(l1)
 </white></code></pre>
 
-
-
-
-
-
+<center><h3> Output</h3></center>
+<pre><code><white>training complete
+[[ 0.00966449]
+ [ 0.99211957]
+ [ 0.99358898]
+ [ 0.00786506]]
+</white></code></pre>
 <br></br>
-<br></br>
-<div id="quote"><center>
-<b style = "font-size:220%;color:orange">“This DNC is working towards achieving meta learning, in other words - learning to learn. This is the edge of deep learning”
-</b>
-<i>Siraj Raval</i></center>
-<br> <br>
-</div>
 
-But what Deep mind did was apply it to the London Underground.  The first thing they did was generate lots of random graphs. Subway systems are all graphs, they have nodes and are all connected, so they gave it a bunch of graphs with handcrafted inputs including labels - so its a supervised learning problem. The labels would be different paths from point A to B. After they trained it on randomly generated graphs, then they applied it to the actual London Underground. If you said point a to b, it would find the optimal path. You could do this already with a recurrent network a LSTM network.
 
-</p>
+
+<center><h2>WAIT....what just happened?</h2></center>
+Note the actual outputs from the table above are:<br><br>
+<b>   0</b><br>
+<b>   1</b><br>
+<b>   1</b><br>
+<b>   0</b><br><br>
+
+Our network got:<br><br>
+<b>   0.00966449</b><br>
+<b>   0.99211957</b><br>
+<b>   0.99358898</b><br>
+<b>   0.00786506</b><br><br></br>
+
+
+<h3>We did it!</h3>
 <p>
-	<center><i>What was really cool then?</center></i><br><br>
+If you round these numbers, you get <b><i>0,1,1,0</i></b> - basically our network has converged statistically to the correct answers. It will never reach 1 nor 0, but the distinction is so obvious that in practice there is no difference.</p>
 
-	Then they added a question answering system, natural language was added. Not only did they train it on the London Underground path, they added natural language. They trained it first on randomly generated graphs then on a text database which was a question answer database. Then associated both, so then you could ask it “hey what’s the best way to get from point A to B , because it had this external memory story which had the previous learning graphs it was able to apply those. <br>It learned to optimise for one data set, then another and associate the two. This was a text database, it learned to associate questions with answers, then associate that to the london underground map. This is because it had the external memory store which allowed it to apply the map problem to the spoken questions.
+<center><h2>OK, WHAT ARE ALL THOSE VARIABLES ABOUT THEN?</h2></center>
 
-</p>
+<p>Below is a quick break down of some of the variables used,further down is a more definitive description of what just happened lol.</p>
+<center> <span class="image main"><img src="images/NN/description.png" alt="A breif overview of variables used" /></span><br>
+			<i>Above is a brief breakdown of some of the variables and functions used, I will give more details below.</i></center><br></br>
 
+<center><h2>IN A NUTSHELL</h2></center>
+Some things to consider in our 30 lines of code that we ran,<br>
 
- 	<center> <span class="image main"><img src="images/dnc/3.jpg" alt="" /></span></center>	<br><br>
-
-<p>
-In theory you could apply this to anything such as a subset of images with their labels, then something entirely unrelated. So you could ask, what kind of sound could this cat make it looks at the cat then sound files. It is not perfect nor is it AGI, but its a step in the right direction. It is called a computer because a standard computer has a processor and memory, at the kernel level anytime you perform actions the RAM preloads instructions which is fed to the CPU that takes the instructions, decodes it then executes it one step at a time and repeats the process. This process is called the instruction cycle, that is Von Neuman architecture and is the hall mark of computational science. GPUs are a different story and will be covered later.   
-<br> <br>
-This may also be a framework for also building hardware, “ if we switch our thinking from serially decoding instructions, to instead learning from instructions at the kernel/hardware level we could produce some interesting results”. There are people working on this, but it will be inspiring to think about the successor of to the Von Neuman architecture and Silicon medium for computing. 
-</p>
-
-											<center><h2> More DNC Applications</h2></center>
-<p>
- Another example of deep mind’s practical implementation by associating two different data types was with understanding complex family tree relations. They first fed it some associations with text descriptions as shown in the video below. 
-<br> <br>
-<center>
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9U8sI7TcMY" frameborder="0" allowfullscreen=""></iframe>
-</div>
-</center>
-</p>
-<p>
- Layers of complexity were added incrementally, adding more branches to the family tree.<br><br>
-
- 	<center> <span class="image main"><img src="images/dnc/6.jpg" alt="" /></span></center>	
-</p>
-<p>
-These were a group of Natural language text associations. But, then after building up the tree, you could ask a TEXT QUESTION which related to an unspecified connection i.e. when building up the tree, there were only a certain number of connections mentioned i.e. Charlotte is the mother of Jo, but we did not say explicitly who is Freya’s maternal great uncle.<br><br>
-	<center> <span class="image main"><img src="images/dnc/7.jpg" alt="" /></span></center>	
-</p>
-											
-
- <p>
-When asking this question, it was able to use the optimised graph solution, but also using the optimised natural language solution together. Normally this wouldn't to be possible by any conventional machine learning algorithm or neural network.  if you have seen something like Siri where someone asks a question similar, what is actually happening is simply an internet search. The possibilities for tying together two neural networks in a way they can learn from each other holds many great possibilities in store.<br><br>
-
- So using an external memory store sounds like a simple concept, but had never been fully implemented, Facebook did have dynamic memory network and there was also the neural Turing machine but the DNC has been the first successful implementation.
-Whilst you may say, “wait a minute neural networks already have memory” - this is true but the memory acts as the weights and is interpolated so tightly with the processing But having the memory detached allows for magical results. 
-</p>
-
-<center><h2>Further Reading</h2></center>
-<p>	
-<ol>
-<li><a href="https://deepmind.com/blog/differentiable-neural-computers/" style="color:orange;">The Differentiable Neural Computer - DeepMind</a>
-</li>
-
-<li><a href="https://www.theverge.com/2016/7/21/12246258/google-deepmind-ai-data-center-cooling" style="color:orange;">Google's Deepmind Data Center Cooling</a>
-</li>
-
-<li><a href="https://www.youtube.com/watch?v=r5XKzjTFCZQ&t=752s" style="color:orange;">Siraj Raval - full DNC walkthrough </a>
-</li>
-</ol>
-
-	<center> <span class="image smaller"><img src="images/blog/dnc.jpg" alt="" /></span></center>
-<br><br>
-Many thanks for reading, please like or share below if you want to see more. 
-</p>
-
-
-
-
-
-
-
-<div>
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=The%20Differentiable Neural Computer">
-Tweet</a></div>
-
-<br><strong> Adam McMurchie  28/May/2017 </strong>
+<li>Our network ran 10000 times</li>
+<li>Each time L1 got closer and closer to the predicted values (try printing l1 in the loop)</li>
+<li>The most important part is l1_delta = l1_error * nonlin(l1,True), this is slope of sigmoid more on this in another blog, but the bigger the slope the further away we are from the answer</li>
+<li>This part (syn0 += np.dot(l0.T,l1_delta)) of the code is the actual end game, it is where we update our weights i.e. this is building our model. In the future if applied in a real life context, it would be the part that takes any input you give it and predict an output</li>
 <br><br>
 
+<center><h2>BREAKING IT DOWN</h2></center>
+<h3>What's a sigmoid?</h3>
+
+<center> <span class="image main"><img src="images/NN/sigmoidf.png" alt="A breif overview of variables used" /></span><br>
+			<i>^^ that's it (don't worry if you don't get it)</i></center><br></br>
+
+<p>
+Remember the bit in our code which said sigmoid? It was a non linear function, and does pretty much what the graph shows you above, it maps any of our numbers to a range between 0 and 1 i.e. 90 might be 0.87 and 12 might be 0.14. This allows us to convert numbers to probabilities.</p>
+<p>
+Without going into to much detail, for our l1 we apply the sigmoid for probabilities but later we need to work out how much our error is (that is the slope of the graph). If you remember from calculus classes, to work out the slope you need to take the derrivative (hence how our funcion also can return the derivitive if we ask it to) and indeed we do when we work out the l1_delta.</p>
+
+<h3>Why seed random values?</h3>
+<p>
+By seeding the numbers we get a random distribution, but each time round they are randomly distributed in the same way each time we train the network. This makes it easier for us to see how our changes impact on the network.</p>
+
+<h3>synaptic weights (syn0) </h3>
+<p>
+In neuroscience and computer science, synaptic weight refers to the strength or amplitude of a connection between two nodes, corresponding in biology to the amount of influence the firing of one neuron has on another.<p>
+<p>
+In our code this is quite analogous, this is our weight matrix for our neural network that we called syn0. Basically it is saying it is the zeroth synapse, if we had more layers we would have more synapses (like we do in the second part of this tutorial with syn0 for our three layer network).
+</p>
+<p>
+To break it down a bit more, we made only two layers (input and output) so we need only one matrix of weights to connect them. That matrix is size (3,1) because we have three inputs and one outputs. It needs to multiply each value by a certain amount so needs to connect to each one, hence the size (3,1).
+</p>
+<p>
+Since we have size L0 = 3 and size L1 = 1 so we need shape syn0 = (3,1)
+</p>
+<p>
+Some final points, we initialize syn0 randomly, and it should get updated over time - because this is where the learning is stored, not in the input output X, Y values.</p>
 
 
-<div class="fb-like" data-href="https://murchie85.github.io/dnc.html" data-width="12" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<h3>Training</h3>
+<p>
+As you may have guessed the actually training happens within the loop, L0 = X because it is the first layer, remember that X has four input values(rows) but we process them at the same time. This is called full batch training, you don't need to know anything else other than more complex models break it down at row level.</p>
+<p>
+<b>l1 = nonlin(np.dot(l0,syn0)) </b> is our step where we perform predictions. Basically we take a stab then adjust each iteration. The equation takes the dot product of l0 and syn0 (in this case multiplies them) then passes the result through the sigmoid function. This is a bit complicated and i definitely recommend more study as you go, but for now this is a matrix multiplication of layer0 (i.e. input) by our weights.
+	</p>
+
+<h3>Quantifying the Error</h3>
+<p>
+Our value l1 represents a 'stab' at each of our inputs, we now subtract the actual output value (y) from this guess. The results is either positive or negative, i.e. the difference represents how much we missed by for our four inputs and represented as a vector.<p>
+<p>
+
+<h3>Course correcting</h3>
+<p>
+This is quite tough to grasp without a background in calculus, I will explain the basic principle here then go into more detail at the end in the theory section (that may be a work in progress). Generally we want to preserve the state of high confidence predictions and banish the low confidence guesses. This is what multiplying the slope by the error does.</p>	
+
+<center><H1>aaaaaaaand we are done!</H1></center>
+<p>Ok, that was a lot to take in! For now read over the notes a few times until you are comfortable. Next week I will pick up on a three layer neural network (with the magic sauce - back propagation). <br>
+	Many thanks for reading, please like or share below if you want to see more. 
+</p>
+
+
+
+<br><strong> Adam McMurchie  <br></br>06/June/2018 </strong>
+<br><br>
+<br><br>
+
+
+
 
 		<!-- **************************footer picture goes here *********************************************** -->
 
