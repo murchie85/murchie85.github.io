@@ -125,11 +125,11 @@ Imagine you are trying to predict the output given the inputs, in this case ther
 
 
 
-<pre><code><white>import <blue>numpy</blue> as np
+<pre><code><white>import <purple>numpy</purple> as np
 
 
 <green>#SIGMOID FUNCTION </green>
-<green>def</green> <blue>sigmoid</blue>(x,deriv=<green>False</green>): <green># deriv is a trigger we set based upon the function boolean passed in</green> 
+<green>def</green> <purple>sigmoid</purple>(x,deriv=<green>False</green>): <green># deriv is a trigger we set based upon the function boolean passed in</green> 
     <green>if</green>(deriv==<green>True</green>):
         <green>return</green> x*(1-x)
     <green>return</green> 1/(1+np.exp(-x))
