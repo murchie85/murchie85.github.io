@@ -264,7 +264,13 @@ Our value l1 represents a 'stab' at each of our inputs, we now subtract the actu
 
 <center><h3>Course correcting</h3></center>
 <p>
-This is quite tough to grasp without a background in calculus, I will explain the basic principle here then go into more detail at the end in the theory section (that may be a work in progress). Generally we want to preserve the state of high confidence predictions and banish the low confidence guesses. This is what multiplying the slope by the error does.</p>	
+This is quite tough to grasp without a background in calculus, I will explain the basic principle here then go into more detail at the end in the theory section (that may be a work in progress). Generally we want to preserve the state of high confidence predictions and banish the low confidence guesses. This is what multiplying the slope by the error does.<br></br>
+
+<center> <span class="image main"><img src="images/NN/sigmoid-deriv-2.png" alt="Sigmoid function" /></span><br>
+
+If you look at the sigma graph, any value on the curve that is close to Y = 1 or Y = 0 will have a shallow slope. The slope is at the steepest in the middle, (in fact taking the slope of the sigma curve is what differentiating means). <br>
+So in our code we have <code>l1_delta = l1_error * nonlin(l1,True)</code> and <code>l2_delta = l2_error * nonlin(l2,True)</code>, in both of these cases we are saying, if the curve is shallow, then the number will be close to 0 and thus the delta will be small. The end game is to reduce the detla, so the model is as accurate as possible. The final step where we update our weights, is the learning process and this of course involves replicating delta!! 
+</p>	
 
 <center><H1>aaaaaaaand we are done!</H1></center>
 <p>Ok, that was a lot to take in! For now read over the notes a few times until you are comfortable. If you got this far, seriously a huge well done - you have built your first network that statistically converges on the right model - independently, pretty neat eh? This is what machine learning is all about! Next week I will pick up on a three layer neural network (with the magic sauce - back propagation). <br>
