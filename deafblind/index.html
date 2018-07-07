@@ -16,8 +16,6 @@
 
 
 
-
-
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 <link rel="stylesheet" href="css/animate.css">
@@ -31,6 +29,44 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
+
+
+
+
+<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0&appId=1751839964842666&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+
+
 <div class="wrapper">
   <div class="container">
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -66,7 +102,13 @@
             <a href="#" class="btn btn-action wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Learn More</a> </div>
         </div>
       </div>
+      <div>
+<a class="twitter-share-button"
+  href="https://murchie85.github.io/NeuralNetwork.html">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/NeuralNetwork.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div><br>
     </div>
+
    <!-- Classes Section -->
     <div class="pitch text-center" id="Objectives">
       <div class="container">
