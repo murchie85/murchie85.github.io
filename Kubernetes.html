@@ -197,7 +197,7 @@ CMD node server.js
 <p>Now lets build our docker image, don't forget to copy the trailing dot below or it won't work.</p>
 
 <center><h3>Build Docker Image</h3></center>
-<pre><code><white>docker build -t myfirstPod:v1 
+<pre><code><white>docker build -t myfirstpod:v1 .
 </white></code></pre>
 
 <p>Finally lets check our Minikube docker registry is up and running by connecting and having a look at our images.</p>
@@ -213,8 +213,8 @@ CMD node server.js
 <br><br>
 <p>For clarify a Kubernetes Pod is a collection of containers, in this case we are just using one Docker container, but wrapping them up in a deployment pod makes it more logically efficient. If a cointaier/pod was to fail or terminate - Kubernetes automatically spins up a new one! <b>Note</b> in the instructions below, we specify in the flag to not pull from native docker registry  - this means we are sticking to using our Minikube registry</p>
 
-<center><h3>Build myfirstPod Deployment</h3></center>
-<pre><code><white>kubectl run myfirstPod --image=myfirstPod:v1 --port=8080 --image-pull-policy=Never
+<center><h3>Build myfirstpod Deployment</h3></center>
+<pre><code><white>kubectl run myfirstpod --image=myfirstpod:v1 --port=8380 --image-pull-policy=Never
 </white></code></pre>
 <br><br>
 
@@ -236,7 +236,7 @@ CMD node server.js
 
 
 <center><h3>Expose Deployment</h3></center>
-<pre><code><white>kubectl expose deployment myfirstPod --type=LoadBalancer
+<pre><code><white>kubectl expose deployment myfirstpod --type=LoadBalancer
 </white></code></pre>
 <br><br>
 
@@ -249,7 +249,7 @@ CMD node server.js
 
 
 <center><h3>Start service</h3></center>
-<pre><code><white>minikube service myfirstPod 
+<pre><code><white>minikube service myfirstpod 
 </white></code></pre>
 <br><br>
 
@@ -273,12 +273,12 @@ CMD node server.js
 
 
 <center><h3>Build a new version of your image</h3></center>
-<pre><code><white>docker build -t myfirstPod:v2 .
+<pre><code><white>docker build -t myfirstpod:v2 .
 </white></code></pre>
 <br><br>
 
 <center><h3>Update the image of your Deployment</h3></center>
-<pre><code><white>kubectl set image deployment/myfirstPod myfirstPod=myfirstPod:v2
+<pre><code><white>kubectl set image deployment/myfirstpod myfirstpod=myfirstpod:v2
 </white></code></pre>
 <br><br>
 
@@ -286,7 +286,7 @@ CMD node server.js
 <p> Finally lets run the app again, and view the message to ensure it has updated (and in fact our new version is running).</p>
 
 <center><h3>Run the Service</h3></center>
-<pre><code><white>minikube service myfirstPod
+<pre><code><white>minikube service myfirstpod
 </white></code></pre>
 <br><br>
 
@@ -296,13 +296,13 @@ CMD node server.js
 <p> Seriously you have done very very well to get this far, give yourself a pat on the back! Now its time to clear up our resources, and tear down our Kubernetes environment. You may want to retain the images for later - but I always find doing a full delete after a tutorial is important if you want to save space.</p>
 
 <center><h3>Delete Service and Deployment</h3></center>
-<pre><code><white>kubectl delete service myfirstPod
-kubectl delete deployment myfirstPod
+<pre><code><white>kubectl delete service myfirstpod
+kubectl delete deployment myfirstpod
 </white></code></pre>
 <br><br>
 
 <center><h3>Remove Docker image</h3></center>
-<pre><code><white>docker rmi myfirstPod:v1 myfirstPod:v2 -f
+<pre><code><white>docker rmi myfirstpod:v1 myfirstpod:v2 -f
 </white></code></pre>
 <br><br>
 
