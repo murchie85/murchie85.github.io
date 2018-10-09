@@ -214,7 +214,7 @@ CMD node server.js
 <p>For clarify a Kubernetes Pod is a collection of containers, in this case we are just using one Docker container, but wrapping them up in a deployment pod makes it more logically efficient. If a cointaier/pod was to fail or terminate - Kubernetes automatically spins up a new one! <b>Note</b> in the instructions below, we specify in the flag to not pull from native docker registry  - this means we are sticking to using our Minikube registry</p>
 
 <center><h3>Build myfirstpod Deployment</h3></center>
-<pre><code><white>kubectl run myfirstpod --image=myfirstpod:v1 --port=8380 --image-pull-policy=Never
+<pre><code><white>kubectl run myfirstpod --image=myfirstpod:v1 --port=8080 --image-pull-policy=Never
 </white></code></pre>
 <br><br>
 
