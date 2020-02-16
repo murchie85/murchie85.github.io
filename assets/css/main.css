@@ -4722,7 +4722,29 @@ color: #9ACD32;
 }
 
 	
-
+/* This gets Google to fall into place */
+.social-share {
+	font-size: 1px;
+}
+ 
+/* This gets Facebook to fall into place */
+.social-share iframe {
+	vertical-align: bottom;
+	
+}
+.fb-share-button{
+ margin-right:20px;
+}
+/* Set an optional width for your button wrappers */
+.social-share span {
+	display: inline-block;
+	width: 110px;
+}
+ 
+/* Adjust the widths individually if you like */
+.social-share .google {
+	width: 75px;
+}
 
 
 /* Footer */
