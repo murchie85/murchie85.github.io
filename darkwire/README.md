@@ -29,9 +29,9 @@ The most popular user is: **MrsBundrige**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MrsBundrige: How old were you when you began seeing your parents as people and not as a “parental entity”? But as a person with needs,… |
-| RT @TimeScreen1: Sony has launched a bug-bounty program to reward people who discover and report security vulnerabilities affecting PS4 and… |
-| Lucifer: Devilish malware that abuses critical vulnerabilities on Windows machines https://t.co/QFayqrbnef |
+| Millions of IoT Medical Devices Impacted by Ripple20 Vulnerabilities https://t.co/CNegXiznm4 via @SecurityHIT #IoT… https://t.co/z5WzuOt7MU |
+| RT @MilanV: .@pbmehta: "How did India, in its quest for global prestige, manage to lose its own neighbourhood? Our major vulnerabilities ar… |
+| RT @siennawebdesign: #WooCommerce &lt; 4.2.1 - Potential Cross-Site Scripting (#XSS) via #SelectWoo https://t.co/CpJAj93Puu |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -60,12 +60,12 @@ The most popular user is: **MrsBundrige**
 ## Twitter Bio Analysis![image](assets/Vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/Vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MariusNestor: Canonical Releases #Security Updates for #Linux Kernel and #Nvidia Vulnerabilities in #Ubuntu 20.04 LTS, 19.10 and 18.04… |
+|RT @CLManussier: @Skaadenfroid @NickFalacci @ritalangill @kylegriffin1 It may be difficult, but to secure the future, we will probably need… |
 
 ### MOST RETWEETED 
 
@@ -218,7 +218,7 @@ Please follow i will follow back
  
 `Followers?: `17 
  
-`Following?:` 350 
+`Following?:` 351 
  
 `User URL?:` None 
  
@@ -452,7 +452,7 @@ RT @three_cube: Network Basics for Hackers, Domain Name System: Theory, Vulnerab
  
 `User Description?:` Katya,Adore Delano,Trixie, Valentina, Shea Couleé, Bianca Del Rio 
  
-`Followers?: `19 
+`Followers?: `18 
  
 `Following?:` 84 
  
@@ -1222,7 +1222,7 @@ RT @SIGARHQ: Afghanistan’s numerous unique vulnerabilities—weak health care 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1274035727886512134/gihIFmwp_normal.jpg 
  
-`Number of tweets excluding replies:` 2600 
+`Number of tweets excluding replies:` 2606 
  
 
  
@@ -1230,7 +1230,7 @@ RT @SIGARHQ: Afghanistan’s numerous unique vulnerabilities—weak health care 
  
 ## User Top tweeted words 
  
-**TRUMP** 40 , **@CONTENTEDINDIE** 14 , **@CONTENTEDINDIE:** 13 , **@BETOOROURKE** 13 , **@REESETHEONE1** 12 , **@GIRL46FAN** 12 , **DON'T** 11 , **THAN** 9 , **WARREN** 9 , **I'M** 8 , **PENCE** 8 , **ANYONE** 8 , **@REESETHEONE1:** 8 , **@SAINTMYSTIC:** 8 , **US** 8 , **@REALDONALDTRUMP** 8 , **MEDIA** 8 , **GOP** 7 , **TIME** 7 , **GO** 7 , 
+**TRUMP** 40 , **@CONTENTEDINDIE** 17 , **@CONTENTEDINDIE:** 13 , **@BETOOROURKE** 13 , **@REESETHEONE1** 12 , **@GIRL46FAN** 12 , **DON'T** 11 , **THAN** 9 , **WARREN** 9 , **GOP** 8 , **NEVER** 8 , **I'M** 8 , **PENCE** 8 , **ANYONE** 8 , **@REESETHEONE1:** 8 , **@SAINTMYSTIC:** 8 , **US** 8 , **BIDEN** 7 , **TIME** 7 , **TOO** 7 , 
  
 ## What this user tweeted
  
@@ -1421,11 +1421,11 @@ header/icon by : me
  
 `Location:` u n k n o w n | heart event  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 199 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1276978859645308928/UuwVhQQd_normal.jpg 
  
-`Number of tweets excluding replies:` 1266 
+`Number of tweets excluding replies:` 1272 
  
 
  
@@ -1433,7 +1433,7 @@ header/icon by : me
  
 ## User Top tweeted words 
  
-**:** 30 , **ELMER** 22 , **HE'S** 20 , **?** 16 , **I'M** 14 , **OH** 13 , **EDDIE** 13 , **•** 11 , **;** 9 , **AGAIN** 9 , **BACK** 8 , **❞** 8 , **ARLO** 7 , **!** 7 , **NEEDS** 7 , **SOME** 6 , **FUCKING** 6 , **DOESN'T** 6 , **SOMETHING** 6 , **SORRY** 6 , 
+**:** 32 , **ELMER** 22 , **HE'S** 20 , **?** 15 , **I'M** 14 , **EDDIE** 13 , **OH** 12 , **❞** 11 , **•** 11 , **;** 9 , **AGAIN** 9 , **BACK** 8 , **ARLO** 7 , **!** 7 , **NEEDS** 7 , **SOME** 6 , **FUCKING** 6 , **DOESN'T** 6 , **SOMETHING** 6 , **SORRY** 6 , 
  
 ## What this user tweeted
  
@@ -1468,7 +1468,7 @@ out with the vulnerabilities , he came at her throat full force ..
  
 `Profile image:` http://pbs.twimg.com/profile_images/1275527800318046208/a4PSssv6_normal.jpg 
  
-`Number of tweets excluding replies:` 714 
+`Number of tweets excluding replies:` 715 
  
 
  
