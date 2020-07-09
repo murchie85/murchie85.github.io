@@ -273,4 +273,306 @@ https://t.co/zk8zCDVOeP
  
 ## User Top tweeted words 
  
-**JAVASCRIPT** 73 , **PROGRAMMING** 42 , **100DAYSOFCODE** 25 , **PYTHON** 20 , **NODEJS** 17 , **DAY** 16 , **@WEBSYSTEMER:** 13 , 
+**JAVASCRIPT** 73 , **PROGRAMMING** 42 , **100DAYSOFCODE** 25 , **PYTHON** 20 , **NODEJS** 17 , **DAY** 16 , **@WEBSYSTEMER:** 13 , **CODING** 12 , **USING** 11 , **WORDPRESS** 11 , **CODE** 10 , **JS** 9 , **APP** 9 , **DEVELOPMENT** 9 , **WEB** 9 , **DEVCOMMUNITY** 9 , **CODENEWBIE** 9 , **DESIGN** 9 , **PROGRAMMER** 8 , **@P2P_DESIGN:** 7 , 
+ 
+## What this user tweeted
+ 
+RT @jeffery_omar1: Just "GoDeeper" ... 💪
+
+#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #Tens…RT @jeffery_omar1: What kind of language is that? 🙄
+
+#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #R…RT @jeffery_omar1: Best code if you use it in your life...
+
+#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Py…RT @1308arpitchaur1: How many all of you love this game 😂
+#StaySafe #CSS #Design #BigData #Analytics #DataScience #JavaScript #ReactJS #GoL…
+ 
+# Drew_CyberSNUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278848370597965824/pYbIi5FH_normal.jpg)
+ 
+`User ScreenName:` Drew_CyberSN 
+ 
+`User chosen Name:` Drew Crisan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 03 00:19:06 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `9 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:` Charlotte, NC 
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278848370597965824/pYbIi5FH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@CYBER_SN:** 1 , **PARTNER** 1 , **@YLVENTURES** 1 , **RELEASED** 1 , **CISO** 1 , **CURRENT** 1 , **REPORT** 1 , **Q2** 1 , **2020** 1 , **CHECK** 1 , **INSIGHT** 1 , **DISTINGUISHED** 1 , **CISO'…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @cyber_sn: Our partner @YLVentures just released The CISO Current Report for Q2, 2020. Check it out for insight from distinguished CISO'…
+ 
+# ankeshjha_jhaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278508185024749568/1bdqDzLE_normal.jpg)
+ 
+`User ScreenName:` ankeshjha_jha 
+ 
+`User chosen Name:` Ankesh Jha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 02 01:56:56 +0000 2020 
+ 
+`User Description?:` 𝓳𝓪𝓲🙏🙏🙏𝓶𝓪𝓱𝓪𝓴𝓪𝓪𝓵 🔱🔱🔱🕉🕉 
+ 
+`Followers?: `150 
+ 
+`Following?:` 121 
+ 
+`User URL?:` https://t.co/JL2MDEddTC 
+ 
+`Location:` Sarairanjan, India 
+ 
+`Number of tweets extracted`  : 145 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278508185024749568/1bdqDzLE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 146 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**की** 64 , **है** 54 , **के** 51 , **को** 46 , **में** 37 , **तो** 35 , **का** 31 , **से** 30 , **ऊँ** 28 , **और** 26 , **पर** 25 , **भी** 22 , **हर** 16 , **@RAJATSHARMALIVE:** 16 , **ही** 15 , **ने** 15 , **श्री** 13 , **जो** 13 , **आज** 12 , **@IMANISHKAPANDEY:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @CiscoIoT: Join us for a special webinar July 14th at 10AM PST with award-winning journalist @KimZetter! We'll be discussing critical in…
+ 
+# BenjaminGreeleyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1277959657324240901/bpzdq90l_normal.jpg)
+ 
+`User ScreenName:` BenjaminGreeley 
+ 
+`User chosen Name:` Benjamin C.E.O. Greeley 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 30 13:36:03 +0000 2020 
+ 
+`User Description?:` Emerging economy VC, Serial founder, @Cornell alum, outspoken small business advocate, social impact environmentalist, biomimicry/circular economy advocate. 
+ 
+`Followers?: `143 
+ 
+`Following?:` 1674 
+ 
+`User URL?:` https://t.co/yk1SxR1PYx 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1277959657324240901/bpzdq90l_normal.jpg 
+ 
+`Number of tweets excluding replies:` 477 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEED** 15 , **I’M** 11 , **PEOPLE** 10 , **STARTUPS** 8 , **MONEY** 8 , **DON’T** 7 , **ALWAYS** 6 , **GO** 6 , **ECONOMY** 6 , **DOES** 6 , **BACK** 5 , **EVEN** 5 , **FOUNDERS** 5 , **REALLY** 5 , **WORK** 5 , **JOBS** 5 , **DOESN’T** 4 , **STARTUP** 4 , **OPPORTUNITY** 4 , **@GEFENCODES** 4 , 
+ 
+## What this user tweeted
+ 
+Developing economy founders: progressive web apps. App Store. Cybersecurity. Go for it. Circumvent @apple
+ 
+# 100DaysOf2020USER INFO
+![image](http://pbs.twimg.com/profile_images/1281257721371582464/YKNSxIdQ_normal.jpg)
+ 
+`User ScreenName:` 100DaysOf2020 
+ 
+`User chosen Name:` #100DaysOfCode 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 09 15:47:45 +0000 2020 
+ 
+`User Description?:` 2020 Born
+Retweeting #100DaysOfCode | Admin @balveersinghyt 
+ 
+`Followers?: `9 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 71 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281257721371582464/YKNSxIdQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 71 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 40 , **100DAYSOFCODE** 20 , **BIGDATA** 20 , **DATASCIENCE** 20 , **ANALYTICS** 15 , **MACHINELEARNING** 13 , **JAVASCRIPT** 12 , **AI** 12 , **IOT** 12 , **RSTATS** 10 , **JAVA** 9 , **LEARNING** 9 , **@GP_PULIPAKA:** 8 , **IIOT** 8 , **DATA** 8 , **@CDWGWAGOV:** 7 , **…RT** 7 , **BUILD** 6 , **USING** 6 , **DEEPLEARNING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @necrohrt: https://t.co/fiIBMLl7xy
+✨🌀🌐👨‍💻
+
+Complete #Ethicalhacking Tools in a single repository
+More tools will be added
+Do contribute…RT @1308arpitchaur1: How many all of you love this game 😂
+#StaySafe #CSS #Design #BigData #Analytics #DataScience #JavaScript #ReactJS #GoL…
+ 
+# CB_BlueVoyantUSER INFO
+![image](http://pbs.twimg.com/profile_images/1280957388963659777/NJjVI9QN_normal.jpg)
+ 
+`User ScreenName:` CB_BlueVoyant 
+ 
+`User chosen Name:` Courtney Bardell 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 08 20:09:49 +0000 2020 
+ 
+`User Description?:` BlueVoyant provides Advanced Threat Intelligence, Managed Security Services, and Professional Services.
+
+https://t.co/VhAvDU4qJH 
+ 
+`Followers?: `11 
+ 
+`Following?:` 70 
+ 
+`User URL?:` https://t.co/NM4VlkxLRd 
+ 
+`Location:` College Park, Maryland 
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280957388963659777/NJjVI9QN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BLUEVOYANT:** 4 , **YOU'RE** 2 , **VIRTUAL** 2 , **MISS** 2 , **INTO** 2 , **ATTENDING** 2 , **US** 2 , **CYBERSECURITY** 2 , **THAN** 2 , **30** 2 , **NEW** 2 , **MANY** 2 , **DOESN'T** 1 , **MATTER** 1 , **WHERE** 1 , **LOCATED** 1 , **GOING** 1 , **EVENT!…** 1 , **HTTPS://TCO/1VAQ9IBQDNRT** 1 , **THREAT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlueVoyant: How can you take a threat actor’s view into your organization? Find out from our experts in the eBook: “Everything You Shou…
+ 
+# h0plynUSER INFO
+![image](http://pbs.twimg.com/profile_images/1278809988153012224/txAmC_vJ_normal.jpg)
+ 
+`User ScreenName:` h0plyn 
+ 
+`User chosen Name:` h0p 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jun 30 21:00:13 +0000 2020 
+ 
+`User Description?:` Ex-professional photographer studying software engineering. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 27 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 17 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1278809988153012224/txAmC_vJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 17 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DASHBOARD** 7 , **COVID19** 5 , **@FLATIRONSCHOOL** 4 , **@GA** 4 , **@HACKREACTOR** 4 , **API** 4 , **INTRO** 2 , **BREAK** 2 , **JAVASCRIPT** 2 , **THANKS** 2 , **BOOTCAMPS** 2 , **LAST** 2 , **WORK** 2 , **CALLS** 2 , **INTO** 2 , **COVID** 2 , **V** 2 , **HACKING** 1 , **101:** 1 , **CYBERSECURITY** 1 , 
+ 
+## What this user tweeted
+ 
+Did @FlatironSchool  Intro to Hacking 101: Intro to Cybersecurity this morning and meeting with a @GA SWE grad afte… https://t.co/5040ZkY3kI
+ 
+# ParthaP55965359USER INFO
+![image](http://pbs.twimg.com/profile_images/1279068144250699782/2Ouh1cxi_normal.jpg)
+ 
+`User ScreenName:` ParthaP55965359 
+ 
+`User chosen Name:` Partha Pratim Mitra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 03 14:43:24 +0000 2020 
+ 
+`User Description?:` Njoy Life 
+ 
+`Followers?: `0 
+ 
+`Following?:` 13 
+ 
+`User URL?:` None 
+ 
+`Location:` Kolkata 
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1279068144250699782/2Ouh1cxi_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TWEETIEEMA:** 6 , **WEBINAR** 3 , **POWER** 3 , **CABLES** 3 , **JULY** 3 , **8** 3 , **2:30** 3 , **PM** 3 , **REGISTER** 3 , **HERE:** 3 , **IEEMA** 3 , **JOIN** 2 , **IEEMA'S** 2 , **HTTPS://TCO/JHXPYLGMWQ** 2 , **RT** 1 , **SMARTMETER** 1 , **KEY** 1 , **COMPONENT** 1 , **AMI** 1 , **SYSTEM** 1 , 
+ 
+## What this user tweeted
+ 
+RT @tweetieema: #SmartMeter, a key component of the AMI System, how they stand prone to the threats of cyber-attack?
+Read about #CyberSecur…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
