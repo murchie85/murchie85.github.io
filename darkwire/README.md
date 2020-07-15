@@ -1779,3 +1779,721 @@ What digital asset concept has the most interesting prospec…
 **@COINKIT_** 21 , **@CELSIANS:** 20 , **MON** 18 , **@CELSIUSNETWORK** 16 , **BTC** 13 , **2000** 12 , **@SHARINGFORCARI1:** 10 , **GIVEAWAY** 7 , **BITCOIN** 7 , **SIC8** 6 , **US** 6 , **$CEL** 6 , **NEW** 6 , **SATOSHI** 5 , **LOOK** 5 , **🚀** 5 , **JOIN** 5 , **EARN** 5 , **1** 5 , **@RHETT800CC:** 5 , 
  
 ## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# ShakilI99463627USER INFO
+![image](http://pbs.twimg.com/profile_images/1282569710802886656/b06R99vB_normal.jpg)
+ 
+`User ScreenName:` ShakilI99463627 
+ 
+`User chosen Name:` Shakil Islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 06:54:40 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `168 
+ 
+`Following?:` 242 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282569710802886656/b06R99vB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BTC** 4 , **SATOSHI** 4 , **@SHARINGFORCARI1:** 3 , **SIC8** 3 , **⚡️FLASH** 2 , **US** 2 , **WINNERS** 2 , **MIN** 2 , **@DGBGIVEAWAY:** 2 , **LOVE** 2 , **$DGB** 2 , **DGB** 2 , **DIGIBYTE** 2 , **♻️** 2 , **@BITCOINSIGHTS:** 2 , **SONG** 2 , **WEEKLY** 2 , **POKERKING** 1 , **HTTPS://TCO/HT2QZTQ0TWGGPOKER** 1 , **HTTPS://TCO/ESII8F7XPRBINANCENEWS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# ParmarJ99277553USER INFO
+![image](http://pbs.twimg.com/profile_images/1281787429314113536/AYZLqo_f_normal.jpg)
+ 
+`User ScreenName:` ParmarJ99277553 
+ 
+`User chosen Name:` Parmar Jagdish 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 11 03:07:56 +0000 2020 
+ 
+`User Description?:` nuture 
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281787429314113536/AYZLqo_f_normal.jpg 
+ 
+`Number of tweets excluding replies:` 545 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**4200** 161 , **4200GUJARAT** 158 , **PAY** 92 , **GRADE** 76 , **@VIJAYRUPANIBJP** 34 , **@CMOGUJ** 32 , **@IMBHUPENDRASINH** 29 , **@NITINBHAI_PATEL** 28 , **@PMOINDIA** 25 , **GUJARAT** 22 , **TEACHERS** 21 , **@ABPASMITATV** 20 , **JUSTICE** 18 , **@VTVGUJARATI** 15 , **US** 13 , **PRIMARY** 12 , **RIGHTS** 12 , **@AAJTAK** 12 , **@ZEE24KALAK** 12 , **2800** 12 , 
+ 
+## What this user tweeted
+ 
+RT @FusionFactorCA: Deploy ESET’s unique multilayered, cloud-augmented technologies - the most advanced malware protection on the market, t…
+ 
+# Patcher53999890USER INFO
+![image](http://pbs.twimg.com/profile_images/1283354844343013377/nN5Ngy5d_normal.jpg)
+ 
+`User ScreenName:` Patcher53999890 
+ 
+`User chosen Name:` Patcher 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 10:56:30 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 32 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283354844343013377/nN5Ngy5d_normal.jpg 
+ 
+`Number of tweets excluding replies:` 32 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@UNLIMITEDFELIX:** 21 , **COINSTO** 16 , **$CSO** 9 , **CSO** 8 , **@CCTIP_IO** 6 , **EXCHANGE** 5 , **FOLLOW** 5 , **@COINSTOPLATFORM** 5 , **(CSO)** 5 , **888** 5 , **88RT** 5 , **AIRDROP** 4 , **NEW** 3 , **TRADING** 3 , **YES** 3 , **RT** 2 , **USE** 2 , **@CRYPTOCOM** 2 , **$$** 2 , **CORIONX** 2 , 
+ 
+## What this user tweeted
+ 
+RT @gate_io: 🗣️We hold #cryptosecurity to the highest possible industry standard
+
+Proud to announce we are currently holding a number #1 po…
+ 
+# minbtcUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282629823416827904/yBMfilfD_normal.jpg)
+ 
+`User ScreenName:` minbtc 
+ 
+`User chosen Name:` minsau 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 10:38:07 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `31 
+ 
+`Following?:` 181 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 35 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282629823416827904/yBMfilfD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 35 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**📌** 7 , **:** 5 , **NIMIQ** 5 , **FOLLOW** 5 , **THANK** 4 , **@BLOCKCHAINSHAY** 4 , **$NIM** 4 , **NIM** 4 , **GIVEAWAY!** 3 , **@BLOCKCHAINSHAY:** 3 , **PRIZE** 3 , **@COINKIT_** 3 , **GIVEAWAY** 3 , **RETWEET** 3 , **BTC** 3 , **AIRDROP** 3 , **LEGIT** 2 , **WINNERS** 2 , **🌍** 2 , **🌏** 2 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# MartiallCryptoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282632969916682240/5_ugQC_k_normal.jpg)
+ 
+`User ScreenName:` MartiallCrypto 
+ 
+`User chosen Name:` @Martiall 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 11:07:57 +0000 2020 
+ 
+`User Description?:` #Btc #Eth #Bnb #Tron #Crypto #twt #Cro 🔥 
+ 
+`Followers?: `3 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 22 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282632969916682240/5_ugQC_k_normal.jpg 
+ 
+`Number of tweets excluding replies:` 22 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COINKIT_** 5 , **👉** 5 , **35** 3 , **DIGIBYTE** 3 , **SOMEONE** 3 , **FOLLOW** 3 , **NEED** 2 , **ELLIE** 2 , **MICHAEL** 2 , **NEXUS** 2 , **@MYCOINSTORY_MCS:** 2 , **🔥** 2 , **$BTC** 2 , **BONUS** 2 , **@MYCOINSTORY_MCS** 2 , **+** 2 , **RETWEET** 2 , **TAG** 2 , **FAVORITE** 2 , **CRYPTO** 2 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# sciBot6USER INFO
+![image](http://pbs.twimg.com/profile_images/1282174476596023298/ynNv3VqS_normal.jpg)
+ 
+`User ScreenName:` sciBot6 
+ 
+`User chosen Name:` sciBot 💻 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 12 04:43:54 +0000 2020 
+ 
+`User Description?:` Hey there👋! I am python bot🤖 that like♥, retweet #OpenSource tweets😊
+Made by @AkankshaRaghav9 and OpenSource💗 
+ 
+`Followers?: `18 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/OTEI876gx7 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282174476596023298/ynNv3VqS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 411 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OPENSOURCE** 86 , **SOURCE** 25 , **OPEN** 24 , **LINUX** 15 , **DE** 14 , **NEW** 11 , **COMMUNITY** 11 , **@WOLFSEC_CH:** 10 , **HAKIN9:** 10 , **SOFTWARE** 9 , **INFOSEC** 9 , **FIRST** 9 , **LATEST** 8 , **HACKING** 8 , **CHECK** 7 , **INDEX** 7 , **FREE** 7 , **DIGITAL** 6 , **LEARN** 6 , **MIT** 6 , 
+ 
+## What this user tweeted
+ 
+RT @acco_tech: Discover all our features: Packet Parsing https://t.co/vo5FhWr0qP
+
+#FPGA #AI #SmartNICs #CyberSecurity #CyberDefense #Inform…
+ 
+# bbking5692USER INFO
+![image](http://pbs.twimg.com/profile_images/1280533341658157056/F_6mrD0T_normal.jpg)
+ 
+`User ScreenName:` bbking5692 
+ 
+`User chosen Name:` βαβγ ♚Kɪɴɢ♚ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 07 16:04:17 +0000 2020 
+ 
+`User Description?:` Crypto is my Dream Job😍 
+ 
+`Followers?: `106 
+ 
+`Following?:` 252 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 96 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1280533341658157056/F_6mrD0T_normal.jpg 
+ 
+`Number of tweets excluding replies:` 96 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 22 , **@COINKIT_** 15 , **DIGIBYTE** 14 , **RETWEETS** 12 , **IFBRT** 11 , **@RIZICKYUSUPL:** 10 , **WHOEVER** 10 , **LIKES** 10 , **@BBKING5692** 9 , **DGB** 8 , **BTC** 7 , **$DGB** 7 , **@SHARINGFORCARI1:** 6 , **@DGB_DEFENDER:** 6 , **MOST** 4 , **SIC8** 4 , **SATOSHI** 4 , **@DGBGIVEAWAY:** 4 , **MON** 4 , **@DGBAT_OFFICIAL:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# grandfreudUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281482979483713537/YTSoj2Eq_normal.jpg)
+ 
+`User ScreenName:` grandfreud 
+ 
+`User chosen Name:` grandfreud 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 06:54:35 +0000 2020 
+ 
+`User Description?:` Immutability it is! 
+ 
+`Followers?: `17 
+ 
+`Following?:` 103 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281482979483713537/YTSoj2Eq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 232 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CCTIP_IO** 25 , **@COINKIT_** 16 , **BTC** 16 , **AIRDROP** 15 , **GIVEAWAY** 13 , **TRX** 13 , **JOIN** 11 , **100** 11 , **@FIATEARTHMAPS** 11 , **CRYPTO** 11 , **@CELSIUSNETWORK** 9 , **ETH** 9 , **1** 9 , **FOLLOW** 9 , **3** 8 , **EARN** 8 , **FREE** 8 , **MYSELF** 8 , **RT** 7 , **MON** 7 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# crypto_rookieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1281916063681110018/YR034eoh_normal.jpg)
+ 
+`User ScreenName:` crypto_rookie 
+ 
+`User chosen Name:` rookie boy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 11 11:37:10 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `8 
+ 
+`Following?:` 251 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281916063681110018/YR034eoh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 336 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 25 , **=&GT;** 24 , **GIVEAWAY** 23 , **@CCTIP_IO** 22 , **FOLLOW** 21 , **$$** 18 , **FREE** 18 , **🎁** 16 , **RT** 15 , **BTC** 13 , **RETWEET** 13 , **JOIN** 13 , **ETH** 11 , **@FIKRI7810:** 10 , **DRAW** 9 , **✅** 9 , **@JDXBRUCE** 9 , **TRX** 8 , **@FIKRI7810** 8 , **JOIN:** 8 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# Morgan60541630USER INFO
+![image](http://pbs.twimg.com/profile_images/1282973369835503616/eIzC0d1C_normal.jpg)
+ 
+`User ScreenName:` Morgan60541630 
+ 
+`User chosen Name:` Morgan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 09:12:18 +0000 2020 
+ 
+`User Description?:` I am criekater 
+ 
+`Followers?: `1 
+ 
+`Following?:` 11 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282973369835503616/eIzC0d1C_normal.jpg 
+ 
+`Number of tweets excluding replies:` 296 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SMART_STATS:** 46 , **❤RT** 17 , **@HUOBISTATS:** 17 , **MARKET** 16 , **AWESOMERT** 12 , **@SHARINGFORCARI1:** 11 , **@SMART_STATS** 10 , **@KUCOINSTATS:** 10 , **SUPERRT** 10 , **@SHARINGFORCARI1** 10 , **PRICE** 9 , **@OKEXSTATS:** 9 , **PAIRS:** 9 , **VOLUME** 8 , **BTCRT** 8 , **💚RT** 8 , **WOWRT** 7 , **VOLUMES:** 7 , **TRADING** 7 , **CAP** 6 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# mdsorif22326720USER INFO
+![image](http://pbs.twimg.com/profile_images/1282741916866494464/PxmtOrio_normal.jpg)
+ 
+`User ScreenName:` mdsorif22326720 
+ 
+`User chosen Name:` md soriful islam 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 06:20:26 +0000 2020 
+ 
+`User Description?:` I am footbole 
+ 
+`Followers?: `4 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282741916866494464/PxmtOrio_normal.jpg 
+ 
+`Number of tweets excluding replies:` 589 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SMART_STATS:** 44 , **❤RT** 22 , **MARKET** 16 , **BTCRT** 15 , **@HUOBISTATS:** 15 , **AWESOMERT** 14 , **@SHARINGFORCARI1:** 12 , **@SMART_STATS** 11 , **💚RT** 11 , **PAIRS:** 10 , **@OKEXSTATS:** 9 , **BTC** 9 , **@SHARINGFORCARI1** 9 , **VOLUME** 8 , **PRICE** 8 , **@KUCOINSTATS:** 8 , **TOTAL** 8 , **TRADING** 8 , **SUPERRT** 7 , **PAIR:** 7 , 
+ 
+## What this user tweeted
+ 
+RT @DGBAT_Official: Greetings #global village ✌️🌎 🌍 🌏 
+
+#DGBAT is curious..? 😏
+
+What digital asset concept has the most interesting prospec…
+ 
+# Sebasti70539360USER INFO
+![image](http://pbs.twimg.com/profile_images/1282660331442049025/VDvMxOHo_normal.jpg)
+ 
+`User ScreenName:` Sebasti70539360 
+ 
+`User chosen Name:` Sebastian Colemans 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 12:52:20 +0000 2020 
+ 
+`User Description?:` I don’t believe in astrology; I’m a Sagittarius and we’re skeptical. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 121 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282660331442049025/VDvMxOHo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JULY** 3 , **–** 2 , **MOST** 2 , **SECURITY** 2 , **EXPLEO** 2 , **VERT** 2 , **2020** 2 , **STARTING** 2 , **CYBERSECURITY** 2 , **SAP** 2 , **@RAJAPAKSANAMAL:** 2 , **@NARENDRAMODI:** 2 , **SHRI** 2 , **@DRRPNISHANK:** 2 , **RESULTS** 2 , **CLASS** 2 , **XII** 2 , **@CBSEINDIA29** 2 , **RT** 1 , **@DAILYSTAR:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TripwireInc: VERT Threat Alert: July 2020 Patch Tuesday Analysis
+
+The latest VERT Alert addresses Microsoft's July 2020 Security Update…
+ 
+# Hamdanb31310992USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Hamdanb31310992 
+ 
+`User chosen Name:` Hamdan bin Mohammed 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jul 10 23:51:13 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**في** 5 , **دبي** 4 , **من** 4 , **بن** 4 , **درهم** 3 , **CYBER** 3 , **ITS** 3 , **للأمن** 3 , **الإلكتروني** 3 , **الشيخ** 3 , **محمد** 3 , **PACKAGE** 3 , **اليوم** 2 , **مليار** 2 , **LAUNCH** 2 , **DUBAI** 2 , **LAUNCHED** 2 , **INDEX** 2 , **على** 2 , **مع** 2 , 
+ 
+## What this user tweeted
+ 
+The Index's launch aligns with the Dubai Cyber Security Strategy to protect our city from cyber threats and support… https://t.co/rkcEhzur0oWe have launched the Dubai Cyber Index, the first of its kind in the world. The Index will reinforce the cybersecur… https://t.co/Fd4E6eI7rJ
+ 
+# ozellam28721359USER INFO
+![image](http://pbs.twimg.com/profile_images/1283342310982463490/2kGftsrj_normal.jpg)
+ 
+`User ScreenName:` ozellam28721359 
+ 
+`User chosen Name:` ozella miller 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 10:06:23 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 41 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283342310982463490/2kGftsrj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DI** 4 , **DE** 4 , **LA** 4 , **NEW** 3 , **•⠀** 3 , **من** 3 , **BEAUTIFUL** 3 , **@HAIFAWEHBE** 2 , **РУК!** 2 , **@GREGBALDWINIROH:** 2 , **WAR** 2 , **HOME** 2 , **EN** 2 , **@TEAMYOUTUBE** 2 , **CREATIVE** 2 , **شكرا** 2 , **@FEED_GIFT:** 2 , **في** 2 , **ANTARTIKA** 2 , **D…RT** 2 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Instantly Check your Public IP Address now with a new IP Lookup and learn what it reveals about you.
+#iplookup #vpn #cy…
+ 
+# hyonkni89616037USER INFO
+![image](http://pbs.twimg.com/profile_images/1283347140731973632/j2iyl7Xr_normal.jpg)
+ 
+`User ScreenName:` hyonkni89616037 
+ 
+`User chosen Name:` hyon knight 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 15 10:25:29 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283347140731973632/j2iyl7Xr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**IP** 2 , **RT** 1 , **@BLACKFRIDAYS19:** 1 , **INSTANTLY** 1 , **CHECK** 1 , **PUBLIC** 1 , **ADDRESS** 1 , **NEW** 1 , **LOOKUP** 1 , **LEARN** 1 , **REVEALS** 1 , **IPLOOKUP** 1 , **VPN** 1 , **CY…RT** 1 , **@BISARA7A:** 1 , **هل** 1 , **تغيب** 1 , **هيفا** 1 , **وهبي** 1 , **عن** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Instantly Check your Public IP Address now with a new IP Lookup and learn what it reveals about you.
+#iplookup #vpn #cy…
+ 
+# EdmundCallaha10USER INFO
+![image](http://pbs.twimg.com/profile_images/1281239290475958273/-G3rnbeZ_normal.jpg)
+ 
+`User ScreenName:` EdmundCallaha10 
+ 
+`User chosen Name:` Edmund Callahan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 06 18:40:14 +0000 2020 
+ 
+`User Description?:` Helen and George Kenner great nephew grew up in their Owen Illinois's Corp to Corp house 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:` Key West, FL 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1281239290475958273/-G3rnbeZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 492 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CAUGHT** 135 , **BISSETT** 83 , **ED** 81 , **CO** 76 , **HOMELAND** 58 , **GO** 45 , **I'M** 44 , **SECURITY** 40 , **MONDAY** 35 , **NT** 32 , **EC** 30 , **LE** 30 , **AL** 29 , **CAMERA** 24 , **ST** 24 , **TC** 22 , **LAW** 22 , **LOUIS** 21 , **ENFORCEMENT** 21 , **LL** 19 , 
+ 
+## What this user tweeted
+ 
+https://t.co/vyisqJOwoW the who LL Co MP ok IC UC YB Ed SECU RT y328 report TM IC to soft twirl deflated used do be… https://t.co/42FkVkenKPhttps://t.co/3myQ1xfcPx Russia NS Lionheart have Jersey PL 🐜 or Ed Michelle the who I LL Co Monday caught up on bis… https://t.co/euF8KIElxj
+ 
+# ReemaBiswas8USER INFO
+![image](http://pbs.twimg.com/profile_images/1283062645369614336/tJv17Se8_normal.jpg)
+ 
+`User ScreenName:` ReemaBiswas8 
+ 
+`User chosen Name:` Reema Biswas 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 15:34:23 +0000 2020 
+ 
+`User Description?:` student 
+ 
+`Followers?: `10 
+ 
+`Following?:` 35 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 159 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283062645369614336/tJv17Se8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 167 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@INSTAGRAM** 78 , **@YOUTH_AGAINST_RAPE** 35 , **@YAIFOUNDATIONS** 27 , **PAGE** 23 , **REVIEWYARPAGERT** 22 , **@REEMABISWAS8:** 21 , **@GENEET_GAUTAM:** 20 , **AGAINST** 19 , **AWARENESS** 18 , **@PRATIKSHACHAT18:** 18 , **HAI** 14 , **RAPE** 14 , **INSTAGRAM** 11 , **DELETED** 11 , **@SINGHDK022:** 11 , **WHICH** 10 , **US** 10 , **REVIEWYARPAGE** 10 , **KI** 9 , **PAGES** 9 , 
+ 
+## What this user tweeted
+ 
+RT @yaifoundations: Sunny verma is owner of a modelling company IMGventure through which he molests girls models and even ask for nude pics…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
