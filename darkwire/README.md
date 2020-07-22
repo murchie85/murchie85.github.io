@@ -549,3 +549,408 @@ A useful tip for finding Full Path Disclosure vulnerabilities: Drop an array ([]
 ![image](http://pbs.twimg.com/profile_images/1286021331646021632/b14UCr7c_normal.jpg)
  
 `User ScreenName:` BigDataMichael 
+ 
+`User chosen Name:` Michael Trott 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 22 19:31:34 +0000 2020 
+ 
+`User Description?:` Big Data Analysis / Machine Learning 
+ 
+`Followers?: `3 
+ 
+`Following?:` 91 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1286021331646021632/b14UCr7c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 4 , **US** 4 , **@REALDONALDTRUMP** 4 , **CHINA** 3 , **BIGDATA** 3 , **32** 2 , **YEARS** 2 , **TWITTER** 2 , **DISEASE** 2 , **@WHITEHOUSE** 2 , **MEXICO** 2 , **MESS** 2 , **10** 2 , **2020** 2 , **DATA** 2 , **@JOEBIDEN** 1 , **OFFICE?** 1 , **FRESH** 1 , **GOVERMENTRT** 1 , **@PDCHINA:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @R_Demidchuk: The Top 10 #IoT applications in 2020 https://t.co/QG1ks62bVO 
+
+#DigitalTransformation #MachineLearning #BigData #Artificia…
+ 
+# sareh38799033USER INFO
+![image](http://pbs.twimg.com/profile_images/1283464603528290304/-0a-UVDN_normal.jpg)
+ 
+`User ScreenName:` sareh38799033 
+ 
+`User chosen Name:` sareh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 14 21:13:21 +0000 2020 
+ 
+`User Description?:` ایران را دریابید 
+ 
+`Followers?: `45 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1283464603528290304/-0a-UVDN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1211 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**فروش_ایران_ممنوع** 80 , **و** 70 , **به** 57 , **فروش_ایران_ممنوعRT** 52 , **که** 43 , **این** 37 , **از** 31 , **با** 25 , **در** 23 , **را** 21 , **CHINA** 19 , **ایران** 18 , **رو** 17 , **من** 17 , **IRAN** 16 , **وطن** 14 , **تا** 14 , **هشتگ** 13 , **تو** 12 , **یک** 12 , 
+ 
+## What this user tweeted
+ 
+RT @Black98212224s: @SecPompeo
+@realDonaldTrump
+China is the most danger of this century that threat global resources, cybersecurity, IT pr…
+ 
+# pepestan3USER INFO
+![image](http://pbs.twimg.com/profile_images/1285913160432545792/ihyVaiHw_normal.jpg)
+ 
+`User ScreenName:` pepestan3 
+ 
+`User chosen Name:` pepestan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 22 12:22:14 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `52 
+ 
+`Following?:` 93 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1285913160432545792/ihyVaiHw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 230 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@LOKISFROGNATION** 126 , **@MBEES39** 117 , **@QFIRE17** 113 , **@WHOISBEN** 113 , **@WTWTWCWWG1** 109 , **@HB04920973** 103 , **@PEPESTAN3** 80 , **@STEVE_Q17** 69 , **@AKAYECARPENTER** 66 , **@COLFORBIN3** 44 , **@__INTOTHEWILD_** 35 , **@JEPKRATZ** 34 , **@_TWICEBORN_** 29 , **@GREENMIKE16** 25 , **@RTERRIERS2** 24 , **@HIPPOCAMPUS88** 23 , **@JEPKRATZ:** 18 , **@GROOVECHAMPION** 17 , **@HUTTNUGGETCUBED** 16 , **@RTERRIERS2:** 11 , 
+ 
+## What this user tweeted
+ 
+RT @DeptofDefense: Election year. @USArmy Gen. Paul M. Nakasone, @CYBERCOM_DIRNSA, said cybersecurity is a top priority for the 2020 electi…
+ 
+# civerataUSER INFO
+![image](http://pbs.twimg.com/profile_images/1282656861095890949/axnaqB_U_normal.jpg)
+ 
+`User ScreenName:` civerata 
+ 
+`User chosen Name:` civerata 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 13 12:39:41 +0000 2020 
+ 
+`User Description?:` The best thing about the future is that it comes one day at a time. 
+ 
+`Followers?: `9 
+ 
+`Following?:` 299 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1282656861095890949/axnaqB_U_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TECH** 5 , **@TECHTIMES_NEWS:** 4 , **MODEL** 3 , **MILLION** 3 , **VPN** 3 , **2020** 3 , **HELP** 3 , **ITS** 3 , **INFORMAT…RT** 2 , **FEW** 2 , **SOPHOS** 2 , **WEB** 2 , **PANEL** 2 , **DENIAL** 2 , **SERVICE** 2 , **US** 2 , **HACKERS** 2 , **CYBERNEWS** 2 , **SECURITY** 2 , **CHECK** 2 , 
+ 
+## What this user tweeted
+ 
+RT @Cyberseccentre: Confidentiality, integrity and availability, known as the CIA triad, is a model designed to guide policies for informat…
+ 
+# KenRDensonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1285636909906132999/Ba6D8seD_normal.jpg)
+ 
+`User ScreenName:` KenRDenson 
+ 
+`User chosen Name:` Kenneth Denson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 21 18:04:22 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1285636909906132999/Ba6D8seD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBERSECURITY** 3 , **USE** 2 , **TRYING** 2 , **PROFESSIONAL** 1 , **25** 1 , **YEARS** 1 , **HERE** 1 , **TIK** 1 , **TOK** 1 , **SECURELY** 1 , **HTTPS://TCO/FXLL3INIBPAUTOMATE** 1 , **DIE** 1 , **HTTPS://TCO/CR9MT6KPXVSTUDY:** 1 , **US** 1 , **LARGEST** 1 , **TARGET** 1 , **‘SIGNIFICANT’** 1 , **CYBER-ATTACKS** 1 , **HTTPS://TCO/WJPXBONGTTRUSSIAN** 1 , **SPIES** 1 , 
+ 
+## What this user tweeted
+ 
+I Am A CyberSecurity Professional For 25 Years. Here Is How I Use Tik Tok Securely. https://t.co/fxlL3inibPAutomate or Die Trying https://t.co/CR9mT6KPXv
+ 
+# texan_firstUSER INFO
+![image](http://pbs.twimg.com/profile_images/1284690516957855744/hw_QFDO5_normal.jpg)
+ 
+`User ScreenName:` texan_first 
+ 
+`User chosen Name:` First Texan ⛈⚡⌛🕛🌑🌕 (Parler: @firsttexan) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 19 03:03:10 +0000 2020 
+ 
+`User Description?:` Christian ✝️ First Texan 🇨🇱 Patriot 🇺🇸  + Son, Brother, Husband, Father, Friend & regular OG who loves his country and it's citizens without reservation 
+ 
+`Followers?: `29 
+ 
+`Following?:` 145 
+ 
+`User URL?:` None 
+ 
+`Location:` United States of America 
+ 
+`Number of tweets extracted`  : 65 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1284690516957855744/hw_QFDO5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHINA** 8 , **SEEMS** 7 , **DEFINITELY** 6 , **PEOPLE** 5 , **@REALDONALDTRUMP** 5 , **SIGNALINGHIM** 5 , **POMPEO** 5 , **"VIRUS"** 5 , **=** 5 , **SOME** 5 , **@HOUSEGOP** 4 , **TRUMP** 4 , **INFILTRATION** 4 , **INVASION?** 4 , **THAT'S** 3 , **WIFE** 3 , **REALLY** 3 , **KEEP** 3 , **WAR** 3 , **STORY** 3 , 
+ 
+## What this user tweeted
+ 
+@AntonioSabatoJr I've spent the last 25 years in Cybersecurity for Fortune 50 companies, starting as a 1st line ops… https://t.co/VK2U1YhJZI
+ 
+# taishaschless11USER INFO
+![image](http://pbs.twimg.com/profile_images/1286005062217629696/miF_-qrQ_normal.jpg)
+ 
+`User ScreenName:` taishaschless11 
+ 
+`User chosen Name:` taisha schlessing 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 22 18:27:09 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 73 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1286005062217629696/miF_-qrQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HERE** 3 , **VIA** 2 , **CORONAVIRUS** 2 , **MI** 2 , **LA** 2 , **YOURSELF** 2 , **@JUSTINSUNTRON:** 2 , **I'M** 2 , **بن** 2 , **NEED** 2 , **CHECK** 2 , **AGAIN** 2 , **IP** 2 , **FREE** 2 , **YOUTUBE** 2 , **PREMIUM** 2 , **RT** 1 , **@BROADCASTKING_:** 1 , **DR** 1 , **PUPPET** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Instantly Check your Public IP Address now with a new IP Lookup and learn what it reveals about you.
+#iplookup #vpn #cy…
+ 
+# hackzismUSER INFO
+![image](http://pbs.twimg.com/profile_images/1285978735699619846/LvKSHcou_normal.jpg)
+ 
+`User ScreenName:` hackzism 
+ 
+`User chosen Name:` Hackzism 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 22 16:41:04 +0000 2020 
+ 
+`User Description?:` Official site of Hackzism
+👨🏽‍💻👾🐍 
+ 
+`Followers?: `1 
+ 
+`Following?:` 16 
+ 
+`User URL?:` https://t.co/WJSsRz1PSf 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1285978735699619846/LvKSHcou_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**100DAYSOFCODE** 5 , **PYTHON** 4 , **PRIVACY** 3 , **ETHICALHACKING…** 3 , **HACKING** 2 , **👾** 2 , **APPLE2NDWIN** 2 , **HTTPS://TCO/UQXVIPN31N** 1 , **TERMUXUL** 1 , **PHONE** 1 , **IOS** 1 , **ANDROID** 1 , **PYTHON…** 1 , **HTTPS://TCO/AVQXIFHDMNHTTPS://TCO/RVM1KNPNTK** 1 , **FSOCIETY** 1 , **TOOLS** 1 , **MRROBOT** 1 , **🤡** 1 , **HTTPS://TCO/CMDVEGRJOXHTTPS://TCO/0M43ZLKEAA** 1 , **BEING** 1 , 
+ 
+## What this user tweeted
+ 
+https://t.co/uqXviPN31N
+
+Hacking with #termuxul
+
+#phone #ios #android 
+#privacy #100DaysOfCode #python… https://t.co/AvqxiFhdMn
+ 
+# mathaparmar9USER INFO
+![image](http://pbs.twimg.com/profile_images/1285996745986539525/fBIkhMqK_normal.jpg)
+ 
+`User ScreenName:` mathaparmar9 
+ 
+`User chosen Name:` matha parmar 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 22 17:54:11 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1285996745986539525/fBIkhMqK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 5 , **POR** 3 , **LA** 3 , **RT** 2 , **💜** 2 , **NEED** 2 , **NEW** 2 , **PRESIDENT** 2 , **CRISIS** 2 , **@ISTARMAG:** 2 , **ISTAR** 2 , **ISTARNEWS** 2 , **IP** 2 , **SICK** 2 , **QUE** 2 , **RIESGO** 2 , **NOTHING** 2 , **HIGHER** 2 , **LEVELS** 2 , **@_CAGNEYGAUDIZ:** 1 , 
+ 
+## What this user tweeted
+ 
+RT @BlackFridays19: Instantly Check your Public IP Address now with a new IP Lookup and learn what it reveals about you.
+#iplookup #vpn #cy…
+ 
+# jerrywi96798352USER INFO
+![image](http://pbs.twimg.com/profile_images/1285906549614030848/VfTWSnlg_normal.jpg)
+ 
+`User ScreenName:` jerrywi96798352 
+ 
+`User chosen Name:` jerry williams 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 21 12:34:53 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 100 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 20 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1285906549614030848/VfTWSnlg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 20 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REPJUDYCHU:** 6 , **BLACK** 4 , **PEOPLE** 4 , **ENSURE** 2 , **THAT'S** 2 , **I'M** 2 , **SET** 2 , **DAYS** 2 , **KNEELED** 2 , **CALLED** 2 , **UN-AMERICAN** 2 , **SPOKE** 2 , **TRUMP** 2 , **SENT** 2 , **MILITARY** 2 , **@GREGHALE1** 1 , **STILL** 1 , **DON’T** 1 , **UNDERSTAND** 1 , **WHAT’S** 1 , 
+ 
+## What this user tweeted
+ 
+RT @RepJudyChu: To ensure @SBAgov is there for our small businesses, we must ensure they have up to date technology. That's why I'm chairin…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
