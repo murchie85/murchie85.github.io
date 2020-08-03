@@ -809,3 +809,414 @@ However, even in death, she left us with a very important lesson.…
  
 
  
+## User Top tweeted words 
+ 
+**@VANYAVANIA6:** 3 , **VCS** 3 , **GAK** 2 , **AVAIL🔓** 2 , **WHATSAPP:::6281273258010** 2 , **@FBI:** 2 , **RT** 1 , **KERJA** 1 , **BISA** 1 , **JAJAN😔(LCBUKANLONTE)** 1 , **((LCMANASUARANYA))** 1 , **WHATSAPP:6281273258010** 1 , **LINE:HANINVITALOCA** 1 , **DESAHAN** 1 , **DESAH…RT** 1 , **TRUSTEDBISYAR** 1 , **OPENVCS** 1 , **REALANGEL** 1 , **VCSTRUSTED** 1 , **VCSCROOT** 1 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Is your organization researching #COVID19? Follow these tips to protect your work: patch systems for critical vulnerabilities; sca…
+ 
+# demon_attorneyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1288577803152171010/wY5YaftZ_normal.jpg)
+ 
+`User ScreenName:` demon_attorney 
+ 
+`User chosen Name:` ━━𝗕𝗿𝗮𝘁𝘄𝗼𝗿𝘁𝗵♛ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jul 29 20:50:24 +0000 2020 
+ 
+`User Description?:` "𝙉𝙤𝙬 𝙩𝙝𝙚𝙣, 𝙞𝙛 𝙩𝙝𝙚 𝙙𝙚𝙛𝙚𝙣𝙨𝙚 𝙞𝙨 𝙦𝙪𝙞𝙩𝙚 𝙙𝙤𝙣𝙚 𝙚𝙢𝙗𝙖𝙧𝙖𝙨𝙨𝙞𝙣𝙜 𝙞𝙩𝙨𝙚𝙡𝙛..." 
+ 
+`Followers?: `51 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:` mun is a minor he/him 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1288577803152171010/wY5YaftZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 288 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HMPH** 14 , **TELL** 13 , **VON** 12 , **MR** 12 , **DON'T** 11 , **KARMA** 11 , **@MITSKILYRICSBOT:** 11 , **GOOD** 9 , **[HE** 8 , **PERFECTION** 7 , **HAND** 7 , **I'LL** 6 , **WAY** 6 , **NEVER** 6 , **BACK** 6 , **PERFECT** 6 , **SOMETHING** 6 , **YOU'RE** 6 , **MAKE** 5 , **REACH** 5 , 
+ 
+## What this user tweeted
+ 
+@BabyFeenie That's exactly it! It gets in the way of perfection and reveals vulnerabilities to my enemies!
+ 
+# prasant91295722USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` prasant91295722 
+ 
+`User chosen Name:` prasanta pradhan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 01 13:57:45 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 15 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 375 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ACHYUTA_SAMANTA:** 145 , **@SUDHIRRATH4U:** 45 , **INDIA** 20 , **||** 17 , **ODISHA** 14 , **KIITKISSMEMORIES** 11 , **FIRST** 11 , **STUDENTS** 10 , **@KISSFOUNDATION** 9 , **POST** 9 , **GOOD** 9 , **DAY** 8 , **NEP2020** 8 , **THANKS** 8 , **EDUCATION** 8 , **SHRI** 8 , **WORK** 7 , **STEP** 7 , **TOWARDS** 7 , **JI** 7 , 
+ 
+## What this user tweeted
+ 
+RT @achyuta_samanta: ...aiming at reducing vulnerabilities of tribal youth and empowering them through capacity building programmes in thre…
+ 
+# LalaLan68592011USER INFO
+![image](http://pbs.twimg.com/profile_images/1288034686531448833/xYA5x5w5_normal.jpg)
+ 
+`User ScreenName:` LalaLan68592011 
+ 
+`User chosen Name:` Lala Land 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 26 17:13:55 +0000 2020 
+ 
+`User Description?:` Proudly African, allergic to corruption, environmentalist, globalist. Love everyone but hate repressive governments and their henchmen. 
+ 
+`Followers?: `470 
+ 
+`Following?:` 1090 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1288034686531448833/xYA5x5w5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1619 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ZIMBABWEAN** 36 , **PEOPLE** 35 , **ZIMBABWEANLIVESMATTER** 30 , **ZIMBABWE** 29 , **GOVERNMENT** 29 , **HI** 25 , **HOPE** 25 , **READ** 25 , **YOU’LL** 23 , **THIS🙏🏾** 22 , **ABDUCTING** 22 , **TORTURING** 22 , **PROTESTING** 18 , **BEING** 9 , **ITS** 9 , **MUST** 9 , **ZANU** 9 , **ZIMBABWELIVESMATTER** 8 , **REGIME** 8 , **@NAMATAIK_:** 8 , 
+ 
+## What this user tweeted
+ 
+RT @SiphoMalunga: Its easy when you wield power to forget your own vulnerabilities. It's easy to feel invincible.But there's a strong globa…
+ 
+# yungnefertiti_USER INFO
+![image](http://pbs.twimg.com/profile_images/1287385516267180032/6Fb6KqLY_normal.jpg)
+ 
+`User ScreenName:` yungnefertiti_ 
+ 
+`User chosen Name:` Luna Livy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 26 13:52:51 +0000 2020 
+ 
+`User Description?:` twenty-something/recovering sjw/recovering pot head/crazy cat lady 
+ 
+`Followers?: `26 
+ 
+`Following?:` 169 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1287385516267180032/6Fb6KqLY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 222 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 22 , **WOMEN** 17 , **BLACK** 13 , **MEN** 11 , **DON’T** 9 , **BEING** 9 , **LIFE** 8 , **GOING** 8 , **I’M** 8 , **WOMAN** 7 , **US** 7 , **REALLY** 7 , **SEX** 6 , **STOP** 6 , **MAN** 6 , **MAY** 6 , **SCHOOL** 5 , **MAKE** 5 , **THAN** 5 , **TIME** 5 , 
+ 
+## What this user tweeted
+ 
+RT @Lamb_Bytes: Women should focus on being of good character with strong values. 
+
+Be aware of your vulnerabilities so that others cannot…
+ 
+# Deyanira2021USER INFO
+![image](http://pbs.twimg.com/profile_images/1288876032393707521/lbFh4UNw_normal.jpg)
+ 
+`User ScreenName:` Deyanira2021 
+ 
+`User chosen Name:` Deyanira 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jul 30 16:29:38 +0000 2020 
+ 
+`User Description?:` Seduce my mind
+
+Ensnare my heart. 
+ 
+`Followers?: `52 
+ 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:` United Kingdom 
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1288876032393707521/lbFh4UNw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 513 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARCHILLECT:** 15 , **@ZAHHAKATARSBOT:** 14 , **COME** 9 , **@ONESINFULBEAST:** 8 , **DARK** 7 , **INTO** 7 , **NIGHT** 6 , **MAKE** 6 , **EYES** 6 , **INSIDE** 5 , **FEEL** 5 , **I'M** 5 , **YOU’RE** 5 , **SAY** 5 , **MIDNIGHT** 4 , **GOTTA** 4 , **GIVE** 4 , **NEVER** 4 , **WAY** 4 , **TOUCH** 4 , 
+ 
+## What this user tweeted
+ 
+You bare your vulnerabilities to the sky, knowing the vultures would come.
+ 
+# chaos__machineUSER INFO
+![image](http://pbs.twimg.com/profile_images/1288379303575670784/2_NyK04P_normal.jpg)
+ 
+`User ScreenName:` chaos__machine 
+ 
+`User chosen Name:` Cryptolith☯︎ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 27 22:14:29 +0000 2020 
+ 
+`User Description?:` 18 | structural realist | acceleration and destabilization | crypto-anarchist | commander of the secret armies | नबी | ordo ab chao 
+ 
+`Followers?: `24 
+ 
+`Following?:` 151 
+ 
+`User URL?:` None 
+ 
+`Location:` gate of ishtar 
+ 
+`Number of tweets extracted`  : 109 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1288379303575670784/2_NyK04P_normal.jpg 
+ 
+`Number of tweets excluding replies:` 109 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**👏** 7 , **ITS** 5 , **BLACK** 5 , **DRAGON** 5 , **SOCIETY** 5 , **@KBULTRA0:** 4 , **LOSER** 4 , **MAY** 3 , **WHICH** 3 , **RICHARD** 3 , **DEATH** 3 , **GOING** 3 , **I’M** 3 , **SYSTEM** 3 , **ITSELF** 3 , **INTO** 3 , **CALL** 3 , **BOOK** 3 , **MOST** 3 , **KOKURYŪKAI** 3 , 
+ 
+## What this user tweeted
+ 
+revolution, in a materialist sense, can be viewed as the application of a counterforce to the monopolization of vio… https://t.co/OCyHAcqZmn
+ 
+# Rupali44623715USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Rupali44623715 
+ 
+`User chosen Name:` Rupali 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 01 11:03:47 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 39 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 39 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIR** 10 , **STUDENTS** 6 , **@ADVAKASHSINHA** 5 , **@ANUBHA1812** 4 , **FINAL** 4 , **U** 4 , **PLZZ** 4 , **@DRGEETABHATT** 4 , **@BDUTT** 4 , **CASE** 3 , **@UGC_INDIA** 3 , **N** 3 , **CANNOT** 3 , **EXAMS** 3 , **MOCK** 3 , **DU** 3 , **@SARDESAIVARUN** 3 , **YEAR** 2 , **SHARE** 2 , **BACKLOG** 2 , 
+ 
+## What this user tweeted
+ 
+@Harpreet_S_Hora 
+Sir vulnerabilities are still in mock website https://t.co/63PTfWRUPt@advAkashSinha Sir plzz see this 
+Still there are vulnerabilities in the mock website of DU https://t.co/VriOYASofX
+ 
+# Puspanj92688099USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Puspanj92688099 
+ 
+`User chosen Name:` Puspanjali Sahoo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 01 15:44:16 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 50 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ACHYUTA_SAMANTA:** 41 , **||** 6 , **INDIA** 5 , **SCHOOL** 4 , **TIME** 4 , **@KISSFOUNDATION** 4 , **EDUCATION** 4 , **ଅନେକ** 3 , **YEARS** 3 , **TRIBAL** 3 , **US** 3 , **କରୋନା** 3 , **POST** 3 , **KIITKISSMEMORIES** 3 , **PIONEERS** 3 , **TESTIMONIAL** 3 , **PART** 3 , **NEW** 3 , **STUDENT** 3 , **HUMAN** 3 , 
+ 
+## What this user tweeted
+ 
+RT @achyuta_samanta: ...aiming at reducing vulnerabilities of tribal youth and empowering them through capacity building programmes in thre…RT @LogicalIndians: A unique initiative of @kissfoundation, @UNFPAIndia &amp; #Rural Electrification Corporation Ltd. which aims to reduce vuln…
+ 
+# ShantilataMoha4USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` ShantilataMoha4 
+ 
+`User chosen Name:` Shantilata Mohapatra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 28 11:06:16 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 870 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ACHYUTA_SAMANTA:** 192 , **||** 27 , **INDIA** 16 , **POST** 14 , **JI** 13 , **ODISHA** 13 , **KIITKISSMEMORIES** 13 , **SHRI** 10 , **CONGRATULATIONS** 10 , **GOOD** 9 , **FIGHT** 9 , **ଓ** 8 , **YEARS** 8 , **YOUTH** 8 , **DAY** 8 , **US** 8 , **STUDENTS** 8 , **KISS** 7 , **FIRST** 7 , **AGAINST** 7 , 
+ 
+## What this user tweeted
+ 
+RT @achyuta_samanta: ...aiming at reducing vulnerabilities of tribal youth and empowering them through capacity building programmes in thre…
+ 
+# RaghavSamantrayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1289554372972564481/C9HiPGSQ_normal.jpg)
+ 
+`User ScreenName:` RaghavSamantray 
+ 
+`User chosen Name:` Raghav Samantray 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 01 13:28:40 +0000 2020 
+ 
+`User Description?:` science 
+ 
+`Followers?: `1 
+ 
+`Following?:` 9 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1289554372972564481/C9HiPGSQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@KISSFOUNDATION:** 1 , **LANDMARK** 1 , **NEW** 1 , **EDUCATIONPOLICY2020** 1 , **TRANSFORM** 1 , **INDIAN** 1 , **EDUCATION** 1 , **ITS** 1 , **FOCUS** 1 , **EQUITABLE** 1 , **INCLUSIVE** 1 , **EDUCAT…RT** 1 , **@BANEGASWASTHIND:** 1 , **BANEGASWASTHINDIA** 1 , **ODISHA** 1 , **CHIEF** 1 , **MINISTER** 1 , **NAVEEN** 1 , **PATNAIK** 1 , 
+ 
+## What this user tweeted
+ 
+RT @LogicalIndians: A unique initiative of @kissfoundation, @UNFPAIndia &amp; #Rural Electrification Corporation Ltd. which aims to reduce vuln…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
