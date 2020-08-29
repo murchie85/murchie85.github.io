@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **BerniceKing**  
+The most popular user is: **Teslarati**  
  
 
-## True story. https://t.co/DUay15www2 
+## Tesla employee turns down $1 million, works with FBI, and helps thwart a planned cybersecurity attack on Giga Nevad… https://t.co/kqJmbMwgrH 
 
   
 
@@ -23,24 +23,24 @@ The most popular user is: **BerniceKing**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bugbounty_tips: Two Factor Authentication(2FA) testing cheatsheet by @hackerscrolls #infosec #bugbounty #bugbountytip https://t.co/7X… |
-| RT @3XS0: #FREE 2ಠ2ಠ ♥Burp Suite Professional Edition v2020.7 x64 Full Activated + All Addons – Discount 100% https://t.co/Joixus9aMbLin… |
-| RT @reach2ratan: Nearly Half of UK IT Leaders Have Not Upgraded to Cloud Security https://t.co/PZ6nOq0X1J#CyberSecurity #digital #Hackers… |
+| Security and risk management leaders must use data centric protection to mitigate threats and compliance \ issues t… https://t.co/q8R7EZYLwt |
+| RT @KendalArraya: RT @@ArrayaSolutions: ICYMI: Ex-Uber #CyberSecurity boss faces 8 years in prison for picture-perfect example of how NOT t… |
+| Sec+ Cert secured! https://t.co/KZqlkltxsO |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bugbounty_tips** |
-| #2 Most tweeted to  | **hackerscrolls** |
-| #3 Most tweeted to  | **AlyssaM_InfoSec** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.86%|
+| #1 Most tweeted to  | **DrJDrooghaag** |
+| #2 Most tweeted to  | **andrea4animals** |
+| #3 Most tweeted to  | **lorenzofb** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 1.58%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -51,56 +51,56 @@ The most popular user is: **BerniceKing**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **INFOSEC**  |
-| second  | **HACKERS**  |
-| third  | **MALWARE** |
-| fourth  | **MOST**  |
-| fifth  | **BUGBOUNTY**  |
+| second  | **AI**  |
+| third  | **IOT** |
+| fourth  | **MALWARE**  |
+| fifth  | **TWITTER**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Gurgling_MrD: A former Cisco employee has pleaded guilty to hacking charges related to him accessing the networking giant’s systems and… |
+|Getting Started Becoming a Master Hacker! #hacker #infosec #cybersecurity #cyberwarriorhttps://t.co/aflUIkZzl3 https://t.co/JGwp1fNyYU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BerniceKing**  |
+| The most retweeted user is: **Teslarati**  |
 | ------------- |
-| True story. https://t.co/DUay15www2 |
+| Tesla employee turns down $1 million, works with FBI, and helps thwart a planned cybersecurity attack on Giga Nevad… https://t.co/kqJmbMwgrH |
 
 # Potential Fake Accounts
  
-# bitcurious1USER INFO
-![image](http://pbs.twimg.com/profile_images/1299406835691081728/MS3w-qWs_normal.jpg)
+# HughBrigitteUSER INFO
+![image](http://pbs.twimg.com/profile_images/1297307344813137922/tlSnYROI_normal.jpg)
  
-`User ScreenName:` bitcurious1 
+`User ScreenName:` HughBrigitte 
  
-`User chosen Name:` bitcurious 
+`User chosen Name:` Brigitte Hugh 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Aug 23 19:22:14 +0000 2020 
+`User signup date?:` Sat Aug 22 22:51:46 +0000 2020 
  
-`User Description?:` Up and coming ISA | Teach me coding tips 🥺 | CS-Int Engineering 
+`User Description?:` Climate change, environmental security, Iraqi Kurds, and interdisciplinary research | M.S. | USU Aggie | she/her | Black Lives Matter | Bree-gee-tah 
  
-`Followers?: `7 
+`Followers?: `25 
  
-`Following?:` 55 
+`Following?:` 105 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 28 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1299406835691081728/MS3w-qWs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1297307344813137922/tlSnYROI_normal.jpg 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 28 
  
 
  
@@ -108,67 +108,26 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJ
  
 ## User Top tweeted words 
  
-**FIRST** 2 , **MAKES** 2 , **OKAY** 2 , **SOMETIMES** 2 , **🤷🏻‍♀️** 2 , **SHADE** 2 , **NAME** 1 , **PET?** 1 , **HTTPS://TCO/FQK2Q8PYFCSTARTING** 1 , **PYTHON** 1 , **3** 1 , **BABY'S** 1 , **STEPS** 1 , **VARIABLES** 1 , **SHELLS:** 1 , **OH** 1 , **SENSE** 1 , **😇** 1 , **GETTING** 1 , **FORMATTI…** 1 , 
+**QANON** 4 , **CLIMATE** 4 , **RUSSIAN** 3 , **DISINFORMATION** 3 , **EVEN** 3 , **LOST** 3 , **THING** 2 , **DEEPENING** 2 , **CLEAVAGES** 2 , **CLOSER** 2 , **WAY** 2 , **AGO** 2 , **CULTURE** 2 , **OTHER** 2 , **DAY** 2 , **BOTH** 2 , **STARTED** 2 , **DOES** 2 , **2016** 2 , **AFFIRMING** 2 , 
  
 ## What this user tweeted
  
-Starting Python 3, baby's first steps in variables as shells: oh this makes sense, okay okay 😇
-
-Getting to formatti… https://t.co/suR0b0JiuC
+I found this article from 2018 that talks about a Russian troll account pushing Q articles as early as 2017. !! the… https://t.co/m3j3erBFMK
  
-# brandieniedris7USER INFO
-![image](http://pbs.twimg.com/profile_images/1299452258501890048/ITIIbBXZ_normal.jpg)
+# i_tweet_catsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1297026162892443649/5t832MjV_normal.jpg)
  
-`User ScreenName:` brandieniedris7 
+`User ScreenName:` i_tweet_cats 
  
-`User chosen Name:` brandie niedrist 
+`User chosen Name:` iTweetCats 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Aug 28 21:01:40 +0000 2020 
+`User signup date?:` Sat Aug 22 04:20:10 +0000 2020 
  
-`User Description?:`  
+`User Description?:` I am a bot that tweets anything with the word cat in it! Follow me for all your cat needs! 😸🐈 
  
-`Followers?: `0 
- 
-`Following?:` 0 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299452258501890048/ITIIbBXZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 6 , **@JUSTINSUNTRON:** 4 , **LINKS** 4 , **WALLET** 3 , **GLOBAL** 3 , **HERE** 2 , **ITS** 2 , **NETWORK** 2 , **THOUGH** 2 , **UR** 2 , **HACK** 2 , **من** 2 , **BOOKED** 2 , **LA** 2 , **TRON** 2 , **WE’RE** 2 , **MOOD** 2 , **MORTAL** 2 , **KOMBAT** 2 , **RT** 1 , 
- 
-## What this user tweeted
- 
-RT @AdarshOsle: Armour infosec team with global board of director at owasp @InfosecVandana @infosecgirls its a golden opportunity to meet y…
- 
-# ExpelScrivUSER INFO
-![image](http://pbs.twimg.com/profile_images/1297972691815862277/8--ttuuY_normal.jpg)
- 
-`User ScreenName:` ExpelScriv 
- 
-`User chosen Name:` Nick 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Aug 24 18:59:45 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `2 
+`Followers?: `73 
  
 `Following?:` 1 
  
@@ -176,11 +135,11 @@ RT @AdarshOsle: Armour infosec team with global board of director at owasp @Info
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1297972691815862277/8--ttuuY_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1297026162892443649/5t832MjV_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 3672 
  
 
  
@@ -188,88 +147,81 @@ RT @AdarshOsle: Armour infosec team with global board of director at owasp @Info
  
 ## User Top tweeted words 
  
-**@EXPEL_IO:** 2 , **RT** 1 , **CYBERSECURITY** 1 , **INVESTIGATION** 1 , **@EXPEL_IO** 1 , **WAY:** 1 , **TOOK** 1 , **PLACE** 1 , **THEN** 1 , **RUNDOWN** 1 , **ACTIONS** 1 , **SOC** 1 , **TAKEN…RT** 1 , **HATE** 1 , **BURST** 1 , **ANYONE'S** 1 , **BUBBLE** 1 , **CO-MANAGED** 1 , **SIEM** 1 , **ISN'T** 1 , 
+**CATSOFTWITTER** 117 , **CATS** 42 , **CAT** 33 , **DAY** 9 , **HERE** 9 , **NEW** 8 , **HAPPY** 8 , **MORNING** 7 , **CATSOFTHEQUARANTINE** 7 , **TIME** 7 , **FRIDAY** 7 , **READ** 6 , **KITTY** 6 , **HELP** 6 , **NEED** 6 , **MOM** 6 , **@RINEY_AL:** 5 , **AWW** 5 , **WON'T** 5 , **BOOK?** 5 , 
  
 ## What this user tweeted
  
-RT @expel_io: A #cybersecurity investigation the @expel_io way: see what took place, then get a rundown of the actions the #SOC has taken,…
+RT @fletch_ai: Caption this 🐱
+
+#fletch #CatsOfTwitter #Data #Analytics #cybersecurity https://t.co/HC22fBQo8Y
  
-# 407RedcultUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298905546930692098/UjSxDXjG_normal.jpg)
+# BeyondTrumpismUSER INFO
+![image](http://pbs.twimg.com/profile_images/1299160881310380033/0X8eFv2q_normal.jpg)
  
-`User ScreenName:` 407Redcult 
+`User ScreenName:` BeyondTrumpism 
  
-`User chosen Name:` ARC_intel 
+`User chosen Name:` Beyond Trump 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Aug 27 08:46:54 +0000 2020 
+`User signup date?:` Tue Aug 25 16:36:11 +0000 2020 
+ 
+`User Description?:` My grandparents did not survive Stalin AND Hitler AND the Atlantic for us to endure this bullshit. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 110 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 71 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1299160881310380033/0X8eFv2q_normal.jpg 
+ 
+`Number of tweets excluding replies:` 71 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 20 , **COVID** 6 , **US** 5 , **WAY** 5 , **UNDER** 5 , **BEFORE** 4 , **REAL** 4 , **BETTER** 4 , **REPUBLICAN** 4 , **HE'S** 4 , **NEVER** 4 , **LAW** 4 , **ORDER** 4 , **PARTY** 4 , **ENTIRE** 3 , **TIME** 3 , **WIN** 3 , **MAKE** 3 , **DAMN** 3 , **OPPORTUNITY** 3 , 
+ 
+## What this user tweeted
+ 
+@Out5p0ken @NRA NRA: guns are the only thing that hold America together. 
+
+Everyone else: let's tackle our real sec… https://t.co/Aym3z6p9em
+ 
+# QueenOfCyberSUSER INFO
+![image](http://pbs.twimg.com/profile_images/1297242793127997440/xBPmAiyU_normal.jpg)
+ 
+`User ScreenName:` QueenOfCyberS 
+ 
+`User chosen Name:` DN2020 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Aug 22 18:28:07 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 15 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 138 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1298905546930692098/UjSxDXjG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1297242793127997440/xBPmAiyU_normal.jpg 
  
-`Number of tweets excluding replies:` 138 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIA** 12 , **US** 11 , **@HNBULLETIN:** 10 , **SECURITY** 8 , **CYBER** 8 , **@THEINTERCEPT:** 8 , **CYBERSECURITY** 7 , **@MATTHEWACOLE:** 7 , **MOST** 6 , **AFTER** 6 , **RISK** 6 , **RELEASES:** 6 , **BEING** 5 , **ROUNDUP:** 5 , **PEOPLE** 5 , **@FASTLERNER:** 5 , **SCHOOL** 5 , **HACKERS** 4 , **ARRESTED** 4 , **USERS** 4 , 
- 
-## What this user tweeted
- 
-RT @SMCADMAN: #Einstein #FillInTheBlanksMath #Math #GPS #physics #Encryption #infosec
-Insecure #satellite #Internet is threatening ship and…RT @vishne0: Nobel laureate author emerges as powerful voice backing Belarus protests - Reuters India
-
-https://t.co/tzpQXLVo81
-
-#cybersecur…RT @TheHackersNews: In a new campaign... 
-
-Iranian hackers pose as journalists (over #WhatsApp and LinkedIn) to trick high-value targets in…
- 
-# sys4dmin_USER INFO
-![image](http://pbs.twimg.com/profile_images/1299023458135945217/vSuy3AX6_normal.jpg)
- 
-`User ScreenName:` sys4dmin_ 
- 
-`User chosen Name:` Justin Mckinney 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Aug 27 10:33:31 +0000 2020 
- 
-`User Description?:` Husband, Father and student to #ethicalhacking
-
-I am working hard as I transform from being a #Automotive Diagnostician to a  #OSCP
-
-:~$ ./hopesAndDreams.sh 
- 
-`Followers?: `2 
- 
-`Following?:` 33 
- 
-`User URL?:` https://t.co/0WU6KKjT05 
- 
-`Location:` Waldorf, MD 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299023458135945217/vSuy3AX6_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -277,78 +229,38 @@ I am working hard as I transform from being a #Automotive Diagnostician to a  #O
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 2 , **GOING** 2 , **BEFORE** 1 , **GOT** 1 , **INTERESTED** 1 , **INFOSEC** 1 , **FELT** 1 , **STUPID** 1 , **RUNNING** 1 , **APT-GET** 1 , **UPDATE** 1 , **&AMP;&AMP;** 1 , **UPGRADE** 1 , **EVERYDAY…** 1 , **HTTPS://TCO/KVM3DRNJWOI** 1 , **GLAD** 1 , **FOUND** 1 , **PODCAST** 1 , **I'M** 1 , **INTO** 1 , 
+**CYBER** 2 , **CRIMINOLOGY** 2 , **@DIANAINITIATIVE:** 2 , **“DATA** 2 , **ANALYSIS** 2 , **–** 2 , **DIFFICULTIES** 2 , **STRIKING** 2 , **BALANCE** 2 , **BETWEEN** 2 , **PROTECTING** 2 , **DATA** 2 , **RT** 1 , **@ZBRAITERMAN:** 1 , **THANK** 1 , **DEVEESHREENAYAK** 1 , **MADINAHALI** 1 , **(@SAFEPCSOLUTION)** 1 , **AMAZING** 1 , **@OWASPWIA** 1 , 
  
 ## What this user tweeted
  
-Before I got interested in #infosec and #CyberSecurity I felt stupid for running apt-get update &amp;&amp; upgrade everyday… https://t.co/kVM3DrNjWO
+RT @zbraiterman: Thank you #DeveeshreeNayak and #MadinahAli (@SafePCSolution) for an amazing @OWASPWIA session on Cyber #Criminology and Co…
  
-# xahttUSER INFO
-![image](http://pbs.twimg.com/profile_images/1298373429079539721/rUnuFlPR_normal.jpg)
+# CyberRoFloUSER INFO
+![image](http://pbs.twimg.com/profile_images/1298711763903340549/R6syCnsb_normal.jpg)
  
-`User ScreenName:` xahtt 
+`User ScreenName:` CyberRoFlo 
  
-`User chosen Name:` xahtt 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Aug 25 21:21:25 +0000 2020 
- 
-`User Description?:` Threat Analyst / IR @ $Company
-Here to learn more. 
- 
-`Followers?: `1 
- 
-`Following?:` 50 
- 
-`User URL?:` None 
- 
-`Location:` United Kingdom 
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1298373429079539721/rUnuFlPR_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CRYPTOCURRENCY** 2 , **HUGE** 1 , **SPIKE** 1 , **RECENTLY** 1 , **WASTEDLOCKER** 1 , **SHLAYER** 1 , **SHLAYER:** 1 , **DETECTING** 1 , **PARENT** 1 , **PROCESS** 1 , **BASH** 1 , **SPAWNING** 1 , **CHILDS** 1 , **O…** 1 , **HTTPS://TCO/G9ATLR7P7NRT** 1 , **@CNMF_CYBERALERT:** 1 , **MILLIONS** 1 , **STOLEN** 1 , **LAUNDERED** 1 , **THROUGH** 1 , 
- 
-## What this user tweeted
- 
-new infosec job, new twitter.
- 
-# satwik12330934USER INFO
-![image](http://pbs.twimg.com/profile_images/1297922814549393408/W6q6ctJs_normal.jpg)
- 
-`User ScreenName:` satwik12330934 
- 
-`User chosen Name:` satwik 
+`User chosen Name:` Rodney Flores 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Aug 24 15:44:11 +0000 2020 
+`User signup date?:` Thu Aug 20 04:50:18 +0000 2020 
  
-`User Description?:` #Investigator in #Cybercrimes #Activist #EndnowFoundation 
+`User Description?:` Cybersecurity, Imposter Syndrome, and everything in between. 
  
 `Followers?: `5 
  
-`Following?:` 13 
+`Following?:` 56 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` San Diego, CA 
  
-`Number of tweets extracted`  : 42 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1297922814549393408/W6q6ctJs_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1298711763903340549/R6syCnsb_normal.jpg 
  
-`Number of tweets excluding replies:` 42 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -356,22 +268,11 @@ new infosec job, new twitter.
  
 ## User Top tweeted words 
  
-**@ENDNOWCYBER:** 32 , **INFOSEC** 13 , **CYBERBULLYING** 9 , **CYBERSECURITY** 8 , **CYBERSAFETY** 7 , **@ANILRACHUMALLA:** 7 , **FAKE** 6 , **CYBER** 6 , **@ENDNOWCYBER** 6 , **HURT** 5 , **WORDS** 5 , **…RT** 5 , **HAVING** 5 , **2FA** 5 , **LOGGING** 5 , **2020** 4 , **SOCIAL** 4 , **MEDIA** 4 , **VULNERABILITY** 4 , **ISSUE** 4 , 
+**STARTED** 2 , **STUDENT** 2 , **CYBERSECURITY** 2 , **NEVER** 2 , **MORNING** 1 , **WATCHING** 1 , **“THE** 1 , **ROADMAP** 1 , **BECOMING** 1 , **PENETRATION** 1 , **TESTER”** 1 , **JON** 1 , **HELMUS** 1 , **EXACTLY** 1 , **I…** 1 , **HTTPS://TCO/UMGKNFJWJII'M** 1 , **SELF-STUDYING** 1 , **COMPTIANETWORK+** 1 , **MOMENT** 1 , **HOPEFUL** 1 , 
  
 ## What this user tweeted
  
-RT @EndNowCyber: “Digital Parenting” 
-
-Kids can Scroll before they can Crawl 
-
-Releasing "Book" this September 2020
-
-#parenting #digitalpar…
+I started my morning watching “The Student Roadmap to Becoming A Penetration Tester” by Jon Helmus. Exactly what I… https://t.co/UMgknFjWJi
  
-
-<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
-### CONCLUSION & EXTERNAL ANALYSIS
-
-*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
-Authors analytical summary on request.
-**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
+# AfricaEncryptUSER INFO
+![image](http://pbs.twimg.com/profile_images/1299759435976519682/c40UI50o_normal.jpg)
