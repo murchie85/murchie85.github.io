@@ -29,19 +29,19 @@ The most popular user is: **NatashaBertrand**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ullaspscaria: The pandemic added fuel in vulnerabilities of the poor children. Child labour and trafficking will increase. The governme… |
-| @giftedPWDcentre @LengaNoma @CHAHILUCAROL @SP_Kenya @covaw @Ncpwds @kenya_wage @UlemavuResearch @FemnetProg… https://t.co/gZVX0swIGt |
-| @soapfanatic93 Exactly!! He hasn’t changed one bit and definitely trying to start trouble where there shouldn’t be… https://t.co/UTimMEMLVN |
+| RT @Jake2055: @Matthew_4_Trump @SharNeal Not to my Knowledge. The ONLY reason I wear MINE is Because My Wife is a 20 Yr Cancer Survivor wit… |
+| RT @apmassaro3: Could inversely serve as opportunity to clean offshore up as we recognize the vulnerabilities of having sensitive supply ch… |
+| RT @EllenDibble: @SethAbramson Four years ago we didn't take into consideration the maximum torque being exerted, invisibly except to the "… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **jennycohn1** |
-| #2 Most tweeted to  | **oct0xor** |
+| #2 Most tweeted to  | **USCERT_gov** |
 | #3 Most tweeted to  | **WebSecAcademy** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.36%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 2.24%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -54,18 +54,18 @@ The most popular user is: **NatashaBertrand**
 | second  | **CISCO**  |
 | third  | **PEOPLE** |
 | fourth  | **COULD**  |
-| fifth  | **EXPLOIT**  |
+| fifth  | **MANY**  |
 
 
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jason_kint: Only Facebook knows how political ads has been used to microtarget the public with suppressing messaging based on their vul… |
+|We grow in self-worth when we can acknowledge and share our strengths and accomplishments as well as our vulnerabil… https://t.co/RzMAkoNZsQ |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,138 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
 | JUST OUT: Volume 5 of the Senate Intelligence Committee's Russia report, focused on counterintelligence threats and… https://t.co/SJk5xXBEIg |
 
 # Potential Fake Accounts
+ 
+# RootDanteUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` RootDante 
+ 
+`User chosen Name:` Dante Root 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Sep 05 02:40:57 +0000 2020 
+ 
+`User Description?:` Information security engages two groups on opposites sides both calling themselves hackers.
+The tweets capture ingenuity of ideas at the forefront of technology 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 2 , **GREAT** 1 , **WRITE-UP** 1 , **STORY** 1 , **STUXNET** 1 , **MALWARE** 1 , **HTTPS://TCO/8X0NVAVTMD** 1 , **MOST** 1 , **SOPHISTICATED** 1 , **PIECE** 1 , **SOFTWARE** 1 , **EVER** 1 , **WRITTEN?AUTOENCODING** 1 , **MODEL** 1 , **LEARN** 1 , **LOW-DIMENSIONAL** 1 , **REPRESENTATION** 1 , **RECONSTRUCTION** 1 , **USED** 1 , **DETECT** 1 , 
+ 
+## What this user tweeted
+ 
+Progress in #AI will enable new varieties of #security attacks that may use AI systems to complete certain tasks mo… https://t.co/vk2p1tP34l
+ 
+# _motorismsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1300969363835703297/8VOpWLNr_normal.jpg)
+ 
+`User ScreenName:` _motorisms 
+ 
+`User chosen Name:` ‧͙⁺˚*･༓☾ ・・ 笨蛋 ∞ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Aug 27 23:58:31 +0000 2020 
+ 
+`User Description?:` *°:⋆ₓₒ 𝙖𝙣𝙙 𝙞𝙩𝙨 𝙖𝙡𝙡 𝙛𝙪𝙣 𝙖𝙣𝙙 𝙜𝙖𝙢𝙚𝙨 𝙩𝙞𝙡𝙡 𝙨𝙤𝙢𝙚𝙗𝙤𝙙𝙮 𝙛𝙖𝙡𝙡𝙨 𝙞𝙣 𝙡𝙤𝙫𝙚 ₓₒ⋆:°*
+
+♡༺ 𝐥𝐨𝐯𝐢𝐧𝐠 @YakuzaBaby__ 𝐡𝐨𝐮𝐫𝐬 𝟐𝟒/𝟕 
+ 
+`Followers?: `47 
+ 
+`Following?:` 138 
+ 
+`User URL?:` https://t.co/v1OB2iaiDY 
+ 
+`Location:` dumbass with a wrench 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1300969363835703297/8VOpWLNr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1372 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**[** 67 , **]** 59 , **/** 35 , **;** 30 , **IM** 28 , **BABE** 18 , **U** 15 , **UR** 11 , **FUYUHIKO** 11 , **OH** 11 , **SHIT** 11 , **DONT** 11 , **ITS** 9 , **FUCK** 9 , **DON'T** 8 , **PLEASE** 8 , **WAY** 8 , **MAYBE** 8 , **IDK** 8 , **HE'S** 8 , 
+ 
+## What this user tweeted
+ 
+++ [ it's not interest so much as disgust in his eyes . disgust at fuyuhiko for taking advantage of his vulnerabili… https://t.co/ijwccpAKdO
+ 
+# Military_Man_65USER INFO
+![image](http://pbs.twimg.com/profile_images/1301760575953711104/9Im4kBSL_normal.jpg)
+ 
+`User ScreenName:` Military_Man_65 
+ 
+`User chosen Name:` 🌊Veteran For Biden_Harris🌊#FBR🌊 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Sep 03 18:45:44 +0000 2020 
+ 
+`User Description?:` 🌊#FBR🌊
+#AmericaOrTrump
+Veteran for Biden/Harris 2020
+Software & A/V Engineer
+#ClimateCrisis
+#WearADamnMask
+#AnimalRights
+#BLM
+#Biden2020
+#TrumpVirus
+🌊VOTE🌊 
+ 
+`Followers?: `141 
+ 
+`Following?:` 586 
+ 
+`User URL?:` https://t.co/yOjvJkqusI 
+ 
+`Location:` 🇺🇸 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1301760575953711104/9Im4kBSL_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1051 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 53 , **MILITARY** 11 , **PRESIDENT** 11 , **@REALDONALDTRUMP** 10 , **DONALD** 10 , **DAY** 9 , **BIDEN** 9 , **@MILITARY_MAN_65:** 8 , **VOTE** 8 , **ANY** 8 , **US** 7 , **EVEN** 7 , **JOHN** 7 , **THAN** 6 , **WHITE** 6 , **STORY** 6 , **FOX** 6 , **NEWS** 6 , **FAMILY** 6 , **GOING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @jennobenno: Sen. Tina Smith &amp; Sen. Elizabeth Warren are a formidable pair!
+
+They introduced legislation to revamp domestic manufacture…
  
 # StarvixJotaroUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1300399826832486400/k4vued40_normal.jpg)
@@ -89,7 +221,7 @@ VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJEC
 `User Description?:` I'm staying like this until I've properly raised my daughter, Jolyne.
 she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix 
  
-`Followers?: `75 
+`Followers?: `77 
  
 `Following?:` 104 
  
@@ -101,7 +233,7 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
  
 `Profile image:` http://pbs.twimg.com/profile_images/1300399826832486400/k4vued40_normal.jpg 
  
-`Number of tweets excluding replies:` 1806 
+`Number of tweets excluding replies:` 1837 
  
 
  
@@ -109,7 +241,7 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
  
 ## User Top tweeted words 
  
-***SHE** 18 , **YARE** 15 , **I'M** 7 , **ALREADY** 6 , **OH** 5 , **YOU'RE** 5 , **STARTS** 5 , **DON'T** 5 , **GUESS** 4 , **CLOTHES** 4 , **MAYBE** 4 , **BODY** 4 , **SOMETHING** 4 , **MUCH** 4 , **@OKUYASU_BILLION** 3 , **LITERALLY** 3 , **BETTER** 3 , **SAME** 3 , **ALRIGHT** 3 , **NEED** 3 , 
+***SHE** 18 , **YARE** 9 , **@RABIDTRISHPLUSH** 6 , **OH** 6 , **I'M** 6 , **ALREADY** 6 , **DON'T** 5 , **STARTS** 5 , **GO** 4 , **ALRIGHT** 4 , **GOING** 4 , **CLOTHES** 4 , **MAYBE** 4 , **BODY** 4 , **SOMETHING** 4 , **MUCH** 4 , **BEING** 3 , **INTERNET** 3 , **YOU'RE** 3 , **LITERALLY** 3 , 
  
 ## What this user tweeted
  
@@ -128,7 +260,7 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
  
 `User Description?:` IT security enthusiast. 
  
-`Followers?: `17 
+`Followers?: `16 
  
 `Following?:` 248 
  
@@ -140,7 +272,7 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
  
 `Profile image:` http://pbs.twimg.com/profile_images/1301563506416930819/kw_2Yw23_normal.jpg 
  
-`Number of tweets excluding replies:` 468 
+`Number of tweets excluding replies:` 466 
  
 
  
@@ -153,46 +285,6 @@ she/her, or whatever... | Starvix Jotaro(a) | Ran by @icestonevulpix
 ## What this user tweeted
  
 RT @CanonBusinessUK: The pandemic has exposed the UK’s #cybersecurity vulnerabilities. A new report from Robert Walters and data provider @…
- 
-# manusraddhadevaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1299357881389604864/o34yMF46_normal.jpg)
- 
-`User ScreenName:` manusraddhadeva 
- 
-`User chosen Name:` Manuśraddhādeva 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 28 14:46:58 +0000 2020 
- 
-`User Description?:` When he is thus engaged in conquest, let him subdue all the opponents whom he may find, by the (four) expedients, conciliation and the rest
--MS 7.107 
- 
-`Followers?: `213 
- 
-`Following?:` 107 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 194 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299357881389604864/o34yMF46_normal.jpg 
- 
-`Number of tweets excluding replies:` 835 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HINDU** 15 , **THAN** 10 , **PEOPLE** 10 , **@HASTIVARMAN:** 9 , **THESE** 7 , **NEED** 7 , **EVEN** 7 , **HINDUS** 7 , **@HINDUTRAD:** 6 , **AFTER** 5 , **THEN** 5 , **HINDUISM** 5 , **BELIEVE** 5 , **HERE** 5 , **ITS** 5 , **@533MMTORPEDO:** 5 , **@BEINGTHESHAKTI:** 5 , **FIRST** 5 , **NEVER** 5 , **NAME** 5 , 
- 
-## What this user tweeted
- 
-RT @jataayou: At the risk of repeating myself for a gazillionth time. Atheism is just a clever debating posture. It covers most of your vul…
  
 # laz0rdeUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1301822536926322688/qntsvSgy_normal.jpg)
@@ -208,19 +300,19 @@ RT @jataayou: At the risk of repeating myself for a gazillionth time. Atheism is
 `User Description?:` Bug-Bounty Hunter but noob
 19 year's old Otaku 
  
-`Followers?: `9 
+`Followers?: `12 
  
-`Following?:` 32 
+`Following?:` 43 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 2 
+`Number of tweets extracted`  : 3 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1301822536926322688/qntsvSgy_normal.jpg 
  
-`Number of tweets excluding replies:` 2 
+`Number of tweets excluding replies:` 3 
  
 
  
@@ -228,7 +320,7 @@ RT @jataayou: At the risk of repeating myself for a gazillionth time. Atheism is
  
 ## User Top tweeted words 
  
-**SUBMITTED** 2 , **RT** 1 , **@DISCLOSEDH1:** 1 , **TOPCODER** 1 , **DISCLOSED** 1 , **BUG** 1 , **LAZ0RDE:** 1 , **HTTPS://TCO/DM93S3S5RF** 1 , **HACKERONE** 1 , **BUGBOUNTY** 1 , **HTTPS://TCO/UXVFAK7QUDIN** 1 , **AUGUST** 1 , **19** 1 , **VULNERABILITIES** 1 , **5** 1 , **PROGRAMS** 1 , **@HACKER0X01** 1 , **TOGETHERWEHITHARDER** 1 , **HTTPS://TCO/DGTWPJELC9** 1 , 
+**SUBMITTED** 2 , **@PRAMODK24866663** 1 , **@DISCLOSEDH1** 1 , **ACTUALLY** 1 , **DON’T** 1 , **USE** 1 , **MUCH** 1 , **AUTOMATION** 1 , **HEARD** 1 , **“REFLECTOR”** 1 , **EXTENSION** 1 , **BURPRT** 1 , **@DISCLOSEDH1:** 1 , **TOPCODER** 1 , **DISCLOSED** 1 , **BUG** 1 , **LAZ0RDE:** 1 , **HTTPS://TCO/DM93S3S5RF** 1 , **HACKERONE** 1 , **BUGBOUNTY** 1 , 
  
 ## What this user tweeted
  
@@ -329,19 +421,19 @@ News about the IT world, meetups, events, and a lot more. In Spanish and English
  
 `User Description?:` uMxhosa💯|| Logic over Emotions|| Determination over Desperation|| I'll defend amaDyan|| 
  
-`Followers?: `362 
+`Followers?: `364 
  
-`Following?:` 348 
+`Following?:` 378 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 131 
+`Number of tweets extracted`  : 142 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1301402658536816640/Ongpwwzb_normal.jpg 
  
-`Number of tweets excluding replies:` 131 
+`Number of tweets excluding replies:` 142 
  
 
  
@@ -349,7 +441,7 @@ News about the IT world, meetups, events, and a lot more. In Spanish and English
  
 ## User Top tweeted words 
  
-**MUST** 11 , **@MYNAMEIS_XMAN** 10 , **PEOPLE** 9 , **ITS** 9 , **I'M** 7 , **US** 7 , **@UMALAMBANEZN** 7 , **@CELLULAR_ZA** 6 , **EVEN** 5 , **BLACK** 5 , **RECORDS** 5 , **@PEJAMES** 5 , **WENA** 4 , **@AKAWORLDWIDE** 4 , **YOU'RE** 4 , **REALLY** 4 , **STOP** 4 , **GROW** 4 , **TWEET** 4 , **MAKE** 4 , 
+**@MYNAMEIS_XMAN** 12 , **MUST** 11 , **PEOPLE** 10 , **US** 9 , **ITS** 9 , **I'M** 7 , **@UMALAMBANEZN** 7 , **STOP** 6 , **BLACK** 6 , **@CELLULAR_ZA** 6 , **@AKAWORLDWIDE** 5 , **WENA** 5 , **LET'S** 5 , **EVEN** 5 , **RECORDS** 5 , **@PEJAMES** 5 , **YOU'RE** 4 , **GROW** 4 , **TWEET** 4 , **MAKE** 4 , 
  
 ## What this user tweeted
  
@@ -489,7 +581,7 @@ Prioritizing vulnerabilities without sufficient context is an ineff…
  
 `User Description?:` Tío, actuario y amigo en México. Golpeando con la derecha. 
  
-`Followers?: `9 
+`Followers?: `10 
  
 `Following?:` 92 
  
@@ -497,11 +589,11 @@ Prioritizing vulnerabilities without sufficient context is an ineff…
  
 `Location:`  
  
-`Number of tweets extracted`  : 119 
+`Number of tweets extracted`  : 122 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1300833058313195520/_QvsPbXM_normal.jpg 
  
-`Number of tweets excluding replies:` 119 
+`Number of tweets excluding replies:` 122 
  
 
  
@@ -509,7 +601,7 @@ Prioritizing vulnerabilities without sufficient context is an ineff…
  
 ## User Top tweeted words 
  
-**DE** 62 , **LA** 33 , **EL** 31 , **QUE** 27 , **EN** 27 , **UN** 21 , **Y** 20 , **ES** 18 , **POR** 15 , **CON** 14 , **SE** 14 , **LOS** 10 , **@FONDEADORA:** 10 , **DEL** 8 , **SOBRE** 7 , **PARA** 7 , **HOY** 6 , **SU** 6 , **TE** 6 , **LO** 6 , 
+**DE** 64 , **EL** 34 , **LA** 33 , **EN** 31 , **QUE** 29 , **Y** 22 , **UN** 22 , **ES** 18 , **POR** 15 , **CON** 14 , **SE** 14 , **LOS** 10 , **@FONDEADORA:** 10 , **DEL** 9 , **SU** 7 , **SOBRE** 7 , **PARA** 7 , **HOY** 6 , **TE** 6 , **LO** 6 , 
  
 ## What this user tweeted
  
@@ -540,7 +632,7 @@ RT @citrix: Flexible work is here to stay. IT leaders must look at long-term str
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 436 
+`Number of tweets excluding replies:` 459 
  
 
  
@@ -548,7 +640,7 @@ RT @citrix: Flexible work is here to stay. IT leaders must look at long-term str
  
 ## User Top tweeted words 
  
-**ERICA** 97 , **ERICAISME** 44 , **ERICATHEBRAND** 33 , **ERICAISMERT** 32 , **BBNAIJA** 24 , **GIRL** 18 , **ELITES** 16 , **LOVE** 15 , **PEOPLE** 13 , **SHOW** 13 , **QUEEN** 12 , **STAR** 11 , **@ERICANLEWEDIM** 11 , **BABY** 11 , **BEAUTIFUL** 9 , **ERICATHEBRANDRT** 9 , **GOD** 9 , **G** 8 , **STAN** 8 , **REAL** 8 , 
+**ERICA** 88 , **ERICAISME** 38 , **ERICATHEBRAND** 34 , **ERICAISMERT** 27 , **BBNAIJA** 25 , **ELITES** 25 , **GIRL** 21 , **LOVE** 15 , **PEOPLE** 14 , **STAR** 13 , **QUEEN** 12 , **SHOW** 12 , **BABY** 11 , **@ERICANLEWEDIM** 10 , **BEAUTIFUL** 9 , **ERICATHEBRANDRT** 9 , **GOOD** 8 , **G** 8 , **STAN** 8 , **REAL** 8 , 
  
 ## What this user tweeted
  
@@ -633,45 +725,6 @@ Please share your Lived Experiences and Housing Policy Ideas: PublicHealthHousin
 ## What this user tweeted
  
 RT @jen_keesmaat: COVID recovery response should fix some of the most acute vulnerabilities exposed by the pandemic, notably: seniors healt…
- 
-# Dima_SolutionUSER INFO
-![image](http://pbs.twimg.com/profile_images/1299228514671947777/HvMFAx40_normal.jpg)
- 
-`User ScreenName:` Dima_Solution 
- 
-`User chosen Name:` Dima Business Solution Pvt Ltd 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Aug 28 06:12:35 +0000 2020 
- 
-`User Description?:` DIMA Business Solution is an Internet Security Organization for DNS level security with Threat Intelligence system powered by AI, ML to prevent Cyber Threat 
- 
-`Followers?: `1 
- 
-`Following?:` 7 
- 
-`User URL?:` https://t.co/7kCNUvlZOi 
- 
-`Location:` Coimbatore,TamilNadu,India 
- 
-`Number of tweets extracted`  : 7 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1299228514671947777/HvMFAx40_normal.jpg 
- 
-`Number of tweets excluding replies:` 7 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBER** 2 , **THREATS** 2 , **KEEP** 2 , **ORGANIZATION** 2 , **SAFE** 2 , **DIMAWARRIOR** 2 , **PROVIDES** 2 , **EARLY** 2 , **WARNING** 2 , **UPCOMING** 2 , **ATTACKS** 2 , **MIGHT** 2 , **AFFECT** 2 , **ONAM** 2 , **JOY** 2 , **RT** 1 , **@EINPRESSWIREPR:** 1 , **FUTURE** 1 , **UNDER** 1 , **CONTROL** 1 , 
- 
-## What this user tweeted
- 
-L4NC34 is a #ransomware that targets #websites only. The attacker may be using #software vulnerabilities or poorly… https://t.co/YNdxLhzqDw
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
