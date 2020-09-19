@@ -1,9 +1,27 @@
 <html>
 	
+	<head>
+ 	<title>Adam McMurchie</title>
+    <meta property="og:url"      content="https://murchie85.github.io/projects/portfolio/murchie.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Portfolio" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="images/devops/devfun.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/devops/devfun.jpg"> <!-- PREVIEW IMAGE -->
 
-<!--
-<iframe width="90%" height="90%" src="https://www.youtube.com/embed/HpYfd0xkHa4?autoplay=1&mute=1&controls=0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Adam's gaming portfolio.">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+	</head>
+<body onload="startTime(); ">
+
+
+
+<!--    ************************* INTRO ANIMATION *******************************************-->
+
+
 <center>
 <video onended="ShowText()" width=80% height=80% autoplay="autoplay" muted >
   <source src="Portfolio.mov" type="video/mp4">
@@ -12,17 +30,121 @@
 </video>
 </center>
 
-<center><h1 id="p1"> </h1></center>
+<center><p  style="font-size: 250%;" id="p1"> </p></center>
 
 
 <script type='text/javascript'>
   function ShowText(){
-  	document.getElementById("p1").innerHTML = "Hello! Please Scroll Down for Portfolio";
+  	document.getElementById("p1").innerHTML = "Hello! Please <b> Scroll Down</b> for Portfolio";
     console.log("The End.")
   }
 </script>
 
 
+<!--    ************************* FIRST ARROW DOWN *******************************************-->
+<center><img src="Arrow/arrow2.png" alt="arrow" id="arrow"></center>
 
+
+
+
+
+
+
+
+<br></br>  <br></br> <br></br> <br></br> <br></br> <br></br> <br></br>
+
+<!--    ************************* SUMMARY  *******************************************-->
+<div>
+
+    <img src="ship/ship1.png" alt="SpaceShip" align='right' id="ship" style="margin-right: 15%; margin-top: 5%">
+    <p style="font-size: 250%; margin: 50px; margin-right: 40%;">Hello!<br></br>
+    I'm <b>Adam McMurchie</b>, an experienced senior engineer looking to make a transition into the gaming world. 
+    </p>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+var timerid = 0;
+var images = new Array( "ship/ship1.png",
+      "ship/ship2.png",
+      "ship/ship3.png",
+      "ship/ship4.png",
+      "ship/ship5.png"
+
+
+      );
+var countimages = 0;
+function startTime()
+{
+  if(timerid)
+  {
+    timerid = 0;
+  }
+  var tDate = new Date();
+  
+  if(countimages == images.length)
+  {
+    countimages = 0;
+  }
+  if(tDate.getMilliseconds() > 5)
+  {
+    document.getElementById("ship").src = images[countimages];
+  }
+  countimages++;
+  
+  timerid = setTimeout("startTime()", 100);
+}
+</script>
+
+
+
+
+
+
+<!-- page break -->
+<p style="margin-bottom: 70%"></p>
+
+
+<!--    ************************* BACKGROUND  *******************************************-->
+
+<div>
+
+    <img src="navi/navi.png" alt="navi" align='left' id="ship" style="margin-right: 15%; margin-top: 5%">
+    <p style="font-size: 100%; margin: 50px; margin-right: 40%;">Hello!<br></br>
+     I believe my 10 years developer, DevOps, AI and agile background would put me in a position to add value. I have developed products from the first instalment of ApplePay in the UK to a large-scale refactoring of monolithic Online backend into microServices. 
+
+    </p>
+
+</div>
+
+
+
+
+
+
+<!-- page break -->
+<p style="margin-bottom: 70%"></p>
+
+
+
+<table style="font-size: 150%; ">
+  <tr>
+    <td>Skills</td>
+    <td> </td>
+    <td>Dev</td>
+    <td>DevOps</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+    <td>600</td>
+    <td>600</td>
+    <td>600</td>
+  </tr>
+</table>
+
+
+</body>
 
 </html>
