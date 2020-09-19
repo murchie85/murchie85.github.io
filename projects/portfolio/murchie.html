@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
 
 	</head>
-<body onload="startTime(); ">
+<body onload="startNaviTime();startTime(); ">
 
 
 
@@ -109,7 +109,7 @@ function startTime()
 
 <div>
 
-    <img src="navi/navi.png" alt="navi" align='left' id="ship" style="margin-left: 15%; padding-right: 5% ">
+    <img src="navi/navi.png" alt="navi" align='left' id="navi" style="margin-left: 15%; padding-right: 5% ">
     <p style="font-size: 150%; margin: 50px; margin-right: 10%">
      I believe my 10 years developer, DevOps, AI and agile background would put me in a position to add value. I have developed products from the first instalment of ApplePay in the UK to a large-scale refactoring of monolithic Online backend into microServices. 
 
@@ -117,6 +117,42 @@ function startTime()
 
 </div>
 
+
+<script language="javascript" type="text/javascript">
+var naviTimerid = 0;
+var NaviImages = new Array( "navi/navi.png",
+      "navi/navi1.png",
+      "navi/navi2.png",
+      "navi/navi3.png",
+      "navi/navi4.png",
+      "navi/navi5.png",
+      "navi/navi6.png",
+      "navi/navi7.png"
+
+
+      );
+var countNaviimages = 0;
+function startNaviTime()
+{
+  if(naviTimerid)
+  {
+    naviTimerid = 0;
+  }
+  var naviDate = new Date();
+  
+  if(countNaviimages == NaviImages.length)
+  {
+    countNaviimages = 0;
+  }
+  if(naviDate.getMilliseconds() > 100)
+  {
+    document.getElementById("navi").src = NaviImages[countNaviimages];
+  }
+  countNaviimages++;
+  
+  naviTimerid = setTimeout("startNaviTime()", 100);
+}
+</script>
 
 
 
