@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "vulnerabilities"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/vulnerabilities/TWEETS.png)
 <br></br>
-The most popular user is: **likethecoins**  
+The most popular user is: **BretWeinstein**  
  
 
-## I have some REALLY exciting news... this year's #CTISummit is FREE!!!!!! You can get more info and register here:… https://t.co/p3y1oc2PJJ 
+## No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process… https://t.co/2lV6Hl8lFW 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **likethecoins**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/vulnerabilities/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MISPProject: As we participate to the EU ATT&amp;CK Workshop, we included today the @MITREattack sub-techniques support in MISP.  These are… |
-| RT @Hakin9: Hacker's OSINT Compendium - Special edition that contains all the important information and tutorials about open source intelli… |
-| RT @bad_packets: Mass scanning activity detected from 95.5.64.42 (🇹🇷) attempting to exploit Fortinet VPN servers vulnerable to unauthentica… |
+| RT @JohnFMiller86: Working class social groups are often governed by quick-wittedness/merciless taunting.It's a dynamic that rewards thic… |
+| RT @Oikoumene: Indigenous Peoples: Wisdom and ResilienceWebinar▶️Thursday, 29 October#COVID19 has heightened existing vulnerabilities and… |
+| @dialynrey @JohnSPaulus @ChrisLu44 @GeoffRBennett I hope your comment is directed to John's tweet, not mine. I have… https://t.co/dYZCpPwXKV |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.35%  |
-| Tweeters with < 10 followers  | 1.1%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **JohnnySibilly** |
+| #2 Most tweeted to  | **CarlosAlvQ** |
+| #3 Most tweeted to  | **LicypriyaK** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **likethecoins**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSINT**  |
-| second  | **INFOSEC**  |
-| third  | **HACKERS** |
-| fourth  | **CYBERTHREATS**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **VULNERABILITIES**  |
+| second  | **US**  |
+| third  | **THESE** |
+| fourth  | **HACKERS**  |
+| fifth  | **ANY**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+![image](assets/vulnerabilities/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @asfakian: .@enisa_eu Threat Landscape 2020 is out! The report identifies and evaluates the top cyber threats for the period January 201… |
+|I appreciate this but how do people miss the fact that Ruby tried to seduce Christina &amp; then when it didn't work, u… https://t.co/By8LohiPZE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **likethecoins**  |
+| The most retweeted user is: **BretWeinstein**  |
 | ------------- |
-| I have some REALLY exciting news... this year's #CTISummit is FREE!!!!!! You can get more info and register here:… https://t.co/p3y1oc2PJJ |
+| No American should crow about the President contracting a deadly disease. The fragility of our leaders, our process… https://t.co/2lV6Hl8lFW |
 
 # Potential Fake Accounts
  
-# Alexander_jokUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318859479329460225/mMTJ959h_normal.jpg)
+# _FutureWork_USER INFO
+![image](http://pbs.twimg.com/profile_images/1317787208854679553/ekZyxtdT_normal.jpg)
  
-`User ScreenName:` Alexander_jok 
+`User ScreenName:` _FutureWork_ 
  
-`User chosen Name:` Александр 
+`User chosen Name:` The Future of Work 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Oct 21 10:19:12 +0000 2020 
+`User signup date?:` Sun Oct 18 09:59:58 +0000 2020 
  
-`User Description?:` Alex Flow 
+`User Description?:` stay up to date with the #futureofwork | #remotework | #wfh | #leadership | #skills | #digitaltransformation | RT ≠ endorsement | imprint https://t.co/hqejOIawr9 
  
-`Followers?: `7 
+`Followers?: `26 
  
-`Following?:` 55 
+`Following?:` 27 
  
 `User URL?:` None 
  
-`Location:` Москва, Россия 
+`Location:` MUC | EU  
  
-`Number of tweets extracted`  : 24 
+`Number of tweets extracted`  : 133 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318859479329460225/mMTJ959h_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1317787208854679553/ekZyxtdT_normal.jpg 
  
-`Number of tweets excluding replies:` 24 
+`Number of tweets excluding replies:` 133 
  
 
  
@@ -108,28 +108,106 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJE
  
 ## User Top tweeted words 
  
-**И** 9 , **HTTPS://TCO/1NJOHFPSBT** 4 , **НЕ** 4 , **В** 3 , **BRAVE** 3 , **@NOFORNUMBRA:** 3 , **ЧТО** 3 , **КАК** 3 , **С** 3 , **@BRAVEBR66010682:** 2 , **BEST** 2 , **BRANDS** 2 , **CARS** 2 , **@BITCOINCASINO01:** 2 , **HTTPS://TCO/KVD0K6HQ72** 2 , **PLAY** 2 , **ONLINE** 2 , **CASINO** 2 , **PLAYAMO** 2 , **BITCOIN** 2 , 
+**@WSWMUC:** 37 , **SKILLS** 18 , **WORK** 17 , **☑️** 14 , **COMPANIES** 13 , **REMOTE** 13 , **PEOPLE** 13 , **AGILE** 12 , **DIGITALTRANSFORMATION** 9 , **BUSINESS** 9 , **NEW** 9 , **3** 8 , **💡** 8 , **1️⃣** 8 , **LEADERSHIP** 8 , **DIGITAL** 8 , **WORKING** 8 , **NEED** 7 , **2️⃣** 7 , **FUTURE** 7 , 
  
 ## What this user tweeted
  
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
+RT @mitsmr: "The flush of success can lead us to (over) invest in what has worked in the past while ignoring vulnerabilities that could imp…
  
-# ellengineerUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318695321157791744/M84XxHxQ_normal.jpg)
+# SazzleTake2USER INFO
+![image](http://pbs.twimg.com/profile_images/1320446759974424581/dzg9AnBg_normal.jpg)
  
-`User ScreenName:` ellengineer 
+`User ScreenName:` SazzleTake2 
  
-`User chosen Name:` ellengineer 
+`User chosen Name:` Saz 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Oct 20 23:22:32 +0000 2020 
+`User signup date?:` Sat Oct 24 08:13:10 +0000 2020 
  
-`User Description?:` I’m an engineer 
+`User Description?:` Locked out of my main account 🙄 
+ 
+`Followers?: `281 
+ 
+`Following?:` 274 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 196 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320446759974424581/dzg9AnBg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 196 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@YOUTUBE** 22 , **@CLAIRE_LOU99** 22 , **@DREAMER8974** 22 , **@PUDDOCKII** 22 , **@ACHILLEDPINOT** 22 , **@CLAREGR85112598…** 22 , **@JUL56COM** 20 , **@HUWMDAVIES** 15 , **@ATOMICH74** 13 , **I’M** 12 , **MORNING** 12 , **GOOD** 9 , **REPORTED** 9 , **ACCOUNT** 9 , **SOMEONE** 8 , **RESPONSE** 8 , **SPITTING** 8 , **TWEET** 8 , **WELL** 8 , **BACK** 8 , 
+ 
+## What this user tweeted
+ 
+@tessphone @PlentyFreaks You’re normally in far too deep to realise the damage and then you tie yourself in knots a… https://t.co/LPp0j3OcG2
+ 
+# guilancertUSER INFO
+![image](http://pbs.twimg.com/profile_images/1317212228400152582/B65Op9___normal.jpg)
+ 
+`User ScreenName:` guilancert 
+ 
+`User chosen Name:` APA_Guilancert 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 16 21:08:48 +0000 2020 
+ 
+`User Description?:` مرکز آپای دانشگاه گیلان تاسیس 1394 
  
 `Followers?: `1 
  
-`Following?:` 16 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1317212228400152582/B65Op9___normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEXT** 1 , **TWO** 1 , **WEEKS** 1 , **IMPORTANT** 1 , **WATCH** 1 , **MONITOR** 1 , **MITRE** 1 , **LATEST** 1 , **VULNERABILITIES** 1 , **INFRASTRUCTURESشرکت** 1 , **سیسکو** 1 , **تعداد** 1 , **زیادی** 1 , **آسیب** 1 , **پذیری** 1 , **با** 1 , **درجات** 1 , **امنیتی** 1 , **مختلف** 1 , **را** 1 , 
+ 
+## What this user tweeted
+ 
+In the next two weeks it is important to watch and monitor Mitre for latest vulnerabilities in IT infrastructures.
+ 
+# schoolboybartUSER INFO
+![image](http://pbs.twimg.com/profile_images/1319752046736793601/jMjE1Phu_normal.jpg)
+ 
+`User ScreenName:` schoolboybart 
+ 
+`User chosen Name:` Bartek 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 23 21:10:44 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 19 
  
 `User URL?:` None 
  
@@ -137,7 +215,7 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 `Number of tweets extracted`  : 5 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1318695321157791744/M84XxHxQ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1319752046736793601/jMjE1Phu_normal.jpg 
  
 `Number of tweets excluding replies:` 5 
  
@@ -147,274 +225,38 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 ## User Top tweeted words 
  
-**@CYBER:** 3 , **@DARKREADING:** 2 , **RANSOMWARE** 2 , **ATTACKS** 2 , **CYBER** 2 , **RT** 1 , **STANDARDS** 1 , **EXIST** 1 , **CERTIFY** 1 , **SECURE** 1 , **IOT** 1 , **SYSTEMS?** 1 , **LOREN** 1 , **BROWMAN** 1 , **SENIOR** 1 , **SECURITY** 1 , **RESEARCHER** 1 , **@OPTIV** 1 , **WEIGHS** 1 , **IN:** 1 , 
+**@WIRED:** 3 , **DUTCH** 2 , **RT** 1 , **@NARCITYCANADA:** 1 , **NDP** 1 , **WON** 1 , **MAJORITY** 1 , **BC** 1 , **JAGMEET** 1 , **SINGH** 1 , **SHARED** 1 , **SWEETEST** 1 , **PIC** 1 , **CELEBRATE** 1 , **HTTPS://TCO/JGOIP4NZLC** 1 , **CANADA** 1 , **BRITI…RT** 1 , **STOCKHOLM’S** 1 , **METRO** 1 , **BILLS** 1 , 
  
 ## What this user tweeted
  
-RT @DarkReading: Ransomware Attacks Show Little Sign of Slowing in 2021 https://t.co/OFEuiRBXMy by @jaivijayan 
-#ransomware #cybercrime #th…
+RT @WIRED: Dutch security researcher Victor Gevers claims to have recently accessed Donald Trump's Twitter account simply by guessing the p…
  
-# weffrFwvh3hcy6xUSER INFO
-![image](http://pbs.twimg.com/profile_images/1318575429784162306/kTey5G0l_normal.jpg)
- 
-`User ScreenName:` weffrFwvh3hcy6x 
- 
-`User chosen Name:` Кристина 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 20 15:30:44 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `6 
- 
-`Following?:` 71 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 63 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1318575429784162306/kTey5G0l_normal.jpg 
- 
-`Number of tweets excluding replies:` 63 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**VIA** 26 , **В** 13 , **И** 8 , **@YOUTUBEГЕРДА** 6 , **@YOUTUBERT** 5 , **BRAVE** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **НА** 4 , **ЗА** 4 , **HTTPS://TCO/1NJOHFPSBT** 4 , **@WEFFRFWVH3HCY6X:** 3 , **ГЕРДА** 3 , **@MUZEYPOBEDY:** 3 , **КАК** 3 , **@BITCOINCASINO01:** 3 , **@YOUTOPCHANNEL16:** 3 , **ДО** 3 , **@NOFORNUMBRA:** 3 , **С** 3 , **NEW** 2 , 
- 
-## What this user tweeted
- 
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
- 
-# likelikelike110USER INFO
-![image](http://pbs.twimg.com/profile_images/1318514836519686144/SSK1Sqoq_normal.jpg)
- 
-`User ScreenName:` likelikelike110 
- 
-`User chosen Name:` Виктория 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Oct 20 11:27:04 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:` Беларусь 
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1318514836519686144/SSK1Sqoq_normal.jpg 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@OLEGEFR73560146:** 5 , **В** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **И** 4 , **HTTPS://TCO/1NJOHFPSBT** 4 , **GREAT** 3 , **A…RT** 3 , **@YOUTOPCHANNEL16:** 3 , **КАК** 3 , **BRAVE** 3 , **@NOFORNUMBRA:** 3 , **НА** 2 , **@ALGORAND** 2 , **SALE** 2 , **@L_SLUTSKY:** 2 , **@BRAVEBR66010682:** 2 , **BRANDS** 2 , **CARS** 2 , **350** 2 , **СМОТРИТЕ** 2 , 
- 
-## What this user tweeted
- 
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
- 
-# MatthewVinckUSER INFO
-![image](http://pbs.twimg.com/profile_images/1317910237391716352/Ro_b6fZN_normal.jpg)
- 
-`User ScreenName:` MatthewVinck 
- 
-`User chosen Name:` Matthew vinck 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 18 19:24:56 +0000 2020 
- 
-`User Description?:` Mid level network administrator.
-Striving for cyber security. 
- 
-`Followers?: `2 
- 
-`Following?:` 84 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 13 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1317910237391716352/Ro_b6fZN_normal.jpg 
- 
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THECYBERSECHUB:** 3 , **NEW** 3 , **TIME** 2 , **THREAT** 2 , **VULNERABILITY** 2 , **VULNERABILITIES** 2 , **SECURITY** 2 , **@DARKREADING:** 2 , **IOT** 2 , **OFFICIAL** 2 , **TRICKBOT** 2 , **CYBERSECURITY** 2 , **NETWORKING** 2 , **CDP** 1 , **AUDITING** 1 , **HTTPS://TCO/HKFABN4SQB@CAPTAIN_QUENCH** 1 , **@AORUSOFFICIAL** 1 , **WELL** 1 , **REVIEWED!!RT** 1 , **@FORTIGUARDLABS:** 1 , 
- 
-## What this user tweeted
- 
-RT @DarkReading: Trickbot Tenacity Shows Infrastructure Resistant to Takedowns https://t.co/amt5J5AFx7 by @roblemos #Trickbot #botnet #thre…
- 
-# AdekunleHakee20USER INFO
+# LuckyTrades4UUSER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` AdekunleHakee20 
+`User ScreenName:` LuckyTrades4U 
  
-`User chosen Name:` Adekunle Hakeem 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Oct 19 20:13:17 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 22 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 23 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@YOURANONCENTRAL:** 4 , **ENDSARS** 3 , **@AM_ANNONYMOUS:** 3 , **@YOURANONONE:** 2 , **NIGERIAN** 2 , **GOVERNMENT** 2 , **JUSTICE** 2 , **RETWEET** 2 , **ANONYMOUS** 2 , **PEOPLE** 2 , **THESE** 2 , **VPN** 2 , **@YOURANONS0U1:** 2 , **SELL** 2 , **DATA** 2 , **AIRTEL** 2 , **RT** 1 , **@_TAAOOMA:** 1 , **WE’LL** 1 , **FINEU** 1 , 
- 
-## What this user tweeted
- 
-RT @bad_packets: Mass scanning activity detected from 125.86.165.233 (🇨🇳) checking for Pulse Secure VPN servers vulnerable to CVE-2019-1151…
- 
-# kNX1QTpLL3lYC8KUSER INFO
-![image](http://pbs.twimg.com/profile_images/1317962284375937024/QXzOH1Bf_normal.jpg)
- 
-`User ScreenName:` kNX1QTpLL3lYC8K 
- 
-`User chosen Name:` алиса 
+`User chosen Name:` LuckyTrades 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Oct 18 22:54:21 +0000 2020 
- 
-`User Description?:` Нет 
- 
-`Followers?: `5 
- 
-`Following?:` 69 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 46 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1317962284375937024/QXzOH1Bf_normal.jpg 
- 
-`Number of tweets excluding replies:` 46 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HTTPS://TCO/QPAWRGAZTI** 5 , **HTTPS://TCO/1NJOHFPSBT** 4 , **В** 4 , **BRAVE** 4 , **TOKEN** 3 , **@OLEGEFR73560146:** 3 , **@YOUTOPCHANNEL16:** 3 , **@BITCOINCASINO01:** 3 , **@NOFORNUMBRA:** 3 , **RT** 2 , **PROJECT** 2 , **$EGLD** 2 , **MAINNET** 2 , **JOIN** 2 , **ДО** 2 , **350** 2 , **BRANDS** 2 , **CARS** 2 , **@BRAVE20202:** 2 , **О** 2 , 
- 
-## What this user tweeted
- 
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
- 
-# 8N4k4fKAVcHU35gUSER INFO
-![image](http://pbs.twimg.com/profile_images/1317812798886469632/6gRkgJcA_normal.jpg)
- 
-`User ScreenName:` 8N4k4fKAVcHU35g 
- 
-`User chosen Name:` Дима 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Oct 18 12:57:28 +0000 2020 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 60 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 49 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1317812798886469632/6gRkgJcA_normal.jpg 
- 
-`Number of tweets excluding replies:` 49 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TELLUSDAO:** 6 , **В** 5 , **الشارقة** 5 , **HTTPS://TCO/QPAWRGAZTI** 5 , **BRAVE** 4 , **JOIN** 3 , **AMA** 3 , **@SOLETOP1:** 3 , **PLAY** 3 , **PROJECT** 3 , **في** 3 , **@BITCOINCASINO01:** 3 , **A…RT** 3 , **X** 2 , **WELCOME** 2 , **👍RT** 2 , **ТАКЖЕ** 2 , **НА** 2 , **ГИТАРЫ** 2 , **И** 2 , 
- 
-## What this user tweeted
- 
-RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB who is under investigation by @FBI? Or is this not apart o…
- 
-# ONSIM_INFOUSER INFO
-![image](http://pbs.twimg.com/profile_images/1317483579027456002/WHStoe2P_normal.jpg)
- 
-`User ScreenName:` ONSIM_INFO 
- 
-`User chosen Name:` Simon Bourgoin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Oct 17 15:05:17 +0000 2020 
+`User signup date?:` Wed Oct 21 20:07:55 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `0 
  
-`Following?:` 6 
+`Following?:` 1 
  
 `User URL?:` None 
  
-`Location:` Québec, CA 
+`Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1317483579027456002/WHStoe2P_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -422,16 +264,8 @@ RT @NofornUmbra: @FSISAC Should we expect Mr. Nikita Kislitsin from @GroupIB_GIB
  
 ## User Top tweeted words 
  
-**@TEAMCYMRU:** 5 , **SECURITY** 2 , **➡️** 2 , **RT** 1 , **WINDOWS10** 1 , **20H2** 1 , **ADDS** 1 , **FASTER** 1 , **MALWARE** 1 , **DETECTION** 1 , **BASELINE** 1 , **HTTPS://TCO/27G62DIJVO** 1 , **HTTPS://TCO/CKK1VS1TUTRT** 1 , **@ESETRESEARCH:** 1 , **THESE** 1 , **ATTACKS** 1 , **LINE** 1 , **ESETRESEARCH** 1 , **FOUND** 1 , **SFO** 1 , 
+**THANKS** 1 , **BYBIT** 1 , **💰✅** 1 , **HTTPS://TCO/VUT1Y8R5DNRT** 1 , **@WIRED:** 1 , **DUTCH** 1 , **SECURITY** 1 , **RESEARCHER** 1 , **VICTOR** 1 , **GEVERS** 1 , **CLAIMS** 1 , **RECENTLY** 1 , **ACCESSED** 1 , **DONALD** 1 , **TRUMP'S** 1 , **TWITTER** 1 , **ACCOUNT** 1 , **SIMPLY** 1 , **GUESSING** 1 , **P…** 1 , 
  
 ## What this user tweeted
  
-RT @teamcymru: This post will provide details on newly identified #GhostDNS infrastructure, information about the #phishing servers in use,…
- 
-
-<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
-### CONCLUSION & EXTERNAL ANALYSIS
-
-*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
-Authors analytical summary on request.
-**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
+RT @WIRED: Dutch security researcher Victor Gevers claims to have recently accessed Donald Trump's Twitter account simply by guessing the p…
