@@ -1134,4 +1134,417 @@ thank you for showing us your vulnerabilities and…
  
 ## User Top tweeted words 
  
-**$RZR** 11 , **@RAZOR_NETWORK** 10 , **ORACLE** 9 , **DEFI** 7 , **BEST** 6 , **DECENTRALIZED** 4 , **FAST** 4 , **RAZOR** 4 , **🪁** 4 , **HOPE** 3 , **ORACLES** 3 , **GOOD** 3 , **TBH** 3 , **SALE** 3 , **BOTH** 3 , **COME** 3 , **WAIT** 3 , 
+**$RZR** 11 , **@RAZOR_NETWORK** 10 , **ORACLE** 9 , **DEFI** 7 , **BEST** 6 , **DECENTRALIZED** 4 , **FAST** 4 , **RAZOR** 4 , **🪁** 4 , **HOPE** 3 , **ORACLES** 3 , **GOOD** 3 , **TBH** 3 , **SALE** 3 , **BOTH** 3 , **COME** 3 , **WAIT** 3 , **BULLISH** 2 , **SOON** 2 , **PROMISING** 2 , 
+ 
+## What this user tweeted
+ 
+@WazirXIndia Watching $RZR closely for their public sale 
+
+✅@RAZOR_NETWORK is the only oracle that is both fast and… https://t.co/3ZZ5IEIoeV
+ 
+# pangcakesssUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321021923774509056/WEIn1Zyu_normal.jpg)
+ 
+`User ScreenName:` pangcakesss 
+ 
+`User chosen Name:` Dam... 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Oct 27 09:07:39 +0000 2020 
+ 
+`User Description?:` Chill, lemme simp over PangPang peacefully in here 👉🏻👈🏻 
+ 
+`Followers?: `20 
+ 
+`Following?:` 59 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 29 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321021923774509056/WEIn1Zyu_normal.jpg 
+ 
+`Number of tweets excluding replies:` 29 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SA** 6 , **NA** 4 , **😭** 3 , **GAYASAPELIKULAEP06** 3 , **PO** 3 , **NG** 3 , **THEORY** 3 , **😭🙌🏻🙌🏻@_MOONCHILDSHINE** 2 , **EP** 2 , **TONIGHT** 2 , **@THERAINBRO** 2 , **@JPHABAC** 2 , **GAYASAPELIKULA** 2 , **7** 2 , **LANG** 2 , **😭😭** 2 , **PREMIERE** 2 , **ANG** 2 , **TOMORROW** 2 , **NIGHT** 2 , 
+ 
+## What this user tweeted
+ 
+The vulnerabilities are overflowing between Karl and Vlad 😭 #GayaSaPelikulaEp06
+ 
+# SenNaseer001USER INFO
+![image](http://pbs.twimg.com/profile_images/1321788940198825987/AqRlgKCM_normal.jpg)
+ 
+`User ScreenName:` SenNaseer001 
+ 
+`User chosen Name:` Nasiru muhammad👑 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 19:38:48 +0000 2020 
+ 
+`User Description?:` A senator @ faculty of  social sciences  political science  👑ahmadu bello university Zaria ✍
+A web designer 
+A networker👌
+A prodully muslim😎
+Human rights💪 
+ 
+`Followers?: `6 
+ 
+`Following?:` 64 
+ 
+`User URL?:` https://t.co/5WeSPbDvSx 
+ 
+`Location:` Zaria Kaduna  Nigeria  
+ 
+`Number of tweets extracted`  : 117 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321788940198825987/AqRlgKCM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 117 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 11 , **NIGERIA** 10 , **US** 6 , **GOVERNMENT** 5 , **AGAIN** 4 , **@MBUHARI** 4 , **DAY** 4 , **GO** 4 , **MAKE** 4 , **RT** 3 , **@SHEHUSANI:** 3 , **FULL** 3 , **@DRMUHDSHAMS** 3 , **@ELRUFAI** 3 , **KOWA** 3 , **DON'T** 3 , **STATE** 3 , **SIR** 3 , **@NGRPRESIDENT** 3 , **FACT** 3 , 
+ 
+## What this user tweeted
+ 
+RT @Famous_Anfield: Dear @elrufai, the insecurity in Northern Nigeria is getting out of hand. The vulnerabilities of Katsina, Borno, Zamfar…
+ 
+# itoyjamrahsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320324414601367552/gPYqcFK9_normal.jpg)
+ 
+`User ScreenName:` itoyjamrahs 
+ 
+`User chosen Name:` BB14Observer 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 11:19:59 +0000 2020 
+ 
+`User Description?:` #parsimonious 
+ 
+`Followers?: `7 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320324414601367552/gPYqcFK9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 996 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**UNSTOPPABLE** 147 , **RUBINA** 112 , **RUBINART** 58 , **@COLORSTV** 35 , **RUBINADILAIK** 30 , **@ORMAXMEDIA** 29 , **@BIGGBOSS** 22 , **TRENDING** 20 , **@RUBIDILAIK** 18 , **@_RUBIHOLICS_:** 16 , **HAI** 15 , **@BIGGBOOS14F:** 14 , **STRONG** 13 , **RT** 12 , **@RIMMJ2:** 12 , **QUEEN** 12 , **GUYS** 12 , **@BEINGSALMANKHAN** 11 , **KO** 11 , **@TRUERUBINALOVER:** 11 , 
+ 
+## What this user tweeted
+ 
+@priyank52656666 @shefali_bagga Nobody is standing with anyone. My point was to let it be. Don't judge anyone becau… https://t.co/cAyTdnpQur
+ 
+# MagicalPanda20USER INFO
+![image](http://pbs.twimg.com/profile_images/1320222422272860160/5niwChWs_normal.jpg)
+ 
+`User ScreenName:` MagicalPanda20 
+ 
+`User chosen Name:` MagicalPanda 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 04:34:08 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `10 
+ 
+`Following?:` 154 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320222422272860160/5niwChWs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 397 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I'M** 14 , **THAT'S** 10 , **TOO** 9 , **HAI** 8 , **STILL** 8 , **PEOPLE** 7 , **GOOD** 6 , **DON'T** 6 , **ITS** 6 , **YES** 5 , **YOU'RE** 5 , **SORRY** 5 , **I'LL** 5 , **MADE** 5 , **TOH** 5 , **RELIGION** 5 , **HAHA** 5 , **LIFE** 4 , **MAKE** 4 , **LIVE** 4 , 
+ 
+## What this user tweeted
+ 
+@apoorvaaxp Giving someone access doesn't necessarily mean exposing your vulnerabilities..
+ 
+# SpookMeBabeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1321875268722692096/uMo1XmIO_normal.jpg)
+ 
+`User ScreenName:` SpookMeBabe 
+ 
+`User chosen Name:` Mojo🌹🌹🌹 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Oct 28 14:24:18 +0000 2020 
+ 
+`User Description?:` #Justice 🌹🗝️❤️LS⚡⚡⚡
+I Am Sweet Sometime ❤️  #CrazyBitch 
+My  Account and All My Poetry Stuff and unacceptable behavior
+🥂🥂🥂#GhostSec #GSM 
+ @GhostSec__ 
+ 
+`Followers?: `150 
+ 
+`Following?:` 425 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1321875268722692096/uMo1XmIO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 671 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GHOSTEJUSTUS:** 65 , **PEOPLE** 11 , **MAKE** 9 , **FRIEDRICH** 9 , **ANONYMOUS** 8 , **LOVE** 8 , **VOTE** 8 , **SHIT** 8 , **BEING** 8 , **@GHOSTSEC__** 8 , **@LORIANSYNARO** 8 , **OPEXPOSECPS** 8 , **NEW** 7 , **GOOD** 7 , **DON'T** 7 , **WAY** 7 , **OUT!** 6 , **THESE** 6 , **@PERILOUSACHILL1:** 6 , **TIME** 6 , 
+ 
+## What this user tweeted
+ 
+RT @_gHOST3301_: @TelecomsHoop @GhostSec__ @YounesAnonymous @HackDown2 "Our servers &amp; systems are fully protected from attacks of all kinds…
+ 
+# ahrtgrandeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1320718092817715202/Ia24xBRS_normal.jpg)
+ 
+`User ScreenName:` ahrtgrande 
+ 
+`User chosen Name:` not a pancake 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Oct 26 13:22:07 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 19 
+ 
+`User URL?:` https://t.co/nmb4W5bI1x 
+ 
+`Location:` she/her 
+ 
+`Number of tweets extracted`  : 18 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320718092817715202/Ia24xBRS_normal.jpg 
+ 
+`Number of tweets excluding replies:` 18 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ARIANAGRANDE:** 9 , **🤍** 5 , **U** 3 , **GOLDEN** 3 , **!** 2 , **LOVE** 2 , **HTTPS://TCO/QNUM5A3KZ6** 2 , **AMAZING** 2 , **LIFE** 2 , **@CANYONMOOONXX:** 2 , **HTTPS://TCO/QNUM5ALLXG** 2 , **RT** 1 , **@CALAICAI89:** 1 , **LOUDER!!!!!** 1 , **NASAANANGCATANDUANES** 1 , **HTTPS://TCO/FNRCD64SB3RT** 1 , **TONIGHT** 1 , **HTTPS://TCO/DLL4H486OLRT** 1 , **HELLOOO** 1 , **TOMORROW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Natalia_C__: I feel beyond proud to be supporting this amazing artist @Ashton5SOS   
+I find amazing that you've always been so direct &amp;…
+ 
+# buchanen_daisyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1319638483753992193/HnvBEDo1_normal.jpg)
+ 
+`User ScreenName:` buchanen_daisy 
+ 
+`User chosen Name:` Daisy Buchanen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 23 13:53:47 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 48 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1319638483753992193/HnvBEDo1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 730 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 19 , **PEOPLE** 15 , **@REALDONALDTRUMP:** 12 , **@COSWEDA:** 11 , **BIDEN** 11 , **COUNTRY** 9 , **PRESIDENT** 9 , **AMERICA** 9 , **DOWN** 8 , **@REALDONALDTRUMP** 7 , **@KURTSCHLICHTER:** 7 , **@NBCNEWS** 7 , **THANK** 6 , **LEFT** 6 , **US** 6 , **@NBCOUT** 6 , **NEVER** 5 , **INTO** 5 , **GREAT** 5 , **DEMOCRATS** 5 , 
+ 
+## What this user tweeted
+ 
+RT @adamscrabble: BLOOD MONEY = great short doc, shows vulnerabilities of an open democracy = allows our enemies to be high bidder &amp; infilt…
+ 
+# AlisonA03438339USER INFO
+![image](http://pbs.twimg.com/profile_images/1320376835172126731/qCCR9fGe_normal.jpg)
+ 
+`User ScreenName:` AlisonA03438339 
+ 
+`User chosen Name:` AlisonA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Oct 25 14:22:47 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `12 
+ 
+`Following?:` 66 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1320376835172126731/qCCR9fGe_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1296 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**•** 108 , **@ROBBYSTARBUCK:** 95 , **TRUMP** 78 , **SIGNED** 44 , **PRESIDENT** 40 , **@CODESUCQ:** 25 , **2020** 22 , **US** 14 , **LAW** 13 , **TRUMP’S** 13 , **INTO** 12 , **BIDEN** 12 , **ACT** 12 , **2019** 11 , **WHICH** 10 , **EXECUTIVE** 10 , **ORDER** 10 , **NATIONAL** 9 , **BILLION** 9 , **NEW** 9 , 
+ 
+## What this user tweeted
+ 
+RT @adamscrabble: BLOOD MONEY = great short doc, shows vulnerabilities of an open democracy = allows our enemies to be high bidder &amp; infilt…
+ 
+# Hannah48202118USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Hannah48202118 
+ 
+`User chosen Name:` Hannah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Oct 24 12:00:05 +0000 2020 
+ 
+`User Description?:` Break Up Information Monopolies 
+ 
+`Followers?: `2 
+ 
+`Following?:` 102 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 316 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALDONALDTRUMP** 13 , **@ROLLINGSTONE** 10 , **@MAAJIDNAWAZ** 7 , **TRUMP2020** 7 , **TRUMP** 7 , **WTF** 6 , **GOING** 6 , **NEVER** 6 , **FKING** 6 , **LOCKDOWN** 6 , **STUPID** 5 , **@LBC** 5 , **@REALDONALDTRUMP:** 5 , **CORRUPT** 5 , **DAY** 5 , **CCP** 5 , **@MICHAELMORDEN** 5 , **@GLOBALBC** 5 , **@CBCVANCOUVER** 5 , **@NEWS1130** 5 , 
+ 
+## What this user tweeted
+ 
+RT @adamscrabble: BLOOD MONEY = great short doc, shows vulnerabilities of an open democracy = allows our enemies to be high bidder &amp; infilt…
+ 
+# YourFreedomsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1319735936020738048/TClaJ0sI_normal.jpg)
+ 
+`User ScreenName:` YourFreedoms 
+ 
+`User chosen Name:` PRyan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Oct 23 20:21:35 +0000 2020 
+ 
+`User Description?:` Simple country folk 
+ 
+`Followers?: `43 
+ 
+`Following?:` 98 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1319735936020738048/TClaJ0sI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 7691 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BIDEN** 39 , **PRESIDENT** 25 , **TRUMP** 24 , **@JACKPOSOBIEC:** 21 , **JOE** 18 , **@REALDONALDTRUMP** 17 , **@DBONGINO:** 13 , **@NYPOST:** 11 , **@REALDONALDTRUMP:** 11 , **NORTH** 10 , **CAROLINA** 9 , **AMERICA** 8 , **GOING** 8 , **LIVE** 7 , **ELECTION** 6 , **MEDIA** 6 , **GREAT** 6 , **@BREITBARTNEWS:** 6 , **@GOP:** 6 , **VERY** 6 , 
+ 
+## What this user tweeted
+ 
+RT @adamscrabble: BLOOD MONEY = great short doc, shows vulnerabilities of an open democracy = allows our enemies to be high bidder &amp; infilt…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
