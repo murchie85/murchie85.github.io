@@ -11,10 +11,10 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **0x3c7**  
+The most popular user is: **anthomsec**  
  
 
-## I'm excited to share a guest blog post I wrote for @censysio some time ago. In Advanced Persistent (Infrastructure)… https://t.co/8sN0Mg5muv 
+## Hot 🔥 #threatintel from @FireEye. #UNC2452's 💥#SUNBURST💥 is the backdoor that was found inside of trojanized… https://t.co/kvY89IakHA 
 
   
 
@@ -29,9 +29,9 @@ The most popular user is: **0x3c7**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FarsightSecInc: VIDEO: Dr. Paul Vixie on "New (And Newly - Changed) Fully Qualified Doman Names: A View of Worldwide Changes to DNS" @B… |
-| RT @0x3c7: I'm excited to share a guest blog post I wrote for @censysio some time ago. In Advanced Persistent (Infrastructure) Tracking (ht… |
-| RT @JinibaBD: And yet a new one! 😱😱😨 Peatix - 4,227,907 breached accounts #CyberSecurity #osint #cyberthreats #hackers #darkweb #databreach… |
+| Spear-Phishing Campaigns Targeting Tibet and Taiwan - https://t.co/EeoCKKoTgJ#OSINT #Security #Threatintel #cybersecurity |
+| RT @javier_carriazo: EU agency in charge of COVID-19 vaccine approval says it was hacked #CyberSecurity #osint #cyberthreats #hackers #dark… |
+| Credit card stealer discovered in social media buttons #CyberSecurity #osint #cyberthreats #hackers #darkweb… https://t.co/cDD37lpsyI |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -54,24 +54,24 @@ The most popular user is: **0x3c7**
 | second  | **HACKERS**  |
 | third  | **CYBERTHREATS** |
 | fourth  | **@JINIBABD:**  |
-| fifth  | **DARKWEB**  |
+| fifth  | **THREATINTEL**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (10.0%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (76.92%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (15.38%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FarsightSecInc: "They [hackers] created several thousand internet protocol addresses — many inside the United States — that had never b… |
+|#BlueTeam Message of The Day: "Threat Intelligence is the Art of Taking the Adversary by Surprise".How many times… https://t.co/5ZP11Pxf5V |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **0x3c7**  |
+| The most retweeted user is: **anthomsec**  |
 | ------------- |
-| I'm excited to share a guest blog post I wrote for @censysio some time ago. In Advanced Persistent (Infrastructure)… https://t.co/8sN0Mg5muv |
+| Hot 🔥 #threatintel from @FireEye. #UNC2452's 💥#SUNBURST💥 is the backdoor that was found inside of trojanized… https://t.co/kvY89IakHA |
 
 # Potential Fake Accounts
  
@@ -207,7 +207,7 @@ RT @jase_passwaters: Part 2 of a 3 part series on Ransomware by @gregotto is out
  
 `Followers?: `0 
  
-`Following?:` 18 
+`Following?:` 19 
  
 `User URL?:` None 
  
