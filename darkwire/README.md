@@ -821,60 +821,60 @@ RT @JoeBiden: This cybersecurity attack happened on Donald Trump’s watch. But 
  
 `User signup date?:` Wed Dec 16 09:57:28 +0000 2020 
  
-`User Description?:` Service to hum**@ASHISHTHATTE** 31 , **U** 28 , **@AKRUR16** 26 , **D** 25 , **@FCMAPANDEY** 25 , **@CMABALWINDER** 24 , **@HARSHAD_DE** 22 , **@CMA_JAGDEEP** 20 , **@AICMAA** 18 , **HV** 17 , **DEAR!** 16 , **@AMITAPTE71** 15 , **DON'T** 14 , **UR** 14 , **@ICAICCM** 14 , **@IAMSANKETPANDIT** 12 , **@CMARAKESHSINGH** 11 , 
+`User Description?:` Service to hum**@ASHISHTHATTE** 31 , **U** 28 , **@AKRUR1
+ 
+`Followers?: `23 
+ 
+`Following?:` 174 
+ 
+`User URL?:` None 
+ 
+`Location:` Los Angeles, CA 
+ 
+`Number of tweets extracted`  : 179 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339151345014558722/77fTWL1h_normal.jpg 
+ 
+`Number of tweets excluding replies:` 180 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 36 , **BILL** 15 , **VETOED** 14 , **PEOPLE** 14 , **@WSJ:** 14 , **PRESIDENT** 13 , **NEW** 12 , **DEFENSE** 11 , **BREAKING:** 11 , **MILITARY** 9 , **US** 9 , **DAYS** 8 , **TRUMP’S** 8 , **CONGRESS** 8 , **COVID19** 8 , **CHRISTMAS** 7 , **PAY** 7 , **SOME** 7 , **@NYTIMES:** 7 , **FIRST** 7 , 
  
 ## What this user tweeted
  
-This ram-rodding student dissent is not d route.
-Dissent is NOT in-discipline.
-Whistle-blower threatening is NOT Go… https://t.co/jIW7RxfMxkFinally, when we r conducting CENTER-based exams, there is no rationale to PUSH ON-LINE mode instead of keeping the… https://t.co/4P4LJ8HvtZFurther
-
-5. No stake-holders were consulted
-6. No proto-type QP approved before BID
-7. Format no finalised till 22.… https://t.co/ysyYiwthb0Further Vulnerabilities
-
-1. No TEST RESULTS of the Proctoring
-2. No vouching of Proctoring by ExamDir
-3. We are a S… https://t.co/yPoDAQvHwZOur vulnerabilities are far n wide
-
-1. Established mis-mgmt of affairs
-2. Prior constructive citique
-3. Offer to he… https://t.co/8zjbgnNIPj@CMAPappan Sir,
-
-I am concerned as a member re: SC Verdict in the NLAT WRIT y'day.
-
-I wanted a WIN-WIN solution, bu… https://t.co/kVlb9Y67D5@CMAGrowtogether @cma_family @CMAPappan @cmabalwinder What?
-You just want hollow assurances?
-Pl grow up.
-
-You know… https://t.co/VNPgx5jIfD
+RT @timkaine: So Trump makes history—eliminating troop pay raise, military housing improvements, cybersecurity protections, financial trans…
  
-# YangHPtThm1USER INFO
-![image](http://pbs.twimg.com/profile_images/1340558851347660800/MZQIm4bb_normal.jpg)
+# OshaSenatorUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341482282373275648/46ZL2yXP_normal.jpg)
  
-`User ScreenName:` YangHPtThm1 
+`User ScreenName:` OshaSenator 
  
-`User chosen Name:` Yang Ho Pat Tham 
+`User chosen Name:` SENATOR OSHA 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 20 07:24:29 +0000 2020 
+`User signup date?:` Tue Dec 22 20:33:01 +0000 2020 
  
-`User Description?:` chém nhau ko bạn êi 🔪🔪🔪🔪🔪 
+`User Description?:` NETWORK ENGINEER 
  
 `Followers?: `2 
  
-`Following?:` 23 
+`Following?:` 238 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` New York, USA 
  
-`Number of tweets extracted`  : 105 
+`Number of tweets extracted`  : 157 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340558851347660800/MZQIm4bb_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341482282373275648/46ZL2yXP_normal.jpg 
  
-`Number of tweets excluding replies:` 105 
+`Number of tweets excluding replies:` 157 
  
 
  
@@ -882,38 +882,40 @@ You know… https://t.co/VNPgx5jIfD
  
 ## User Top tweeted words 
  
-**PROJECT** 42 , **@FENIXFINANCE** 22 , **AMA** 21 , **DECEMBER** 16 , **DOES** 16 , **UTC** 14 , **CRYPTO** 12 , **I’M** 12 , **PM** 12 , **COMMUNITY** 11 , **TEAM** 10 , **HOLD** 10 , **@YVSFINANCE** 9 , **TELL** 8 , **/** 8 , **REWARD** 8 , **MANY** 8 , **:** 7 , **GIVE** 7 , **BRIEF** 7 , 
+**@REALDONALDTRUMP** 23 , **TRUMP** 19 , **ELECTION** 17 , **PRESIDENT** 13 , **GEORGIA** 7 , **PEOPLE** 7 , **STATES** 7 , **BIDEN** 7 , **FRAUD** 6 , **@GATEWAYPUNDIT:** 6 , **CORRECT** 6 , **NEED** 6 , **HOUSE** 5 , **AMERICANS** 5 , **@REALDONALDTRUMP:** 5 , **AMERICA** 5 , **REPORT** 4 , **VIA** 4 , **FBI** 4 , **2020** 4 , 
  
 ## What this user tweeted
  
-@CryptoAnymoreID @MonetaPro I’m a developer, and I’m interested in contributing to your project  alongsides earning… https://t.co/gFVT2LDNkY@mbbcblockchain I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do you hav… https://t.co/obUjn5In5b@NanoNewsID @acIndex_io I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do… https://t.co/5VpBwQoKSs
+RT @KanekoaTheGreat: "Iranian Advanced Persistent Threat Actor Identified Obtaining Voter Registration Data" coauthored by the Cybersecurit…
  
-# BnhMinh10791506USER INFO
-![image](http://pbs.twimg.com/profile_images/1340554674877784065/p21hes2D_normal.jpg)
+# anonymurineUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340448939347238912/MiQbJJnq_normal.jpg)
  
-`User ScreenName:` BnhMinh10791506 
+`User ScreenName:` anonymurine 
  
-`User chosen Name:` Binh Minhmohamad 
+`User chosen Name:` Anonymurine 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 20 07:04:43 +0000 2020 
+`User signup date?:` Sat Dec 19 23:48:59 +0000 2020 
  
-`User Description?:` CF CF CF 
+`User Description?:` Exploring remarkably questionable practices in politics, finance, cyber.
+
+Crypto bear, cyber bull, centrist, tech geed. 
  
-`Followers?: `3 
+`Followers?: `5 
  
-`Following?:` 51 
+`Following?:` 350 
  
-`User URL?:` None 
+`User URL?:` https://t.co/zPWGdXTLud 
  
-`Location:`  
+`Location:` New York, USA 
  
-`Number of tweets extracted`  : 102 
+`Number of tweets extracted`  : 93 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340554674877784065/p21hes2D_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1340448939347238912/MiQbJJnq_normal.jpg 
  
-`Number of tweets excluding replies:` 102 
+`Number of tweets excluding replies:` 93 
  
 
  
@@ -921,38 +923,159 @@ You know… https://t.co/VNPgx5jIfD
  
 ## User Top tweeted words 
  
-**PROJECT** 47 , **AMA** 23 , **DECEMBER** 18 , **@FENIXFINANCE** 17 , **UTC** 16 , **DOES** 15 , **PM** 13 , **COMMUNITY** 13 , **MANY** 13 , **HOLD** 12 , **TELL** 11 , **CRYPTO** 11 , **EACH** 10 , **REWARD** 9 , **@MY3XT** 8 , **:** 8 , **/** 8 , **I’M** 8 , **2020** 8 , **MEAN** 8 , 
+**@REALDONALDTRUMP** 12 , **REALLY** 6 , **@RAMPCAPITALLLC** 6 , **@JACKPOSOBIEC** 5 , **PUMP** 5 , **VALUE** 5 , **@CERNOVICH** 4 , **MADE** 4 , **EVIDENCE** 4 , **ABSOLUTELY** 4 , **YOU'RE** 4 , **@NATALIEJHARP** 4 , **@SENDAVIDPERDUE** 4 , **@OANN** 4 , **OTHER** 3 , **UNDERSTAND** 3 , **@SNOWDEN** 3 , **DIDN'T** 3 , **THERE'S** 3 , **TRADES** 3 , 
  
 ## What this user tweeted
  
-@CRYPTOTECH_Ann @WjtgO I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do… https://t.co/7Q0GuDSdws
+@propublica He also made more than 2,500 trades in one term while on the senate cybersecurity subcommittee.  At lea… https://t.co/ehtJg0TXsG
  
-# _SWUISUSER INFO
-![image](http://pbs.twimg.com/profile_images/1339243795410350080/nsTvMs2W_normal.jpg)
+# MDToufikurRah16USER INFO
+![image](http://pbs.twimg.com/profile_images/1341828363279732736/JFjauFKR_normal.jpg)
  
-`User ScreenName:` _SWUIS 
+`User ScreenName:` MDToufikurRah16 
  
-`User chosen Name:` SWUIS 
+`User chosen Name:` JoeBiben Following 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 16 15:29:11 +0000 2020 
+`User signup date?:` Sat Dec 19 14:26:27 +0000 2020 
  
-`User Description?:` Security🦸‍♂️ Student👨‍💻 
+`User Description?:` I want to be a politician, We produce all kinds of USA NEWS
+#topnewstoday #joebiden 
+ 
+`Followers?: `14 
+ 
+`Following?:` 173 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 145 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341828363279732736/JFjauFKR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 145 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JOEBIDEN:** 22 , **@KAMALAHARRIS:** 11 , **@JONCOOPERTWEETS:** 11 , **USA** 10 , **US** 9 , **NEWS** 9 , **POLITICAL** 8 , **FLLOW** 8 , **@MDTOUFIKURRAH16:** 7 , **TRUMP** 7 , **CLIMATE** 7 , **@DRBIDEN:** 6 , **@JOEBIDEN** 6 , **DAY** 6 , **@ABC:** 6 , **AMERICA** 6 , **NEW** 6 , **HARDCOVER** 6 , **–** 6 , **NOVEMBER** 6 , 
+ 
+## What this user tweeted
+ 
+RT @JoeBiden: This cybersecurity attack happened on Donald Trump’s watch. But rest assured that even if he does not take it seriously, I wi…
+ 
+# baron_teteUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340427108280115210/F5qwgHj8_normal.jpg)
+ 
+`User ScreenName:` baron_tete 
+ 
+`User chosen Name:` ElBaronDeTete 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 22:25:43 +0000 2020 
+ 
+`User Description?:` NYC Liberal, Fuck your Feelings, #TraitorTrump #DiaperDon 
+ 
+`Followers?: `1 
+ 
+`Following?:` 235 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340427108280115210/F5qwgHj8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JOEBIDEN:** 5 , **VERY** 3 , **AFTER** 2 , **100** 2 , **AMERICANS** 2 , **@NANCYSINATRA:** 2 , **HE'S** 2 , **@TRIBELAW:** 2 , **PATH** 2 , **RUSSIAN** 2 , **@LINDSEYGRAHAMSC** 1 , **@REALDONALDTRUMP** 1 , **F** 1 , **WORD** 1 , **URT** 1 , **CYBERSECURITY** 1 , **ATTACK** 1 , **HAPPENED** 1 , **DONALD** 1 , **TRUMP’S** 1 , 
+ 
+## What this user tweeted
+ 
+RT @JoeBiden: This cybersecurity attack happened on Donald Trump’s watch. But rest assured that even if he does not take it seriously, I wi…
+ 
+# ForTheClear1USER INFO
+![image](http://pbs.twimg.com/profile_images/1339843938111418368/PwVbiJVh_normal.jpg)
+ 
+`User ScreenName:` ForTheClear1 
+ 
+`User chosen Name:` ForTheClear 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 08:03:54 +0000 2020 
+ 
+`User Description?:` Joe Biden/ Kamala Harris ARE OUR NEW PRESIDENT / V PRESIDENT THEY ARE GOOD FRIENDS 🗳🗳🗳🗳🗳🗳🗳🗳🤷🏼🗳🤷🏼 
+ 
+`Followers?: `1 
+ 
+`Following?:` 69 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 141 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339843938111418368/PwVbiJVh_normal.jpg 
+ 
+`Number of tweets excluding replies:` 142 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VIDEO!** 51 , **TIKTOK** 50 , **USER6350358706525'S** 19 , **PRESIDENT** 10 , **RACIST** 9 , **ASS** 7 , **LYING** 6 , **TRAITOR** 6 , **SMARTNEWS** 5 , **REPUBLICANS** 5 , **PEOPLE** 5 , **🤥** 5 , **TRUMP** 3 , **F** 3 , **U** 3 , **EVEN** 3 , **@REALDONALDTRUMP** 3 , **CHECKS** 3 , **NEED** 3 , **@WHITEHOUSE** 3 , 
+ 
+## What this user tweeted
+ 
+RT @JoeBiden: This cybersecurity attack happened on Donald Trump’s watch. But rest assured that even if he does not take it seriously, I wi…
+ 
+# hales_mbUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341820894247849992/c_-VEjRO_normal.jpg)
+ 
+`User ScreenName:` hales_mb 
+ 
+`User chosen Name:` Matt Mb Hales 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 23 18:54:49 +0000 2020 
+ 
+`User Description?:` U.S MARINE sgtmgj🇺🇲
+LOVE💖
+SINGLE DAD💥
+ATHLETE💪 
  
 `Followers?: `0 
  
-`Following?:` 131 
+`Following?:` 22 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` United States 
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1339243795410350080/nsTvMs2W_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341820894247849992/c_-VEjRO_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -960,38 +1083,44 @@ You know… https://t.co/VNPgx5jIfD
  
 ## User Top tweeted words 
  
-**JAILBREAK** 2 , **FAILED** 2 , **ENHANCE** 1 , **SECURITY** 1 , **PS4** 1 , **TRIED** 1 , **ALTHOUGH** 1 , **WITHIN** 1 , **THE…** 1 , **HTTPS://TCO/YWQX0H83DWENGLISH** 1 , **VERSION** 1 , **HTTPS://TCO/TNUUHVGV2IHTTPS://TCO/6YIJUZNIT1** 1 , 
+**@JOEBIDEN:** 3 , **@LETTY69033728:** 2 , **AMEN** 2 , **RT** 1 , **@BABYVIVIRGINIA:** 1 , **HTTPS://TCO/80WJESUTAEIT'S** 1 , **EASY** 1 , **TIME** 1 , **GRANTED** 1 , **DON'T** 1 , **UNTIL** 1 , **CATCHES** 1 , **LEAVES** 1 , **STANDING** 1 , **STILLRT** 1 , **😊😉** 1 , **HTTPS://TCO/WZIQKDYECTRT** 1 , **😘** 1 , **HTTPS://TCO/6UZFLA8SZU@KIMITEMGRIMES** 1 , **@TODDTROTTER3** 1 , 
  
 ## What this user tweeted
  
-To enhance the security of PS4, we tried to jailbreak. But it failed. Although we failed to do Jailbreak within the… https://t.co/yWqX0H83DW
+RT @JoeBiden: This cybersecurity attack happened on Donald Trump’s watch. But rest assured that even if he does not take it seriously, I wi…
  
-# shopbooks2USER INFO
-![image](http://pbs.twimg.com/profile_images/1341053539481759745/CdPICa2y_normal.jpg)
+# forzajojoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340938302417997826/znl1_ZY1_normal.jpg)
  
-`User ScreenName:` shopbooks2 
+`User ScreenName:` forzajojo 
  
-`User chosen Name:` shop books 
+`User chosen Name:` forza_jojo 
+ 
+`Is the User Verified?:` F
+ 
+`User ScreenName:` James00004865 
+ 
+`User chosen Name:` James 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 16:09:48 +0000 2020 
+`User signup date?:` Mon Dec 21 01:50:28 +0000 2020 
  
-`User Description?:` Selling electronic books at low prices 
+`User Description?:`  
  
-`Followers?: `12 
+`Followers?: `1 
  
-`Following?:` 132 
+`Following?:` 22 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 60 
+`Number of tweets extracted`  : 32 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341053539481759745/CdPICa2y_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 60 
+`Number of tweets excluding replies:` 32 
  
 
  
@@ -999,38 +1128,116 @@ To enhance the security of PS4, we tried to jailbreak. But it failed. Although w
  
 ## User Top tweeted words 
  
-**@GUMROAD** 41 , **COURSE** 13 , **HACKING** 12 , **LEARN** 11 , **GUIDE** 8 , **HACKING:** 8 , **HACK** 8 , **PRO** 7 , **COMPLETE** 7 , **+** 7 , **HACKS** 7 , **ETHICAL** 7 , **VIDEO** 5 , **PREMIERE** 4 , **CC** 4 , **BEGINNERS:** 4 , **DESIGN** 4 , **PHOTOSHOP** 4 , **2020** 4 , **CHARACTER** 4 , 
+**@MSNBC:** 7 , **@CNN:** 4 , **•** 4 , **@TRIBELAW:** 4 , **TRUMP** 3 , **NEW** 3 , **DAYS** 3 , **NEED** 3 , **@KAMALAHARRIS:** 3 , **MONTH** 3 , **@JOEBIDEN:** 3 , **BARR** 2 , **DOOR** 2 , **UNEMPLOYMENT** 2 , **TWO** 2 , **COULD** 2 , **AGAIN** 2 , **DIDN’T** 2 , **FAILED** 2 , **REPUBLICANS** 2 , 
  
 ## What this user tweeted
  
-Buy Advanced https://t.co/A9ALxQcRzH Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Y… https://t.co/2odLZq894d
+RT @MSNBC: An obscure company based in Austin, Texas, is believed to be at the center of a widespread Russian hacking campaign against the…
  
-# DrOctagonHSUSER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# PalakYa50220075USER INFO
+![image](http://pbs.twimg.com/profile_images/1341044722945589248/C_PFnlJ5_normal.jpg)
  
-`User ScreenName:` DrOctagonHS 
+`User ScreenName:` PalakYa50220075 
  
-`User chosen Name:` DrOctagonHS 
+`User chosen Name:` Palak Yadav 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 16 18:59:47 +0000 2020 
+`User signup date?:` Fri Dec 18 15:14:59 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 30 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 155 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341044722945589248/C_PFnlJ5_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1794 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ALYGONI** 98 , **@JASMINBHASIN** 91 , **FAVDUOALYNJAS** 91 , **@ORMAXMEDIA** 63 , **@COLORSTV** 61 , **@BIGGBOSS** 55 , **JASLY** 31 , **@JASLYOBSESSED:** 28 , **@VOOTSELECT** 24 , **@CHALO_CHALAINN:** 22 , **LOVE** 22 , **@ENDEMOLSHINEIND** 16 , **TREND** 16 , **@LILGIRL_0:** 16 , **@RAJNISH_DZ:** 13 , **K** 12 , **ALY** 12 , **@ITZ_ARYAN_0143:** 12 , **HAI** 11 , **GUYS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# JasminalyblissUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341598882296303619/o6vLsj2D_normal.jpg)
+ 
+`User ScreenName:` Jasminalybliss 
+ 
+`User chosen Name:` jasLy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 10:09:56 +0000 2020 
+ 
+`User Description?:` JasLy forever❤️ 
+ 
+`Followers?: `48 
+ 
+`Following?:` 154 
+ 
+`User URL?:` None 
+ 
+`Location:` भारत 
+ 
+`Number of tweets extracted`  : 186 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341598882296303619/o6vLsj2D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 925 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@JASMINBHASIN** 67 , **@ALYGONI** 57 , **FAVDUOALYNJAS** 52 , **JASMIN** 50 , **@ORMAXMEDIA** 50 , **MESMERIZING** 49 , **@BIGGBOSS** 41 , **@COLORSTV** 41 , **FAVDUOALYNJASRT** 39 , **@JASMINBHASIN:** 26 , **LOVE** 22 , **JASMINRT** 16 , **JASLY** 15 , **ALY** 14 , **@VOOTSELECT** 13 , **@BHALLASAHAAB:** 12 , **BOTH** 11 , **@ENDEMOLSHINEIND** 11 , **TREND** 11 , **JAS** 10 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# ewaaaanaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340649254864338944/b_zI4IcM_normal.jpg)
+ 
+`User ScreenName:` ewaaaana 
+ 
+`User chosen Name:` MESMERIZING JASMIN 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 17 03:01:17 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 129 
+`Following?:` 7 
  
 `User URL?:` None 
  
-`Location:`  
+`Location:` India 
  
-`Number of tweets extracted`  : 107 
+`Number of tweets extracted`  : 183 
  
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1340649254864338944/b_zI4IcM_normal.jpg 
  
-`Number of tweets excluding replies:` 107 
+`Number of tweets excluding replies:` 951 
  
 
  
@@ -1038,38 +1245,38 @@ Buy Advanced https://t.co/A9ALxQcRzH Core 3 Security: Understanding Hacks, Attac
  
 ## User Top tweeted words 
  
-**@JONST0KES** 15 , **POINT** 10 , **@SEA_TWIN** 10 , **@CELIARESEARCH** 8 , **PEOPLE** 8 , **@ERINBIBA** 7 , **@EMBOTHETHIRD** 7 , **@ZOEMCLAREN** 7 , **@SKDH** 7 , **@WESYANG** 6 , **SCIENCE** 6 , **@FARUK_MUSTAFIC** 6 , **ACIP** 5 , **WELL** 5 , **READ** 4 , **THAT’S** 4 , **DON’T** 4 , **BULLSHIT** 4 , **MAKE** 4 , **OTHER** 4 , 
+**MESMERIZING** 136 , **JASMIN** 88 , **JASMINRT** 60 , **@JASMINBHASIN** 57 , **@BIGGBOSS** 36 , **@COLORSTV** 30 , **@ORMAXMEDIA** 25 , **1M** 25 , **GUYS** 22 , **1** 20 , **MILLION** 18 , **@ALYGONI** 16 , **LOVE** 13 , **@MINTYJASMIN:** 13 , **VERY** 13 , **@ORMAXMEDIART** 12 , **@BHASINFP:** 12 , **TWEETS** 11 , **@ENDEMOLSHINEIND** 11 , **!!** 10 , 
  
 ## What this user tweeted
  
-@Rich_Penny @NakramR @jonst0kes “Genetically induced vulnerabilities” is exactly what he means by “biological essentialism,” dum dum.
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
  
-# IngaSmirnoffUSER INFO
-![image](http://pbs.twimg.com/profile_images/1340360673008693248/kewXB4Ar_normal.jpg)
+# MoosaTanzilUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
  
-`User ScreenName:` IngaSmirnoff 
+`User ScreenName:` MoosaTanzil 
  
-`User chosen Name:` Inga Smirnoff 
+`User chosen Name:` Mohd tanzil Moosa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 19 18:17:07 +0000 2020 
+`User signup date?:` Mon Dec 21 09:32:59 +0000 2020 
  
-`User Description?:` Cute man 
+`User Description?:`  
  
-`Followers?: `1 
+`Followers?: `0 
  
-`Following?:` 42 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 46 
+`Number of tweets extracted`  : 191 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340360673008693248/kewXB4Ar_normal.jpg 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 46 
+`Number of tweets excluding replies:` 752 
  
 
  
@@ -1077,11 +1284,109 @@ Buy Advanced https://t.co/A9ALxQcRzH Core 3 Security: Understanding Hacks, Attac
  
 ## User Top tweeted words 
  
-**И** 6 , **НЕ** 4 , **А** 3 , **@JUSTINSUNTRON:** 3 , **@KSYOMIN** 3 , **ЭТО** 3 , **FREE** 2 , **NICE** 2 , **UNI** 2 , **U** 2 , **N** 2 , **WALLET** 2 , **@SATAMBANDAR:** 2 , **شنط** 2 , **في** 2 , **@POD81273:** 2 , **SLEEP** 2 , **WORK** 2 , **LAUNCH** 2 , **NEED** 2 , 
+**MESMERISING** 107 , **JASMINRT** 93 , **JASMIN** 86 , **MESMERIZING** 61 , **@JASMINBHASIN** 59 , **GUYS** 24 , **JASMINBHASIN** 24 , **MESMERIZINGJASMIN** 13 , **@JASMINBHASINRT** 12 , **LOVE** 11 , **@COLORSTV** 10 , **@MOHITECHINMAYI:** 10 , **BEST** 10 , **@SUPRIYA36726040:** 10 , **MILLION** 9 , **@ORMAXMEDIA** 9 , **JAS** 8 , **COME** 8 , **YES** 8 , **SPEED** 7 , 
  
 ## What this user tweeted
  
-RT @mr_ransomware: @Linktree_ Hello I am a Security Researcher &amp; Malware Analyst that is based in the United States. I work with tech giant…
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
  
-# James00004865USER INFO
+# Jasmin15120274USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Jasmin15120274 
+ 
+`User chosen Name:` Jasmin 👑 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 11:26:58 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 180 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 914 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MESMERIZING** 142 , **JASMIN** 88 , **JASMINRT** 64 , **@JASMINBHASIN** 58 , **@ORMAXMEDIA** 36 , **@BIGGBOSS** 33 , **@COLORSTV** 31 , **GUYS** 21 , **JASMINBHASIN** 19 , **@ENDEMOLSHINEIND** 19 , **SPEED** 18 , **1M** 16 , **MILLION** 15 , **TWEETS** 12 , **NEVER** 12 , **@VOOTSELECT** 11 , **1** 11 , **@BHASINFP:** 11 , **LOVE** 11 , **DON'T** 10 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# annu_babUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` annu_bab 
+ 
+`User chosen Name:` Annu Bab 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 14:22:11 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 178 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1195 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FAVDUOALYNJASRT** 86 , **FAVDUOALYNJAS** 66 , **@JASMINBHASIN** 65 , **@ALYGONI** 64 , **@ORMAXMEDIA** 45 , **JASLY** 41 , **@COLORSTV** 41 , **LOVE** 32 , **@BIGGBOSS** 28 , **@VOOTSELECT** 23 , **GUYS** 19 , **400K** 19 , **SPEED** 14 , **MAKE** 12 , **500K** 12 , **@SEDAISWETA:** 10 , **LET'S** 10 , **@BIGBOSS** 9 , **ALY** 9 , **1M** 9 , 
+ 
+## What this user tweeted
+ 
+RT @mintyjasmin: To be deeply loved, means a willingness to cut yourself wide open, exposing your vulnerabilities... hopes, hurts, fears an…
+ 
+# Kalyani54274689USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Kalyani54274689 
+ 
+`User chosen Name:` Kalyani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 14:06:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 183 
