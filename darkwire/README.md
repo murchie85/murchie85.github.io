@@ -565,38 +565,23 @@ Are Cyber Security boot camps worth it? If so which ones are the most reputable
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 12:07:19 +0000 2020 LED** 2 , **REPUBLICANS** 2 , 
+`User signup date?:` Mon Dec 21 12:07:19 +0000 2020 
  
-## What this user tweeted
+`User Description?:` In God I trust Building Engineering service and technology ⚒🔨🏗👷🏻‍♂️, sharing knowledge , opportunities and network..; 
  
-RT @MSNBC: An obscure company based in Austin, Texas, is believed to be at the center of a widespread Russian hacking campaign against the…
+`Followers?: `8 
  
-# arcanodezUSER INFO
-![image](http://pbs.twimg.com/profile_images/1338251088491909120/ywFj80On_normal.jpg)
- 
-`User ScreenName:` arcanodez 
- 
-`User chosen Name:` little ball of hapiness 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 13 22:18:18 +0000 2020 
- 
-`User Description?:` eu não tenho nada a dizer 
- 
-`Followers?: `13 
- 
-`Following?:` 27 
+`Following?:` 16 
  
 `User URL?:` None 
  
-`Location:` Salvador, Brasil 
+`Location:` Chicago, IL 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 61 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1338251088491909120/ywFj80On_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341448741941862402/M8jNfnmj_normal.jpg 
  
-`Number of tweets excluding replies:` 355 
+`Number of tweets excluding replies:` 61 
  
 
  
@@ -604,38 +589,160 @@ RT @MSNBC: An obscure company based in Austin, Texas, is believed to be at the c
  
 ## User Top tweeted words 
  
-**DE** 48 , **QUE** 47 , **E** 47 , **EU** 41 , **O** 29 , **NÃO** 27 , **É** 26 , **UM** 20 , **DA** 15 , **UMA** 15 , **AMIGA** 15 , **VOCÊ** 13 , **SE** 13 , **MEU** 12 , **POR** 11 , **PRA** 10 , **MINHA** 10 , **JÁ** 10 , **COM** 9 , **EM** 9 , 
+**US** 9 , **@CBSNEWS:** 8 , **@REUTERS:** 7 , **AFTER** 6 , **NEW** 6 , **@THEECONOMIST:** 5 , **BIDEN** 5 , **ITS** 5 , **@GMA:** 4 , **@CNN:** 4 , **CORONAVIRUS** 4 , **COVID-19** 4 , **@NYTIMES:** 4 , **LOVE** 4 , **@FOXNEWS:** 4 , **COULD** 3 , **CHRISTMAS** 3 , **YEARS** 3 , **PAST** 3 , **AGAINST** 3 , 
  
 ## What this user tweeted
  
-RT @thejessicadore: Today's card. When we're doing well it's easy to forget about our weak spots, vulnerabilities &amp; the fact that there is…
+RT @nytimes: Biden also excoriated the Trump administration for its failure to prioritize cybersecurity over the past four years, saying th…
  
-# BestofLOL3USER INFO
-![image](http://pbs.twimg.com/profile_images/1340654166062952449/VHrY_EW3_normal.jpg)
+# SistasicilyNUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341343565436178434/AnYohb9T_normal.jpg)
  
-`User ScreenName:` BestofLOL3 
+`User ScreenName:` SistasicilyN 
  
-`User chosen Name:` Best of LOL 
+`User chosen Name:` SistaSicily/NorthAfrica 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 20 13:42:55 +0000 2020 
+`User signup date?:` Mon Dec 14 21:49:46 +0000 2020 
+ 
+`User Description?:` This is my alternate account. Something messed up on my old account still trying to fix it. If U get a friend request from me you were my friend in the other. 
+ 
+`Followers?: `12 
+ 
+`Following?:` 160 
+ 
+`User URL?:` None 
+ 
+`Location:` CA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341343565436178434/AnYohb9T_normal.jpg 
+ 
+`Number of tweets excluding replies:` 534 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 21 , **DOJ** 14 , **@LAWRE237** 14 , **PEOPLE** 12 , **MANY** 12 , **VIA** 12 , **MILLION** 12 , **$600** 12 , **GOT** 11 , **AMERICANS** 9 , **US** 9 , **THAN** 8 , **VOTETHEMALLOUT** 7 , **COVID-19** 7 , **COVID** 7 , **NEW** 7 , **BEFORE** 7 , **@DRERICDING:** 7 , **@DONWINSLOW:** 7 , **@CASSANDRARULES** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Stephanierhoa10: @jenjustfield @SenRonJohnson @realDonaldTrump @HawleyMO Winner=Biden, EC 306-232.
+Gop putting on political show to soo…
+ 
+# RobertEdgemon6USER INFO
+![image](http://pbs.twimg.com/profile_images/1338585736048570368/uPeFdvCy_normal.jpg)
+ 
+`User ScreenName:` RobertEdgemon6 
+ 
+`User chosen Name:` Robert Edgemon 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 14 20:41:27 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `20 
+ 
+`Following?:` 98 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338585736048570368/uPeFdvCy_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3340 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 27 , **@NICOLLEDWALLACE:** 14 , **THANK** 13 , **GEORGIA** 11 , **BIDEN** 10 , **PRESIDENT** 10 , **SENATE** 10 , **DAYS** 10 , **REPUBLICAN** 9 , **@MMPADELLAN:** 8 , **BILL** 8 , **AFTER** 7 , **BEING** 7 , **@KYLEGRIFFIN1:** 7 , **BEFORE** 7 , **DR** 7 , **GOP** 7 , **EVERYONE** 7 , **NEW** 7 , **HOUSE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @ericgeller: Biden is answering press questions now and just talked SolarWinds.
+
+"The Defense Department won't even brief us on many thi…
+ 
+# developerkcUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340667919286591488/ANazTYdY_normal.jpg)
+ 
+`User ScreenName:` developerkc 
+ 
+`User chosen Name:` Tech.kc 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 11:24:36 +0000 2020 
+ 
+`User Description?:` #artificialintelligence #ai #machinelearning #technology #datascience #deeplearning #programming #robotics #tech #coding #bigdata #iot #DigitalTransformation 
+ 
+`Followers?: `10 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340667919286591488/ANazTYdY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 524 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 77 , **ARTIFICIALINTELLIGENCE** 59 , **MACHINELEARNING** 50 , **VIA** 34 , **INTELLIGENCE** 33 , **ARTIFICIAL** 32 , **LEARNING** 27 , **DATA** 16 , **MACHINE** 14 , **ML** 14 , **USING** 13 , **FINTECH** 12 , **TOP** 12 , **2021** 11 , **@AUTOMEME** 11 , **TECHNOLOGY** 9 , **DEEPLEARNING** 9 , **FUTURE** 8 , **BUSINESS** 8 , **ROBOT** 8 , 
+ 
+## What this user tweeted
+ 
+RT @Paula_Piccard: Top Internet of Things Programming Languages of 2020
+
+#MachineLearning #Python #AI #100DaysOfCode #DEVCommunity #DevOps…
+ 
+# Citizen4FUSER INFO
+![image](http://pbs.twimg.com/profile_images/1338491543854911489/hU0BnFcy_normal.jpg)
+ 
+`User ScreenName:` Citizen4F 
+ 
+`User chosen Name:` Citizen For Freedom 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 14 14:16:26 +0000 2020 
  
 `User Description?:`  
  
 `Followers?: `2 
  
-`Following?:` 17 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 65 
+`Number of tweets extracted`  : 89 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340654166062952449/VHrY_EW3_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1338491543854911489/hU0BnFcy_normal.jpg 
  
-`Number of tweets excluding replies:` 65 
+`Number of tweets excluding replies:` 89 
  
 
  
@@ -643,38 +750,81 @@ RT @thejessicadore: Today's card. When we're doing well it's easy to forget abou
  
 ## User Top tweeted words 
  
-**PROJECT** 29 , **AMA** 15 , **DECEMBER** 13 , **UTC** 11 , **COMMUNITY** 10 , **CRYPTO** 10 , **PM** 8 , **@FENIXFINANCE** 8 , **MANY** 7 , **@MY3XT** 7 , **TEAM** 6 , **/** 6 , **DOES** 6 , **HOLD** 6 , **PEOPLE** 6 , **TELL** 6 , **@ACINDEX_IO** 6 , **I’M** 6 , **REVOLUTION** 6 , **SUSTAIN** 5 , 
+**@VENTURAREPORT:** 7 , **RESTAURANT** 7 , **@MRANDYNGO:** 6 , **@DREWHLIVE:** 5 , **AFTER** 5 , **OWNER** 5 , **@CATTURD2:** 5 , **GOD** 4 , **SEATTLE** 4 , **ANTIFA** 4 , **PEOPLE** 4 , **PUBLIC** 4 , **HEALTH** 4 , **'NICK** 4 , **GREEK'** 4 , **CARE** 3 , **OPEN** 3 , **DOES** 3 , **STOP** 3 , **@GARBYJOOMAN3:** 3 , 
  
 ## What this user tweeted
  
-@Crypto_Talkz @yourCashaa I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/1lYcAOxJlQ@revolut20 @my3xt I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do you h… https://t.co/xVIu0EuWzY@TwentyONECrypto @bifrost_finance I’m a developer, and I’m interested in contributing to your project  alongsides e… https://t.co/i2rW3OtnjX
+RT @DoBetterFCPS: WE FIXED IT FOR YOU. Because remember first you told the faux teachers' unions, then the teachers, then... #CyberSecurity…
  
-# ajmalsalim59USER INFO
-![image](http://pbs.twimg.com/profile_images/1341020126401814528/aC88xIg6_normal.jpg)
+# TheArtofCyberS1USER INFO
+![image](http://pbs.twimg.com/profile_images/1341482969467400193/R_ViOI3__normal.jpg)
  
-`User ScreenName:` ajmalsalim59 
+`User ScreenName:` TheArtofCyberS1 
  
-`User chosen Name:` Ajmal 
+`User chosen Name:` The_Art_of_Cyber_Security 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 21 05:17:55 +0000 2020 
+`User signup date?:` Tue Dec 22 20:36:23 +0000 2020 
+ 
+`User Description?:` The Art of Cyber Security; 100... Cyber Security Quotations 
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341482969467400193/R_ViOI3__normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SECURITY** 4 , **THAN** 3 , **POWER** 2 , **DOES** 1 , **REQUIRE** 1 , **MAGNITUDE** 1 , **STRENGTH** 1 , **NECESSARILY** 1 , **SMALL** 1 , **LOW** 1 , **LEAST…** 1 , **HTTPS://TCO/FAJPBP36WCFIND** 1 , **SECURITY_EXPERTS** 1 , **BEFORE** 1 , **HACKERS** 1 , **FIND** 1 , **YOU!** 1 , **CYBER_SECURITY_QUOTATIONS** 1 , **CYBERSECURITY_MOTTO…** 1 , **HTTPS://TCO/B2YZBLADBENEITHER** 1 , 
+ 
+## What this user tweeted
+ 
+The #security does not require magnitude and strength necessarily. If you are small or you have low power, at least… https://t.co/fAjpBp36WCFind the #security_experts before the #hackers find you!
+
+#Cyber_Security_Quotations
+#cybersecurity_Motto… https://t.co/b2YZBLADBENeither your #defense layer is stronger than stone, nor your enemy’s power is less than water drops. Thus, never be… https://t.co/ZgOJE4bEERThe #Stuxnet is not just a #malware but is also a part of a big domino that toppled a long #cyberwarfare domino! Th… https://t.co/sBVNPaRlDeIt is more dangerous to have a false sense of security than not having security.
+#Cyber_Security_Quotations… https://t.co/Ak3b0cc5BU
+ 
+# JJHale9USER INFO
+![image](http://pbs.twimg.com/profile_images/1341497494627373058/rHgMfbJT_normal.jpg)
+ 
+`User ScreenName:` JJHale9 
+ 
+`User chosen Name:` JJ Hale 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 22 21:34:37 +0000 2020 
  
 `User Description?:`  
  
-`Followers?: `8 
+`Followers?: `0 
  
-`Following?:` 33 
+`Following?:` 57 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 18 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1341020126401814528/aC88xIg6_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1341497494627373058/rHgMfbJT_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -682,41 +832,241 @@ RT @thejessicadore: Today's card. When we're doing well it's easy to forget abou
  
 ## User Top tweeted words 
  
-**@METALPAYSME** 4 , **@MARSHALLHAYNER** 3 , **METAL** 2 , **@WAZIRXINDIA** 1 , **WHILE** 1 , **CURRENTLY** 1 , **MANY** 1 , **DIFFERENT** 1 , **PAYMENT** 1 , **COMPANIES** 1 , **MA…** 1 , **HTTPS://TCO/XRJHLB4646@WAZIRXINDIA** 1 , **SIMPLE** 1 , **QUESTION** 1 , **HERE👇** 1 , **PROVIDING** 1 , **BAN…** 1 , **HTTPS://TCO/E1NOSJCE9Q@WAZIRXINDIA** 1 , **SECURITY** 1 , **KEY** 1 , 
+**@JJHALE9:** 4 , **@JOEBIDEN** 4 , **SUPPORT** 3 , **ELECTION** 3 , **WAIT** 2 , **TILL** 2 , **SUPPORTERS** 2 , **ENORMOUS** 2 , **TAX** 2 , **HIKE** 2 , **@** 2 , **100K** 2 , **HIGHER!** 2 , **CRUSHING!** 2 , **SOME** 2 , **THAT'S** 2 , **FIRST** 2 , **100** 2 , **DAYS??** 2 , **YOU'RE** 2 , 
  
 ## What this user tweeted
  
-@WazirXIndia @metalpaysme @MarshallHayner Security is a key component for every app and blockchain so..
-1. How secu… https://t.co/Ns125Rxkkg
+RT @jsolomonReports: LISTEN NOW: Sen. Ron Johnson: Improving America’s cybersecurity | Just The News https://t.co/ckeFjrTAOp
  
-# TheTWOMediaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1339346176894787587/Qj4YKkBC_normal.jpg)
+# 85hendricks85USER INFO
+![image](http://pbs.twimg.com/profile_images/1340012745828155392/kded5W2M_normal.jpg)
  
-`User ScreenName:` TheTWOMedia 
+`User ScreenName:` 85hendricks85 
  
-`User chosen Name:` The Name Is TWO Media 
+`User chosen Name:` 85hendricks85 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 16 23:03:15 +0000 2020 
+`User signup date?:` Fri Dec 18 19:14:39 +0000 2020 
  
-`User Description?:` The latest news
-Tweets
-Mentions
-Interviews
-Live Concerts 
+`User Description?:` I thought this was America #ripAaronHernandez / the jokes on me for not believing we are not your type of people 
  
-`Followers?: `6 
+`Followers?: `2 
  
-`Following?:` 15 
+`Following?:` 0 
  
-`User URL?:` https://t.co/lPKGbAz1ES 
+`User URL?:` None 
  
 `Location:`  
  
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340012745828155392/kded5W2M_normal.jpg 
+ 
+`Number of tweets excluding replies:` 807 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 26 , **@REUTERS:** 25 , **@SPUTNIKINT:** 20 , **@THEHILL:** 16 , **US** 13 , **NEW** 12 , **AFTER** 11 , **CORONAVIRUS** 11 , **COVID-19** 11 , **@DISCLOSETV:** 8 , **REPORTS** 8 , **BILL** 8 , **VIA** 8 , **BIDEN** 7 , **SOUTH** 6 , **RUSSIAN** 6 , **DON’T** 6 , **TIME** 6 , **CHINA** 5 , **SEA** 5 , 
+ 
+## What this user tweeted
+ 
+RT @thehill: Biden faults Trump administration on cybersecurity following massive hack https://t.co/LiT4u4yweQ https://t.co/Jm8OhqjujF
+ 
+# adrianakarante2USER INFO
+![image](http://pbs.twimg.com/profile_images/1341520816463372289/ac0NHR3m_normal.jpg)
+ 
+`User ScreenName:` adrianakarante2 
+ 
+`User chosen Name:` Adriana Karantedeux 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 22 21:18:37 +0000 2020 
+ 
+`User Description?:` i hate Arch 
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341520816463372289/ac0NHR3m_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**THAN** 3 , **:(@THE_MIAOUNSTER** 2 , **STOP** 1 , **DMING** 1 , **READ** 1 , **SUBJECTS@THE_MIAOUNSTER** 1 , **HOPE** 1 , **IM** 1 , **NUMBER** 1 , **OLDER** 1 , **RANKING** 1 , **HIGHER** 1 , **HTB** 1 , **:P@THE_MIAOUNSTER** 1 , **NONEED** 1 , **:X** 1 , **HTTPS://TCO/UAFRROOCQ8RT** 1 , **@HACKTHEBOX_EU:** 1 , **HACKTHEBOX** 1 , **PROUDLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @hackthebox_eu: #HackTheBox proudly presents #HTBAcademy 🎓
+It's time to #HackYourBrain! 😎  
+#CyberSecurity courses for everybody, from #…
+ 
+# ModernTheMan1USER INFO
+![image](http://pbs.twimg.com/profile_images/1338113284424273920/pUTSOX5W_normal.jpg)
+ 
+`User ScreenName:` ModernTheMan1 
+ 
+`User chosen Name:` Modern The Man 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 13 10:29:38 +0000 2020 
+ 
+`User Description?:` Understanding the future analysis of our world and advising others on how to successfully navigate. Life Strategist. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 46 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1338113284424273920/pUTSOX5W_normal.jpg 
+ 
+`Number of tweets excluding replies:` 235 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 23 , **BTC** 23 , **PEOPLE** 12 , **MOST** 9 , **LIFE** 9 , **GLOBAL** 8 , **VALUE** 7 , **THAN** 7 , **NEW** 7 , **GOOD** 7 , **THINKING** 6 , **TIME** 6 , **TRUE** 6 , **PRICE** 6 , **YEAR** 5 , **I'M** 5 , **BEING** 5 , **HEALTH** 5 , **BIG** 5 , **1** 5 , 
+ 
+## What this user tweeted
+ 
+Google crash that went global. I'm thinking there is more than the official Google press relief. 
+#googledown… https://t.co/2KKqol6Gh1
+ 
+# MagatsNoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340298743481061376/p3ahZW-3_normal.jpg)
+ 
+`User ScreenName:` MagatsNo 
+ 
+`User chosen Name:` NO MAGATS 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 13:21:18 +0000 2020 
+ 
+`User Description?:` Defeat tRumpism® and tRumplicans®. 
+ 
+`Followers?: `125 
+ 
+`Following?:` 271 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 111 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340298743481061376/p3ahZW-3_normal.jpg 
+ 
+`Number of tweets excluding replies:` 111 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@UFLO5:** 9 , **@REALDONALDTRUMP** 8 , **😂** 8 , **TRUMP** 6 , **EVEN** 5 , **RUSSIA** 4 , **BEFORE** 4 , **FUCK** 4 , **MOST** 4 , **👇** 4 , **@WIPAPA5** 4 , **@UFLO5** 4 , **BIDEN** 3 , **MIGHT** 3 , **REPUBLICAN** 3 , **GO** 3 , **TRUMPLICANS®** 3 , **@CRZYFKINWORLD** 3 , **@LOUGARZA86** 3 , **STOP** 3 , 
+ 
+## What this user tweeted
+ 
+@realDonaldTrump Hell Yes!
+
+https://t.co/i4CAlTUlvJ
+ 
+# Democratsnewsn1USER INFO
+![image](http://pbs.twimg.com/profile_images/1339306850601365506/DHNmcBZq_normal.jpg)
+ 
+`User ScreenName:` Democratsnewsn1 
+ 
+`User chosen Name:` Democratsnewsnetworks 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 16 20:00:32 +0000 2020 
+ 
+`User Description?:` (Democrats News Bloggers)nationwide & around the world🌎📷 new page for a new social media information platform opinions tweets & messages are important to us! 
+ 
+`Followers?: `64 
+ 
+`Following?:` 233 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339306850601365506/DHNmcBZq_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1178 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@RAWSTORY:** 20 , **@THEHILL:** 18 , **COVID-19** 16 , **TRUMP** 14 , **@CNN:** 14 , **@NBCNEWS:** 13 , **AFTER** 12 , **PEOPLE** 12 , **COVID** 11 , **US** 10 , **BIDEN** 10 , **NEW** 9 , **AGAINST** 9 , **ELECTION** 8 , **PANDEMIC** 8 , **@SALON:** 8 , **AMERICANS** 7 , **PRESIDENT** 7 , **TRUMP'S** 7 , **CORONAVIRUS** 7 , 
+ 
+## What this user tweeted
+ 
+RT @cspan: .@JoeBiden calls the reported cybersecurity hacks of U.S. companies &amp; federal agencies, "a grave risk to our national security..…
+ 
+# ElectedGodwinsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340283608599289858/onOVyyV8_normal.jpg)
+ 
+`User ScreenName:` ElectedGodwins 
+ 
+`User chosen Name:` elected-GODwins 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 13:10:08 +0000 2020 
+ 
+`User Description?:` Psalm 144 
+Blessed be the Lord, my rock,
+who trains my hands for war,
+and my fingers for battle;
+he is my steadfast love and my fortress,
+my stronghold ... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 60 
+ 
+`User URL?:` None 
+ 
+`Location:` US, Ft. George G. Maede, MD 
+ 
 `Number of tweets extracted`  : 29 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1339346176894787587/Qj4YKkBC_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1340283608599289858/onOVyyV8_normal.jpg 
  
 `Number of tweets excluding replies:` 29 
  
@@ -726,38 +1076,28 @@ Live Concerts
  
 ## User Top tweeted words 
  
-**SONG** 14 , **USE** 10 , **DOES** 8 , **@NICOVEGA** 7 , **LOVE** 6 , **NICO** 6 , **VIDEO** 6 , **CLEAR** 6 , **SUPPORT** 6 , **RECENT** 6 , **“BEAST”** 6 , **TRUMP’S** 5 , **VEGA** 4 , **STAND** 3 , **NEIGHBOR** 3 , **@THENAMEISTWO** 3 , **@NICOVEGA:** 3 , **PLEASE** 3 , **READ** 3 , **ATTACHED** 3 , 
+**@USARMY:** 10 , **@780THC:** 8 , **RT** 4 , **DURING** 3 , **CODE** 2 , **MALICIOUS** 2 , **CISA** 2 , **CYBERSECURITY** 2 , **USARMY** 2 , **PEOPLE** 2 , **AGAINST** 2 , **ITS** 2 , **💥** 2 , **READY!** 2 , **BEST** 2 , **🇺🇸** 2 , **YEAR** 2 , **@REVERSINGLABS** 1 , **SOURCE** 1 , **AFFECTED** 1 , 
  
 ## What this user tweeted
  
-"We have love and empathy for all people of all backgrounds, races and beliefs, and we feel sick how all Americans'… https://t.co/DVryH4Ho1t
+RT @780thC: Dec. 16: The FBI, CISA, and ODNI have become aware of a significant and ongoing cybersecurity campaign. Pursuant to Presidentia…
  
-# TheVigilant15USER INFO
-![image](http://pbs.twimg.com/profile_images/1339925300751327233/T8qGMYm2_normal.jpg)
- 
-`User ScreenName:` TheVigilant15 
- 
-`User chosen Name:` Twist Security 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 18 12:42:08 +0000 2020 
- 
-`User Description?:` Mass #surveillance is a backdoor into freedom of speech | Digital #Security Specialists | #CyberSecurity & #privacy mentors | Follow us for #CyberSecurityNews 
- 
-`Followers?: `16 
- 
-`Following?:` 39 
- 
-`User URL?:` https://t.co/i6SMDBWDEE 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br> 
+`User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 91 
+`Number of tweets extracted`  : 66 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1339925300751327233/T8qGMYm2_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1339060676413644800/3bEYHnlg_normal.jpg 
  
-`Number of tweets excluding replies:` 91 
+`Number of tweets excluding replies:` 66 
  
 
  
@@ -765,38 +1105,38 @@ Live Concerts
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 23 , **2021** 6 , **HACK** 6 , **SOLARWINDS** 5 , **@NCSVENTURES:** 4 , **HACKER** 3 , **TOP** 3 , **SYSTEMS** 3 , **BUSINESS** 3 , **SECURITY** 3 , **2020** 3 , **CYBERATTACKS** 3 , **DATABREACH** 3 , **THEY'RE** 3 , **AGENCY** 3 , **ORGANIZATIONS** 2 , **FIRM** 2 , **ADDITIONAL** 2 , **COMPANY** 2 , **GOVERNMENT** 2 , 
+**FARMERS** 12 , **FARMERPROTEST** 10 , **PROTEST** 8 , **SUPPORT** 7 , **@RAVISINGHKA:** 5 , **PEOPLE** 5 , **!** 5 , **FARMERSPROTEST** 5 , **INDIAN** 5 , **INDIA** 5 , **FREE** 4 , **AGAINST** 4 , **ISTANDWITHFARMERS** 4 , **@UK51NGH:** 4 , **POLICE** 4 , **DOG** 3 , **THROUGH** 3 , **TO…RT** 3 , **TAKING** 3 , **PEACEFUL** 3 , 
  
 ## What this user tweeted
  
-RT @ET_CISO: ETCISO | With increase in internet usage, cyber crime up in Hyderabad #HyderabadCrime #CyberCrime #CyberCrimeInHyderabad #Vuln…
+RT @TheAtlantic: The joys and vulnerabilities of a Black childhood, as seen from a father’s gaze, by @EnaAlvarado: https://t.co/juh20GkFsb
  
-# AhabMohamadUSER INFO
-![image](http://pbs.twimg.com/profile_images/1340557428539023360/4ZTuHIpf_normal.jpg)
+# RoseMar95953838USER INFO
+![image](http://pbs.twimg.com/profile_images/1338328723028897792/lwYSSxWA_normal.jpg)
  
-`User ScreenName:` AhabMohamad 
+`User ScreenName:` RoseMar95953838 
  
-`User chosen Name:` Mohamad Ahab 
+`User chosen Name:` Rose Marie 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 20 07:18:34 +0000 2020 
+`User signup date?:` Sun Dec 13 04:12:48 +0000 2020 
  
-`User Description?:` Funky B 
+`User Description?:`  
  
-`Followers?: `3 
+`Followers?: `22 
  
-`Following?:` 21 
+`Following?:` 99 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 92 
+`Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340557428539023360/4ZTuHIpf_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1338328723028897792/lwYSSxWA_normal.jpg 
  
-`Number of tweets excluding replies:` 92 
+`Number of tweets excluding replies:` 371 
  
 
  
@@ -804,38 +1144,38 @@ RT @ET_CISO: ETCISO | With increase in internet usage, cyber crime up in Hyderab
  
 ## User Top tweeted words 
  
-**PROJECT** 37 , **DEFI** 21 , **AMA** 20 , **@FENIXFINANCE** 18 , **DOES** 18 , **MANY** 17 , **DECEMBER** 15 , **UTC** 13 , **EACH** 12 , **PM** 11 , **PEOPLE** 11 , **MEAN** 10 , **PROJECTS** 10 , **INVESTORS** 10 , **CRYPTO** 10 , **HOLD** 9 , **GUARANTEES** 8 , **SCAM** 8 , **INVESTORS?** 8 , **LOT** 8 , 
+**@REALDONALDTRUMP** 55 , **@VIRIMAC** 20 , **@GEORGEPAPA19** 20 , **PEOPLE** 17 , **WELL** 16 , **TRUMP** 15 , **@DREXBRIT** 14 , **@MASTEXAS87** 14 , **@SIDNEYPOWELL1** 14 , **@CREEPSONAMISSIO** 14 , **@JENNAELLISESQ** 14 , **@MS_LINDLEY** 14 , **DON’T** 13 , **@NORMANEBERLY** 13 , **@LLINWOOD…** 13 , **@EATTHERICHONEZ** 12 , **@WEBSTRACTIONS** 11 , **@BRIANKEMPGA** 11 , **@BREITBARTNEWS** 10 , **ACTUALLY** 10 , 
  
 ## What this user tweeted
  
-@EPID_Community @my3xt I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do… https://t.co/bBqzCkdgIR
+@bolger47602245 @virimac @GeorgePapa19 You bring up a great point. If the pandemic is bad enough to change election… https://t.co/MuiOyOCBFB
  
-# nonamey64199833USER INFO
-![image](http://pbs.twimg.com/profile_images/1340882621530660864/JeNOyKhT_normal.jpg)
+# BackYardCircusPUSER INFO
+![image](http://pbs.twimg.com/profile_images/1340654298951200768/2YoXGMFU_normal.jpg)
  
-`User ScreenName:` nonamey64199833 
+`User ScreenName:` BackYardCircusP 
  
-`User chosen Name:` nonameyet 
+`User chosen Name:` Faith No More 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 20 04:32:56 +0000 2020 
+`User signup date?:` Sun Dec 20 13:44:16 +0000 2020 
  
-`User Description?:` photon in a double slit gone too soon into another form☯☄🌠 
+`User Description?:` Retire 30 
  
 `Followers?: `0 
  
-`Following?:` 44 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 53 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1340882621530660864/JeNOyKhT_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1340654298951200768/2YoXGMFU_normal.jpg 
  
-`Number of tweets excluding replies:` 53 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -843,4 +1183,330 @@ RT @ET_CISO: ETCISO | With increase in internet usage, cyber crime up in Hyderab
  
 ## User Top tweeted words 
  
-**☆** 6 , **INDIAROARS4SSR** 6 , ***** 5 , **•** 4 , **JUSTICE** 4 , **NEED** 4 , **@ITSSSR** 4 , **SUSHANT** 4 , **BEAUTIFUL** 3 , **MANY** 3 , **BIG** 3 , **SOME** 3 , **??** 3 , **PARTY** 3 , **TUMHAARA** 3 , **@ANKY1912** 3 , **@ITSSSR:** 3 , **SINGH** 3 , 
+**PLEASE** 6 , **STOP** 5 , **TODD** 3 , **YOU’VE** 3 , **FIRST** 3 , **ONLYFANS** 2 , **GIRLS** 2 , **CORRECT** 2 , **REACHING** 2 , **PEOPLE** 2 , **WOMEN** 2 , **HASN’T** 2 , **TIME** 2 , **@FABER4REAL** 1 , **CLEARLY** 1 , **READY** 1 , **DELETE** 1 , **THESE** 1 , **ACCOUNTS** 1 , **ENGAGING** 1 , 
+ 
+## What this user tweeted
+ 
+@Faber4Real Todd, first of all, let me say that catfishing is extremely horrible and preys upon people with vulnera… https://t.co/kANjwtxAcj
+ 
+# Shehnaa49797560USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Shehnaa49797560 
+ 
+`User chosen Name:` Shehnaaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 07:47:57 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 186 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 575 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYA** 78 , **SIDNAAZKIPYAARIDUNIYART** 43 , **SIDNAAZ** 23 , **LOVE** 22 , **HAI** 13 , **TRENDING** 12 , **BOTH** 12 , **RT** 10 , **HEART** 9 , **@SIDHARTH_SHUKLA** 8 , **@OHUDEADPPL:** 8 , **BEST** 8 , **TIME** 8 , **LIFE** 8 , **U** 8 , **1** 7 , **N** 7 , **SHEHNAAZ** 7 , **TOGETHER** 7 , **SMILE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# santosh91283915USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` santosh91283915 
+ 
+`User chosen Name:` santosh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 06:38:46 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 302 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 64 , **SIDNAAZKIPYAARIDUNIYA** 52 , **@SIDHARTH_SHUKLA** 24 , **SIDNAAZ** 23 , **@OFFICIALSIDNAAZ** 21 , **SNSHAKH** 18 , **LOVE** 15 , **!!!** 15 , **@ISHEHNAAZ_GILL** 15 , **U** 11 , **GUYS** 11 , **@IBEINGAMAN:** 9 , **1** 8 , **RT** 7 , **HAI** 7 , **TWEETS** 7 , **TAGLINE** 7 , **SPEED** 7 , **AGAINST** 7 , **TRENDING** 6 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# Bishnup64784376USER INFO
+![image](http://pbs.twimg.com/profile_images/1339815050333147136/aMt3K8h8_normal.jpg)
+ 
+`User ScreenName:` Bishnup64784376 
+ 
+`User chosen Name:` Bishnupriya Behera 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 05:50:21 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 193 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339815050333147136/aMt3K8h8_normal.jpg 
+ 
+`Number of tweets excluding replies:` 821 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SIDHARTH_SHUKLA** 58 , **QUEEN** 47 , **SHEHNAAZ** 34 , **CONGRATULATIONS** 33 , **2MPOSTSFORSIDSHUKLAONIG** 30 , **2MPOSTSFORSIDSHUKLAONIGRT** 28 , **@ISHEHNAAZ_GILL** 21 , **LOVE** 21 , **TRENDING** 17 , **2M** 16 , **FIRST** 14 , **SIDHEARTS** 14 , **SHEHNAAZRT** 13 , **ALWAYS** 12 , **SIDHARTHSHUKLA** 11 , **TWEETS** 10 , **INSTAGRAM** 10 , **POSTS** 9 , **KEEP** 9 , **SHEHNAAZGILL** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# SidnaazTrueUSER INFO
+![image](http://pbs.twimg.com/profile_images/1339905241962016769/p9vtsi1u_normal.jpg)
+ 
+`User ScreenName:` SidnaazTrue 
+ 
+`User chosen Name:` True.living ❤Sidnaaz❤ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 04:30:54 +0000 2020 
+ 
+`User Description?:` ❤Sidnaaz is Emotion❤
+❤🌟❤Sid ki Naaz❤🌟❤ 
+❤🌟❤Naaz ka sid❤🌟❤ 
+ 
+`Followers?: `6 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339905241962016769/p9vtsi1u_normal.jpg 
+ 
+`Number of tweets excluding replies:` 363 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYA** 41 , **SIDNAAZKIPYAARIDUNIYART** 41 , **LOVE** 37 , **SIDNAAZ** 36 , **U** 19 , **BEST** 18 , **@SIDHARTH_SHUKLA** 17 , **@SIDNAAZBAEBIES:** 17 , **@IBEINGAMAN:** 16 , **RT** 15 , **WAY** 15 , **!!!** 15 , **ALWAYS** 14 , **TREND** 14 , **HAI** 13 , **TWO** 12 , **EACH** 12 , **@GHANTAFADAK:** 12 , **@ISHEHNAAZ_GILL** 10 , **NEVER** 10 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# DewaniSidnaazUSER INFO
+![image](http://pbs.twimg.com/profile_images/1339859520739106819/2_XYbE-7_normal.jpg)
+ 
+`User ScreenName:` DewaniSidnaaz 
+ 
+`User chosen Name:` SidNaaz Ki Dewani 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 18 09:05:38 +0000 2020 
+ 
+`User Description?:` SidNaaz Meri Jaan😍 
+ 
+`Followers?: `180 
+ 
+`Following?:` 214 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339859520739106819/2_XYbE-7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1219 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@ISHEHNAAZ_GILL** 38 , **SIDNAAZ** 29 , **CONGRATULATIONS** 26 , **@SIDHARTH_SHUKLA** 24 , **SHEHNAAZ** 21 , **SHEHNAAZGILL** 21 , **KURTAPAJAMAHITS150M** 19 , **SANA** 19 , **HAI** 18 , **SIDHARTH** 14 , **FAMILY** 14 , **SID** 12 , **2MPOSTSFORSIDSHUKLAONIG** 11 , **SIDHARTHSHUKLA** 11 , **INSTA** 10 , **@ROSE_ISFAE:** 10 , **U** 9 , **@IBEINGAMAN:** 9 , **KURTAPAJAMAHITS150MRT** 9 , **@AGREENEYEDMNSTR:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# RiyaMan37420432USER INFO
+![image](http://pbs.twimg.com/profile_images/1340229132597092353/BZSMIBXI_normal.jpg)
+ 
+`User ScreenName:` RiyaMan37420432 
+ 
+`User chosen Name:` Riya Mandal 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 19 09:33:56 +0000 2020 
+ 
+`User Description?:` sidnaaz 
+ 
+`Followers?: `1 
+ 
+`Following?:` 33 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 188 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340229132597092353/BZSMIBXI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 318 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 102 , **SIDNAAZ** 37 , **HAI** 33 , **SIDNAAZKIPYAARIDUNIYA** 24 , **LOVE** 19 , **TAGLINE** 15 , **TREND** 14 , **@SIDHARTH_SHUKLA** 13 , **KI** 12 , **NA** 11 , **!!!** 10 , **SE** 10 , **@ISHEHNAAZ_GILL** 10 , **DUNIYA** 10 , **FIRST** 9 , **KE** 8 , **@ISHASAHANI7:** 8 , **US** 8 , **U** 7 , **SIDHARTH** 7 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# SidNaaz13187831USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SidNaaz13187831 
+ 
+`User chosen Name:` SidNaaz♥️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 05:16:40 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 185 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 301 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 55 , **SIDNAAZKIPYAARIDUNIYA** 51 , **LOVE** 29 , **SIDNAAZ** 21 , **TAGLINE** 16 , **EACH** 15 , **TRENDING** 14 , **U** 13 , **TREND** 11 , **DUNIYA** 11 , **@SIDHARTH_SHUKLA** 11 , **TWEETS** 11 , **OTHER** 10 , **RT** 9 , **THING** 8 , **NEVER** 8 , **AGAINST** 8 , **WAY** 8 , **MADE** 8 , **!** 8 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+# Sneha41125947USER INFO
+![image](http://pbs.twimg.com/profile_images/1339581634245357571/SBx3HAbA_normal.jpg)
+ 
+`User ScreenName:` Sneha41125947 
+ 
+`User chosen Name:` Sneha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 17 14:32:32 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `31 
+ 
+`Following?:` 63 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 193 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1339581634245357571/SBx3HAbA_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1050 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SIDNAAZKIPYAARIDUNIYART** 47 , **SIDNAAZKIPYAARIDUNIYA** 40 , **LOVE** 34 , **SIDNAAZ** 32 , **@SIDHARTH_SHUKLA** 25 , **HAI** 23 , **TREND** 20 , **1M** 17 , **CONGRATULATIONS** 16 , **SIDHARTHSHUKLA** 13 , **@ISHEHNAAZ_GILL** 13 , **TU** 13 , **@PAM38685602:** 12 , **MILLION** 11 , **MAIN** 10 , **1** 10 , **SID** 9 , **BEST** 9 , **HI** 9 , **TWEETS** 9 , 
+ 
+## What this user tweeted
+ 
+RT @SanaKiFakeID: What was that specific thing that made you fall in love with SidNaaz?Mine was seeing this big huge man getting soft in fr…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
