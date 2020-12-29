@@ -1072,3 +1072,1040 @@ RT @NigeriaGov: Payments for the Federal Government’s @SurvivalFund_ng are ong
 ## User Top tweeted words 
  
 **MADE** 2 , **DECEMBER** 1 , **2020** 1 , **THROUGH** 1 , **TOUGH** 1 , **TIMES** 1 , **LOCK** 1 , **DOWNS** 1 , **PROPAGANDA** 1 , **FAKE** 1 , **N…** 1 , **HTTPS://TCO/GYJCSAO78KOUT** 1 , **VULNERABILITIES** 1 , **COME** 1 , **STRENGTH** 1 , **SIGMUND** 1 , **FREUD** 1 , 
+ 
+## What this user tweeted
+ 
+Out of your vulnerabilities will come your strength.
+
+- Sigmund Freud
+ 
+# GumGumNoMiUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341247989147459586/-D81ovDO_normal.jpg)
+ 
+`User ScreenName:` GumGumNoMi 
+ 
+`User chosen Name:` Gomu Gomu no Mi 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 16:39:00 +0000 2020 
+ 
+`User Description?:` Simply because #Bitcoin is Digital Gold | $DERO & $CCX Maximalist 
+ 
+`Followers?: `56 
+ 
+`Following?:` 379 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341247989147459586/-D81ovDO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 222 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BITCOIN** 45 , **$DERO** 23 , **@BLOCKFOLIO:** 13 , **MARKET** 13 , **XRP** 11 , **GO** 11 , **?** 10 , **@PETERMCCORMACK:** 8 , **CAP** 8 , **STILL** 8 , **TESTNET** 8 , **VERY** 7 , **SOME** 7 , **$DERORT** 7 , **US** 6 , **RIPPLE** 6 , **1** 6 , **PRIVACY** 6 , **DON'T** 6 , **@SCOTTMELKER:** 6 , 
+ 
+## What this user tweeted
+ 
+@tannerdsilva @BangerSatoshi @MarilynMoneroX Do you remember how $XMR devs found the vulnerabilities in their… https://t.co/xzeuUW9e9N
+ 
+# Reena_2031USER INFO
+![image](http://pbs.twimg.com/profile_images/1341058964750942208/tGrnSVAN_normal.jpg)
+ 
+`User ScreenName:` Reena_2031 
+ 
+`User chosen Name:` Reena 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 16:31:36 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `28 
+ 
+`Following?:` 29 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341058964750942208/tGrnSVAN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 997 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LONE** 69 , **LION** 66 , **EIJAZ** 62 , **@COLORSTV** 57 , **EIJAZRT** 48 , **@BIGGBOSS** 42 , **STOPCORNERINGEIJAZ** 34 , **@JUSTVOOT** 28 , **@KHANEIJAZ** 23 , **STOPCORNERINGEIJAZRT** 19 , **EIJAZKHAN** 17 , **SHOW** 13 , **HAI** 12 , **@ORMAXMEDIA** 12 , **@EIJAZ_KHAN_FAN:** 11 , **PEOPLE** 11 , **RT** 10 , **KHAN** 10 , **KO** 10 , **BEST** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# PADLOW5USER INFO
+![image](http://pbs.twimg.com/profile_images/1341351552104148993/k3IekaeO_normal.jpg)
+ 
+`User ScreenName:` PADLOW5 
+ 
+`User chosen Name:` PADLOWSKI 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 08:21:22 +0000 2020 
+ 
+`User Description?:` Proud Father and Husband❤ In This Fight For My Kids Future🔪 CRITICAL THINKER🤯 YHWH💯 Philly Eagles 
+ 
+`Followers?: `16 
+ 
+`Following?:` 72 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 141 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341351552104148993/k3IekaeO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 142 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TIMCAST** 36 , **@JENISE50330683** 10 , **@ROBBYSTARBUCK** 9 , **@JOSHDCAPLAN** 7 , **RV** 6 , **GO** 5 , **SOME** 5 , **@E_ROSEB** 3 , **WHERE** 3 , **COME** 3 , **VIDEO** 3 , **@CINDYDEVINE88** 3 , **BIDEN** 3 , **@NICKYNAPTIME** 3 , **SURE** 3 , **OFF** 3 , **NEED** 3 , **CAR** 3 , **LET** 3 , **@DAYTRAD06290910** 3 , 
+ 
+## What this user tweeted
+ 
+@ErrolWebber Sir, are you taking advantage of our vulnerabilities?🧐
+ 
+# x_sunflower__USER INFO
+![image](http://pbs.twimg.com/profile_images/1341973260980903937/HJJCcB-N_normal.jpg)
+ 
+`User ScreenName:` x_sunflower__ 
+ 
+`User chosen Name:` 🥲 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 23 20:21:10 +0000 2020 
+ 
+`User Description?:` New Journey 🧘🏾‍♀️✨Aquarius 💜 
+ 
+`Followers?: `3 
+ 
+`Following?:` 20 
+ 
+`User URL?:` None 
+ 
+`Location:` In my own bubble 
+ 
+`Number of tweets extracted`  : 63 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341973260980903937/HJJCcB-N_normal.jpg 
+ 
+`Number of tweets excluding replies:` 64 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SPIRITUALBOOST1:** 15 , **KEEP** 5 , **GO** 4 , **AQUARIUS** 4 , **GOD** 4 , **@SEFFSAID:** 4 , **DON'T** 4 , **THROUGH** 3 , **FIND** 3 , **WAY** 3 , **MYSELF** 3 , **UNKNOWNRT** 3 , **LIFE** 3 , **LOVE** 3 , **RT** 2 , **TEXT** 2 , **CAN’T** 2 , **WAIT** 2 , **THAN** 2 , **@MELANATEDMOMMA:** 2 , 
+ 
+## What this user tweeted
+ 
+RT @spiritualboost1: I am so loved by God for WHO I am - including my temperaments, my personality, and my vulnerabilities. I needn't try t…
+ 
+# onlybluewhalesUSER INFO
+![image](http://pbs.twimg.com/profile_images/1342936273116221440/JGHlsIgX_normal.jpg)
+ 
+`User ScreenName:` onlybluewhales 
+ 
+`User chosen Name:` @bob_became_planner 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 20:30:08 +0000 2020 
+ 
+`User Description?:` yes, onlybluewhales is my account (that I don't remember the password to) 
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 16 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342936273116221440/JGHlsIgX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 16 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@BOBDUHHBUILDER:** 15 , **BJP** 3 , **PUT** 3 , **U** 3 , **D** 3 , **INTO** 3 , **I'M** 2 , **CENTRAL** 2 , **EVEN** 2 , **GOTHAM** 2 , **CITY** 2 , **N** 2 , **SHUTUPYAKUNAL** 2 , **"THE** 2 , **BUILDINGS** 2 , **RT** 1 , **GLAD** 1 , **STUDYING** 1 , **ARCHITECTURE** 1 , **OTW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @bobduhhbuilder: I don't understand the audacity of the central government to EVEN think and try to pass this Farmer's bill IN THE MIDDL…
+ 
+# Annecute69USER INFO
+![image](http://pbs.twimg.com/profile_images/1342693530054000640/b3i8Qriw_normal.jpg)
+ 
+`User ScreenName:` Annecute69 
+ 
+`User chosen Name:` Read Bio & Pinned 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 23 15:25:58 +0000 2020 
+ 
+`User Description?:` @pckawriego, @pckwriego2, @Anneriego69 & @Anneriego6969 got sussed arrgghh i hate this bird check my pinned 
+ 
+`Followers?: `212 
+ 
+`Following?:` 367 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342693530054000640/b3i8Qriw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 898 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PERSON** 47 , **RETWEETS** 38 , **FOLLOW** 34 , **FOLLOWS** 31 , **RETWEET** 30 , **I'LL** 28 , **SEND** 28 , **MYSELF** 28 , **+** 28 , **RANDOM** 27 , **TWEET** 26 , **RT** 22 , **PINNED** 21 , **HOURS** 19 , **MUST** 19 , **ENDS** 19 , **GIVEAWAY** 18 , **$50** 17 , **GIVE** 17 , **NEXT** 16 , 
+ 
+## What this user tweeted
+ 
+RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2nd token contract audit with 
+@hackenclub, 1 of the top cybe…
+ 
+# BlockChainAFRI9USER INFO
+![image](http://pbs.twimg.com/profile_images/1342932202141724672/2bot8OcQ_normal.jpg)
+ 
+`User ScreenName:` BlockChainAFRI9 
+ 
+`User chosen Name:` BlockChainAFRICA 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 18:42:11 +0000 2020 
+ 
+`User Description?:` All about engaging an African Community of BlockChain& Cryptocurrency enthusiasts! Getting in the know, educating ourselves, Building & researching Crypto News 
+ 
+`Followers?: `0 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342932202141724672/2bot8OcQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTOCURRENCY** 16 , **BITCOIN** 7 , **BLOCKCHAIN** 6 , **AFRICA** 5 , **NEW** 5 , **NIGERIA** 4 , **MILLION** 3 , **SOUTHAFRICA** 3 , **CRYPTO** 3 , **CRYPTOCURRENCIES** 3 , **BINANCE** 3 , **WHICH** 3 , **NETWORK** 3 , **@TECHBUILDAFRICA:** 2 , **LAUNCHED** 2 , **CRYPTOCURRENICES** 2 , **GHANA** 2 , **BILLION** 2 , **21** 2 , **PEOPLE** 2 , 
+ 
+## What this user tweeted
+ 
+5/•Many experts believe that blockchain and related technology will disrupt many industries, including finance and… https://t.co/apXb13xc9j
+ 
+# Pavijaz_USER INFO
+![image](http://pbs.twimg.com/profile_images/1340694988238200832/T8s6II0c_normal.jpg)
+ 
+`User ScreenName:` Pavijaz_ 
+ 
+`User chosen Name:` Pavijaz 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 16:20:25 +0000 2020 
+ 
+`User Description?:` pavitra+eijaz=pavijaz 
+ 
+`Followers?: `56 
+ 
+`Following?:` 32 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340694988238200832/T8s6II0c_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1098 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LONE** 110 , **LION** 109 , **EIJAZ** 92 , **@COLORSTV** 69 , **@BIGGBOSS** 40 , **EIJAZRT** 36 , **@JUSTVOOT** 31 , **@KHANEIJAZ** 23 , **@ORMAXMEDIA** 23 , **STOPCORNERINGEIJAZ** 21 , **SPEED** 21 , **RT** 20 , **GUYS** 20 , **STOPCORNERINGEIJAZRT** 18 , **@KHANEIJAZRT** 16 , **@OFFICIALEIJAZFC:** 14 , **EIJAZKHAN** 13 , **PLEASE** 13 , **TRENDING** 10 , **@BEING_ROMELI:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# Rubab43339355USER INFO
+![image](http://pbs.twimg.com/profile_images/1343577802407350279/JDASR9u4_normal.jpg)
+ 
+`User ScreenName:` Rubab43339355 
+ 
+`User chosen Name:` Rubab 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 11:49:47 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `4 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343577802407350279/JDASR9u4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1806 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STOPCORNERINGEIJAZRT** 99 , **@COLORSTV** 59 , **@BIGGBOSS** 58 , **STOPCORNERINGEIJAZ** 49 , **EIJAZKHAN** 36 , **@KHANEIJAZ** 35 , **@AKANKSH58552637:** 33 , **GIVEN** 33 , **@ORMAXMEDIA** 33 , **@JUSTVOOT** 31 , **@BEINGSALMANKHAN** 30 , **@SARAH11792416:** 28 , **@BEING_DEVILLL:** 27 , **HEART** 27 , **SOU…RT** 26 , **HAI** 17 , **EIJAZ** 17 , **SHOW** 12 , **@HAMNA_EIJAZKFAN:** 12 , **@EIJAZIAN:** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# AmericanAssas10USER INFO
+![image](http://pbs.twimg.com/profile_images/1340685189413007367/JlG517DE_normal.jpg)
+ 
+`User ScreenName:` AmericanAssas10 
+ 
+`User chosen Name:` American Assassin 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 15:37:58 +0000 2020 
+ 
+`User Description?:` Disabled veteran,patriot,father of 3,husband. Watching the country I fought for turning into just another banana republic. Our country is under attack. 
+ 
+`Followers?: `832 
+ 
+`Following?:` 2160 
+ 
+`User URL?:` None 
+ 
+`Location:` Montana, USA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1340685189413007367/JlG517DE_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3051 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 18 , **TRUMP** 14 , **ELECTION** 12 , **MOST** 10 , **DEMOCRATS** 10 , **@REALDONALDTRUMP** 10 , **PRESIDENT** 10 , **US** 8 , **NEVER** 8 , **2020** 8 , **REPUBLICANS** 8 , **MCCONNELL** 8 , **GOING** 8 , **BIDEN** 8 , **STATE** 7 , **MITCH** 7 , **JUDGE** 7 , **EVIDENCE** 7 , **SAY** 7 , **FRAUD** 6 , 
+ 
+## What this user tweeted
+ 
+RT @BlairBrandt: Most President’s hope to change policy. 
+
+@realDonaldTrump is actually changing the entire game &amp; the world. 
+
+He’s giving…
+ 
+# ChristaZodUSER INFO
+![image](http://pbs.twimg.com/profile_images/1343713504109461505/q_kam2K1_normal.jpg)
+ 
+`User ScreenName:` ChristaZod 
+ 
+`User chosen Name:` Christa Zod 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 25 00:57:10 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `11 
+ 
+`Following?:` 277 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 132 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343713504109461505/q_kam2K1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 134 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 8 , **@KANEKOATHEGREAT:** 8 , **@LLINWOOD:** 6 , **ELECTION** 6 , **US** 6 , **SAY** 5 , **NASHVILLE** 5 , **AMERICA** 5 , **TRUTH** 4 , **GOD** 4 , **DEMOCRATS** 4 , **@INTHEMATRIXXX** 3 , **CCP** 3 , **REPUBLICANS** 3 , **ANY** 3 , **@REALDONALDTRUMP** 3 , **VOTING** 3 , **BETTER** 3 , **LOOK** 3 , **@REALSTEWPETERS:** 3 , 
+ 
+## What this user tweeted
+ 
+RT @KanekoaTheGreat: DOMINION VOTING SYSTEMS
+
+"In 2014, Jacob Stauffer of the security firm Coherent Cyber, found “multiple critical vulner…
+ 
+# Pavijaz1698USER INFO
+![image](http://pbs.twimg.com/profile_images/1343546805573857280/aIGWn6wX_normal.jpg)
+ 
+`User ScreenName:` Pavijaz1698 
+ 
+`User chosen Name:` Pavijaz❤️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 08:37:15 +0000 2020 
+ 
+`User Description?:` Pavijaz❤️ 
+ 
+`Followers?: `44 
+ 
+`Following?:` 74 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343546805573857280/aIGWn6wX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3391 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**STOPCORNERINGEIJAZRT** 54 , **EIJAZKHAN** 43 , **STOPCORNERINGEIJAZ** 40 , **EIJAZ** 38 , **@COLORSTV** 37 , **@BIGGBOSS** 27 , **@JUSTVOOT** 23 , **SHOW** 20 , **HAI** 16 , **@KHANEIJAZ** 16 , **LOVE** 12 , **@PUNIAPAVITRA** 12 , **@BOLLYSPY** 12 , **TIME** 11 , **MUCH** 10 , **MAKERS** 10 , **KO** 10 , **EVEN** 9 , **PLEASE** 9 , **GIVEN** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# BlessBTS_JKJMUSER INFO
+![image](http://pbs.twimg.com/profile_images/1343572253783580681/M0aCPO0l_normal.jpg)
+ 
+`User ScreenName:` BlessBTS_JKJM 
+ 
+`User chosen Name:` 💜ᴮᴱ⟭⟬𝐋𝐞𝐧𝐚🎄𝐇𝐚𝐩𝐩𝐲 𝐕 𝐃𝐚𝐲💜🎉 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 19:33:51 +0000 2020 
+ 
+`User Description?:` ℒ𝒾𝒻ℯ 𝓁𝒾𝓀ℯ 𝒶𝓃 ℯ𝒸𝒽ℴ - 𝓇𝒶𝒹𝒾𝒶𝓉ℯ 𝒶𝓃𝒹 ℊ𝒾𝓋ℯ 𝓁ℴ𝓋ℯ 𝒶𝓃𝒹 𝓁ℴ𝓋ℯ 𝓌𝒾𝓁𝓁 𝒸ℴ𝓂ℯ𝒷𝒶𝓀ℯ 𝓉ℴ 𝓎ℴ𝓊 💞
+𝑨𝑹𝑴𝑰 𝑴𝒐𝒎🌈💜𝑩𝑻𝑺 𝒉𝒆𝒂𝒍𝒊𝒏𝒈 𝒎𝒆 
+ 
+`Followers?: `13 
+ 
+`Following?:` 68 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 148 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343572253783580681/M0aCPO0l_normal.jpg 
+ 
+`Number of tweets excluding replies:` 148 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HAPPY** 18 , **LOVE** 16 , **JIMIN** 16 , **@BTS_TWT** 15 , **JUNGKOOK** 12 , **BTS** 11 , **@BTS_TWT:** 9 , **💜** 9 , **HOLIDAYS** 8 , **MUCH** 7 , **@BTS_BIGHIT:** 7 , **JIKOOK** 7 , **CHRISTMAS** 7 , **BIRTHDAY** 6 , **THANK** 6 , **2020** 6 , **방탄소년단** 6 , **ALWAYS** 5 , **@DOOLSETBANGTAN:** 5 , **PERFORMANCE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @AureliaOT7: I love this. I love it that they are open with their struggles and issues. They cry on stage, they show us vulnerabilities,…
+ 
+# Eijazkhanfan07USER INFO
+![image](http://pbs.twimg.com/profile_images/1341003014627151874/lK22n2Rg_normal.jpg)
+ 
+`User ScreenName:` Eijazkhanfan07 
+ 
+`User chosen Name:` Eijazkhanfangirl 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 21 12:39:20 +0000 2020 
+ 
+`User Description?:` Fangirl of Eijaz khan 
+#Eijazkhan 
+
+@Eijazkhanfan07
+@EijazFan6
+@Eijazian2
+@EijazKhanFC07 
+ 
+`Followers?: `113 
+ 
+`Following?:` 219 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341003014627151874/lK22n2Rg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1952 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COLORSTV** 70 , **STOPCORNERINGEIJAZRT** 63 , **EIJAZ** 49 , **STOPCORNERINGEIJAZ** 47 , **@BIGGBOSS** 47 , **@JUSTVOOT** 33 , **EIJAZKHAN** 26 , **@KHANEIJAZ** 24 , **@BOLLYSPY** 21 , **SHOW** 20 , **@BEINGSALMANKHAN** 19 , **MAKERS** 17 , **KI** 12 , **@FIFAFOOZ1RT** 12 , **@FIFAFOOZ1** 11 , **U** 11 , **KE** 11 , **@BEING_DEVILLL:** 10 , **@ENDEMOLSHINEIND** 9 , **BEST** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# warrior_eijazUSER INFO
+![image](http://pbs.twimg.com/profile_images/1342761968508104705/DyPG7U75_normal.jpg)
+ 
+`User ScreenName:` warrior_eijaz 
+ 
+`User chosen Name:` Eijaz Warrior 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 09:19:03 +0000 2020 
+ 
+`User Description?:` Eijaz fans 
+ 
+`Followers?: `48 
+ 
+`Following?:` 87 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342761968508104705/DyPG7U75_normal.jpg 
+ 
+`Number of tweets excluding replies:` 523 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HAPPYBIRTHDAYSALMANKHAN** 81 , **SALMAN** 39 , **@BEINGSALMANKHAN** 36 , **TWEETS** 30 , **HAPPYBIRTHDAYSALMANKHANRT** 28 , **KHAN** 26 , **BIRTHDAY** 24 , **HAPPY** 21 , **1** 17 , **LOVE** 16 , **1M** 16 , **BOLLYWOOD** 14 , **TRENDING** 14 , **VERY** 13 , **@SAURABH02918524:** 12 , **BHAI** 12 , **MOST** 12 , **MEGASTAR** 11 , **MILLION** 11 , **BIGGEST** 11 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# Trollboss9USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Trollboss9 
+ 
+`User chosen Name:` Troll boss 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 13:49:54 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 160 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 160 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LION** 121 , **LONE** 116 , **EIJAZ** 94 , **@COLORSTV** 57 , **EIJAZRT** 39 , **@JUSTVOOT** 35 , **@KHANEIJAZ** 33 , **SPEED** 20 , **@KHANEIJAZRT** 19 , **GUYS** 19 , **@ORMAXMEDIA** 17 , **RT** 16 , **@BIGGBOSS** 16 , **@BEING_ROMELI:** 16 , **TREND** 15 , **@OFFICIALEIJAZFC:** 14 , **TAGLINE** 12 , **!** 12 , **RTS** 10 , **@MARWA_ALBLUSHI:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# Sangham55539756USER INFO
+![image](http://pbs.twimg.com/profile_images/1342824974965374976/JOkFQ-hr_normal.jpg)
+ 
+`User ScreenName:` Sangham55539756 
+ 
+`User chosen Name:` Sanghamitra 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 13:29:40 +0000 2020 
+ 
+`User Description?:` Truthful and fun loving 
+ 
+`Followers?: `19 
+ 
+`Following?:` 52 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342824974965374976/JOkFQ-hr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 827 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COLORSTV** 52 , **EIJAZKHAN** 47 , **EIJAZ** 44 , **@KHANEIJAZ** 39 , **STOPCORNERINGEIJAZ** 38 , **@BIGGBOSS** 35 , **@JUSTVOOT** 22 , **HAI** 21 , **STOPCORNERINGEIJAZRT** 18 , **LOVE** 17 , **@BOLLYSPY** 14 , **BB14** 13 , **K** 13 , **PLEASE** 12 , **@ORMAXMEDIA** 12 , **@BEINGSALMANKHAN** 11 , **SHOW** 11 , **KO** 11 , **@KHANEIJAZ:** 10 , **KE** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# Kalaarun2USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Kalaarun2 
+ 
+`User chosen Name:` Kalaarun 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 07:47:04 +0000 2020 
+ 
+`User Description?:` I like Reading Novels and Gardening. 
+ 
+`Followers?: `4 
+ 
+`Following?:` 5 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 914 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COLORSTV** 81 , **STOPCORNERINGEIJAZ** 66 , **@BIGGBOSS** 63 , **EIJAZ** 48 , **STOPCORNERINGEIJAZRT** 44 , **@JUSTVOOT** 37 , **SHOW** 26 , **EIJAZKHAN** 25 , **@KHANEIJAZ** 18 , **BIASED** 15 , **MAKERS** 14 , **@FIFAFOOZ1RT** 13 , **BOSS** 12 , **@BOLLYSPY** 12 , **KO** 11 , **KHAN** 11 , **GUYS** 10 , **@BOLLYSPY_** 9 , **RUBINA** 9 , **SHAME** 9 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# Lnddangeline02USER INFO
+![image](http://pbs.twimg.com/profile_images/1341994615151370241/dQBS44KZ_normal.jpg)
+ 
+`User ScreenName:` Lnddangeline02 
+ 
+`User chosen Name:` Linda Angeline 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 24 06:29:24 +0000 2020 
+ 
+`User Description?:` account bick up than @lndangeline02 is suspend. 🥺😥😭
+never give up 🌼 
+ 
+`Followers?: `28 
+ 
+`Following?:` 134 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341994615151370241/dQBS44KZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 275 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 55 , **RT** 50 , **INI** 37 , **GIVEAWAY** 28 , **SALDO** 28 , **AKU** 27 , **TWEET** 27 , **ATAU** 25 , **DAN** 23 , **GA** 20 , **24** 18 , **ALBUM** 17 , **1** 17 , **HOURS** 16 , **KAK** 16 , **RETWEET** 15 , **BUAT** 15 , **SEMOGA** 15 , **SUDAH** 14 , **ALHAMDULLILAH** 13 , 
+ 
+## What this user tweeted
+ 
+RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2nd token contract audit with 
+@hackenclub, 1 of the top cybe…
+ 
+# Dashingking16USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Dashingking16 
+ 
+`User chosen Name:` Dashing king 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 06:05:57 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `13 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 987 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KHANEIJAZ** 56 , **EIJAZ** 54 , **@VOOTSELECT** 48 , **@COLORSTV** 44 , **@BEINGSALMANKHAN** 44 , **EIJAZKHAN** 42 , **@BIGGBOSS** 30 , **@RAHULVAIDYA23** 29 , **VOTING** 25 , **@JASMINBHASIN** 24 , **STOPCORNERINGEIJAZRT** 24 , **@RUBIDILAIK** 19 , **MASSVOTINGFOREIJAZ** 15 , **KHAN** 15 , **@AJAYKUM99212007:** 14 , **STOPCORNERINGEIJAZ** 14 , **GUYS** 13 , **@MSDIAN60197207:** 13 , **U** 12 , **HAI** 11 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# EijazKhanFan5USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` EijazKhanFan5 
+ 
+`User chosen Name:` Eijaz Khan Fan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 11:11:14 +0000 2020 
+ 
+`User Description?:` Eijaz Khan Fan for life 
+ 
+`Followers?: `8 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 995 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@COLORSTV** 78 , **STOPCORNERINGEIJAZRT** 69 , **@BIGGBOSS** 51 , **STOPCORNERINGEIJAZ** 50 , **EIJAZ** 47 , **SHOW** 33 , **EIJAZKHAN** 26 , **@JUSTVOOT** 25 , **@BEINGSALMANKHAN** 22 , **@KHANEIJAZ** 21 , **@BOLLYSPY** 20 , **@FIFAFOOZ1RT** 14 , **KO** 13 , **HAI** 13 , **UNFAIR** 13 , **BIASED** 12 , **MAKERS** 11 , **BB** 11 , **BEST** 10 , **@EIJAZ_KHAN_FAN:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @gleefulmess: "Sometimes we're tested not to show our weaknesses but to discover our strength"
+
+@khaneijaz Youve emerged out of every to…
+ 
+# ___SquishyRIEGOUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341573168830377987/KUmExIZV_normal.jpg)
+ 
+`User ScreenName:` ___SquishyRIEGO 
+ 
+`User chosen Name:` 🐞🐞🌺lady bug🌺🐞🐞 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 22 19:23:48 +0000 2020 
+ 
+`User Description?:` don't re-roll if i win suspended account @_R_EGOjase01 🍀🍀🍀🍀💕💕💕💕🤞🤞
+
+https://t.co/9lTZ7yFJCH
+gcash:09093307350 
+ 
+`Followers?: `8 
+ 
+`Following?:` 340 
+ 
+`User URL?:` None 
+ 
+`Location:` Philippines 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341573168830377987/KUmExIZV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 909 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RETWEETS** 30 , **FOLLOW** 29 , **PERSON** 28 , **GIVEAWAY** 24 , **RETWEET** 23 , **@KLDSCPWORLD2020** 22 , **+** 22 , **RT** 21 , **FOLLOWS** 20 , **MYSELF** 19 , **RANDOM** 17 , **MUST** 17 , **I'LL** 17 , **SEND** 16 , **ENDS** 16 , **GIVE** 15 , **TWEET** 14 , **$100** 13 , **$50** 13 , **HOURS** 12 , 
+ 
+## What this user tweeted
+ 
+RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2nd token contract audit with 
+@hackenclub, 1 of the top cybe…
+ 
+# ZaraAli_KhanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1341698840882274308/mejvJXhY_normal.jpg)
+ 
+`User ScreenName:` ZaraAli_Khan 
+ 
+`User chosen Name:` Zara Khan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 20 06:13:16 +0000 2020 
+ 
+`User Description?:` Psychologist 🌚 
+ 
+`Followers?: `12 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:` Lahore, Pakistan 
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341698840882274308/mejvJXhY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 881 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**قصور_کے_بچوں_کوبچاو** 128 , **کے** 67 , **@LRKKING1:** 52 , **میں** 46 , **کی** 44 , **سے** 38 , **کا** 33 , **کہ** 33 , **کو** 29 , **@HIJAAB_ZARA:** 27 , **نے** 23 , **CHILDREN** 22 , **اس** 19 , **بچوں** 17 , **اور** 17 , **ہے** 17 , **CHILD** 17 , **@TEAM4KAPTAANRT** 16 , **ABUSE** 15 , **@SHAHZADSLEM:** 15 , 
+ 
+## What this user tweeted
+ 
+RT @iRanaJee: Foreign exchange reserves had declined to 2.3 months of import cover and debt related vulnerabilities had increased. The fore…
+ 
+# jjoIIyesha2USER INFO
+![image](http://pbs.twimg.com/profile_images/1341975887604899840/WItZHDKn_normal.jpg)
+ 
+`User ScreenName:` jjoIIyesha2 
+ 
+`User chosen Name:` jjoIIyesha2 Poo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 24 05:07:07 +0000 2020 
+ 
+`User Description?:` From #Vietnam with❤❤
+My old account @jjoIIyesha was lost, so i created this one. Pls follow me back!! 
+ 
+`Followers?: `22 
+ 
+`Following?:` 688 
+ 
+`User URL?:` https://t.co/ryqttdl2Qj 
+ 
+`Location:` Việt Nam 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1341975887604899840/WItZHDKn_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1378 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RETWEETS** 53 , **PERSON** 48 , **FOLLOW** 45 , **RT** 37 , **TWEET** 28 , **SEND** 28 , **FOLLOWS** 27 , **HOURS** 24 , **GIVE** 23 , **MUST** 23 , **FOLLOWING** 23 , **RANDOM** 23 , **GIVEAWAY** 22 , **ENDS** 22 , **SOMEONE** 22 , **1** 22 , **MYSELF** 21 , **RETWEET** 21 , **$25** 20 , **MINUTES** 18 , 
+ 
+## What this user tweeted
+ 
+RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2nd token contract audit with 
+@hackenclub, 1 of the top cybe…
+ 
+# MUNGO888AUSER INFO
+![image](http://pbs.twimg.com/profile_images/1342962969072660480/2EghIWSv_normal.jpg)
+ 
+`User ScreenName:` MUNGO888A 
+ 
+`User chosen Name:` 🎄🎅🎁☃️🔔MUNGO888A🔔☃️🎁🎅🎄 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Dec 23 19:37:06 +0000 2020 
+ 
+`User Description?:` Not new. Prev act @MUNGO888B sused. #SliceONice & #BigNice Mod
+https://t.co/HQyx2iiBbO
+https://t.co/IXfUsWZuHk
+#BTC 32jgPTb368wvSJUXHEEEUX5npbHCsKfKoC 
+ 
+`Followers?: `55 
+ 
+`Following?:` 741 
+ 
+`User URL?:` https://t.co/fhcJEcMi0V 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342962969072660480/2EghIWSv_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1762 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**FOLLOW** 46 , **GIVEAWAY** 31 , **RETWEET** 27 , **+** 27 , **PERSON** 23 , **TWEET** 21 , **RT** 20 , **RETWEETS** 20 , **ENDS** 16 , **24** 16 , **PINNED** 15 , **GIVING** 15 , **HOURS** 15 , **SEND** 14 , **$20** 14 , **ATAU** 11 , **$25** 11 , **MUST** 11 , **ALBUM** 10 , **MYSELF** 10 , 
+ 
+## What this user tweeted
+ 
+RT @cryptogems555: Great News for $YFD holders! The team has just performed a 2nd token contract audit with 
+@hackenclub, 1 of the top cybe…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
