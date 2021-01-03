@@ -824,4 +824,454 @@ RT @Cyberdost: Shopkeepers/Businessmen having their apps or websites must ensure
  
 ## User Top tweeted words 
  
-**NEW** 14 , **YEAR** 8 , **WORK** 7 , **SOME** 7 , **MAKE** 7 , **2021** 7 , **UK** 6 , **THANK** 6 , **GOING** 5 , **FILM** 5 , **GOOD** 5 , **EVERYONE** 5 , **HUMAN** 5 , **JOIN** 5 , **LOOKING** 5 , **LIVE** 5 , **PEOPLE** 5 , 
+**NEW** 14 , **YEAR** 8 , **WORK** 7 , **SOME** 7 , **MAKE** 7 , **2021** 7 , **UK** 6 , **THANK** 6 , **GOING** 5 , **FILM** 5 , **GOOD** 5 , **EVERYONE** 5 , **HUMAN** 5 , **JOIN** 5 , **LOOKING** 5 , **LIVE** 5 , **PEOPLE** 5 , **PRISON** 5 , **CHILDREN** 4 , **BACK** 4 , 
+ 
+## What this user tweeted
+ 
+RT @jeffreykboakye: A little reminder for myself, and a big shout out to all teachers about what we do and why we do it. Covid has exposed…
+ 
+# Gr33nEyedSaraUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345063596825350144/yzX47f03_normal.jpg)
+ 
+`User ScreenName:` Gr33nEyedSara 
+ 
+`User chosen Name:` Small + Mighty ™️ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 17:44:50 +0000 2021 
+ 
+`User Description?:` Bios are irrelevant but I’ll try. Creative MAGA chick outwitting bots on the daily. Trying to swear less. If Alyssa Milano hates it, I probably love it. 
+ 
+`Followers?: `2969 
+ 
+`Following?:` 246 
+ 
+`User URL?:` None 
+ 
+`Location:` Land of Petty Tyrants, CA 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345063596825350144/yzX47f03_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1273 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**👏🏻** 39 , **TRUMP** 14 , **@CATTURD2** 11 , **@GR33NEYEDSARA:** 10 , **@GR33NEYEDSARA** 9 , **MUCH** 8 , **@REALDONALDTRUMP** 8 , **@MAXIMUS_4EVR:** 7 , **THAN** 6 , **NEVER** 6 , **TWITTER** 6 , **DC** 6 , **I’M** 6 , **US** 6 , **SENATOR** 6 , **THESE** 5 , **DON’T** 5 , **😂** 5 , **PRESIDENT** 5 , **SUPPORTERS** 5 , 
+ 
+## What this user tweeted
+ 
+DOES ANYONE KNOW WHERE TO FIND THAT VIDEO OF S3TH R1CH QUESTIONING THE D0M1NION OR SM4RTM4TIC REP ON THE VULNERABIL… https://t.co/Hu64BRjNuG@YvonneH56675865 @sicsemp51121207 @55true4u @chuckierd8 SETH R1CH FIGURED OUT ABOUT THE DOM1NION VULNERABILITIES BE… https://t.co/qJ2biLbMT3
+ 
+# SanistTheUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345019132677390337/igDidGTT_normal.jpg)
+ 
+`User ScreenName:` SanistThe 
+ 
+`User chosen Name:` the.sanist 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 14:47:16 +0000 2021 
+ 
+`User Description?:` I dwell among the untrodden ways ... 
+ 
+`Followers?: `0 
+ 
+`Following?:` 73 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345019132677390337/igDidGTT_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**2** 2 , **KNOWLEDGE** 2 , **RT** 1 , **@INTIGRITI:** 1 , **YOU'D** 1 , **SURPRISED** 1 , **MUCH** 1 , **TOP-RANKED** 1 , **WEBSITES** 1 , **MAKE** 1 , **DEADLY** 1 , **MISTAKE!** 1 , **THERE'S** 1 , **THAN** 1 , **API** 1 , **MUST** 1 , **TRY** 1 , **@FILEDE…RT** 1 , **@THECYBERMENTOR:** 1 , **HI** 1 , 
+ 
+## What this user tweeted
+ 
+RT @InsiderPhD: @K0ngS3ng RCEs usually require 2 things, 1 a knowledge of known vulnerabilities (CVEs) and 2 a knowledge of recon. The aim…
+ 
+# BluesLibertyUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` BluesLiberty 
+ 
+`User chosen Name:` Liberty Blues 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 14:41:11 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 19 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 89 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 89 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CORALSE37194378** 24 , **@KAMALAHARRIS** 24 , **@RICHARD43168188** 20 , **@MALCOLM_CAMERON** 20 , **@REALDONALDTRUMP** 19 , **@0463ST** 15 , **@YODER_ESQQ** 15 , **@AZELFDABOI** 12 , **@JOVANHPULITZER** 11 , **@PATRICKBYRNE** 9 , **@RAIDERSHLP** 7 , **@STPHNFWLR** 7 , **T…** 6 , **@DAVIDJU83087868** 6 , **@RPARKERSCIENCE** 6 , **@GATEWAYPUNDIT** 6 , **AUDIT** 5 , **ITS** 5 , **ELECTION** 5 , **BEING** 4 , 
+ 
+## What this user tweeted
+ 
+@havetobkiddin @DavidJu83087868 @Rparkerscience @JovanHPulitzer @gatewaypundit Good spotting, not sure if he linked… https://t.co/Gx6CIW9d3W@JovanHPulitzer @JovanHPulitzer the article you linked says the software vulnerability for TCL TV does not affect t… https://t.co/lF2stYXDAS
+ 
+# Sexstone75USER INFO
+![image](http://pbs.twimg.com/profile_images/1343216798020358149/1LzG4ta7_normal.jpg)
+ 
+`User ScreenName:` Sexstone75 
+ 
+`User chosen Name:` Battle of Trenton 1776 #FightBack👊 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 27 15:10:18 +0000 2020 
+ 
+`User Description?:` Starting Over 👊
+Former bassist for Sexstone and Sideshow Romance..paranormal enthusiast..storm chaser🔥
+Parler @Sexstone75
+Gab @ Trent45 
+ 
+`Followers?: `271 
+ 
+`Following?:` 1263 
+ 
+`User URL?:` None 
+ 
+`Location:` Western KY 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343216798020358149/1LzG4ta7_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3526 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 17 , **@MERMANETHAL:** 11 , **@REALDONALDTRUMP** 10 , **@REDDEVINERIZING:** 10 , **ELECTION** 9 , **PRESIDENT** 9 , **@REALDONALDTRUMP:** 9 , **STATE** 9 , **PEOPLE** 8 , **CALL** 8 , **POTUS** 7 , **US** 7 , **BEING** 7 , **@WETHEINEVITABLE:** 7 , **TIME** 6 , **DC** 6 , **RAFFENSPERGER** 6 , **@ANONPATRIOTQ:** 6 , **@BOBBYPITON3:** 6 , **@TWEETWORDZ:** 6 , 
+ 
+## What this user tweeted
+ 
+RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to educate Federal and State governments on the need to prevent…
+ 
+# ItsJust77367852USER INFO
+![image](http://pbs.twimg.com/profile_images/1343208839689203712/Mwi8hkmD_normal.jpg)
+ 
+`User ScreenName:` ItsJust77367852 
+ 
+`User chosen Name:` ItsJustMeh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 27 14:54:53 +0000 2020 
+ 
+`User Description?:` I'm just me. 
+ 
+`Followers?: `524 
+ 
+`Following?:` 1851 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343208839689203712/Mwi8hkmD_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3444 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 14 , **2** 11 , **TRUMP** 10 , **US** 9 , **PRESIDENT** 9 , **ELECTION** 8 , **U** 8 , **NEED** 7 , **@REALDONALDTRUMP** 6 , **TIME** 6 , **SAME** 5 , **CONTROL** 5 , **VIA** 5 , **EVIDENCE** 5 , **AMERICA** 5 , **WORLD** 5 , **NEVER** 5 , **PPL** 5 , **ABT** 5 , **TRUTH** 5 , 
+ 
+## What this user tweeted
+ 
+RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to educate Federal and State governments on the need to prevent…
+ 
+# NewYearGirl17USER INFO
+![image](http://pbs.twimg.com/profile_images/1344734560471429121/8iAoVErM_normal.jpg)
+ 
+`User ScreenName:` NewYearGirl17 
+ 
+`User chosen Name:` HappyNewYearGirl17 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 31 19:57:28 +0000 2020 
+ 
+`User Description?:` Just Ringing in the Cheer during a 12 hour Twat Rehab Program 
+ 
+`Followers?: `35 
+ 
+`Following?:` 190 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 181 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1344734560471429121/8iAoVErM_normal.jpg 
+ 
+`Number of tweets excluding replies:` 181 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NEW** 12 , **@REALDONALDTRUMP** 9 , **ELECTION** 9 , **US** 7 , **YEAR** 7 , **HAPPY** 7 , **@BAALTHE** 6 , **@MAGAMEDIUM17** 6 , **@MAREQ16:** 6 , **HOUSE** 6 , **REP** 6 , **@TLSHAW1997:** 6 , **STATE** 5 , **@MICHAELBEATTY3:** 5 , **PULITZER** 5 , **@HODGHEG90** 5 , **@NEWYEARGIRL17** 5 , **@DANCINGCURIOUS** 5 , **REP-ELECT** 5 , **PRESIDENT** 4 , 
+ 
+## What this user tweeted
+ 
+RT @T_S_P_O_O_K_Y: I spent the last 4 years, as an expert on cyber, working to educate Federal and State governments on the need to prevent…
+ 
+# DrHildrusUSER INFO
+![image](http://pbs.twimg.com/profile_images/1344781716590833667/svnHf5WH_normal.jpg)
+ 
+`User ScreenName:` DrHildrus 
+ 
+`User chosen Name:` Dr. Hildrus Matthews 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 31 23:01:28 +0000 2020 
+ 
+`User Description?:` PhD at Fukayna Fenyang School of Science 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 36 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1344781716590833667/svnHf5WH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 36 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**VERY** 6 , **NEW** 4 , **ZOOM** 4 , **YEAR** 3 , **ARTICLES** 3 , **@KEVINSA35974023** 2 , **@THEMEGA29667621** 2 , **@TASANOSKI** 2 , **@FBI** 2 , **EGYPT** 2 , **@WHO:** 2 , **DURING** 2 , **2020** 2 , **BRIGHTER** 2 , **HERE** 2 , **TEACHER** 2 , **PSYCHOLOGY** 2 , **MANY** 2 , **@GREENAR81082859** 2 , **@IHATEMYSELFFOR6** 2 , 
+ 
+## What this user tweeted
+ 
+RT @CGDev: Before the pandemic, Venezuelans were earning 35% less than Peruvians on average. 
+
+NEW @CGDev &amp; @RefugeesIntl takes a closer lo…
+ 
+# BlueSky44689120USER INFO
+![image](http://pbs.twimg.com/profile_images/1342702734450036737/ksOfKPVP_normal.jpg)
+ 
+`User ScreenName:` BlueSky44689120 
+ 
+`User chosen Name:` EAGLE BLUE SKY 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 26 05:23:19 +0000 2020 
+ 
+`User Description?:` Born Free and like it that way 
+ 
+`Followers?: `12 
+ 
+`Following?:` 85 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1342702734450036737/ksOfKPVP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 292 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 22 , **@REALDONALDTRUMP:** 20 , **@LLINWOOD:** 19 , **PRESIDENT** 15 , **PEOPLE** 15 , **@REALDONALDTRUMP** 14 , **GEORGIA** 11 , **BIDEN** 11 , **NEVER** 11 , **CHINA** 10 , **DC** 10 , **STATES** 9 , **NEW** 9 , **VOTES** 8 , **EVIDENCE** 8 , **WAY** 7 , **ELECTION** 7 , **LIN** 7 , **@SIDNEYPOWELL1:** 7 , **JOE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @Anske67: @disclosetv If we dropped a single bomb on 3 gorges dam in China, it would wipe out millions. China has some major vulnerabili…
+ 
+# bajaTacroachUSER INFO
+![image](http://pbs.twimg.com/profile_images/1345787353131085825/Tn2jphnJ_normal.jpg)
+ 
+`User ScreenName:` bajaTacroach 
+ 
+`User chosen Name:` ✨SPARKLEMANE✨ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Dec 31 02:53:40 +0000 2020 
+ 
+`User Description?:` {Kinda bug and kinda snax} {18+ (Mature themes, account SFW} 
+ 
+`Followers?: `61 
+ 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 54 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345787353131085825/Tn2jphnJ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 54 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**⠀⠀** 16 , **I'M** 6 , **¤** 5 , **TUNA** 4 , **TOO** 4 , **UH** 4 , **HEAD** 4 , **WHERE** 3 , **BACK** 3 , **DON'T** 3 , **MVRP** 3 , **⁄⠀** 3 , **SAY** 3 , **MAL** 3 , **OFF** 3 , **FLICKERS** 3 , **VULNERABLE** 3 , **BUNCH** 3 , **GONNA** 2 , **SHE'S** 2 , 
+ 
+## What this user tweeted
+ 
+Shit, ya may have had to fix something I did.
+
+&gt;You're basically the cyberspace equivalent of a hitman. Someone pay… https://t.co/4qtzkknysf&gt;Your head flickers, "shades" seemingly growing slightly wider like a set of eyes. They /are/ your eyes.
+
+&gt;You didn… https://t.co/zgYyPsTtjEOf /course/ you do. Sburb is a very robust piece of software engineering. Most vulnerabilities have been accounted… https://t.co/rkPPx2Ptt2
+ 
+# teachers_childUSER INFO
+![image](http://pbs.twimg.com/profile_images/1343725408500379651/mAe4lI-z_normal.jpg)
+ 
+`User ScreenName:` teachers_child 
+ 
+`User chosen Name:` Teachers Are Professionals Not Child Care 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 29 00:52:04 +0000 2020 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 22 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 10 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1343725408500379651/mAe4lI-z_normal.jpg 
+ 
+`Number of tweets excluding replies:` 10 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PARENTS** 2 , **SCHOOLS** 2 , **GOVERNMENT** 2 , **TEACHERS** 2 , **@PATTIBACCHUS** 2 , **EDUCATOR** 2 , **EDUCATORS** 2 , **STUDENTS** 2 , **@TALKERTEACHER** 1 , **@KELLYINLANGFORD** 1 , **OH** 1 , **ANNOUNCE** 1 , **MORNING** 1 , **EXTRA** 1 , **THINGS** 1 , **EXPECT** 1 , **TE…** 1 , **HTTPS://TCO/AWQYNQVBHJ@MODERNCASSIE** 1 , **MAKES** 1 , **UNCOMFORTABLE** 1 , 
+ 
+## What this user tweeted
+ 
+@CindyDalglish Sadly as an educator this did not shock me. Our schools are full of students who do not have their n… https://t.co/QDezqBz9ic
+ 
+# SnarkyCityUSER INFO
+![image](http://pbs.twimg.com/profile_images/1344079067071434752/Q-VpEahx_normal.png)
+ 
+`User ScreenName:` SnarkyCity 
+ 
+`User chosen Name:` Snarky City Cindy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 28 05:04:47 +0000 2020 
+ 
+`User Description?:` Existentialist world traveler, MHP, MA armchair psychologist. Animal lover, terrible artist 💗my husband our 🐶🐶  I suffer from a filthy mouth. #Resist #BLM 
+ 
+`Followers?: `479 
+ 
+`Following?:` 846 
+ 
+`User URL?:` None 
+ 
+`Location:` Home, like most people. 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1344079067071434752/Q-VpEahx_normal.png 
+ 
+`Number of tweets excluding replies:` 711 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRUMP** 15 , **I'M** 12 , **@MAJORPATRIOT** 12 , **PEOPLE** 9 , **LOST** 8 , **ELECTION** 7 , **LOVE** 7 , **DON'T** 7 , **SAY** 7 , **THESE** 7 , **BEST** 6 , **@CAPPERSMESSIAH** 6 , **@NEWMONA3** 6 , **@TRAYATLANTA** 6 , **@1STRONGROBIN** 6 , **@ASK__ME__WHY** 6 , **VOTES** 5 , **HERE** 5 , **US** 5 , **I'VE** 5 , 
+ 
+## What this user tweeted
+ 
+@jtreneyan @JakeLobin And Trump carved a path for the next psychopath. He showed them the playbook and where our vu… https://t.co/GwKu4KzHVi
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
