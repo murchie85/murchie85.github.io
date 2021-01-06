@@ -1128,3 +1128,215 @@ Ways to protect your data ;
 ## What this user tweeted
  
 Liverpool shifting to a wide 4-2-3-1 to help with defensive vulnerabilities will definitely help their cause in the… https://t.co/Xw9dO3NmJe
+ 
+# VarizonLUSER INFO
+![image](http://pbs.twimg.com/profile_images/1344239230336135168/nEBFpniV_normal.jpg)
+ 
+`User ScreenName:` VarizonL 
+ 
+`User chosen Name:` VARIZON PTE LTD 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Dec 28 05:34:13 +0000 2020 
+ 
+`User Description?:` IT Company 
+ 
+`Followers?: `2 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 33 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1344239230336135168/nEBFpniV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 33 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DATA** 9 , **CLOUD** 5 , **PROCESS** 4 , **BUSINESS** 4 , **TECHNOLOGIES** 4 , **PUBLIC** 3 , **IMPORTANT** 3 , **PROCESSES** 3 , **REFERS** 3 , **DIGITAL** 3 , **NEW** 3 , **MOBILE** 3 , **ALGORITHMS** 3 , **APPLICATION** 3 , **MODEL** 2 , **WHICH** 2 , **THROUGH** 2 , **LEAST** 2 , **PRIVATE** 2 , **SOCIAL** 2 , 
+ 
+## What this user tweeted
+ 
+#MobileSecurity is the protection of smartphones, tablets, laptops and other portable computing devices, and the ne… https://t.co/5bcqPRNlFH
+ 
+# truemo8USER INFO
+![image](http://pbs.twimg.com/profile_images/1346287895645024258/53hP8ebZ_normal.png)
+ 
+`User ScreenName:` truemo8 
+ 
+`User chosen Name:` truemo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 05 02:49:26 +0000 2021 
+ 
+`User Description?:` Community to share your stress, worries, failures, anonymously.
+https://t.co/4NbcLb1WNa 
+ 
+`Followers?: `1 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346287895645024258/53hP8ebZ_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@SD_ANXIOUS:** 1 , **DEPRESSIONISREAL** 1 , **KEEPFIGHTING** 1 , **HTTPS://TCO/AAOOTQWTXZIT'S** 1 , **DIFFICULT** 1 , **SHARE** 1 , **TRUE** 1 , **EMOTIONS** 1 , **ONLINE** 1 , **FEAR** 1 , **BEING** 1 , **JUDGED** 1 , **TRUEMO** 1 , **EFFORT** 1 , **ENABLE** 1 , **PEOPLE** 1 , **LI…** 1 , **HTTPS://TCO/CMDRN8BTLH** 1 , 
+ 
+## What this user tweeted
+ 
+It's difficult to share true emotions online, for the fear of being judged. Truemo is an effort to enable people li… https://t.co/cmDrn8btLh
+ 
+# DontGunnyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1346233357307297793/lpiPHOel_normal.jpg)
+ 
+`User ScreenName:` DontGunny 
+ 
+`User chosen Name:` GunnyDontPlayThat 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 02 21:09:07 +0000 2021 
+ 
+`User Description?:` I’m an American unapologetically. Most would call me white, which I’m unapologetic. Your Marxist BS can suck my American dick! Semper Fi! 
+ 
+`Followers?: `1 
+ 
+`Following?:` 4 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1346233357307297793/lpiPHOel_normal.jpg 
+ 
+`Number of tweets excluding replies:` 229 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@REALDONALDTRUMP** 75 , **@SHAWGERALD4** 35 , **@ADAMCONOVER** 30 , **@DCARC** 19 , **DON’T** 18 , **@DANIELSGOLDMAN** 18 , **@OUT5P0KEN** 17 , **@LIVERPOOLROYAL** 16 , **@SENTEDCRUZ** 16 , **@MICHAELBLAND54** 16 , **@FOXNEWS** 15 , **@BARBWHALEN10** 14 , **@TERRYLOGUE** 13 , **@REAL_EDANGEROUS** 13 , **I’M** 12 , **CHINA** 11 , **CCP** 11 , **LOL** 10 , **YOU’RE** 10 , **@RWPUSA** 10 , 
+ 
+## What this user tweeted
+ 
+@thebleatingedge @DCarc @TerryLogue @adamconover @FoxNews I KNOW that China has been infiltrating America for a lon… https://t.co/RIWyKPz95i
+ 
+# WaqarSaleem1419USER INFO
+![image](http://pbs.twimg.com/profile_images/1345430760765976576/zcleim0I_normal.jpg)
+ 
+`User ScreenName:` WaqarSaleem1419 
+ 
+`User chosen Name:` Abu Haqīqah 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 02 17:44:14 +0000 2021 
+ 
+`User Description?:` Pursuit of the Obliteration of Ahl ash Shirk Wal Kufr Wal Bid'ah Wal Hawa Waz Zaygh War Ridda Wal Ilhad Waz Zanadaq Wal Libraliyah Wal Ilmaaniyyah Wal Munafiqun 
+ 
+`Followers?: `23 
+ 
+`Following?:` 117 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345430760765976576/zcleim0I_normal.jpg 
+ 
+`Number of tweets excluding replies:` 313 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 24 , **ALLAH** 23 , **THEN** 11 , **US** 9 , **NOR** 8 , **YES** 8 , **SOME** 8 , **SUNNAH** 7 , **KNOWLEDGE** 7 , **WHICH** 7 , **ANY** 7 , **WOMEN** 7 , **AL** 7 , **GO** 6 , **THINGS** 6 , **GOOD** 6 , **EVIL** 6 , **LIFE** 5 , **SHA** 5 , **LAST** 5 , 
+ 
+## What this user tweeted
+ 
+Uninterested in those who;
+
+Stalk
+Harass
+Abuse Vulnerabilities
+Gaslight Maliciously
+Do Sihr
+Give 3yn, Hasad
+Spread… https://t.co/g2zXI4nJmI
+ 
+# Arnabdey132USER INFO
+![image](http://pbs.twimg.com/profile_images/1345054808559001600/wFskTYPC_normal.jpg)
+ 
+`User ScreenName:` Arnabdey132 
+ 
+`User chosen Name:` Arnab Dey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Jan 01 06:15:22 +0000 2021 
+ 
+`User Description?:` Ambassador, Engineer, Developer, #Influencer, Columnist, Writer, Blogger, Photographer, #GoogleCertified #CES2021 #CS #AI #IoT #DigitalTransformation #5G 
+ 
+`Followers?: `546 
+ 
+`Following?:` 860 
+ 
+`User URL?:` https://t.co/bEgjcEV3Oi 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1345054808559001600/wFskTYPC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1650 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 37 , **@MASHABLE:** 21 , **NEW** 20 , **COULD** 18 , **VIA** 17 , **@RONALD_VANLOON:** 13 , **@WEF:** 11 , **2021** 11 , **CES2021** 10 , **BIGDATA** 10 , **TECH** 10 , **IOT** 8 , **DIGITAL** 8 , **TECHNOLOGY** 8 , **NEXT** 7 , **WHICH** 7 , **@DIGITALTRENDS:** 7 , **LEARN** 7 , **ARTIFICIALINTELLIGENCE** 7 , **@TECHINSIDER:** 7 , 
+ 
+## What this user tweeted
+ 
+RT @jupiterone_io: Quick! Take a close look. This is what your security program is trying to protect. Hard to determine possible vulnerabil…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
