@@ -29,9 +29,9 @@ The most popular user is: **likethecoins**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Would you like to learn more about how TIP can help you tackle your infrastructure’s vulnerabilities? Click on the… https://t.co/bVGpnByMz6 |
-| RT @threatintel: #ThreatProtection New version of #Amadey observed in-the-wild, read more: https://t.co/Ed7YIEZEua https://t.co/c5iYAhwwhT |
-| RT @reconshell: misp – A dashboard for a real-time overview of threat intelligence#ThreatIntelligence #ThreatIntel #misp #Hackinghttps:… |
+| RT @bad_packets: Mass scanning activity detected from 47.88.27.87 (🇺🇸) checking for SolarWinds Orion hosts vulnerable to CVE-2020-10148 (ht… |
+| RT @hostinfonet: 🔍WP Honeypot #1 | IP: 18.208.202.49    🗒️Abuse Report:     https://t.co/M9y75arQSL    #hacking #attempts #report #hon… |
+| SolarWinds Hack Lessons Learned: Finding the Next Supply Chain Attack https://t.co/eDSvHhV5eW by @EricParizo, senio… https://t.co/wqe10WOQQ1 |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **likethecoins**
 | #2 Most tweeted to  | **bad_packets** |
 | #3 Most tweeted to  | **RustySowers** |
 | NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 1.36%|
+| Tweeters with < 10 followers  | 1.27%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **likethecoins**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (28.57%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bad_packets: Mass scanning activity detected from 193.254.245.90 (🇺🇸) targeting Palo Alto GlobalProtect VPN servers. #threatintel |
+|RT @jfslowik: What is the purpose of #threatintel and should threat intelligence-specific concerns trump the need to support actual, front-… |
 
 ### MOST RETWEETED 
 
