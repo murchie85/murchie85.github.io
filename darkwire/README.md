@@ -304,3 +304,198 @@ When &amp; How
 `User Description?:` Business Made Easy
 Ideas, guides, and information to better your business.
 https://t.co/zzfACIt6aj 
+ 
+`Followers?: `17 
+ 
+`Following?:` 3 
+ 
+`User URL?:` https://t.co/HDV6ImLgs2 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1350569136167018497/Eosr-LvU_normal.png 
+ 
+`Number of tweets excluding replies:` 535 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BUSINESS** 99 , **ESSAY** 11 , **PAY** 11 , **SUCCESS** 11 , **MARKETING** 11 , **ENTREPRENEUR** 11 , **2021** 9 , **MONEY** 9 , **LAW** 9 , **ONLINE** 8 , **DUE** 8 , **…RT** 8 , **SALES** 8 , **FINANCE** 7 , **MAKE** 7 , **JOIN** 7 , **NEW** 7 , **BIOLOGY** 7 , **LEARN** 7 , **FREE** 7 , 
+ 
+## What this user tweeted
+ 
+RT @PasswordCoach: Browser isolation provides is a fail-safe for those organisations that already have an active program of cybersecurity t…
+ 
+# SendtoJeffSmithUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` SendtoJeffSmith 
+ 
+`User chosen Name:` Jeff Smith 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 19 18:15:58 +0000 2021 
+ 
+`User Description?:` IT, Networking, Penetration Testing, Programming 
+ 
+`Followers?: `1 
+ 
+`Following?:` 25 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HACKER** 2 , **@DAVIDBOMBAL** 1 , **@ITJUNKIE** 1 , **EXTREMELY** 1 , **USEFUL** 1 , **INFORMATION** 1 , **LEARNED** 1 , **LOTRT** 1 , **@DAVIDBOMBAL:** 1 , **EX-NSA** 1 , **TELLS** 1 , **US** 1 , **INTO** 1 , **HACKING!** 1 , **PATH** 1 , **BECOMING** 1 , **YOUTUBE:** 1 , **HTTPS://TCO/HX0ZMJRMZY…RT** 1 , **@ANGUSREDBLUE:** 1 , **CURRENTLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @davidbombal: Ex-NSA hacker tells us how to get into hacking! 
+
+This is the path to becoming a hacker.
+
+YouTube: https://t.co/HX0ZmjRMZy…
+ 
+# picknuppenniesUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` picknuppennies 
+ 
+`User chosen Name:` Picknuppennies 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 19 03:13:34 +0000 2021 
+ 
+`User Description?:` Penny Stocks R US 
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 7 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 7 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**✅** 5 , **$CEOS** 2 , **UPDATED** 2 , **COMEING** 2 , **NEW** 2 , **@CRABBERMIKE:** 2 , **$WRFX** 2 , **$UAPC** 2 , **RT** 1 , **@CINDERELLAMAN07:** 1 , **SHROOM** 1 , **PLAY** 1 , **ACTIVE** 1 , **TWITTER** 1 , **AFTER** 1 , **CURRENT** 1 , **SOON** 1 , **MANAGEME…RT** 1 , **PROOF** 1 , **FOLKS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @crabbermike: $WRFX Proof folks, that this monster Management team, with huge experience and connections, is about to tell the story. #C…
+ 
+# Chinmay42200135USER INFO
+![image](http://pbs.twimg.com/profile_images/1351966128977821697/-YxfUHxa_normal.jpg)
+ 
+`User ScreenName:` Chinmay42200135 
+ 
+`User chosen Name:` Chinmayee 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 20 18:50:28 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1351966128977821697/-YxfUHxa_normal.jpg 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HEPTAGONTECH:** 6 , **INFOGRAPHIC** 4 , **AI** 3 , **10** 2 , **DEVOPS** 2 , **IOT** 2 , **VIA** 2 , **DATASCIENCE** 2 , **&GT;&GT;&GT;** 2 , **RT** 1 , **CHECK** 1 , **THESE** 1 , **METRICS** 1 , **NODEJS** 1 , **SOFTWAREDEVELOPER** 1 , **KUBERNETES** 1 , **SOFTWAREDEVELO…RT** 1 , **MOVE** 1 , **CLOUDCOMPUTING?** 1 , **[** 1 , 
+ 
+## What this user tweeted
+ 
+RT @HeptagonTech: #IoT #Security Thread Map #Infographic
+Via @ingliguori #Analytics #AI #IIoT #DataScience #IoTPL #DigitalTransformation #C…
+ 
+# tamarapp28USER INFO
+![image](http://pbs.twimg.com/profile_images/1349425154208661504/B9x93yBK_normal.jpg)
+ 
+`User ScreenName:` tamarapp28 
+ 
+`User chosen Name:` tamarapp 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 13 17:56:40 +0000 2021 
+ 
+`User Description?:` out of boredom, i made this account😔 
+ 
+`Followers?: `2 
+ 
+`Following?:` 80 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 63 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1349425154208661504/B9x93yBK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 65 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AKU** 9 , **GAK** 7 , **INI** 6 , **ANAK** 5 , **HARI** 5 , **@SQUIDWARDFESS** 4 , **DI** 4 , **ADA** 4 , **@TWELVIFEBRINA** 4 , **BISA** 3 , **MAU** 3 , **YG** 3 , **BGT** 3 , **KASIH** 3 , **PERCAYA** 3 , **YANG** 3 , **KARENA** 3 , **BIKIN** 3 , **KLO** 2 , **UNTUK** 2 , 
+ 
+## What this user tweeted
+ 
+RT @truecolossus: @Phil_Lewis_ The basis of Cybersecurity really is......'ya'll talk too much'.
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
