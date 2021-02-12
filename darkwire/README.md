@@ -1275,4 +1275,450 @@ Greg Gutfeld compares Florida water supply hack to the Hawaii Missile launch &am
  
 ## User Top tweeted words 
  
-**@BUBL_Y** 58 , **@9S786** 48 , **@SH_KH98** 47 , **@_1RAJA** 44 , **TBZ** 44 , **@BSZRIH** 44 , **@US_NA1** 44 , **@IQ_RAR_** 44 , **@S_Z2O** 44 , **@MY7590** 44 , **@RAHEELZ** 44 , **@MLK_G1** 44 , **@K_A768** 44 , **@MLK_G2** 44 , **@MTR_HSN** 44 , **@LRBHUN** 41 , **سے** 35 , **💯🔁TEAM** 33 , **@H_FB_9** 31 , 
+**@BUBL_Y** 58 , **@9S786** 48 , **@SH_KH98** 47 , **@_1RAJA** 44 , **TBZ** 44 , **@BSZRIH** 44 , **@US_NA1** 44 , **@IQ_RAR_** 44 , **@S_Z2O** 44 , **@MY7590** 44 , **@RAHEELZ** 44 , **@MLK_G1** 44 , **@K_A768** 44 , **@MLK_G2** 44 , **@MTR_HSN** 44 , **@LRBHUN** 41 , **سے** 35 , **💯🔁TEAM** 33 , **@H_FB_9** 31 , **@ENDSOON_9** 29 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# _Crazy_Boy___USER INFO
+![image](http://pbs.twimg.com/profile_images/1357629673149247488/5Mv-Vuii_normal.jpg)
+ 
+`User ScreenName:` _Crazy_Boy___ 
+ 
+`User chosen Name:` Crazy boy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 02 13:19:11 +0000 2021 
+ 
+`User Description?:` Future mein admission lu ga school mein.. aur kuch???? I am a big enemy of Qadiyanis.. 
+ 
+`Followers?: `327 
+ 
+`Following?:` 541 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357629673149247488/5Mv-Vuii_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2162 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ہے** 33 , **کی** 30 , **سے** 29 , **کے** 29 , **میں** 25 , **کو** 23 , **@_CRAZY_BOY___:** 23 , **PRIDEOFPAKISTANALISADPARA** 22 , **اور** 21 , **کا** 18 , **@TEAMPAKISTANS** 17 , **نہیں** 16 , **تو** 16 , **کہ** 15 , **کر** 15 , **MAY** 15 , **پر** 13 , **نے** 12 , **ہم** 12 , **@AHK_47:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# NooriJerryUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359207131073945610/oaHbBXeY_normal.jpg)
+ 
+`User ScreenName:` NooriJerry 
+ 
+`User chosen Name:` Jerry Noori 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 05 00:15:33 +0000 2021 
+ 
+`User Description?:` We Are Best Friends. Always Remember That If You Fall I Will Pick You Up After I Finish Laughing.❤❤ 
+ 
+`Followers?: `38 
+ 
+`Following?:` 39 
+ 
+`User URL?:` None 
+ 
+`Location:` pakistan 
+ 
+`Number of tweets extracted`  : 197 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359207131073945610/oaHbBXeY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 400 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 66 , **سے** 58 , **کے** 55 , **ہے** 51 , **میں** 46 , **کو** 43 , **اور** 34 , **پر** 29 , **نے** 27 , **نہیں** 25 , **کا** 25 , **کسی** 21 , **تو** 20 , **ہیں** 19 , **کر** 19 , **اس** 18 , **وہ** 18 , **نہ** 18 , **اللہ** 17 , **آپ** 17 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# CrownlitStarUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359642429767360512/pQ3nz5vR_normal.jpg)
+ 
+`User ScreenName:` CrownlitStar 
+ 
+`User chosen Name:` StarlitCrown 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 18:17:08 +0000 2021 
+ 
+`User Description?:` 💒Blessedly engaged to💍@jbderek87.
+My Armor of God/🍇Fruits of the Spirit make a StarlitCrown! 👑
+Formerly @joyshiningstar 
+ 
+`Followers?: `103 
+ 
+`Following?:` 221 
+ 
+`User URL?:` None 
+ 
+`Location:` SoCal Patriot 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359642429767360512/pQ3nz5vR_normal.jpg 
+ 
+`Number of tweets excluding replies:` 493 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@TOOBIGFORYOU12** 9 , **TOO** 8 , **MANY** 7 , **NEW** 7 , **PEOPLE** 7 , **OLD** 6 , **GO** 6 , **NEED** 6 , **GETTING** 6 , **SOME** 6 , **SOCAL** 6 , **GOD** 6 , **LOT** 6 , **MASKS** 6 , **WHICH** 5 , **SYSTEM** 5 , **WEDDING** 5 , **ESPECIALLY** 5 , **WORLD** 5 , **ANOTHER** 5 , 
+ 
+## What this user tweeted
+ 
+Clearly the West Midlands Police Force Priorities and Vulnerabilities Team do not see the cost society pays when al… https://t.co/obOXK5AyrP
+ 
+# RakhshiNehalUSER INFO
+![image](http://pbs.twimg.com/profile_images/1358127681053876224/OMCLQBN9_normal.jpg)
+ 
+`User ScreenName:` RakhshiNehal 
+ 
+`User chosen Name:` رخشی 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 18:14:55 +0000 2021 
+ 
+`User Description?:` ‏‏آگہی کا در کھولو آگہی ضروری ہے 
+ 
+`Followers?: `322 
+ 
+`Following?:` 284 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358127681053876224/OMCLQBN9_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1797 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ہے** 69 , **کی** 67 , **کے** 59 , **سے** 55 , **کو** 48 , **میں** 47 , **اور** 36 , **نہیں** 35 , **کا** 33 , **ہیں** 30 , **کہ** 23 , **یہ** 23 , **اس** 22 , **پر** 22 , **نے** 20 , **بھی** 18 , **@DARAKHSHANR786:** 17 , **ایک** 17 , **ہو** 16 , **تو** 16 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# ft_ifbUSER INFO
+![image](http://pbs.twimg.com/profile_images/1357364817816862726/uAoygB68_normal.jpg)
+ 
+`User ScreenName:` ft_ifb 
+ 
+`User chosen Name:` 𝔃𝓪𝓶𝓪𝓷 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 04 15:57:09 +0000 2021 
+ 
+`User Description?:` |||||•|||•||||•••|||||||||••|||||
+|•|||| #z_b1 |||||||•|||||•||||
+|||||||•||•|||||•||||•|||||•|||•||
+𝒌𝒆𝒔𝒂 𝒅𝒊𝒂 𝒑𝒉𝒊𝒓 😎 
+ 
+`Followers?: `243 
+ 
+`Following?:` 251 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 195 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357364817816862726/uAoygB68_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1910 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 51 , **ہے** 50 , **کے** 49 , **سے** 46 , **میں** 42 , **کو** 41 , **اور** 34 , **کا** 31 , **نہیں** 25 , **کر** 24 , **کہ** 22 , **ہیں** 20 , **پر** 19 , **نے** 18 , **نہ** 17 , **بھی** 16 , **کسی** 16 , **ایک** 16 , **وہ** 15 , **تو** 15 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# jwlbraceUSER INFO
+![image](http://pbs.twimg.com/profile_images/1357040759992700935/Bk3t8urZ_normal.jpg)
+ 
+`User ScreenName:` jwlbrace 
+ 
+`User chosen Name:` James Brace 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 15:23:13 +0000 2021 
+ 
+`User Description?:` NEW ACCOUNT Food Development, Food Industry, Business and Tech. Gravel rides, mountain bikes and snowboards. Lib Dem member 🔶 
+ 
+`Followers?: `94 
+ 
+`Following?:` 235 
+ 
+`User URL?:` None 
+ 
+`Location:` Valencia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357040759992700935/Bk3t8urZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 261 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 10 , **THAN** 9 , **@BERNIESPOFFORTH** 9 , **REALLY** 8 , **BEING** 8 , **LOCKDOWN** 7 , **SOMEONE** 7 , **VACCINE** 6 , **STILL** 6 , **DON’T** 6 , **/** 5 , **SOME** 5 , **TIME** 5 , **HERE** 5 , **@JAMESMELVILLE:** 5 , **AREN’T** 5 , **@THATTIMWALKER** 5 , **@THENEWEUROPEAN** 5 , **@LAYLAMORAN** 5 , **OPEN** 5 , 
+ 
+## What this user tweeted
+ 
+@LPerrins I thought I understood the rationale for lockdowns last Spring: they bought time for Govs to analyse and… https://t.co/W8rUrBHdH2
+ 
+# Hirakha33USER INFO
+![image](http://pbs.twimg.com/profile_images/1358710123888320513/MHpwjBv1_normal.jpg)
+ 
+`User ScreenName:` Hirakha33 
+ 
+`User chosen Name:` 💎_HIRA KHAN_💎 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 09:07:17 +0000 2021 
+ 
+`User Description?:` #Muslim🕋#pakistani🇵🇰 #student📚#PAKArmy❤@ImranKhanPTI❤ I'm blessed and I thank God for every day for Everything that happens for me ❣ 
+ 
+`Followers?: `175 
+ 
+`Following?:` 138 
+ 
+`User URL?:` https://t.co/5o3oEwZxCO 
+ 
+`Location:` Mandi Bahauddin,  Pakistan  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358710123888320513/MHpwjBv1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 240 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کریں** 48 , **اور** 39 , **کو** 38 , **کا** 37 , **میں** 33 , **@SHAHKK14:** 31 , **NATIONPRAYSFORSADPARA** 31 , **@HIRAKHA33:** 24 , **PRIDEOFPAKISTANALISADPARA** 24 , **کے** 23 , **SADPARA** 23 , **فالو** 21 , **ہے** 20 , **مینشن** 18 , **ہیں** 17 , **ALI** 17 , **فالورز** 17 , **@ONCE_SAYS:** 15 , **سے** 15 , **ہو** 14 , 
+ 
+## What this user tweeted
+ 
+RT @once_says: #Indian Defence Analyst Abhijit Mitra talks about Su-30MKIs, how #Pakistan used jammers to restrict it's capabilities &amp; expl…
+ 
+# Christi41843050USER INFO
+![image](http://pbs.twimg.com/profile_images/1357022650472701952/bNScPOw__normal.jpg)
+ 
+`User ScreenName:` Christi41843050 
+ 
+`User chosen Name:` Christina 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 03 17:45:00 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `48 
+ 
+`Following?:` 197 
+ 
+`User URL?:` None 
+ 
+`Location:` Switzerland 
+ 
+`Number of tweets extracted`  : 194 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1357022650472701952/bNScPOw__normal.jpg 
+ 
+`Number of tweets excluding replies:` 196 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**MYANMAR** 32 , **MILITARY** 22 , **FIGHT** 22 , **COUP** 19 , **VOICE** 15 , **WHATISHAPPENINGINMYANMAR** 14 , **HEARTHEVOICEOFMYANMAR** 14 , **NEED** 12 , **FUTURE** 12 , **POLICE** 11 , **@YOURANONCENTRAL:** 11 , **HEAR** 11 , **HELP** 10 , **AGAINST** 10 , **RESPECTOURVOTES** 9 , **WHATSHAPPENINGINMYANMAR** 9 , **US** 9 , **SAVEMYANMAR** 9 , **AUNG** 8 , **PEOPLE** 8 , 
+ 
+## What this user tweeted
+ 
+RT @cyber: From counterfeit parts to legal risks, there are hundreds of #ICT supplier-related threats. @CISAgov’s latest report provides ov…
+ 
+# ent_apps_orgUSER INFO
+![image](http://pbs.twimg.com/profile_images/1356558070860689413/onneW0XP_normal.jpg)
+ 
+`User ScreenName:` ent_apps_org 
+ 
+`User chosen Name:` EnterpriseApplications.org - the Bot 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 02 10:39:59 +0000 2021 
+ 
+`User Description?:` Beep boop... I'm a bot! 
+ 
+`Followers?: `93 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1356558070860689413/onneW0XP_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13748 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**JOB** 74 , **LINK** 45 , **CLICK** 32 , **BIO** 32 , **BUSINESS** 29 , **RETAIL** 28 , **STORE** 22 , **LATEST** 21 , **JOBS** 19 , **DOLLAR** 17 , **WORK** 16 , **US** 16 , **HIRING** 15 , **SALES** 15 , **LOOKING** 14 , **OPENINGS** 13 , **INCLUDING** 13 , **VIA** 13 , **YOU'RE** 13 , **FOLLOW** 13 , 
+ 
+## What this user tweeted
+ 
+RT @michalmas: Studying #Security and #Hacking domains can be very amusing - read about #dirtycow and #stagefright vulnerabilities for mobi…
+ 
+# Lucia97790927USER INFO
+![image](http://pbs.twimg.com/profile_images/1358596861028945923/98a4y3kC_normal.jpg)
+ 
+`User ScreenName:` Lucia97790927 
+ 
+`User chosen Name:` Lucia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 08 02:01:12 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `3 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 8 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1358596861028945923/98a4y3kC_normal.jpg 
+ 
+`Number of tweets excluding replies:` 8 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@_TEALSWAN:** 5 , **OTHER** 3 , **EMOTIONAL** 2 , **SELVES** 2 , **NEVER** 2 , **FIND** 2 , **PEOPLE** 2 , **LOVE** 2 , **MOVIE** 2 , **EACH** 2 , **RT** 1 , **ADULTS** 1 , **STILL** 1 , **INNER** 1 , **CHILD** 1 , **GROW** 1 , **ALWAYS** 1 , **CHILDREN** 1 , **L…RT** 1 , **CONFUSE** 1 , 
+ 
+## What this user tweeted
+ 
+RT @_tealswan: When people are in defense mode, put your attention on caretaking their unsafety.  Really understanding their personal life…
+ 
+# BriceEbod1USER INFO
+![image](http://pbs.twimg.com/profile_images/1359563824509169665/tnB1th0x_normal.png)
+ 
+`User ScreenName:` BriceEbod1 
+ 
+`User chosen Name:` Brice Ebodé 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 10 18:03:52 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359563824509169665/tnB1th0x_normal.png 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@GIL_MAHE:** 5 , **VULNERABILITY** 5 , **COASTAL** 5 , **@HZAMIABDERRAOUF:** 4 , **و** 4 , **شمال** 3 , **في** 3 , **مصر** 3 , **تونس** 3 , **ALARMING** 3 , **NATURE** 3 , **SANDY** 3 , **BEACHES** 3 , **النمو** 2 , **العمراني** 2 , **السريع** 2 , **والسدود** 2 , **وراء** 2 , **تآكل** 2 , **شواطئ** 2 , 
+ 
+## What this user tweeted
+ 
+RT @nresearchnews: The extent of coastal vulnerabilities in the sandy beaches of North Africa is causing significant deterioration in coast…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
