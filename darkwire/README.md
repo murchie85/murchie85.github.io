@@ -1,20 +1,22 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "threatintel"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/threatintel/imageFile1.jpg)     <img width=200/> | ![image](assets/threatintel/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/threatintel/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **likethecoins**  
+The most popular user is: **YourAnonCentral**  
  
 
-## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
+## Anonymous has been supporting Myanmar since 2014 through #OpRohingya and #OpKachin [https://t.co/6dFjja84bP]. 
+
+We… https://t.co/76MsPL6Tsp 
 
   
 
@@ -23,24 +25,24 @@ The most popular user is: **likethecoins**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/threatintel/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JinibaBD: Apple will proxy Safe Browsing requests to hide iOS users' IP from Google  #CyberSec #infosec #Security #cybercrime #ThreatIn… |
-| RT @javier_carriazo: How scammers targeted Colorado's unemployment system -- and what the state is doing about it #CyberSec #infosec #Secur… |
-| RT @javier_carriazo: Google Chrome 88 Update Provides Important Fix for Zero-Day Vulnerability #CyberSec #infosec #Security #cybercrime #T… |
+| How to Avoid #Phishing Emails and Scams https://t.co/T3LACxDeZ5 via @wired#InfoSec #Security #CyberSecurity… https://t.co/AxlsL1ZM3O |
+| RT @rvp: I @rvp endorse this content@IoTCommunity rated me 2nd in #IoT #InternetOfThings@kcore_analytics rated me 12 in #QuantumComputi… |
+| RT @hsanchez128: New to the @SASCDems, @SenJackyRosen announced today that she will sit the Subcommittee on Airland, the Subcommittee on Cy… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JinibaBD** |
-| #2 Most tweeted to  | **javier_carriazo** |
-| #3 Most tweeted to  | **bad_packets** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 0.89%|
+| #1 Most tweeted to  | **Innovat78455398** |
+| #2 Most tweeted to  | **Paula_Piccard** |
+| #3 Most tweeted to  | **Eli_Krumova** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 2.16%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,108 +52,152 @@ The most popular user is: **likethecoins**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **CYBERSEC**  |
-| third  | **CYBERCRIME** |
-| fourth  | **THREATINTEL**  |
-| fifth  | **@JINIBABD:**  |
+| first  | **AI**  |
+| second  | **MACHINELEARNING**  |
+| third  | **IOT** |
+| fourth  | **100DAYSOFCODE**  |
+| fifth  | **PYTHON**  |
 
 
-## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (64.29%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @teamcymru_S2: Have #BokBot / #IcedID actors returned to work?February updates:178.128.121.85 (🇸🇬)austriarch[.]xyzconretullio[.]be… |
+|RT @ingliguori: #infographic: How to implement #CyberSecurity via @ingliguori #infosec #CISO #Security #IIoT #IoTPL #DataScience #DigitalTr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **likethecoins**  |
+| The most retweeted user is: **YourAnonCentral**  |
 | ------------- |
-| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
+| Anonymous has been supporting Myanmar since 2014 through #OpRohingya and #OpKachin [https://t.co/6dFjja84bP]. We… https://t.co/76MsPL6Tsp |
 
 # Potential Fake Accounts
  
-# securitykeeperUSER INFO
-![image](http://pbs.twimg.com/profile_images/1361241376650891265/EApyxHKF_normal.jpg)
+# CalefybTechUSER INFO
+![image](http://pbs.twimg.com/profile_images/1359858437165785089/WmqwnzK__normal.jpg)
  
-`User ScreenName:` securitykeeper 
+`User ScreenName:` CalefybTech 
  
-`User chosen Name:` The LighthouSec 🗼 
+`User chosen Name:` Calefyb 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Feb 15 09:00:22 +0000 2021 
+`User signup date?:` Wed Feb 10 13:50:03 +0000 2021 
  
-`User Description?:` We keep the survey. #Security #ThreatIntel #Malware #Vulnerabilities
-Maintained by @holychar 
+`User Description?:` One solution for all the software developer. 
+ 
+`Followers?: `129 
+ 
+`Following?:` 6 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1359858437165785089/WmqwnzK__normal.jpg 
+ 
+`Number of tweets excluding replies:` 15127 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PAY** 57 , **100DAYSOFCODE** 39 , **ESSAY** 39 , **DAY** 36 , **JAVASCRIPT** 32 , **SOMEONE** 27 , **PHYSICS** 24 , **ESSAYPAY** 24 , **HELP** 24 , **ESSAYHELP** 23 , **PYTHON** 22 , **ENGLISH** 20 , **ONLINE** 20 , **ASSIGNMENTS** 19 , **MATHS** 18 , **DUE** 18 , **CODING** 17 , **PROJECT** 16 , **ESSAYDUE** 16 , **DM** 15 , 
+ 
+## What this user tweeted
+ 
+RT @KevinClarity: A Brief History of Machine Learning - DATAVERSITY
+
+#Machinelearning #100DaysOfCode #IoT #IIoT #Bigdata #100DaysOfMLCode #…RT @Sirlupinwatson: What is #QuantumComputing Mini-Guide  
+
+https://t.co/SZKRXwusFr
+
+#MachineLearning #Python #NLP #Analytics #AI #100DaysO…RT @Paula_Piccard: Flying autonomous #robots that can pick fruits.
+
+#MachineLearning #Python #NLP #Analytics #AI #100DaysOfCode
+@mashable #…RT @arnold_smith1: TWC9: MSIgnite registration is open, Visual Studio Code 1.53, Azure Space Mystery Game,... https://t.co/BaQ00bbgvU via @…RT @thinksysinc: Want to know the #ML process? Here is an #infographic below.
+
+Check out the 5 Steps in the #MachineLearning process.
+
+#Pyt…RT @Innovat78455398: Your environment turns to #FPS game.  New type of #esports  #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode…RT @Innovat78455398: Removable heavy duty #chain. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearning #Airdrop
+#Clou…RT @Innovat78455398: Device converting body heat into electricity #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearnin…RT @Innovat78455398: First humanoid with full-body artificial skin. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearn…RT @Innovat78455398: This is the reason why you should use #powerwalls of #tesla. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode…RT @Innovat78455398: Browser history over the years. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearning #Airdrop
+#C…RT @Innovat78455398: #Future #tire goes like round. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearning #Airdrop
+#Cl…RT @Innovat78455398: Wheels gliding cars laterally. #DEVCommunity #Programming #IoT #IoTPL #AI
+#100DaysOfCode #MachineLearning #Airdrop
+#Cl…RT @KevinClarity: “Efficient Inference in Deep Learning — Where is the Problem?” 
+https://t.co/Hd3PB2gUgh
+
+#Machinelearning #100DaysOfCode…RT @KevinClarity: Statistical inference: learning in artificial neural networks - PubMed
+
+#Machinelearning #100DaysOfCode #IoT #IIoT #Bigda…RT @KevinClarity: “The Actual Difference Between Statistics and Machine Learning” by @MatthewPStewart
+https://t.co/XZiMJP5Lz8
+
+#Machinelear…RT @KevinClarity: “Causal vs. Statistical Inference” by @vlastelicap
+https://t.co/cWTucE5STh
+
+#Machinelearning #100DaysOfCode #IoT #IIoT #B…RT @KevinClarity: How Causal Inference Can Lead To Real Intelligence In Machines
+
+#Machinelearning #100DaysOfCode #IoT #IIoT #Bigdata #100D…RT @KevinClarity: “A Gentle Introduction To Math Behind Neural Networks” by @skdasaradh
+https://t.co/zJtRzzkXLX
+
+#Machinelearning #100DaysO…RT @KevinClarity: “Understanding the maths behind Neural Networks” by Valentina Alto
+https://t.co/LW9CbC6b2c
+
+#Machinelearning #100DaysOfCo…RT @KevinClarity: “Simplified Mathematics behind Neural Networks” by Shubham Dhingra
+https://t.co/whD8XqFOC7
+
+#Machinelearning #100DaysOfCo…RT @Eli_Krumova: Triangular Cross Relationship b/n #AI, #MachineLearning &amp; #DeepLearning
+https://t.co/f9fsbUPNjS
+
+#DevOps #Python #DataScie…RT @Eli_Krumova: Image Scrapping with #Python 
+👉🏽https://t.co/oq2R6T5feB
+v/ @boslerfabian
+
+#Google #Datascience #BigData #DataAnalytics #An…
+ 
+# thedavidcbaileyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1361841374581039105/wXe1MIkW_normal.jpg)
+ 
+`User ScreenName:` thedavidcbailey 
+ 
+`User chosen Name:` David C. Bailey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 16 22:13:00 +0000 2021 
+ 
+`User Description?:` Husband, Father, Follower, Leader. 
+Tech, Whiskey, Cigars, BBQ, Investing. 
+@davidcbailey on #clubhouseapp 
  
 `Followers?: `4 
  
-`Following?:` 96 
+`Following?:` 38 
  
-`User URL?:` None 
+`User URL?:` https://t.co/3ILBOwHs3F 
  
-`Location:`  
+`Location:` Frisco, TX 
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1361241376650891265/EApyxHKF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1361841374581039105/wXe1MIkW_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MALWARE** 4 , **AGENCY** 2 , **SANDWORM** 2 , **KOREA** 2 , **HACK** 2 , **FRENCH** 2 , **REPORT** 2 , **MICROSOFT** 2 , **DE** 2 , **INDICATORS** 2 , **EGREGOR** 2 , **RANSOMWARE** 2 , **@MALDATABASE:** 2 , **RT** 1 , **@SECURITYAFFAIRS:** 1 , **FRANCE** 1 , **ANSSI** 1 , **LINKS** 1 , **RUSSIA'S** 1 , **APT** 1 , 
- 
-## What this user tweeted
- 
-RT @maldatabase: Top malware families analyzed last week:
-
-1️⃣ #Emotet
-2️⃣ #AgentTesla
-3️⃣ #Remcos
-4️⃣ #NanoCore
-5️⃣ #LokiBot
-6️⃣ #IcedID…RT @maldatabase: #njRAT malware indicators.
-
-#Malware #ThreatIntelligence #threatintel #IOC
-
-https://t.co/TyTjyQFuWT
- 
-# HowardHugh12USER INFO
-![image](http://pbs.twimg.com/profile_images/1358617537332748294/ST49UmtM_normal.jpg)
- 
-`User ScreenName:` HowardHugh12 
- 
-`User chosen Name:` Howard Hugh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 08 03:22:54 +0000 2021 
- 
-`User Description?:` Is mandatory to work perfect. 
- 
-`Followers?: `2 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 91 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1358617537332748294/ST49UmtM_normal.jpg 
- 
-`Number of tweets excluding replies:` 91 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -159,139 +205,15 @@ https://t.co/TyTjyQFuWT
  
 ## User Top tweeted words 
  
-**AREA** 18 , **51** 17 , **THESE** 16 , **TEXAS** 14 , **EN** 13 , **FECHA** 13 , **MORATO** 11 , **SAME** 11 , **BOX** 10 , **BLACK** 9 , **NEED** 8 , **TRUMP** 8 , **KNOWN** 8 , **IVANKA** 7 , **ORGAN** 7 , **RECORDED** 7 , **VIA** 7 , **SAY** 7 , **HIRING** 7 , **USING** 7 , 
+**@HIBBSTER10** 2 , **@JASONWI12606404** 2 , **THANKS** 2 , **@MEETSLICK** 1 , **@SHADESOFCLOUD** 1 , **@NIGHTWORKERJS** 1 , **@CODENOVATION** 1 , **AWESOME!** 1 , **I'M** 1 , **GOING** 1 , **GIVE** 1 , **FOLLOW** 1 , **WATCH** 1 , **PLATF…** 1 , **HTTPS://TCO/ILAWSYLRPWREGARDLESS** 1 , **PARTY** 1 , **GOOD** 1 , **SOMEONE** 1 , **PROGRAMMING** 1 , **BACKGROUND** 1 , 
  
 ## What this user tweeted
  
-@threatintel I need work on my cellular my number 3854843388 now.
+Regardless of party, it is good to see someone with a programming background responsible for our #cybersecurity on… https://t.co/fdHExR44L3
  
-# Ishfaq28077329USER INFO
-![image](http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg)
+# whatdefookUSER INFO
+![image](http://pbs.twimg.com/profile_images/1360721593941524483/GxU-xfxX_normal.jpg)
  
-`User ScreenName:` Ishfaq28077329 
+`User ScreenName:` whatdefook 
  
-`User chosen Name:` Ishfaq 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Feb 08 17:43:47 +0000 2021 
- 
-`User Description?:` being human 
- 
-`Followers?: `5 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1358834155140775937/rnZghRuL_normal.jpg 
- 
-`Number of tweets excluding replies:` 535 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SCAM** 44 , **PLEASE** 41 , **CYBERSECURITY** 37 , **APP** 27 , **HELP** 26 , **THESHOPPERSSCAM** 22 , **MONEY** 22 , **BIG** 22 , **BIGSCAM** 21 , **@PMOINDIA** 21 , **US** 20 , **PEOPLE** 20 , **@KIFAYAT38469950:** 18 , **…RT** 17 , **VICTIM** 17 , **@CYBERPOLICEKMR** 17 , **CYBERCRIME** 16 , **SAVE** 16 , **@TAHIR_A** 16 , **THOUSANDS** 15 , 
- 
-## What this user tweeted
- 
-RT @hostinfonet: Starting a bump session! [Friday, February 12th, 12:22:13] Use hashtags #infosec, #osint, #phishing, #threatintel, #malwar…
- 
-# teamcymru_S2USER INFO
-![image](http://pbs.twimg.com/profile_images/1360224573543899137/SJCck0Wq_normal.jpg)
- 
-`User ScreenName:` teamcymru_S2 
- 
-`User chosen Name:` TEAM CYMRU - S2 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Feb 12 13:39:41 +0000 2021 
- 
-`User Description?:` Follow us for the latest IOCs and research from Team Cymru's (@teamcymru) own Threat Intelligence team - S2. 
- 
-`Followers?: `345 
- 
-`Following?:` 1 
- 
-`User URL?:` https://t.co/OQjBIlmV5C 
- 
-`Location:` Lake Mary, FL 
- 
-`Number of tweets extracted`  : 2 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1360224573543899137/SJCck0Wq_normal.jpg 
- 
-`Number of tweets excluding replies:` 2 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**US** 2 , **BOKBOT** 1 , **/** 1 , **ICEDID** 1 , **ACTORS** 1 , **RETURNED** 1 , **WORK?** 1 , **FEBRUARY** 1 , **UPDATES:** 1 , **17812812185** 1 , **(🇸🇬)** 1 , **AUSTRIARCH[]XYZ** 1 , **CONRETULLI…** 1 , **HTTPS://TCO/ISTPC9NB1JHELLO** 1 , **TWITTER!** 1 , **THREAT** 1 , **INTELLIGENCE** 1 , **TEAM** 1 , **@TEAMCYMRU** 1 , **CALL** 1 , 
- 
-## What this user tweeted
- 
-Have #BokBot / #IcedID actors returned to work?
-
-February updates:
-
-178.128.121.85 (🇸🇬)
-austriarch[.]xyz
-conretulli… https://t.co/IsTpc9Nb1JHello Twitter! We are the Threat Intelligence team of @teamcymru - they call us "S2". Follow us for collaboration,… https://t.co/rAXQiGetbm
- 
-# DudesCyberUSER INFO
-![image](http://pbs.twimg.com/profile_images/1360007592014188550/M9F2scr0_normal.jpg)
- 
-`User ScreenName:` DudesCyber 
- 
-`User chosen Name:` the cyber dudes 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 11 23:15:47 +0000 2021 
- 
-`User Description?:` We are a CyberSecurity blog site with arrivals written by students and professionals in the CyberSecurity industry. 
- 
-`Followers?: `3 
- 
-`Following?:` 45 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 68 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1360007592014188550/M9F2scr0_normal.jpg 
- 
-`Number of tweets excluding replies:` 68 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@THECYBERSECHUB:** 27 , **@BLEEPINCOMPUTER:** 16 , **MICROSOFT** 8 , **@THREATPOST:** 8 , **WINDOWS** 8 , **10** 7 , **SECURITY** 7 , **@LAWRENCEABRAMS** 7 , **USERS** 6 , **RANSOMWARE** 6 , **@SERGHEI** 5 , **HACKERS** 5 , **APP** 5 , **ATTACKS** 4 , **MOBILE** 4 , **COULD** 4 , **SCAMS** 4 , **UNPATCHED** 4 , **ANDROID** 4 , **DDOS** 3 , 
- 
-## What this user tweeted
- 
-RT @threatintel: In the most recent #CyberSecurity brief we are chatting about the #Emotet takedown, the #SolarWinds hack, #ransomware, and…
- 
-
-<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
-### CONCLUSION & EXTERNAL ANALYSIS
-
-*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
-Authors analytical summary on request.
-**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
+`User chosen Name:` Alley Stands9 
