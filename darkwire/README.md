@@ -1098,3 +1098,379 @@ suspended ‎@MHJAANPTI
 `Profile image:` http://pbs.twimg.com/profile_images/1363449679044747264/nqP0Jb3q_normal.jpg 
  
 `Number of tweets excluding replies:` 1017 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CROWMURDERDAY** 91 , **@IAF_MCC** 45 , **@AZAANTANOLI786:** 40 , **@SPOKESPERSONMOD** 27 , **INDIA** 27 , **@PROSHILLONG** 26 , **@DEFENCEPRO_GUJ** 26 , **AIR** 24 , **@PRODEFNGP** 23 , **PAKISTAN** 23 , **INDIAN** 22 , **@PRODEFENCEJAMMU** 18 , **@PRODEFKOLKATA…** 17 , **FORCE** 17 , **DAY** 10 , **CLAIMS** 9 , **CROW** 9 , **GENERAL** 9 , **MINISTER** 9 , **@MANTAHA9:** 8 , 
+ 
+## What this user tweeted
+ 
+RT @soldierspeaks: 26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the vulnerabilities of…RT @SaithIrfan4: 26 Feb 2019 was #CrowMurderDay when Balakot Strike by Indian Air Force led into exposing the vulnerabilities of Indian Arm…
+ 
+# JaguaraStyleUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362194989598470145/d8MezjFo_normal.jpg)
+ 
+`User ScreenName:` JaguaraStyle 
+ 
+`User chosen Name:` Rahman W 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 18 00:17:09 +0000 2021 
+ 
+`User Description?:` PAPA Model, computer security awareness,  I wanna build a yacht and sail the world. 
+ 
+`Followers?: `12 
+ 
+`Following?:` 83 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 26 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362194989598470145/d8MezjFo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 26 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**😆** 3 , **PRIVACY** 3 , **BUNGA** 3 , **IOS** 2 , **FOUND** 2 , **REACT** 2 , **SAME** 2 , **LAA** 2 , **DON’T** 2 , **TIME** 2 , **MASIH** 2 , **ANGGAP** 2 , **KAU** 2 , **WTH** 1 , **SOLARWIND123** 1 , **HTTPS://TCO/WSSGDRJXPRRT** 1 , **@MELTERIALSGAL:** 1 , **DIDN'T** 1 , **9-5** 1 , **JOB** 1 , 
+ 
+## What this user tweeted
+ 
+RT @lukOlejnik: Apple/Safari Intelligent Tracking Prevention is a mechanism intended to improve privacy. It was found to have privacy vulne…
+ 
+# peaceforpak1947USER INFO
+![image](http://pbs.twimg.com/profile_images/1364992061116731399/MuDh2bdK_normal.jpg)
+ 
+`User ScreenName:` peaceforpak1947 
+ 
+`User chosen Name:` Tea Lover 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 17:33:14 +0000 2021 
+ 
+`User Description?:` 27 Feb is coming...
+are you ready for A cup of Fantastic Tea????? 
+ 
+`Followers?: `120 
+ 
+`Following?:` 210 
+ 
+`User URL?:` None 
+ 
+`Location:` Pakistan 
+ 
+`Number of tweets extracted`  : 103 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364992061116731399/MuDh2bdK_normal.jpg 
+ 
+`Number of tweets excluding replies:` 103 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**کی** 25 , **کے** 21 , **میں** 20 , **سے** 15 , **کا** 13 , **بھی** 10 , **کو** 10 , **PAKISTAN** 9 , **ہیں** 9 , **پاکستان** 8 , **ہے** 7 , **نے** 7 , **کر** 7 , **ABHINANDAN** 7 , **نہیں** 6 , **ھے** 6 , **اور** 5 , **نہ** 5 , **و** 5 , **اللہ** 5 , 
+ 
+## What this user tweeted
+ 
+#CrowMurderDay
+26 Feb 2019 was #CrowMurderDay when #BalakotFarzicalStrike by Indian Air Force led into exposing the… https://t.co/ZdcC6H1XTX
+ 
+# xxmthasureUSER INFO
+![image](http://pbs.twimg.com/profile_images/1364619243782737920/LPlLsyTa_normal.jpg)
+ 
+`User ScreenName:` xxmthasure 
+ 
+`User chosen Name:` samantha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Feb 24 06:51:12 +0000 2021 
+ 
+`User Description?:` mom 
+ 
+`Followers?: `13 
+ 
+`Following?:` 22 
+ 
+`User URL?:` https://t.co/CfsKUpd48f 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 25 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364619243782737920/LPlLsyTa_normal.jpg 
+ 
+`Number of tweets excluding replies:` 25 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SLEEP** 3 , **FEEL** 2 , **I’M** 2 , **BABY** 2 , **NEED** 2 , **SOME** 2 , **BETTER** 2 , **GOOD** 2 , **RT** 1 , **@TWILIGHTREBORN:** 1 , **HTTPS://TCO/AHCWN1MVVPRT** 1 , **@THE_CINEMABLISS:** 1 , **SHIT** 1 , **BACK** 1 , **HTTPS://TCO/YXRZBVVAYZRT** 1 , **@CHANELDMA:** 1 , **OMG** 1 , **THERAPY** 1 , **FREE** 1 , **UK??** 1 , 
+ 
+## What this user tweeted
+ 
+RT @EkaliMusic: Can’t stress enough how careful you need to be with your inner circle and who you allow close to you. Some people only see…
+ 
+# RatnaSangeetaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1363735544732131328/hAQz_Cdo_normal.jpg)
+ 
+`User ScreenName:` RatnaSangeeta 
+ 
+`User chosen Name:` Sangeeta Ratna 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 22 06:15:36 +0000 2021 
+ 
+`User Description?:` #Spiritual, #ProudMom of 3, & an accredited #Homeopathy #doctor by profession!
+The mantra I believe - Take time to do what makes your soul happy! 
+ 
+`Followers?: `2 
+ 
+`Following?:` 14 
+ 
+`User URL?:` None 
+ 
+`Location:` India 
+ 
+`Number of tweets extracted`  : 28 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363735544732131328/hAQz_Cdo_normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AKANKSHATWEETS_:** 15 , **@PRAVIN_STERLITE:** 7 , **NEED** 6 , **CHILDREN** 4 , **ENERGY** 4 , **@HOMEOPATHYPLUS:** 3 , **DON’T** 3 , **FORGET** 3 , **BELIEVE** 3 , **POWER** 2 , **ADHD** 2 , **MUST** 2 , **TREES** 2 , **LE…RT** 2 , **US** 2 , **STRONG** 2 , **GOOD** 2 , **CRISIS** 2 , **HOMEOPATHY** 2 , **LET’S** 2 , 
+ 
+## What this user tweeted
+ 
+RT @anandmahindra: This is the power of Art: it can vividly capture—and facilitate the healing of—our vulnerabilities as humans... https://…
+ 
+# r3pwnxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1362269343325720582/m5YMqZOH_normal.jpg)
+ 
+`User ScreenName:` r3pwnx 
+ 
+`User chosen Name:` r3pwnx 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 18 04:08:00 +0000 2021 
+ 
+`User Description?:` iOS/macOS security||AI security||repwn everything 
+ 
+`Followers?: `4 
+ 
+`Following?:` 214 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1362269343325720582/m5YMqZOH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@ALBINOWAX:** 1 , **JSON** 1 , **INTEROPERABILITY** 1 , **VULNERABILITIES** 1 , **SOUND** 1 , **SOME** 1 , **SERIOUS** 1 , **BUG-BOUNTY** 1 , **POTENTIAL** 1 , **NICE** 1 , **WORK** 1 , **ONCE** 1 , **AGAIN** 1 , **@THEBU…RT** 1 , **@BUGSCHROMIUM:** 1 , **TFC** 1 , **CHROME** 1 , **FULL** 1 , **CHAIN** 1 , 
+ 
+## What this user tweeted
+ 
+RT @albinowax: JSON Interoperability vulnerabilities sound like they have some serious bug-bounty potential. Nice work once again by @theBu…
+ 
+# GauriSh19466606USER INFO
+![image](http://pbs.twimg.com/profile_images/1364864724345655298/VjeN_FSW_normal.jpg)
+ 
+`User ScreenName:` GauriSh19466606 
+ 
+`User chosen Name:` G dawg 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Feb 25 05:50:58 +0000 2021 
+ 
+`User Description?:` Absurdist journalism.
+Ever confused and a disappointed perfectionist.
+I talk in metaphors js. 
+ 
+`Followers?: `22 
+ 
+`Following?:` 185 
+ 
+`User URL?:` https://t.co/gnPH7OOixp 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 191 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364864724345655298/VjeN_FSW_normal.jpg 
+ 
+`Number of tweets excluding replies:` 191 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MENTOOSAVE** 28 , **@GAURISHARMAAAA:** 21 , **@KIMKARDASHIAN** 17 , **@GAURISHARMA2121** 17 , **WOMEN** 13 , **MEN** 9 , **NEED** 9 , **GOOD** 7 , **YES** 7 , **DON'T** 6 , **DOWN** 6 , **@GAURISHARMAAAA** 6 , **LAWS** 5 , **POWER** 5 , **LET** 5 , **WORK** 5 , **THAN** 5 , **BETWEEN** 4 , **WEAR** 4 , **THAT'S** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Mocana: AI already has been deployed to defend against #cyberattack. Security experts worry it is only a matter of time before #AI is c…
+ 
+# Nineteen8OFourUSER INFO
+![image](http://pbs.twimg.com/profile_images/1364302407182745608/-Z8qhLzc_normal.jpg)
+ 
+`User ScreenName:` Nineteen8OFour 
+ 
+`User chosen Name:` Claudia 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Feb 21 15:59:42 +0000 2021 
+ 
+`User Description?:` I follow no crowds, movements or creeds, I follow facts & reality (the kind that it's palpable & provable)  Pronouns: Gib/Ber/Ish 
+ 
+`Followers?: `30 
+ 
+`Following?:` 88 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364302407182745608/-Z8qhLzc_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1268 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMEN** 27 , **PEOPLE** 20 , **MEN** 14 , **GENDER** 14 , **WOMAN** 11 , **SEX** 10 , **TRANS** 10 , **MALE** 10 , **BEING** 9 , **SOME** 9 , **MALES** 9 , **WHERE** 8 , **MUST** 7 , **US** 7 , **MOST** 7 , **INTO** 7 , **@EBKWRITER** 7 , **@SOCIALISTDOGMOM** 7 , **WHICH** 6 , **NEEDS** 6 , 
+ 
+## What this user tweeted
+ 
+I know from first experience that the act of gaslighting is overused against me as a predatory tactic due to my vul… https://t.co/c2GTpbOSCs
+ 
+# Sultan72043728USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Sultan72043728 
+ 
+`User chosen Name:` Sultan 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 22 11:01:00 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 104 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 104 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ERITREA** 48 , **TPLF** 32 , **EU** 22 , **ETHIOPIA** 22 , **ITS** 11 , **Z** 9 , **PEACE** 9 , **HORN** 9 , **TIGRAY** 8 , **@HAAVISTO** 8 , **@AMNESTYEARO** 8 , **AGAINST** 7 , **FAKE** 7 , **PEOPLE** 7 , **@HADNETKELETA:** 7 , **@AMNESTY** 7 , **ERITREAN** 7 , **@GHIDEWON:** 7 , **CAMPAIGN** 6 , **INTERNATIONAL** 6 , 
+ 
+## What this user tweeted
+ 
+RT @Hagereritrea: #Eritrea ns know z TPLF Junta well. We know zer psychological &amp; sociological makeup. Zes Junta thugs &amp; zer followers who…
+ 
+# hevey_andyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1363680537651515393/Zx4rn1rs_normal.jpg)
+ 
+`User ScreenName:` hevey_andy 
+ 
+`User chosen Name:` Andy Hevey 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Feb 22 02:39:16 +0000 2021 
+ 
+`User Description?:` Engineer focused on electric transmission, distribution, and policy. Experienced in TX but curious about the world. Opinions are my own, retweets=/=endorsements 
+ 
+`Followers?: `11 
+ 
+`Following?:` 118 
+ 
+`User URL?:` None 
+ 
+`Location:` Houston, TX 
+ 
+`Number of tweets extracted`  : 77 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1363680537651515393/Zx4rn1rs_normal.jpg 
+ 
+`Number of tweets excluding replies:` 77 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TEXAS** 15 , **POWER** 12 , **MARKET** 11 , **ERCOT** 11 , **PUC** 9 , **@DOUGLEWINENERGY:** 8 , **GRID** 7 , **SOME** 7 , **PRICES** 7 , **GAS** 7 , **WEEK** 6 , **ENERGY** 5 , **NATURAL** 5 , **REAL** 4 , **TX** 4 , **MUCH** 4 , **WHICH** 4 , **SYSTEM** 4 , **OUTAGES** 4 , **GOING** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Earthworks: “That so much of Texas’ energy supply can fail at once reflects the unique vulnerabilities of natural gas.” Professors @coh…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
