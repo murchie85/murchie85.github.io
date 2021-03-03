@@ -11,10 +11,10 @@
  
 ![image](assets/threatintel/TWEETS.png)
 <br></br>
-The most popular user is: **likethecoins**  
+The most popular user is: **Volexity**  
  
 
-## New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O 
+## Volexity has identified multiple 0-day exploits in Microsoft Exchange resulting in authentication bypass and RCE. A… https://t.co/pJzLbZol64 
 
   
 
@@ -29,9 +29,9 @@ The most popular user is: **likethecoins**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @xorlogics: Threat Intelligence: Combatting Cyber Crime with Artificial Intelligence #CLOUD #IOT #AI #ARTIFICIALINTELLIGENCE #DIGITAL, #… |
-| RT @JinibaBD: Google shares PoC exploit for critical Windows 10 Graphics RCE bug #CyberSec #infosec #Security #cybercrime #ThreatIntel #hac… |
-| Threat Actors keep using COVID-19 issues in cyber world #APT #ThreatIntel #Malware https://t.co/Di7bPid2H6 |
+| RT @CtacPaladion: [BREACH] European e-ticketing platform Ticketcounter extorted in #data breachTo read more visit: https://t.co/0I0E0sshbb… |
+| RT @JinibaBD: Critical VMware vCenter Server Flaw Can Expose Organizations to Remote Attacks #CyberSec #infosec #Security #cybercrime #Thre… |
+| RT @RakeshKrish12: #ZombieBot v13 is lurking around since April 2020 on #DarkWeb! You can find more infohttps://t.co/Jx3qoRNDE8Per,Edu… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **likethecoins**
 | #2 Most tweeted to  | **Volexity** |
 | #3 Most tweeted to  | **javier_carriazo** |
 | NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 1.23%|
+| Tweeters with < 10 followers  | 1.32%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -50,8 +50,8 @@ The most popular user is: **likethecoins**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THREATINTEL**  |
-| second  | **INFOSEC**  |
+| first  | **INFOSEC**  |
+| second  | **THREATINTEL**  |
 | third  | **CYBERSEC** |
 | fourth  | **CYBERCRIME**  |
 | fifth  | **@JINIBABD:**  |
@@ -60,7 +60,7 @@ The most popular user is: **likethecoins**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (30.77%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
@@ -69,9 +69,9 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJE
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **likethecoins**  |
+| The most retweeted user is: **Volexity**  |
 | ------------- |
-| New blog post! I'm often asked about getting started in #threatintel, so I compiled my perspectives. Featuring care… https://t.co/P3U7xHsz6O |
+| Volexity has identified multiple 0-day exploits in Microsoft Exchange resulting in authentication bypass and RCE. A… https://t.co/pJzLbZol64 |
 
 # Potential Fake Accounts
  
