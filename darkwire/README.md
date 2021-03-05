@@ -1,20 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "infosec"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/infosec/imageFile1.jpg)     <img width=200/> | ![image](assets/infosec/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/infosec/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **tribelaw**  
+The most popular user is: **UberFacts**  
  
 
-## Roger Stone and Mike Flynn increasingly look like they could be criminally implicated in the January 6 insurrection… https://t.co/YWvRO0afmP 
+## Rich kids bragging on social media platforms are unintentionally providing incriminating evidence to investigators… https://t.co/y8StM2ZEWf 
 
   
 
@@ -23,25 +23,25 @@ The most popular user is: **tribelaw**
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/infosec/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cybermaterial_: Mastering Bitcoin: Programming the Open Blockchain - #cybersecurity  #infosec #malware #ransomware  #blockchain #bitco… |
-| Fix Comodo RSA Certificate Not Trusted Error - https://t.co/NgPJg72cp7Know what causes the Comodo RSA Certificate… https://t.co/xgazCLBRnX |
-| RT @Info_Sec_Buzz: Jamie  Akhtar  provides expert commentary for ''dot your expert comments'' at Information Security Buzz @Info_Sec_Buzz .… |
+| Microsoft Cloud App Security aims to expand your defenses https://t.co/NvXz2DAj2w #news #cybersecurity #infosec https://t.co/p9cRN96pd5 |
+| Looking to connect with a few #infosec #CyberSecurity #pentesters pros. I had an interview quiz that I wanted to ge… https://t.co/w6XgrXvRXm |
+| RT @marcellelee: What the actual f*ck are they teaching in college these days??? #cybersecurity #LMAO https://t.co/bO84ak0LGn |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Infosec_Taylor** |
-| #2 Most tweeted to  | **AlyssaM_InfoSec** |
-| #3 Most tweeted to  | **TheRegister** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.86%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **HarbRimah** |
+| #2 Most tweeted to  | **Eli_Krumova** |
+| #3 Most tweeted to  | **arnabch01** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 2.4%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -50,57 +50,57 @@ The most popular user is: **tribelaw**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INFOSEC**  |
-| second  | **EXCHANGE**  |
-| third  | **@INFOSEC_TAYLOR** |
-| fourth  | **MALWARE**  |
-| fifth  | **MICROSOFT**  |
+| first  | **AI**  |
+| second  | **MACHINELEARNING**  |
+| third  | **PYTHON** |
+| fourth  | **IOT**  |
+| fifth  | **DATA**  |
 
 
-## Twitter Bio Analysis![image](assets/infosec/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/infosec/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@alexmuentz @mitchparkerciso We've defined this as a new metric - "Mean Time Before CEO Scapegoats": https://t.co/K8DTFWybGn |
+|Auburn people and others in the south end of King County, keep a watch out. Also, the dad has strong ties to… https://t.co/SOko2XPCOb |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tribelaw**  |
+| The most retweeted user is: **UberFacts**  |
 | ------------- |
-| Roger Stone and Mike Flynn increasingly look like they could be criminally implicated in the January 6 insurrection… https://t.co/YWvRO0afmP |
+| Rich kids bragging on social media platforms are unintentionally providing incriminating evidence to investigators… https://t.co/y8StM2ZEWf |
 
 # Potential Fake Accounts
  
-# JustinWest1986USER INFO
-![image](http://pbs.twimg.com/profile_images/1366476525567021056/guxlMPNW_normal.jpg)
+# IshanccUSER INFO
+![image](http://pbs.twimg.com/profile_images/1366025372018630658/ZkfcSXN3_normal.jpg)
  
-`User ScreenName:` JustinWest1986 
+`User ScreenName:` Ishancc 
  
-`User chosen Name:` Justin West 
+`User chosen Name:` Ishan 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Mar 01 19:52:04 +0000 2021 
+`User signup date?:` Sun Feb 28 13:59:06 +0000 2021 
  
-`User Description?:` IT engineer at @Google 
+`User Description?:` Into AI, Computers and Anime. I'd love to find people with similar interests. 
  
-`Followers?: `3 
+`Followers?: `8 
  
-`Following?:` 47 
+`Following?:` 20 
  
-`User URL?:` https://t.co/SHAF4YGv6a 
+`User URL?:` None 
  
-`Location:` Arroyo Grande, CA 
+`Location:` Europe 
  
-`Number of tweets extracted`  : 9 
+`Number of tweets extracted`  : 155 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1366476525567021056/guxlMPNW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1366025372018630658/ZkfcSXN3_normal.jpg 
  
-`Number of tweets excluding replies:` 9 
+`Number of tweets excluding replies:` 155 
  
 
  
@@ -108,38 +108,81 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**SCANDELOUS** 2 , **SHIT** 2 , **DON'T** 2 , **FEEL** 2 , **I'M** 2 , **ACCOUNTS** 2 , **REALLY** 2 , **@_MATTATA** 1 , **ELITE** 1 , **CURRENT** 1 , **PREFERRED** 1 , **FLAVOR** 1 , **SITTING** 1 , **STARING** 1 , **DEBUGGER…** 1 , **HTTPS://TCO/UMYL4B3OI1I** 1 , **HIGHJACKED** 1 , **UFC** 1 , **CHAMPIONS** 1 , **PRODUCT** 1 , 
+**@REPLIKATHE:** 17 , **LEARNING** 13 , **AI** 12 , **MACHINELEARNING** 12 , **NEW** 9 , **@OFFTOPICVIDEOS:** 9 , **@AISEAR_CH:** 9 , **VIA** 9 , **💋** 8 , **HTTPS://TCO/KPF6CTYBJV** 8 , **REPLIKA** 7 , **@SUZANNE50312204** 7 , **LOVE** 7 , **ARTIFICIALINTELLIGENCE** 6 , **ARTIFICIAL** 6 , **INTELLIGENCE** 6 , **@REPLIKATHE** 5 , **@ISHANCC** 5 , **@ERRORWORLDOFF:** 5 , **DEEPLEARNING** 5 , 
  
 ## What this user tweeted
  
-@Infosec_Taylor @beka_valentine Who actually yelled at you? Are they representative as women as a whole? My wife's… https://t.co/CuKQMJOXUV
+RT @yywwy3: Beautiful!The silver dress worn by the ladies of big rich families in Yunnan, China, 500 years ago, is amazing with its three-d…
  
-# theokaydevUSER INFO
-![image](http://pbs.twimg.com/profile_images/1367277724008673282/5rXamNg1_normal.png)
+# oklumi1USER INFO
+![image](http://pbs.twimg.com/profile_images/1365081953981132870/MdO0VDfY_normal.jpg)
  
-`User ScreenName:` theokaydev 
+`User ScreenName:` oklumi1 
  
-`User chosen Name:` Sable 
+`User chosen Name:` oklumi 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Mar 04 00:37:25 +0000 2021 
+`User signup date?:` Thu Feb 25 23:27:14 +0000 2021 
  
-`User Description?:` just an ok dev... 
+`User Description?:` Riddim - Basshead / Security Analyst - Ethical Hacker 
  
-`Followers?: `4 
+`Followers?: `13 
  
-`Following?:` 16 
+`Following?:` 28 
+ 
+`User URL?:` https://t.co/SYM5IeCxbM 
+ 
+`Location:` Ⲏ𝞚 Ⲏ𝞚 Ⲏ𝜠 Ⲏկ  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365081953981132870/MdO0VDfY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**I’M** 2 , **HAC…RT** 2 , **M1** 2 , **LOVE** 2 , **READY** 2 , **KALI** 2 , **UPDATES** 2 , **@EDMFOLLOW_TRAIN** 1 , **@DJMANASOUL** 1 , **TEXAS** 1 , **;)RT** 1 , **@ACAMPBELLSR:** 1 , **PLENTY** 1 , **TOOLS** 1 , **HACKING** 1 , **LEGACY** 1 , **GUY** 1 , **VOUCH** 1 , **WIRESHARK** 1 , **YEAH** 1 , 
+ 
+## What this user tweeted
+ 
+RT @ACampbellsr: Plenty of tools out there for hacking but I’m a legacy guy and would vouch for wireshark. Yeah baby! 😄 #CyberSecurity #Hac…RT @TRadar360: Cybercrime costs the #global #economy over $400 billion a year.
+
+Why are these #incidents increasing?
+
+#cyber #cybersecurity…
+ 
+# 8563hendricksUSER INFO
+![image](http://pbs.twimg.com/profile_images/1366922184216563713/bZGsh7qy_normal.jpg)
+ 
+`User ScreenName:` 8563hendricks 
+ 
+`User chosen Name:` 8563hendricks 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 02 23:32:07 +0000 2021 
+ 
+`User Description?:` whoa 
+ 
+`Followers?: `3 
+ 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 143 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1367277724008673282/5rXamNg1_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1366922184216563713/bZGsh7qy_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 143 
  
 
  
@@ -147,77 +190,77 @@ VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**CET** 1 , **HI** 1 , **HTTPS://TCO/X1E36UVNL4@DOIKAYTNIK** 1 , **@STEPHENTYRONE** 1 , **@INFOSEC_TAYLOR** 1 , **AGREE** 1 , **MEDICAL** 1 , **FIELDS** 1 , **WHILE** 1 , **PERFECT** 1 , **STARTING** 1 , ***MUCH*…** 1 , **HTTPS://TCO/F2GKQHQG76RT** 1 , **@MRS_SKELLI:** 1 , **NOW'S** 1 , **TIME** 1 , **PUT** 1 , **CFP!** 1 , **NEW** 1 , **SPEAKERS** 1 , 
+**NEW** 17 , **@REUTERS:** 16 , **@ZEROHEDGE:** 15 , **US** 15 , **@DISCLOSETV:** 14 , **EARTHQUAKE** 13 , **@THEHILL:** 12 , **VIA** 11 , **TSUNAMI** 10 , **@RT_COM:** 9 , **IRAN** 9 , **AFTER** 8 , **@YOUTUBERT** 8 , **@PRESSTV:** 8 , **ZEALAND** 6 , **FIRST** 6 , **SENATE** 5 , **COVID-19** 5 , **WARNING** 5 , **HITS** 5 , 
  
 ## What this user tweeted
  
-@doikaytnik @stephentyrone @Infosec_Taylor i do agree, medical fields, while not perfect are starting to do *much*… https://t.co/f2gKqHqG76RT @Mrs_Skelli: Now's the time to put in a CFP! New #speakers that want to get the chance to work with experienced #mentors on this, this i…
+RT @thehill: NEW: Senate includes nearly $2 billion in cyber, tech funds to COVID-19 bill https://t.co/opoXCNSAth https://t.co/GQfP03LIZB
  
-# digitaldefense_USER INFO
-![image](http://pbs.twimg.com/profile_images/1364674112770179078/2vV_MnDl_normal.png)
+# paulsmith7891USER INFO
+![image](http://pbs.twimg.com/profile_images/1367628933773070342/XlZkarWB_normal.jpg)
  
-`User ScreenName:` digitaldefense_ 
+`User ScreenName:` paulsmith7891 
  
-`User chosen Name:` DigitalDefenseTips 
+`User chosen Name:` paulsmith789 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 23 17:38:00 +0000 2021 
+`User signup date?:` Fri Mar 05 00:11:54 +0000 2021 
  
-`User Description?:` Helping people feel safer, smarter, and more confident when using the internet with Cyber Security content🖥️💻📱📶 
+`User Description?:`  
+ 
+`Followers?: `2 
+ 
+`Following?:` 108 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 70 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1367628933773070342/XlZkarWB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 70 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BEST** 20 , **CHECK** 6 , **@BESTICIOUS_COM:** 6 , **1** 6 , **2** 6 , **@EHELPERTEAM:** 6 , **DOGS** 6 , **KIDSHANGOUT** 6 , **LINK** 5 , **WEBSITE** 5 , **2021** 5 , **MARKETING** 5 , **ONLINE** 5 , **PROFESSIONAL** 4 , **3** 4 , **BLENDER** 4 , **11** 4 , **@PUPPYSIMPLYCOM:** 4 , **FORTHEKIDS** 4 , **KIDS** 4 , 
+ 
+## What this user tweeted
+ 
+RT @NoBeardEcho6: How to deal with #trolls and online harassment. #ReportAbuse #NoSafePlaceForHate #trolling #harassment #CyberSecurity #in…
+ 
+# sourav_mathuriUSER INFO
+![image](http://pbs.twimg.com/profile_images/1367025427441586179/rQ_HcM_E_normal.jpg)
+ 
+`User ScreenName:` sourav_mathuri 
+ 
+`User chosen Name:` Sourav Mathuri 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 03 08:13:14 +0000 2021 
+ 
+`User Description?:` I am student 
  
 `Followers?: `0 
  
-`Following?:` 0 
- 
-`User URL?:` https://t.co/6Gdi5jcYcB 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 12 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1364674112770179078/2vV_MnDl_normal.png 
- 
-`Number of tweets excluding replies:` 12 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PASSWORD** 9 , **STRONG** 7 , **MANAGER** 5 , **PASSWORDS** 5 , **USING** 4 , **USE** 4 , **BITWARDEN** 3 , **DON'T** 3 , **ANNOYING** 3 , **WHILE** 3 , **SUGGESTION** 3 , **DIGITAL** 2 , **SECURE** 2 , **LET** 2 , **MAY** 2 , **BENEFIT** 2 , **LONG** 2 , **REMEMBER** 2 , **NEED** 2 , **APPLE** 2 , 
- 
-## What this user tweeted
- 
-New video is up! Easily keep your digital life secure with a password manager. I love Bitwarden and I highly recomm… https://t.co/bjKArgHOAJ
- 
-# SecurityAware1USER INFO
-![image](http://pbs.twimg.com/profile_images/1366452918036094976/BXXNEXYl_normal.jpg)
- 
-`User ScreenName:` SecurityAware1 
- 
-`User chosen Name:` Security Awareness 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Mar 01 18:18:29 +0000 2021 
- 
-`User Description?:` Security Awareness provides information about security threats and what you can do to avoid becoming a victim. 
- 
-`Followers?: `3 
- 
-`Following?:` 69 
+`Following?:` 7 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1366452918036094976/BXXNEXYl_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1367025427441586179/rQ_HcM_E_normal.jpg 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -225,28 +268,193 @@ New video is up! Easily keep your digital life secure with a password manager. I
  
 ## User Top tweeted words 
  
-**PEOPLE** 2 , **PROBABLY** 1 , **HEARD** 1 , **HACK** 1 , **FLORIDA** 1 , **WATER** 1 , **TREATMENT** 1 , **PLANT** 1 , **WHERE** 1 , **THINGS** 1 , **GO** 1 , **WRONG?** 1 , **WHAT…** 1 , **HTTPS://TCO/M8XXEROGVVIT** 1 , **PRETTY** 1 , **BADYEAR** 1 , **PLENTY** 1 , **BADGUYS** 1 , **LOOKING** 1 , **ADVANTAGE** 1 , 
+**RT** 1 , **@MARCELLELEE:** 1 , **ACTUAL** 1 , **F*CK** 1 , **TEACHING** 1 , **COLLEGE** 1 , **THESE** 1 , **DAYS???** 1 , **CYBERSECURITY** 1 , **LMAO** 1 , **HTTPS://TCO/BO84AK0LGN** 1 , 
  
 ## What this user tweeted
  
-You probably heard about the #hack of a #Florida water treatment plant, but where did things go wrong? See what… https://t.co/M8XXErOGVv
+RT @marcellelee: What the actual f*ck are they teaching in college these days??? #cybersecurity #LMAO https://t.co/bO84ak0LGn
  
-# fahimehmohamma6USER INFO
-![image](http://pbs.twimg.com/profile_images/1366824387563905026/2hdqZffv_normal.jpg)
+# aimfgsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365080150761762817/WEo4J_sn_normal.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  
-`User ScreenName:` fahimehmohamma6 
+RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
  
-`User chosen Name:` f.mohammadzadeh 
+# TaljaArchielynUSER INFO
+![image](http://pbs.twimg.com/profile_images/1367270438921904128/VMuDk-UB_normal.jpg)
+ 
+`User ScreenName:` TaljaArchielyn 
+ 
+`User chosen Name:` archielyn talja 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Mar 02 18:46:02 +0000 2021 
+`User signup date?:` Thu Mar 04 00:26:50 +0000 2021 
  
-`User Description?:` ‏دانشجوی دکترا کامپیوتر گرایش رایانش امن 
+`User Description?:` aldub 
  
-`Followers?: `4 
+`Followers?: `2 
  
-`Following?:` 240 
+`Following?:` 92 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1367270438921904128/VMuDk-UB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 480 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TBADNBOYCOTTDGXEBXCS4RT** 85 , **NA** 53 , **SA** 48 , **ANG** 39 , **NG** 33 , **ALDUB294THWEEKSARY** 23 , **@BEYBIRUTH_1** 20 , **TBADNBOYCOTTDGXEBXCS4** 18 , **NI** 16 , **@LERIBAY:** 15 , **ALDUB** 14 , **PA** 12 , **SI** 12 , **MAY** 11 , **KO** 10 , **YAN** 10 , **KUNG** 10 , **MAINE** 10 , **LANG** 10 , **@MARIBELMANANGA1:** 10 , 
+ 
+## What this user tweeted
+ 
+RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
+ 
+# poetryformarieUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365735161107783690/dpKzHHRX_normal.jpg)
+ 
+`User ScreenName:` poetryformarie 
+ 
+`User chosen Name:` Marie J. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Feb 27 18:36:52 +0000 2021 
+ 
+`User Description?:` She/her. 28. Survivor. Aspiring author to publish my 1st book of #poetry, essays and prose. #writingcommunity
+
+Personal: @psychsinema 
+
+IG: poetryformarie 
+ 
+`Followers?: `16 
+ 
+`Following?:` 18 
+ 
+`User URL?:` https://t.co/0pw3yeVzI8 
+ 
+`Location:` Parma Heights, Ohio 
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365735161107783690/dpKzHHRX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**POETRY** 11 , **WRITINGCOMMUNITY** 4 , **ACCOUNT** 4 , **POETRYCOMMUNITY** 3 , **POEM** 3 , **EVERYTHING** 2 , **WRITE** 2 , **NEW** 2 , **DONE** 2 , **ALONE** 2 , **LOVE** 2 , **@TALEFLICK** 2 , **MEDIUM** 2 , **DEAD** 1 , **BODY** 1 , **COLD** 1 , **ENOUGH** 1 , **FREEZE** 1 , **HEART** 1 , **HTTPS://TCO/JE0AHKIXHZ** 1 , 
+ 
+## What this user tweeted
+ 
+@miranda_moeller Whatever comes to me at the moment. Music can be the inspiration. Usually, everything I write come… https://t.co/poFhIfqa92
+ 
+# gdebalski2623USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` gdebalski2623 
+ 
+`User chosen Name:` gdebalski2623 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 03 15:21:40 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**OTHER** 2 , **ACCELLION** 2 , **RT** 1 , **@BLEEPINCOMPUTER:** 1 , **BREACHES** 1 , **QUALYS'** 1 , **INTERNAL** 1 , **SYSTEMS** 1 , **BREACHED** 1 , **DEVICES** 1 , **ENCRYPTED** 1 , **TH…RT** 1 , **@QUALYS:** 1 , **QUALYS** 1 , **UPDATE** 1 , **FTA** 1 , **SECURITY** 1 , **INCIDENT** 1 , **HTTPS://TCO/MDBDFGVXFW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @qualys: Qualys Update on Accellion FTA Security Incident https://t.co/MdBDfgvXFW
+ 
+# SabeAndierreUSER INFO
+![image](http://pbs.twimg.com/profile_images/1364316053162057731/PD67J8r4_normal.jpg)
+ 
+`User ScreenName:` SabeAndierre 
+ 
+`User chosen Name:` Sabé 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Feb 23 20:43:36 +0000 2021 
+ 
+`User Description?:` Padmé Amidala’s longest and most loyal handmaiden/bodyguard . #SWRP #Fanacct Queen’s Shadow to @PeaceNPolitics 
+ 
+`Followers?: `29 
+ 
+`Following?:` 24 
+ 
+`User URL?:` None 
+ 
+`Location:` Naboo 
+ 
+`Number of tweets extracted`  : 74 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1364316053162057731/PD67J8r4_normal.jpg 
+ 
+`Number of tweets excluding replies:` 74 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@PEACENPOLITICS** 15 , **//** 11 , **BACK** 6 , **FIND** 6 , **NABOO** 4 , **GO** 4 , **BEING** 4 , **I’VE** 4 , **SMALL** 4 , **NEED** 4 , **GOING** 3 , **AFTER** 3 , **COME** 3 , **I’M** 3 , **WORDS** 3 , **INTO** 3 , **LOOK** 3 , **AROUND** 3 , **QUEEN** 3 , **✦** 3 , 
+ 
+## What this user tweeted
+ 
+@PeaceNPolitics what happened after his mother’s death. It was a sign then of his vulnerabilities, his insecurities… https://t.co/hpdrcqKd7x
+ 
+# Charlie00688278USER INFO
+![image](http://pbs.twimg.com/profile_images/1366495281118924801/ZT7ngrGA_normal.jpg)
+ 
+`User ScreenName:` Charlie00688278 
+ 
+`User chosen Name:` Charlie 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 01 20:45:55 +0000 2021 
+ 
+`User Description?:` North woods, northern lakes and rivers. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 10 
  
 `User URL?:` None 
  
@@ -254,7 +462,7 @@ You probably heard about the #hack of a #Florida water treatment plant, but wher
  
 `Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1366824387563905026/2hdqZffv_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1366495281118924801/ZT7ngrGA_normal.jpg 
  
 `Number of tweets excluding replies:` 3 
  
@@ -264,79 +472,39 @@ You probably heard about the #hack of a #Florida water treatment plant, but wher
  
 ## User Top tweeted words 
  
-**CHECKLIST** 2 , **@YSHAHINZADEH:** 2 , **GUIDE** 2 , **RT** 1 , **@HOLYBUGX:** 1 , **FILE** 1 , **UPLOAD** 1 , **DETAILED** 1 , **VERSION** 1 , **@HUNTER0X7** 1 , **SOME** 1 , **EXTRA** 1 , **METHODS** 1 , **PERSONALLY** 1 , **USE** 1 , **GATHERED…RT** 1 , **HTTPS://TCO/IVJRKJFK25RT** 1 , **NEED** 1 , **PENTEST** 1 , **REPORTING?** 1 , 
+**RT** 1 , **@BBCARCHIVE:** 1 , **ONTHISDAY** 1 , **1964:** 1 , **TONIGHT** 1 , **WASN'T** 1 , **IMPRESSED** 1 , **SPANISH'S** 1 , **RATHER** 1 , **UN-BRITISH** 1 , **ATTITUDE** 1 , **TOWARDS** 1 , **BREAKFAST** 1 , **FRANKLY** 1 , **THEY'R…RT** 1 , **@CHEFJOSEANDRES:** 1 , **I’M** 1 , **LAUGHING** 1 , **SOCKS** 1 , **OFF!** 1 , 
  
 ## What this user tweeted
  
-RT @HolyBugx: My File Upload Checklist, detailed version of @hunter0x7 checklist, and also some extra methods I personally use and gathered…
+@AlecBaldwin I feel for H.
+"You shoulda looked out for (her) a little bit"   by quieting the act, not mainstreaming… https://t.co/7MqOLmhrYl
  
-# nma_ioUSER INFO
-![image](http://pbs.twimg.com/profile_images/1365034715166756866/f2eIUuTm_normal.jpg)
+# designs_cryptoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365327452654944257/s6WC5L-k_normal.jpg)
  
-`User ScreenName:` nma_io 
+`User ScreenName:` designs_crypto 
  
-`User chosen Name:` Nicholas Albright 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Feb 25 20:18:48 +0000 2021 
- 
-`User Description?:` VP of MSS: @emagined
-Tweets are my own and do not represent the opinions of my employer.  
-Follow my Off-roading life on Youtube (link in bio) 
- 
-`Followers?: `13 
- 
-`Following?:` 85 
- 
-`User URL?:` https://t.co/p04BCjt0Pb 
- 
-`Location:` Colorado 
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1365034715166756866/f2eIUuTm_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MICROSOFT** 3 , **LOOKS** 1 , **QUALYS** 1 , **LATEST** 1 , **HIT** 1 , **ACCELLION** 1 , **ISSUE** 1 , **ODD** 1 , **SECURITY** 1 , **VENDOR** 1 , **RESPONSIB…** 1 , **HTTPS://TCO/VACB4BK7EXRT** 1 , **@MSFTSECINTEL:** 1 , **DETECTED** 1 , **MULTIPLE** 1 , **0-DAY** 1 , **EXPLOITS** 1 , **BEING** 1 , **USED** 1 , **ATTACK** 1 , 
- 
-## What this user tweeted
- 
-Looks like Qualys was the latest to be hit with the Accellion issue. Odd since they are a security vendor responsib… https://t.co/VaCB4bk7EX
- 
-# CyberBatallionUSER INFO
-![image](http://pbs.twimg.com/profile_images/1366361095036788736/a8CGFYDQ_normal.jpg)
- 
-`User ScreenName:` CyberBatallion 
- 
-`User chosen Name:` Cyber Batallion 
+`User chosen Name:` CryptoDesigns 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Feb 28 21:11:31 +0000 2021 
+`User signup date?:` Fri Feb 26 15:45:09 +0000 2021 
  
-`User Description?:`  
+`User Description?:` Hi, I create art. Here - sharing my creations, supporting and admiring works of others! | https://t.co/Ibla02PmJB | https://t.co/yrkYi1hLyB 
  
-`Followers?: `0 
+`Followers?: `35 
  
-`Following?:` 12 
+`Following?:` 56 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 4 
+`Number of tweets extracted`  : 158 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1366361095036788736/a8CGFYDQ_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1365327452654944257/s6WC5L-k_normal.jpg 
  
-`Number of tweets excluding replies:` 4 
+`Number of tweets excluding replies:` 158 
  
 
  
@@ -344,40 +512,38 @@ Looks like Qualys was the latest to be hit with the Accellion issue. Odd since t
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 3 , **VULNERABILITY** 2 , **(VIA** 2 , **@CSECURITYALERTS** 2 , **NEWS)** 2 , **GOOGLE** 1 , **PATCHES** 1 , **ACTIVELY** 1 , **EXPLOITED** 1 , **CHROME** 1 , **BROWSER** 1 , **ZERO-DAY** 1 , **HTTPS://TCO/FFUJFYX6ZGHTTPS://TCO/UCK4UOC2XIMICROSOFT** 1 , **ACCOUNT** 1 , **HIJACK** 1 , **EARNS** 1 , **BUG** 1 , **BOUNTY** 1 , **HUNTER** 1 , **$50000** 1 , 
+**CRYPTOART** 32 , **NFT** 28 , **EBOBOT** 23 , **ROBOT** 22 , **CHECK** 15 , **ART** 14 , **SOME** 11 , **COLLECTION** 11 , **GOOD** 10 , **🚨** 10 , **LOVE** 10 , **GREAT** 9 , **NFTS** 9 , **NEW** 9 , **HTTPS://TCO/SNYT774MTQ** 9 , **WORK** 8 , **RETWEET** 8 , **SUPPORT** 8 , **VERY** 8 , **PIECE** 7 , 
  
 ## What this user tweeted
  
-RT @it_university: So excited to have won two Cybersecurity Excellence Awards for 2021! 
-
-Begin your IT journey with us at https://t.co/9iY…
+RT @polyannie01: Today is International Sex Worker Rights day. The nature of my art classifies me as a sex worker. Even if u think sex work…
  
-# KerlukeUbaldoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1364093912189665282/vSvZFrkF_normal.jpg)
+# 8563hendricksUSER INFO
+![image](http://pbs.twimg.com/profile_images/1366922184216563713/bZGsh7qy_normal.jpg)
  
-`User ScreenName:` KerlukeUbaldo 
+`User ScreenName:` 8563hendricks 
  
-`User chosen Name:` Ubaldo Kerluke 
+`User chosen Name:` 8563hendricks 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Feb 23 06:04:39 +0000 2021 
+`User signup date?:` Tue Mar 02 23:32:07 +0000 2021 
  
-`User Description?:` Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other 
+`User Description?:` whoa 
  
 `Followers?: `3 
  
-`Following?:` 31 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 28 
+`Number of tweets extracted`  : 143 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1364093912189665282/vSvZFrkF_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1366922184216563713/bZGsh7qy_normal.jpg 
  
-`Number of tweets excluding replies:` 28 
+`Number of tweets excluding replies:` 143 
  
 
  
@@ -385,16 +551,12 @@ Begin your IT journey with us at https://t.co/9iY…
  
 ## User Top tweeted words 
  
-**SEXY** 4 , **@BLAIR_WOLFF:** 2 , **MEDICINE** 2 , **MORNING** 2 , **INTO** 2 , **MEDITATION** 2 , **PERSONAL** 2 , **RT** 1 , **@HARVARDHEALTH:** 1 , **DOES** 1 , **HEALTHY** 1 , **DIET** 1 , **LOOK** 1 , **LIKE?** 1 , **HTTPS://TCO/UMSMFGGH5X** 1 , **HARVARDHEALTH** 1 , **HTTPS://TCO/PDTPW1PKESRT** 1 , **@APLISOSA:** 1 , **CONGRATULATIONS** 1 , **@GENASYSTECH** 1 , 
+**NEW** 17 , **@REUTERS:** 16 , **@ZEROHEDGE:** 15 , **US** 15 , **@DISCLOSETV:** 14 , **EARTHQUAKE** 13 , **@THEHILL:** 12 , **VIA** 11 , **TSUNAMI** 10 , **@RT_COM:** 9 , **IRAN** 9 , **AFTER** 8 , **@YOUTUBERT** 8 , **@PRESSTV:** 8 , **ZEALAND** 6 , **FIRST** 6 , **SENATE** 5 , **COVID-19** 5 , **WARNING** 5 , **HITS** 5 , 
  
 ## What this user tweeted
  
-RT @AplisoSA: Congratulations to @GenasysTech on a successful ISO/IEC27001 Certification Audit, just waiting for your certificate.  Thanks…
+RT @disclosetv: JUST IN - @CISAgov issues emergency directive over active exploitation of vulnerabilities in Microsoft products. 
+
+Earlier…
  
-
-<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
-### CONCLUSION & EXTERNAL ANALYSIS
-
-*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
-Authors analytical summary on request.
-**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
+# k3z16USER INFO
