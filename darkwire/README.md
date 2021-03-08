@@ -822,4 +822,301 @@ https:…RT @shodanhq: We added detection for the recent Microsoft Exchange vuln
  
 ## User Top tweeted words 
  
-**CHILDE** 20 , **VENTI** 18 , **GUA** 15 , **KAEYA** 11 , **ATAU** 11 , **U** 10 , **ALLAH** 10 , **I’M** 10 , **YA** 8 , **GENSHIN** 8 , **BANGET** 8 , **GONNA** 7 , **GA** 5 , **@HETEROESAPIENS** 5 , 
+**CHILDE** 20 , **VENTI** 18 , **GUA** 15 , **KAEYA** 11 , **ATAU** 11 , **U** 10 , **ALLAH** 10 , **I’M** 10 , **YA** 8 , **GENSHIN** 8 , **BANGET** 8 , **GONNA** 7 , **GA** 5 , **@HETEROESAPIENS** 5 , **UDH** 5 , **JUGA** 5 , **AJA** 5 , **AETHER** 5 , **XIAO** 5 , **W** 5 , 
+ 
+## What this user tweeted
+ 
+RT @CAPTAlNFROST: Childe
+
+-How’s your relationship with your family?
+-You probably have a short-temper
+-You don’t like admitting it but you…
+ 
+# LeysComputingUSER INFO
+![image](http://pbs.twimg.com/profile_images/1368248455366389762/exBNqPlg_normal.jpg)
+ 
+`User ScreenName:` LeysComputing 
+ 
+`User chosen Name:` Leys Computing 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 06 08:48:18 +0000 2021 
+ 
+`User Description?:` We teach and learn Computer Science / Information Technology / Computing at The Leys School, Cambridge ... $HOME to the infamous __ΉΛᄃKΣЯᄃᄂЦB__  ¯\_(ツ)_/¯ 
+ 
+`Followers?: `0 
+ 
+`Following?:` 14 
+ 
+`User URL?:` https://t.co/FTKp1QUoMd 
+ 
+`Location:` Cambridge, England 
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1368248455366389762/exBNqPlg_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**COMPROMISED** 2 , **MAINSTREAM** 1 , **COVERAGE** 1 , **STARTING** 1 , **TRICKLE** 1 , **HTTPS://TCO/SABPV1CZD21/** 1 , **BACKUP** 1 , **STUFF** 1 , **3X;** 1 , **2/** 1 , **DATA** 1 , **(NO** 1 , **EXECUTABLES);** 1 , **3/** 1 , **KEEP** 1 , **BIG** 1 , **GAP** 1 , **BETWEEN** 1 , **BACKUPS** 1 , **LITERALLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @JakeSullivan46: We are closely tracking Microsoft’s emergency patch for previously unknown vulnerabilities in Exchange Server software…
+ 
+# Enali26560086USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Enali26560086 
+ 
+`User chosen Name:` Enali 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 06 16:20:28 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `16 
+ 
+`Following?:` 62 
+ 
+`User URL?:` None 
+ 
+`Location:` Turkey 
+ 
+`Number of tweets extracted`  : 199 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 333 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SENÇALKAPIMIRT** 172 , **EPISODE** 32 , **LOVE** 22 , **SERKAN** 14 , **FANDOM** 13 , **RT** 11 , **MILLION** 11 , **SENÇALKAPIMI** 11 , **US** 9 , **RETWEET** 9 , **LIVE** 9 , **EDSER** 8 , **FAMILY** 8 , **BEST** 8 , **TWEETS** 7 , **BEFORE** 7 , **GOOD** 7 , **EDA** 7 , **AGAIN** 7 , **SAY** 7 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: CISA is aware of widespread domestic and international exploitation of Microsoft Exchange Server vulnerabilities and urges…
+ 
+# thirtyluxUSER INFO
+![image](http://pbs.twimg.com/profile_images/1368357435128307714/77_AIGbV_normal.jpg)
+ 
+`User ScreenName:` thirtylux 
+ 
+`User chosen Name:` alien 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 04 23:04:04 +0000 2021 
+ 
+`User Description?:` random thoughts 
+ 
+`Followers?: `0 
+ 
+`Following?:` 16 
+ 
+`User URL?:` None 
+ 
+`Location:` earth 
+ 
+`Number of tweets extracted`  : 38 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1368357435128307714/77_AIGbV_normal.jpg 
+ 
+`Number of tweets excluding replies:` 38 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**WOMEN** 5 , **PEOPLE** 5 , **DON'T** 4 , **REALLY** 4 , **FRIENDS** 3 , **EVERYONE** 3 , **WAY** 3 , **US** 3 , **ASK** 2 , **THING** 2 , **EVER** 2 , **FIQH** 2 , **OTHER** 2 , **COOKING** 2 , **THINGS** 2 , **NEED** 2 , **INTO** 2 , **SONG** 2 , **JUNGKOOK** 2 , **ALWAYS** 2 , 
+ 
+## What this user tweeted
+ 
+Muslim vulnerabilities are transparent. EVERYONE knows how to illicit a negative response from Muslims. 
+
+Mockery i… https://t.co/Yx1xjRz4bm
+ 
+# EmanueleIannon3USER INFO
+![image](http://pbs.twimg.com/profile_images/1368217748254363650/WdjUuUOl_normal.jpg)
+ 
+`User ScreenName:` EmanueleIannon3 
+ 
+`User chosen Name:` Emanuele Iannone 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 06 15:10:51 +0000 2021 
+ 
+`User Description?:` | Computer Science Ph.D. Student @ University of Salerno
+| 24 y.o.
+| RPG and Adventure Games lover
+| Anime Watcher 
+ 
+`Followers?: `15 
+ 
+`Following?:` 22 
+ 
+`User URL?:` https://t.co/zMiolCfUj6 
+ 
+`Location:` Pontecagnano Faiano, Italy 
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1368217748254363650/WdjUuUOl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GREAT** 2 , **@MANUELDESTEFAN0** 1 , **"WITH** 1 , **POWER** 1 , **COMES** 1 , **RESPONSIBILITY"** 1 , **UNCLE** 1 , **BENMY** 1 , **FIRST** 1 , **TWEET** 1 , **HUH?** 1 , **USELESS** 1 , **WORDS?** 1 , **FINE** 1 , **PAPER** 1 , **"TOWARD** 1 , **AUTOMATED** 1 , **EXPLOIT** 1 , **GENERATION** 1 , **KNOWN** 1 , 
+ 
+## What this user tweeted
+ 
+My first tweet huh? No useless words? Fine
+
+Our paper "Toward Automated Exploit Generation for Known Vulnerabilitie… https://t.co/UAv6BCS7Qw
+ 
+# DrRedmileUSER INFO
+![image](http://pbs.twimg.com/profile_images/1365432599431294977/w5U5OkQI_normal.jpg)
+ 
+`User ScreenName:` DrRedmile 
+ 
+`User chosen Name:` Marc Redmile-Gordon (PhD; Hon. Prof. Microbiol.) 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Feb 26 20:52:06 +0000 2021 
+ 
+`User Description?:` Children vs. Covid 
+ 
+`Followers?: `34 
+ 
+`Following?:` 82 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 50 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1365432599431294977/w5U5OkQI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**SCHOOL** 8 , **SCHOOLS** 7 , **@KARAMBALLES:** 7 , **@SAFEEDFORALL_UK** 5 , **SAFE** 4 , **@DGURDASANI1** 4 , **MASKS** 3 , **CHILDREN** 3 , **STOP** 3 , **REOPENING** 3 , **TOMORROW** 3 , **@SAFEEDFORALL_UK:** 3 , **KIDS** 3 , **@HOPPYSAUL:** 3 , **I'M** 3 , **TEAM** 3 , **MUST** 3 , **@DR2NISREENALWAN:** 3 , **@GRAHAMJA51:** 2 , **ISSUE** 2 , 
+ 
+## What this user tweeted
+ 
+@SafeEdForAll_UK @MattHancock @dgurdasani1 @DrEricDing @MichaelRosenYes @DMinghella @reece_dinsdale… https://t.co/uY0pKLsDRH
+ 
+# LilySpore7USER INFO
+![image](http://pbs.twimg.com/profile_images/1367507367269724166/0kDTGtAU_normal.jpg)
+ 
+`User ScreenName:` LilySpore7 
+ 
+`User chosen Name:` Lily Spore 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Mar 04 16:08:14 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `7 
+ 
+`Following?:` 139 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1367507367269724166/0kDTGtAU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 313 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GEMINI** 19 , **@LILYSPORE7:** 12 , **@THEHILL:** 12 , **NEW** 11 , **REPUBLICAN** 10 , **TRUMP** 10 , **US** 10 , **BIDEN** 9 , **SENATE** 9 , **@B52MALMET:** 9 , **@B52MALMET** 8 , **RELIEF** 8 , **AMERICANS** 8 , **LOVE** 8 , **PEOPLE** 8 , **NEED** 6 , **AFTER** 6 , **MONEY** 6 , **ARIES** 6 , **PLAN** 6 , 
+ 
+## What this user tweeted
+ 
+RT @FinancialTimes: The White House has warned that hackers may have compromised a 'large number of victims' in the US by exploiting recent…
+ 
+# Corvo58053227USER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` Corvo58053227 
+ 
+`User chosen Name:` Corvo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 06 01:48:08 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**HEY** 1 , **@PYTH0N2** 1 , **SUCCESS** 1 , **ECHIDNA** 1 , **SOME** 1 , **QUESTIONS** 1 , **VULNERABILITIES** 1 , **FOUND** 1 , **HOW…** 1 , **HTTPS://TCO/W0D0GPZZAI** 1 , 
+ 
+## What this user tweeted
+ 
+Hey @pyth0n2 , I think I had success with Echidna.
+I had some questions about the vulnerabilities you found and how… https://t.co/w0D0GPzzAI
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
