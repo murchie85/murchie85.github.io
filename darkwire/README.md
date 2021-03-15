@@ -1456,3 +1456,166 @@ RT @TheHackersNews: Windows Exploit Suggester (WES-NG) This tool analyses the ou
 `Is the User Verified?:` False 
  
 `User signup date?:` Thu Mar 11 21:31:58 +0000 2021 
+ 
+`User Description?:` I am just like love, I am all around you and getting stronger by the day. 
+Love: the sound of an engine, burnt dinosaurs
+Hate: Youth activists,scientists
+Satire 
+ 
+`Followers?: `58 
+ 
+`Following?:` 1183 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 106 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370125606814416910/P5ARACvX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 106 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CLIMATE** 15 , **CHANGE** 12 , **HUMANS** 11 , **LOVE** 10 , **DON'T** 10 , **CLIMATECHANGE** 6 , **WAY** 6 , **FOLLOW** 6 , **CLIMATECRISIS** 6 , **FEEL** 6 , **MORNING** 5 , **CAN'T** 5 , **CLIMATEEMERGENCY** 5 , **CLIMATEACTION** 5 , **YES** 5 , **STOP** 4 , **KEEP** 4 , **NEW** 4 , **GOING** 3 , **MOST** 3 , 
+ 
+## What this user tweeted
+ 
+👋Good morning humans.
+I have a soft spot for less developed nations, women,girls and people with disabilities.🌀
+Som… https://t.co/Xj2Oc0pxqm
+ 
+# ATechTedUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370979023174635521/Kv9Rvutj_normal.jpg)
+ 
+`User ScreenName:` ATechTed 
+ 
+`User chosen Name:` Ted 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 12 19:42:02 +0000 2021 
+ 
+`User Description?:` Human. 
+ 
+`Followers?: `1 
+ 
+`Following?:` 34 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 1 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370979023174635521/Kv9Rvutj_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@USCERT_GOV:** 1 , **@CISAGOV** 1 , **UPDATED** 1 , **ITS** 1 , **ALERT** 1 , **MICROSOFT** 1 , **EXCHANGE** 1 , **SERVER** 1 , **VULNERABILITIES** 1 , **NEWLY** 1 , **IDENTIFIED** 1 , **MALWARE** 1 , **ACTIVITY** 1 , **PLUS** 1 , **HELPF…** 1 , 
+ 
+## What this user tweeted
+ 
+RT @USCERT_gov: .@CISAgov updated its Alert on Microsoft Exchange Server vulnerabilities with newly identified #malware activity plus helpf…
+ 
+# KlarisseKayUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370342104350662664/qvetZC83_normal.jpg)
+ 
+`User ScreenName:` KlarisseKay 
+ 
+`User chosen Name:` Para Kay KLARISSE 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Mar 12 11:52:34 +0000 2021 
+ 
+`User Description?:` solid KLARISSENATICS 
+ 
+`Followers?: `22 
+ 
+`Following?:` 76 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 128 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370342104350662664/qvetZC83_normal.jpg 
+ 
+`Number of tweets excluding replies:` 128 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**KLARISSE** 68 , **KA** 40 , **MAHAL** 35 , **NAMIN** 35 , **LIFE** 16 , **NA** 14 , **KO** 14 , **FIGHTING** 12 , **I'M** 10 , **YEAH** 10 , **GO** 8 , **FIGHT** 8 , **SA** 7 , **GOD** 7 , **ALWAYS** 7 , **TIME** 7 , **ANG** 6 , **LOVE** 6 , **LET** 6 , **BRITNEYSPEARSRT** 6 , 
+ 
+## What this user tweeted
+ 
+There was no such thing as a fair fight. All vulnerabilities must be exploited. 
+
+MAHAL KA NAMIN KLARISSE
+ 
+# Francis01824566USER INFO
+![image](http://pbs.twimg.com/profile_images/1369672686792802304/f6H-7b6L_normal.jpg)
+ 
+`User ScreenName:` Francis01824566 
+ 
+`User chosen Name:` Francisco Jose 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 10 15:32:38 +0000 2021 
+ 
+`User Description?:` Instituto Pérez Galdos 
+Facultad de derecho de Las Palmas de Gran Canaria //
+Administrativo en registro de la propiedad  
+// Opositor a secretario judicial 
+ 
+`Followers?: `22 
+ 
+`Following?:` 228 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369672686792802304/f6H-7b6L_normal.jpg 
+ 
+`Number of tweets excluding replies:` 317 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**DE** 121 , **QUE** 72 , **LA** 71 , **EN** 47 , **EL** 45 , **Y** 25 , **POR** 20 , **LOS** 18 , **UNA** 17 , **LAS** 17 , **ES** 16 , **SE** 15 , **UN** 15 , **PARA** 13 , **:** 11 , **DEL** 11 , **IU** 11 , **SI** 10 , **VERY** 10 , **CON** 9 , 
+ 
+## What this user tweeted
+ 
+RT @FBI: Recent charges against three North Korean hackers show that cybercriminals are increasingly targeting virtual currency markets for…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
