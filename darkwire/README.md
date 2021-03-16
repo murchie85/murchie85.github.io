@@ -819,4 +819,423 @@ RT @Chahali: Confused - Tool To Check For Dependency Confusion Vulnerabilities I
  
 ## User Top tweeted words 
  
-**@TOKOTIKISXS** 66 , **@BENZYMAXS** 56 , **@CBRSRS100** 37 , **@MOONHIHIHI** 36 , **AMA** 36 , **@CATARRINEAS** 28 , **CRYPTO** 23 , **MARCH** 22 , **@THIHUYEN93** 20 , **@ANRKEYX** 19 , **UTC** 18 , **@DATAMATRIXTOKEN** 18 , **PM** 17 , 
+**@TOKOTIKISXS** 66 , **@BENZYMAXS** 56 , **@CBRSRS100** 37 , **@MOONHIHIHI** 36 , **AMA** 36 , **@CATARRINEAS** 28 , **CRYPTO** 23 , **MARCH** 22 , **@THIHUYEN93** 20 , **@ANRKEYX** 19 , **UTC** 18 , **@DATAMATRIXTOKEN** 18 , **PM** 17 , **PROJECT** 15 , **NEXT** 15 , **EXPLAIN** 14 , **@KEYBOT140302** 14 , **ANY** 13 , **INVESTORS** 13 , **USDT** 12 , 
+ 
+## What this user tweeted
+ 
+@Cryptovietnamvn @thihuyen93 @treesfinance I’m a developer, and I’m interested in contributing to your project  alo… https://t.co/ZKQjAn84vS@bccorecommunity @AresProtocol I’m a developer, and I’m interested in contributing to your project  alongsides earn… https://t.co/8UdMJ3BDTU
+ 
+# Qloud14USER INFO
+![image](http://pbs.twimg.com/profile_images/1371413448664485888/JNL0YAYw_normal.jpg)
+ 
+`User ScreenName:` Qloud14 
+ 
+`User chosen Name:` Qloud 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 15 10:43:03 +0000 2021 
+ 
+`User Description?:` I'm a crypto cat! 🐈 
+ 
+`Followers?: `16 
+ 
+`Following?:` 50 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 131 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371413448664485888/JNL0YAYw_normal.jpg 
+ 
+`Number of tweets excluding replies:` 132 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**$KDA** 90 , **SCALABLE** 44 , **BLOCKCHAIN** 42 , **PROOF-OF-WORK** 31 , **LOW** 30 , **POW** 28 , **FEES** 23 , **FAST** 20 , **:)** 15 , **TRANSACTIONS** 14 , **SHARDED** 12 , **$BTC** 10 , **CAP** 9 , **KADENAS** 9 , **CHAINWEB** 9 , **LOOK** 9 , **SCALE** 8 , **HUGE** 8 , **~40M** 8 , **MARKET** 8 , 
+ 
+## What this user tweeted
+ 
+RT @masonic_tweets: 3/ The formal verification capability of Pact, Kadena’s smart contract language, helps reduce errors and vulnerabilitie…
+ 
+# sunhousehahaaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1369188223532949504/D5hQRyBH_normal.jpg)
+ 
+`User ScreenName:` sunhousehahaa 
+ 
+`User chosen Name:` sunhousehaha 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Mar 09 03:33:50 +0000 2021 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 84 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369188223532949504/D5hQRyBH_normal.jpg 
+ 
+`Number of tweets excluding replies:` 319 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@CATARRINEAS** 53 , **AMA** 39 , **@TOKOTIKISXS** 35 , **@LEXUS570SRS** 35 , **@MOONHIHIHI** 34 , **@CBRSRS100** 29 , **PROJECT** 26 , **MARCH** 23 , **@BENZYMAXS** 23 , **CRYPTO** 21 , **UTC** 21 , **COULD** 18 , **PM** 17 , **NEXT** 16 , **ANY** 15 , **@DATAMATRIXTOKEN** 15 , **EXPLAIN** 14 , **@ANRKEYX** 14 , **PROJECTS** 13 , **PLANS** 13 , 
+ 
+## What this user tweeted
+ 
+@MoonShinchan @lepriconio @benzymaxs 
+@tokotikisxs
+@CBRsrs100
+I’m a developer, and I’m interested in contributing t… https://t.co/ATMM1MXxRS
+ 
+# rintarantadoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371676860526960641/-KDFME6d_normal.jpg)
+ 
+`User ScreenName:` rintarantado 
+ 
+`User chosen Name:` kaé — asleep. 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 15:07:08 +0000 2021 
+ 
+`User Description?:` -p easy by mac ayres.
+
+
+was @sunarantado 
+ 
+`Followers?: `75 
+ 
+`Following?:` 78 
+ 
+`User URL?:` https://t.co/DmLhSLgVb2 
+ 
+`Location:` - it's kay-di.
+
+
+college!au. 18+. ic/ooc.
++63. fil-eng. he/they. 
+semi-nsfw. sdms.
+
+۞➳ꁴ‡✥☠ 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371676860526960641/-KDFME6d_normal.jpg 
+ 
+`Number of tweets excluding replies:` 344 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 13 , **KA** 12 , **KO** 12 , **MO** 11 , **SA** 11 , **ㅤ** 9 , **IKAW** 8 , **AKO** 8 , **MUCH** 8 , **SI** 7 , **BA** 7 , **👏🏻** 7 , **TANGINA** 6 , **HI** 5 , **YUNG** 5 , **KASI** 5 , **BABY** 5 , **LANG** 5 , **YES** 5 , **OMEGLE** 5 , 
+ 
+## What this user tweeted
+ 
+RT @konzumesyon: Please report this account right here. We don’t need a “bulgar” wannabe in this platform. Having a cc account these days a…
+ 
+# makiIolUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371478850559832064/KSWj4WgY_normal.jpg)
+ 
+`User ScreenName:` makiIol 
+ 
+`User chosen Name:` maki 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 13 13:25:45 +0000 2021 
+ 
+`User Description?:` ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ 
+ 
+`Followers?: `115 
+ 
+`Following?:` 126 
+ 
+`User URL?:` https://t.co/4VxhRat8E7 
+ 
+`Location:` 🍣　ー . . . any pronouns oa !#% HQRP 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371478850559832064/KSWj4WgY_normal.jpg 
+ 
+`Number of tweets excluding replies:` 257 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 38 , **KO** 33 , **SA** 31 , **KA** 23 , **MO** 22 , **NG** 21 , **AKO** 18 , **LANG** 15 , **BA** 15 , **TANGINA** 10 , **MAY** 10 , **NAMAN** 10 , **YAN** 10 , **YUNG** 9 , **HINDI** 8 , **KITA** 8 , **MGA** 8 , **IKAW** 8 , **TALAGA** 8 , **KUNG** 7 , 
+ 
+## What this user tweeted
+ 
+RT @konzumesyon: Please report this account right here. We don’t need a “bulgar” wannabe in this platform. Having a cc account these days a…
+ 
+# dumedepensaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1368808080599699461/pvUq-Om1_normal.jpg)
+ 
+`User ScreenName:` dumedepensa 
+ 
+`User chosen Name:` Red ⍙ 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Mar 08 06:15:41 +0000 2021 
+ 
+`User Description?:` #RED : I’ll serve even the most impossible reach. “Take a look up in the sky and I see red.” 
+ 
+`Followers?: `49 
+ 
+`Following?:` 47 
+ 
+`User URL?:` None 
+ 
+`Location:` He/Him | 16+ | 3N | sdms 
+ 
+`Number of tweets extracted`  : 76 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1368808080599699461/pvUq-Om1_normal.jpg 
+ 
+`Number of tweets excluding replies:` 76 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NA** 15 , **SA** 13 , **YUNG** 9 , **KO** 9 , **MO** 8 , **NG** 8 , **AKO** 7 , **NIYO** 5 , **@IMPERIOHQRP** 4 , **MAY** 4 , **KASI** 4 , **LANG** 4 , **SI** 4 , **HQRP** 4 , **DI** 4 , **NGA** 3 , **HATES** 3 , **PERO** 3 , **IMPERIO** 3 , **BA** 3 , 
+ 
+## What this user tweeted
+ 
+RT @konzumesyon: Please report this account right here. We don’t need a “bulgar” wannabe in this platform. Having a cc account these days a…
+ 
+# Loversboy100USER INFO
+![image](http://pbs.twimg.com/profile_images/1369536759193690112/6LHpajLl_normal.jpg)
+ 
+`User ScreenName:` Loversboy100 
+ 
+`User chosen Name:` Loversboy 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Mar 10 06:32:11 +0000 2021 
+ 
+`User Description?:` l ❤️ ama 
+ 
+`Followers?: `8 
+ 
+`Following?:` 29 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 123 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1369536759193690112/6LHpajLl_normal.jpg 
+ 
+`Number of tweets excluding replies:` 123 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PROJECT** 42 , **AMA** 23 , **COMMUNITY** 23 , **INVESTORS** 17 , **@DATAMATRIXTOKEN** 17 , **@BSCEXOFFICIAL** 13 , **MARCH** 12 , **MANY** 12 , **PROJECTS** 12 , **PM** 11 , **UTC** 11 , **CRYPTO** 10 , **NEW** 9 , **TRUST** 9 , **ANY** 8 , **PLAN** 8 , **TEAM** 8 , **USDT** 7 , **TIME:** 7 , **VENUE:** 7 , 
+ 
+## What this user tweeted
+ 
+@MoonShinchan I’m a developer, and I’m interested in contributing to your project  alongsides earning, Do you have… https://t.co/wqxBv11oLC@CryptoExOr @bscexofficial I’m a developer, and I’m interested in contributing to your project  alongsides earning,… https://t.co/ONS5qOmGzD
+ 
+# ricchthekid2USER INFO
+![image](http://pbs.twimg.com/profile_images/1370657112729264128/Sj3YV0VQ_normal.jpg)
+ 
+`User ScreenName:` ricchthekid2 
+ 
+`User chosen Name:` #ricchthekid 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 13 08:44:09 +0000 2021 
+ 
+`User Description?:` #am on money 
+ 
+`Followers?: `21 
+ 
+`Following?:` 143 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 47 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370657112729264128/Sj3YV0VQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 47 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CHARMED** 5 , **@MANCITY** 5 , **NEW** 3 , **@TV3_GHANA:** 3 , **TEAM** 3 , **@_OPRESII:** 3 , **@SADDICKADAMS:** 3 , **ABI** 2 , **@CW_CHARMED** 2 , **@CW** 2 , **SWEETRT** 2 , **DEY** 2 , **DATERUSH** 2 , **STARBOY** 2 , **BURNA** 2 , **CONGRATS** 2 , **@WIZKIDAYO** 2 , **@BURNABOY** 2 , **WINS** 2 , **TOMORROW** 2 , 
+ 
+## What this user tweeted
+ 
+RT @SecuriTeam_SSD: New advisory is now out!
+
+Device management platforms allow firms to remotely manage multiple devices.
+Find out how mul…
+ 
+# anarchabitchUSER INFO
+![image](http://pbs.twimg.com/profile_images/1370824467421786115/ps1MUzAI_normal.jpg)
+ 
+`User ScreenName:` anarchabitch 
+ 
+`User chosen Name:` Anarchabitch 🏳️‍⚧️🏴 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Mar 13 19:49:16 +0000 2021 
+ 
+`User Description?:` Anarcha-Communist militant bitch on stolen land. Light, mobile, & hard to find. she/they 
+ 
+`Followers?: `86 
+ 
+`Following?:` 155 
+ 
+`User URL?:` None 
+ 
+`Location:` Cheyenne, Ute, & Arapaho Land 
+ 
+`Number of tweets extracted`  : 198 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1370824467421786115/ps1MUzAI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 232 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 22 , **BEING** 12 , **THAN** 11 , **WHITE** 9 , **DAY** 8 , **NEED** 8 , **SOME** 7 , **FUCK** 7 , **GOOD** 7 , **THERE’S** 7 , **THINGS** 7 , **YOU’RE** 7 , **HERE** 7 , **TRANS** 7 , **PRETTY** 6 , **SECURITY** 6 , **TEXT** 6 , **BETTER** 6 , **KEEP** 6 , **COLORADO** 6 , 
+ 
+## What this user tweeted
+ 
+Drugs, alcohol, money, and sex are vulnerabilities when it comes to your security. If you're an activist, it's good… https://t.co/C0ZwCSa5vW
+ 
+# plungethedaggerUSER INFO
+![image](http://pbs.twimg.com/profile_images/1371078567749062660/GVeR7C6T_normal.jpg)
+ 
+`User ScreenName:` plungethedagger 
+ 
+`User chosen Name:` salma :3 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 12:38:42 +0000 2021 
+ 
+`User Description?:` if u know me irl pls pretend u never saw this 
+ 
+`Followers?: `11 
+ 
+`Following?:` 18 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 83 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371078567749062660/GVeR7C6T_normal.jpg 
+ 
+`Number of tweets excluding replies:` 83 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**U** 11 , **UR** 8 , **YUM** 5 , **I’M** 4 , **GO** 4 , **COULD** 4 , **AROUND** 3 , **MAKE** 3 , **WISH** 3 , **BLUE** 3 , **FISH** 3 , **LOOKS** 3 , **LOVE** 3 , **OK** 2 , **EXPOSING** 2 , **SOME** 2 , **HOPE** 2 , **LA** 2 , **HERE** 2 , **BC** 2 , 
+ 
+## What this user tweeted
+ 
+me, exposing my deepest vulnerabilities and baring my soul: i love you 
+them: it back
+ 
+# AnjaliS15751507USER INFO
+![image](http://pbs.twimg.com/profile_images/1371005228166750209/4rlb1vao_normal.jpg)
+ 
+`User ScreenName:` AnjaliS15751507 
+ 
+`User chosen Name:` Anjali Singh 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Mar 14 07:35:36 +0000 2021 
+ 
+`User Description?:` happy me☺ 
+ 
+`Followers?: `5 
+ 
+`Following?:` 31 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1371005228166750209/4rlb1vao_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PEOPLE** 2 , **SECURITY** 2 , **MICROSOFT** 2 , **RT** 1 , **@AKASSHNGUPTA:** 1 , **REINSTATEKAMARAJ!** 1 , **GUY** 1 , **LOST** 1 , **JOB** 1 , **PRIDE** 1 , **DUE** 1 , **ARROGANT** 1 , **INFLUENCER** 1 , **SEEMED** 1 , **BEGGING** 1 , **'FREE'** 1 , **FOOD** 1 , **FO…RT** 1 , **@THE_HINDU:** 1 , **GREW** 1 , 
+ 
+## What this user tweeted
+ 
+RT @msftsecurity: Security updates released by the Microsoft Security team for Microsoft Exchange Server to address vulnerabilities under l…
+ 
+
+<b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
+### CONCLUSION & EXTERNAL ANALYSIS
+
+*This is my [Adam McMurchie`s] opinion on the data from the tweets, it serves as no objective truth.Since the tweets themselves are a mixture of fact & opinion.<br>
+Authors analytical summary on request.
+**RECOMMENDATIONS** WILL BE UPDATED IN NEXT  24 HOURS <br>
