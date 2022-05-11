@@ -1,0 +1,201 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>App Development for Android. Murchie's Tutorials</title>
+		<meta property="og:url"           content="https://murchie85.github.io/Game-Development-for-Android.html" />
+		<meta property="og:title" content="App Development for Android. Murchie's Tutorials" />
+		<meta itemprop="image" content="images/NoodleApp/developer.jpg" />
+		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/NoodleApp/developer.jpg">
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="In this tutorial, I am going to take you through the steps on how to build a Noodle Ordering App. Everyone and their gran has an app idea or is 'working on an app'. Saying it and doing it though, are two very differeint things. This guide will help you learn the ropes, and give a guide to build your app from scratch to launching in the play store">
+		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+		<!-- fb thumbs up -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>App Development for Android<br> Noodle Order App</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+				<div id="blogs">
+					<article id="Blog">
+<div style="float: right"><i><a href="#meat" style="color:silver;">Skip to the Meat</a></i></div><br>
+<p><i>
+<center>“I have this awesome idea for a new app, it’s going to change the world…”</center><center> “man lets build an app together”</center><center> “I would rule the world if only I could build an app”.</center> </i> </P>
+			
+
+
+ 									<center>	<h3>Why am I here?</h3> </center>
+
+ 									
+<P>Yea ok, I guess this isn’t the best way to start off a tutorial blog on app development, but if I didn’t say it, you were probably thinking it anyway. So why build an app if everyone and their gran is at it? And to further depress you - according to this <a href="https://techcrunch.com/2016/05/31/nearly-1-in-4-people-abandon-mobile-apps-after-only-one-use/" style="color:green;">link</a>, 1 in 4 people abandon apps after only one use.Well for a start a LOT of people are working on apps, with an average of <a href="http://www.telegraph.co.uk/technology/apple/9084454/An-average-of-701-apps-launched-every-day-last-year.html" style="color:green;">701</a> apps released everyday as of last year. 
+</P>
+
+
+<p> In fact, unlike most industries in the west, App development business enjoys huge growth year on year, with more and more jobs becoming available in the field - there really isn’t a better time to learn app development to boost your career.<br>Building apps is a game changer for young start ups, its one of the few areas you can make a platform for success all on your own. You can learn the required skills in your spare time, you don’t need to spend money on certain licences, buy expensive equipment or have the right contacts. I would include links, but the list is so vast, I urge you to google ‘successful app stories’ if you are looking for more motivation.  </p>
+<p> That all said, the reason for failure (which as I alluded to earlier, is a rather large amount of people) can be summarised by the following: 
+<center style="color:silver;"><i>I didn’t have enough time to finish my app </i></center>
+<center style="color:silver;"><i>My idea wasn’t creative enough - It was too similar to other apps. </i></center>
+<center style="color:silver;"><i>My App didn’t really add much value</i></center><br>
+Thats it, so really the same reason most products and services fail - the only difference here is most of the time the app developers didn’t lose millions.
+</p> 
+<p> In this tutorial, I am going to take you through the steps on how to build a Noodle Ordering App. Once complete, the App will allow the user to pick what kind of noodles they want and for how many people, display the total price and be allowed to submit their order. By the end of this tutorial set, you should have something that with a few tweaks you could actually release as a marketable product. </p>
+
+									<center>	<h3>Boring primer Stuff</h3> </center>
+<p> As with my other tutorials, we are going to learn by just bashing through it and building something that we can actually demo. At the end of this tutorial will be a deeper explanation of what we did, as well as a glossary of terms and useful links</p>
+<p>If you think about it, something as big as app development could have you watching youtube tutorials or sitting in a classroom for weeks maybe months just learning the theory, layouts, standards etc.  That said, I will explain where necessary as to not confuse you in a sea of code and bullshit. </p>
+<p>The high level learning plan we will follow looks a bit like this: <br><br>
+<span class="image main"><a href="images/NoodleApp/done.jpg"><img src="images/NoodleApp/done.jpg" alt="Our Learning Plan :)" /></a></span><br>
+
+So basically, we will work through a step, I will explain what we did and then repeat. At the end, there will be a more detailed explanation of the terms and logic behind our design. 
+</p>
+
+
+									<center>	<h3>Setting Up - Install Android SDK </h3> </center>
+
+<p> To start coding android apps, we need to install the Android SDK (Software Software Development Kit). This their official integrated development environment (IDE) - for the new coders, this is basically a giant application that has lots of built in tools for writing and running code on. You can write the code in here, test it via the interface or a link to your device (phone/tablet etc). It looks like this:<br> <br>
+	<span class="image main"><a href="images/NoodleApp/ASDK.jpg"><img src="images/NoodleApp/ASDK.jpg" alt="Android Main Screen" /></a></span><br></p>
+
+<P> Start your long installation process here<a href="https://developer.android.com/studio/index.html" style="color:green;">link</a>. It is advisable to have Java already installed on your computer, and depending on the version you may need to install a JavaDevelopmentKit.</P>
+
+
+									<center>	<h3>Enable Developer Mode on your mobile </h3> </center>
+
+<p> If you don't have an android phone or you want to run the application on an emulator <a href="https://developer.android.com/studio/run/emulator.html" style="color:red;"> here </a> is where you can get more information to do that, it should take no longer than 5 minutes to set up. Otherwise its a good idea to enable developer mode on your phone, this means you have access to 'secret squirrel' stuff normal people otherwise wouldn't be able to see. This method varies from phone to phone, but basically you have to find the location of 'Build number' (not model number). It is usually in the settings and about device option - for me it was close to the bottom. Once you find the build number, you need to tap it about 7 or 8 times. After x amount of times it will tell you how many steps away you are from being a developer. Once you have completed that step, you will now be able to access the secret squirrel developers options as shown below.
+<br> <br>
+	<span class="image main"><a href="images/NoodleApp/ASDK.jpg"><img src="images/NoodleApp/developer.jpg" alt="Android Main Screen" /></a></span><br>
+
+Once you have set it all up you can go <a href="https://developer.android.com/studio/run/device.html" style="color:red;"> here </a> to try it out after setting up a project
+</p>
+
+											<center>	<div id="meat"><h3>Create A Project</h3></div> </center>
+
+<p>Ok, now its time to get cracking. When you load up the SDK for the first time you should see something that resembles the pic below. </p>
+<span class="image main"><a href="images/NoodleApp/ASDKFRONT.jpg"><img src="images/NoodleApp/ASDKFRONT.jpg" alt="Welcome Screen"/></a></span><br>
+
+<p> Click on the ‘Start a New Android Studio Project’ option. On the Configure your new project screen, choose your application name (in this case, NaughtyNoodles) - the other fields don’t need to be changed. Now the only relevant option in the Target Android Devices page is keeping the minimum SDK as low as possible. If you wish to add cutting edge functionality, then it may not be supported by earlier versions. For the purpose of this tutorial, we will be using existing functionality - so its best to make our app supported on as many versions of Android as possible. For me, the lowest version I can get is ‘IceCreamSandwich).
+<center><i>Add Activity for Mobile - Empty Activity. </i></center>
+<center><i>Customise the Activity - No need to change anything</i></center>
+<br>
+Once you click finish, it will take some time for your project to fully load. Don’t get freaked out by the underlined code in red, it should disappear after the project has fully loaded. 
+ </p>
+
+
+
+
+
+												<center>	<h3>Make a Background Image</h3> </center>
+
+<p> If you are lost on the main development screen, click here to jump to a brief Description of the folder structure and layout. <br>
+ The first thing we want to do is to have our App with a sleek background, in the case of the Noodle Order App - what more appropriate than a picture of a bowl of noodles with some veg and a nice fried egg on top?<br>
+The steps you will need to follow to make this work are:</p>
+
+<div id="green">
+<ol>
+<li>Find a picture for the background use (google images). Pick medium size, as if its too big it wont display when you load the app.  </li>
+<li>Move/Save the Image to the correct location.</li>
+<li>Insert the Correct Code to make the Image Load when the App Initiates. </li>
+<li>Test the App by actually running it via the SDK.</li>
+</ol></div>
+
+<p> OK, lets make it happen….<br> Once you have found your image of the right size, save it to the following place : <br>
+	<center>AndroidStudioProjects -> NaughtyNoodles-> App -> Src -> Main - > Res -> Drawable
+</center>
+</p>
+
+<p> If you have named your app something different, then that folder name will appear instead of Naughty Noodles. Also you need to name the image noodle (as I refer to it in the later code by this name). <br> Now back to your Android SDK project screen. Make sure you have the Project Tab on the FAR left selected. Now navigate to your activity_main.xml file. It can be found by expanding the following folders - APP, res, Layout. </p>
+<p> Delete any code that is inside and replace with the following code <br>
+
+<pre>
+  <code> 
+  	<green>
+  	<xmp>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:src="@drawable/noodle"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</RelativeLayout>
+	</xmp>
+</green>
+  </code>
+</pre>
+</p>
+
+<p>Now its time to Run the code and see if it worked. To do this, all you need to do is connect your device via USB to your computer. Then select the green Play icon in the top Centre of the IDE, it says run app if you hover the mouse over it. Select your device and run. If you are having any issues locating your device or running the program, try the trouble shooting guide <a href="https://developer.android.com/studio/run/index.html?utm_source=android-studio" style="color:green;">here</a>.
+</p>
+
+<p> Good Job! Your App should look something like below. <span class="image main smaller"><a href="images/NoodleApp/noodle.jpg"><img src="images/NoodleApp/noodle.jpg" alt="Noodles"/></a></span><br> Got stuck? You can check out my Version (Up to this point) <a href="https://github.com/murchie85/NaughtyNoodles" style="color:silver;">here</a>. <br><br>
+Well done for making it this far! Now you are well on your way to completing your first mobile app. 
+
+</p>
+
+
+							<center>	<a href="noodle2.html" style="font-size:200%;">Jump To Part 2</a> </center><br>
+<p>or click <a href="noodle2.html" style="color:silver;">here</a> to continue with part 2</p>
+
+<strong> Adam McMurchie  10/April/2017 </strong>
+<br><br>
+<div class="fb-like" data-href="https://murchie85.github.io/App-for-Android.html" data-width="12" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg4"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,259 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>Reverse Engineering a RAT virus</title>
+    <meta property="og:url"      content="https://murchie85.github.io/rat.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Tutorials - How to Reverse Engineer Malware for Analysis" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="images/virus/rat.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/virus/rat.jpg"> <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="In this tutorial I show you how to dissect and reverse engineer a javascript RAT Virus code to extract the decoded contents of the malicious binary. This will allow you, and others to perform a proper and thorough analysis - which is critical for understanding how these viruses are manufactured, the mindset of the attacker and to better model future attacks to develop better defences. ">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=1751839964842666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Reverse Engineering a RAT Virus</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+
+							<center><span class="image large"><img src="images/virus/virus.jpg" alt="virus"></span></center>
+										<center> <i> The RAT virus we will dissect is part of the keylogging strain</i></center><br>
+
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Reverse Engineering a RAT Virus">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/rat.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
+<i style = "color:silver";>Important: this blog is for anyone to enjoy, that said you should not attempt to follow the steps if you don't have a solid grounding in Javascript, jsNode and code obfuscation. </i><br><br>
+
+<p>  “Don’t you just hate being infested with rats?” No longer an antiquated phrase fit for the 19th century. RATs, or Remote Access Trojans, are a malicious form of <i>zombie malware</i> that sits on your computer quietly waiting for the moment you input sensitive details such as passwords for your email accounts, logins to internet banking and more. These Trojans can tap your microphone, webcam and run scripts in the background without your knowledge. They have been such a severe issue that the recent RAT activity has been making the mainstream news as many victims have had their details stolen, resulting in material theft. </p>
+
+
+<p>
+ In this tutorial I am going to walk through how we can reverse engineer a recent javascript RAT virus to pick apart the javascript to extract the decoded contents of the malicious binary. This will allow you, and others to perform a proper and thorough analysis - which is critical for understanding how these viruses are manufactured, the mindset of the attacker and to better model future attacks to develop better defences. That said, lets get this out the way
+</p>
+<p>
+<div id="quote"><center>
+<b style = "font-size:220%;color:silver">“PREVENTION IS BETTER THAN A CURE”
+</b><br>
+<i>Sir Common Sense</i></center>
+</div>
+
+</p>
+
+
+<p>The malicious code has been distributed via email with a link that downloaded the script in the hopes someone would click and run the executable bringing them into a whole world of pain.  Why would anyone do this? Well the executable was masked as an image file such as IMG-0001 where there could be a description such as ‘Dave was so crazy on his night out, check how wasted he got here’.  It is very easy to complete child's play to trap a few victims when the email was disseminated to tens of thousands of users.  </p><br>
+
+
+
+
+
+
+
+
+												<center> <h3> Downloading and Skimming the Code </center> </h3><br><br>
+
+
+<p><b style = "color:red";>STOP!</b> Do not proceed to download unless you know what you are doing! Read the primer at the top if you are not sure. The sample virus code can be found here:</p>
+
+<p> <i>https://www.hybrid-analysis.com/sample/cd634825891a6813ce2878b878143e6799912c5e7c8d766faa49ef5e2f1ab07e?environmentId=100</i></p>
+
+<p>First off lets rename file to netwire.js because that is the name of the malware that it drops. You will want to view this in a good code editor, sublime may crash when you try to save as a .js file or change the syntax to js. I recommend Atom for those with a slower computer. 
+First lets have an eyeball of the code and you will notice right off the bat a big long variable being defined. </p>
+
+							<center><span class="image med"><img src="images/virus/1.jpg" alt="viruscode"></span></center><br>
+
+
+<p>This variable has over 10,000 characters  of code, and is a fair to say it likely has the contents of the malicious binary encoded into it and will have some kind of decoding routine going on at run time to drop the executables to disk.
+</p>
+
+
+
+
+
+			
+
+												<center> <h2> Spotting the Deploy Function</center> </h2>
+
+
+<p>Our job is to decipher the code to find out whats going on. If we look at the code below the variable we notice the following.
+</p>
+
+
+							<center><span class="image med"><img src="images/virus/2.jpg" alt="trycatch"></span></center><br>
+
+<p>
+This is essentially trying to create an exception that it will catch, and then invoking the following function below it. The catch may be another way of throwing anti-virus software off the scent, as it only executes the function if the main criteria is not fulfilled. 
+</p>
+
+							<center><span class="image med"><img src="images/virus/3.jpg" alt="alphabet"></span></center><br>
+
+<p>It has some variables being defined, and what looks like an alphabet. If you know your ASCII then you will know that 65 = A 66 = B 67 = C etc, so we have an alphabet being declared in an array.
+
+The next line is converting the array into a string. We can validate our assumption by cutting the following code snippet:
+</p>
+
+
+<pre><code>var uvqwdfyuwtrzln = [65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,48,49,50,51,52,53,54,55,56,57,43,47,61];
+uvqwdfyuwtrzln = String.fromCharCode.apply(this, uvqwdfyuwtrzln);</code></pre><br>
+<p>Now lets append the following directly below  (you will need jnode installed) and save it in a new file for example sample.js. </p>
+
+<pre><code>console.log(uvqwdfyuwtrzln)</code></pre><br><br>
+
+<p>Now lets execute our sample.js in the terminal window by running node sample and we should see the following in the terminal output. 
+</p>
+
+
+							<center><span class="image med"><img src="images/virus/4.jpg" alt="alphabet2"></span></center><br>
+
+<p>This is actually a base64, we know this as the string is in order of capitals then lower case, followed by 0 to 9, + and the  =. This is essentially what defines the base64 alphabet. So we have a base64 encoded string to hide the true content.
+</p>
+
+
+
+
+												<center> <h2> Homing in on the Cleaning Function</center> </h2>
+
+
+
+<p>After the alphabet definition we see a regular expression replacement routine, and the string being manipulated is our big string. 
+</p>
+
+
+							<center><span class="image med"><img src="images/virus/5.jpg" alt="carrot"></span></center><br>
+
+<p>Have a look at the function replace, specifically after the carrot symbol, then look at what is being replaced….<br>
+Essentially it will take anything that does not equal the alphabet, then replace it with nothing.  So this method basically cleans the big string into a base64 code that is valid.  This suggests is once that occurs what we have left in the code below is just the decoding routine for the B64 string.<br> 
+
+This is really easy to do something with, yay! </p> 
+
+
+
+<center><span class="image med"><img src="images/virus/6.jpg" alt="alphabet2"></span></center><br>
+
+<p>If we notice there is a do-while loop which is not used much in javascript these days, the bad guys may have thought this would throw others off their scent. 
+It looks like this will iterate through the big chunk of encrypted data but we don’t need to worry about the specifics just now. 
+The return value is the most important thing, and rather than returning the value, lets comment it out and add console.log for the variable and run it in node to see what is being returned. 
+</p>
+
+
+<center><span class="image med"><img src="images/virus/7.jpg" alt="alphabet2"></span></center><br>
+
+
+<p>Now if we run this, we can see that nothing happens </p>
+
+
+<center><span class="image med"><img src="images/virus/8.jpg" alt="empty terminal"></span></center><br>
+
+<p>That is because in this instance we have a try catch block (near the top) and even in the catch block there will be an error thrown, which wont show up as it is an alert and jsnode does not support this . So we need to get rid of that and invoke the method manually. 
+</p>
+
+
+<center><span class="image med"><img src="images/virus/9.jpg" alt="comment out"></span></center><br>
+<p>Now run this in node again with the command node file name and you will get the spectacular output as below.
+</p>
+
+
+<center><span class="image med"><img src="images/virus/10.jpg" alt="real code"></span></center><br>
+<center><span class="image med"><img src="images/virus/11.jpg" alt="real code 2"></span></center><br>
+
+<p>Lets redirect this to an output file for further viewing. This will take a while to run</p>
+
+
+<center><span class="image med"><img src="images/virus/12.jpg" alt="terminal"></span></center><br>
+<p>Now open the file in sublime Now we can see the code in better, notice lots of javascript specific functionality, lots of forwards and backwards .
+The function has 419 lines of javascript which is quite meaty. This is the real beast behind the curtain, and even from this we can get an idea of what the attacker was planning and how the code is able to spin up so many processes and infect your HD. 
+I am going to leave this tutorial here, as I will be focusing on my DevOps Automation series, but I thought this was important enough it was worth doing a flash tutorial on. If you wish to see more of this, then please reach out to me and I will prioritise the second part on further analysis. 
+</p>
+
+
+
+
+<br><strong> Adam McMurchie  1/Sep/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg12"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

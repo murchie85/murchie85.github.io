@@ -1,0 +1,315 @@
+	<!DOCTYPE HTML>
+
+
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>Build your own AI Neural Network</title>
+		<meta property="og:url"           content="https://murchie85.github.io/NeuralNetwork.html" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title" content="Build your own AI Neural Network" />
+		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+		<meta itemprop="image" content="images/NN/NN.png" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/NN/NN.png">
+
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Fed up of just talking about AI? Well, lets actually build one. In this tutorial we are going to build a Neural Network in under 30 lines of code in Python, I will break down all lines in the code so that by the end you will have a solid understanding of how machine learning actually works.">
+		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+
+<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0&appId=1751839964842666&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Build your own AI Neural Network</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+<center> <h2> ....In as few lines of code as possible</h2></center>
+<br>
+<div>
+<a class="twitter-share-button"
+  href="https://murchie85.github.io/NeuralNetwork.html">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/NeuralNetwork.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div><br>
+<a style = "font-size:110%;color:silver" href = "#codesection"> <i> Jump straight to the code</i></a>. <br><br>
+<p>
+Artificial Intelligence, Deep learning and Neural nets are all buzzwords these days and it can be quite intimidating given the rapid growth and interest in the area. I am going to solve this in two code dumps (one if you are in a hurry). Because you are already here, I am going to assume you don't need any convincing of the vast potential of Neural Networks, but if you do - click the top title to jump to my home page where there are lots of articles I have written on the merits of Neural Nets. 
+</p>
+
+<p>
+	If you stick with me for the first code dump (30 lines) you will understand the core concept of how a Neural Network is used to build predictive models. If you are still around near halfway down the page for the second code dump (50 ~ lines) then you will see the hidden sauce which makes DeepLearning and Neural networks the hype they are today - backwards propagation.
+</p>
+
+
+<center> <span class="image main"><img src="images/bg9.jpg" alt="Neural Networks" /></span><br>
+			<i>Neural Networks exist both in nature (the structure of neurons in your brain) and in software - the digital imitation of this process</i></center><br></br>
+
+
+<p>
+All the code here is in Python, I suggest you use an IDE like pycharm but if you are up for learning new things then Jupyter notebook is the way to go <i>(it's what I wrote this blog in)</i>.
+</p>
+
+
+
+
+											<center><h2> NETWORK PRINCIPLE</h2></center>
+
+<p>
+The image below shows a list of input/output relationships.<br>
+
+In the source code below, we are going to try and predict the output values by allowing the network to tune itself in the direction of the actual output so that the NN arrives at the answer independently. What we have in the end is a tuned 'model'.<br>
+
+Imagine you are trying to predict the output given the inputs, in this case there is a perfect correlation.
+
+</p>
+
+<center> <span class="image main"><img src="images/NN/NET.JPEG" alt="Input Output Matrix" /></span><br>
+			<i>Above is a table of input output parameters. You can think of this as each row being a training case for the network, where it has to work out the output given a set of inputs</i></center><br></br>
+
+<p>Models are necessery for applications in real life, for example, if this was a fraud engine the model would give us a probability of fraud given certain input parameters. In this case, the outputs 1 would be fraud and 0 would be instances of no fraud. Of course this model would be far too simple, but the basic principles are the same.
+</p>
+
+<br></br>
+<br></br>
+
+											<center><h2 id = "codesection"> Lets build a 2 Layer Neural Network</h2></center>
+
+
+<p>
+	Lets go straight to the code, I will explain the key steps afterwards. This network performs forward propagation, basically there are two layers at each layer calculations are performed on nodes to steer in the direction of desired values.
+</p>
+
+
+
+<pre><code><white>import <purple>numpy</purple> as np
+
+
+<green>#SIGMOID FUNCTION </green>
+<green>def</green> <purple>sigmoid</purple>(x,deriv=<green>False</green>): <green># deriv is a trigger we set based upon the function boolean passed in</green> 
+    <green>if</green>(deriv==<green>True</green>):
+        <green>return</green> x*(1-x)
+    <green>return</green> 1/(1+np.exp(-x))
+
+X = np.array([  [<green>0</green>,<green>0</green>,<green>1</green>],
+                [<green>1</green>,<green>1</green>,<green>1</green>],
+                [<green>1</green>,<green>0</green>,<green>1</green>],
+                [<green>0</green>,<green>1</green>,<green>1</green>] ])
+
+
+y = np.array([[<green>0</green>,<green>1</green>,<green>1</green>,<green>0</green>]]).T <green># TRANSPOSE IT</green>  
+
+<green># seed random numbers to make calculation
+# deterministic (just a good practice)</green>
+np.random.seed(<green>1</green>)
+
+syn0 = 2*np.random.random((<green>3</green>,<green>1</green>)) - <green>1</green>    <green>#synaptic weigths </green>
+
+
+<green>for iter in range</green>(<green>10000</green>):
+    
+    
+    <green>#forward propagate</green>
+    l0 = X
+    l1 = sigmoid(np.dot(l0,syn0))
+
+    
+    <green>#how much did we miss by? </green>
+    l1_error = y - l1
+    
+    
+    
+    <green># MULTIPLY THE AMOUNT WE MISSED BY THE
+    # SLOPE OF THE SIGMOID AT THE VALUES IN L1</green>
+    l1_delta = l1_error * sigmoid(l1,True)
+    
+    
+    <green>#update weights</green> 
+    syn0 += np.dot(l0.T,l1_delta)
+    
+    
+<green>print</green>(<red>"training complete"</red>)
+<green>print</green>(l1)
+</white></code></pre>
+
+<center><h3> Output</h3></center>
+<pre><code><white>training complete
+[[ 0.00966449]
+ [ 0.99211957]
+ [ 0.99358898]
+ [ 0.00786506]]
+</white></code></pre>
+<br></br>
+
+
+
+<center><h2>WAIT....what just happened?</h2></center>
+Note the actual outputs we wish to guess 	from the table above are:<br><br>
+<b>   0</b><br>
+<b>   1</b><br>
+<b>   1</b><br>
+<b>   0</b><br><br>
+
+Our network got:<br><br>
+<b>   0.00966449</b><br>
+<b>   0.99211957</b><br>
+<b>   0.99358898</b><br>
+<b>   0.00786506</b><br><br></br>
+
+
+<h3>We did it!</h3>
+<p>
+If you round these numbers, you get <b><i>0,1,1,0</i></b> - basically our network has converged statistically to the correct answers. It will never reach 1 nor 0, but the distinction is so obvious that in practice there is no difference.</p>
+
+<center><h2>OK, WHAT ARE ALL THOSE VARIABLES ABOUT THEN?</h2></center>
+
+<p>Below is a quick break down of some of the variables used,further down is a more definitive description of what just happened lol.</p>
+<center> <span class="image main"><img src="images/NN/description.png" alt="A breif overview of variables used" /></span><br>
+			<i>Above is a brief breakdown of some of the variables and functions used, I will give more details below.</i></center><br></br>
+
+<center><h2>IN A NUTSHELL</h2></center>
+Some things to consider in our 30 lines of code that we ran:<br>
+<ol>
+<li>Our network ran 10000 times</li>
+<li>Each time L1 got closer and closer to the predicted values (try printing l1 in the loop)</li>
+<li>The most important part is <b> l1_delta = l1_error * nonlin(l1,True), </b> this is slope of sigmoid more on this in another blog, but the bigger the slope the more certain the prediction.</li>
+<li>This part <b>(syn0 += np.dot(l0.T,l1_delta))</b> of the code is the actual end game, it is where we update our weights i.e. this is building our model. In the future if applied in a real life context, it would be the part that takes any input you give it and predict an output</li></ol>
+<br><br>
+
+<center><h2>BREAKING IT DOWN</h2></center>
+<center><h3>What's a sigmoid?</h3></center>
+
+<center> <span class="image main"><img src="images/NN/sigmoidf.png" alt="A breif overview of variables used" /></span><br>
+			<i>^^ that's it (don't worry if you don't get it)</i></center><br></br>
+
+<p>
+Remember the bit in our code which said sigmoid? It was a non linear function, and does pretty much what the graph shows you above, it maps any of our numbers to a range between -1 and 1 i.e. 90 might be 0.87 and 12 might be 0.14. This allows us to convert numbers to probabilities.</p>
+<p>
+Without going into to much detail, for our l1 we apply the sigmoid for probabilities but later we need to work out how much our error is (that is the slope of the graph). If you remember from calculus classes, to work out the slope you need to take the derrivative (hence how our funcion also can return the derivitive if we ask it to) and indeed we do when we work out the l1_delta.</p>
+
+<center><h3>Why seed random values?</h3></center>
+<p>
+By seeding the numbers we get a random distribution, but each time round they are randomly distributed in the same way each time we train the network. This makes it easier for us to see how our changes impact on the network.</p>
+
+<center><h3>synaptic weights (syn0) </h3></center>
+<p>
+In neuroscience and computer science, synaptic weight refers to the strength or amplitude of a connection between two nodes, corresponding in biology to the amount of influence the firing of one neuron has on another.<p>
+<p>
+In our code this is quite analogous, this is our weight matrix for our neural network that we called syn0. Basically it is saying it is the zeroth synapse, if we had more layers we would have more synapses (like we do in the second part of this tutorial with syn0 and syn1for our three layer network).
+</p>
+<p>
+To break it down a bit more, we made only two layers (input and output) so we need only one matrix of weights to connect them. That matrix is size (3,1) because we have three inputs and one outputs. It needs to multiply each value by a certain amount so needs to connect to each one, hence the size (3,1).
+</p>
+<p>
+Since we have size L0 = 3 and size L1 = 1 so we need shape syn0 = (3,1)
+</p>
+<p>
+Some final points, we initialize syn0 randomly, and it should get updated over time - because this is where the learning is stored, not in the input output X, Y values.</p>
+
+
+<center><h3>Training</h3></center>
+<p>
+As you may have guessed the actually training happens within the loop, L0 = X because it is the first layer, remember that X has four input values(rows) but we process them at the same time. This is called full batch training, you don't need to know anything else other than more complex models break it down at row level.</p>
+<p>
+<b>l1 = nonlin(np.dot(l0,syn0)) </b> is our step where we perform predictions. Basically we take a stab then adjust each iteration. The equation takes the dot product of l0 and syn0 (in this case multiplies them) then passes the result through the sigmoid function. This is a bit complicated and i definitely recommend more study as you go, but for now this is a matrix multiplication of layer0 (i.e. input) by our weights.
+	</p>
+
+<center><h3>Quantifying the Error</h3></center>
+<p>
+Our value l1 represents a 'stab' at each of our inputs, we now subtract the actual output value (y) from this guess. The results is either positive or negative, i.e. the difference represents how much we missed by for our four inputs and represented as a vector.<p>
+<p>
+
+<center><h3>Course correcting</h3></center>
+<p>
+This is quite tough to grasp without a background in calculus, I will explain the basic principle here then go into more detail at the end in the theory section (that may be a work in progress). Generally we want to preserve the state of high confidence predictions and banish the low confidence guesses. This is what multiplying the slope by the error does.<br></br>
+
+<center> <span class="image main"><img src="images/NN/sigmoid-deriv-2.png" alt="Sigmoid function" /></span><br>
+
+If you look at the sigma graph, any value on the curve that is close to Y = 1 or Y = 0 will have a shallow slope. The slope is at the steepest in the middle, (in fact taking the slope of the sigma curve is what differentiating means). <br>
+So in our code we have <code>l1_delta = l1_error * nonlin(l1,True)</code> and <code>l2_delta = l2_error * nonlin(l2,True)</code>, in both of these cases we are saying, if the curve is shallow, then the number will be close to 0 and thus the delta will be small. The end game is to reduce the detla, so the model is as accurate as possible. The final step where we update our weights, is the learning process and this of course involves replicating delta!! 
+</p>	
+
+<center><H1>aaaaaaaand we are done!</H1></center>
+<p>Ok, that was a lot to take in! For now read over the notes a few times until you are comfortable. If you got this far, seriously a huge well done - you have built your first network that statistically converges on the right model - independently, pretty neat eh? This is what machine learning is all about! Next week I will pick up on a three layer neural network (with the magic sauce - back propagation). <br>
+	Many thanks for reading, please like or share below if you want to see more. 
+</p>
+
+
+
+<br><strong> Adam McMurchie  <br></br>06/June/2018 </strong>
+<br><br>
+<br><br>
+
+
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg17"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

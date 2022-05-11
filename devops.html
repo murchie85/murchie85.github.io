@@ -1,0 +1,208 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>A snapshot of DevOps</title>
+    <meta property="og:url"      content="https://murchie85.github.io/devops.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Tutorials - A snapshot of DevOps" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="images/devops/devfun.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/devops/devfun.jpg"> <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="This is a story about a multifunctional DevOps team and their BAU adoption of DevOps from how tools are best utilised to adopting a multi-functional team that rewards enthusiasm and promotes proactive contribution.">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=1751839964842666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+
+
+				<div id="blogs">
+					<article id="Blog">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>A snapshot of DevOps</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+						<center><span class="image med"><img src="images/devops/dev3.jpg" alt="DevOps"></span></center>
+										<center> <i>A day in the life of a multi-functional team</i></center><br>
+	
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=A snapshot of DevOps">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/devops.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
+
+
+
+
+
+<p>  Understanding just what DevOps is and how it can be applied is a job in itself, but envisioning the end to end dynamic can be next to impossible if the mindset isn’t there. That is why in this blog rather than lecture the theory, we will explore a hypothetical team and their BAU adoption of DevOps from how tools are best utilised to adopting a multi-functional team that rewards enthusiasm and promotes proactive contribution.
+Our hypothetical scenario involves a company BetaNova Ltd, they have been fully agile for five years now and have spun up multiple Scrum teams, adopting end to end DevOps methodologies from Continuous integration and Delivery to test driven development.  
+</p>
+
+<p> A new engineer Jack starts his day with a laptop and a development virtual machine (VM) already set up, authorisations, user access and all the accounts are preconfigured and active. The most common GitHub and Endevor repositories are cloned and linked. Aliases, shortcuts and prerequisites are installed for all the tools and are clearly visible. </p>
+
+
+
+<div id="quote"><center>
+<b style = "font-size:190%;color:orange">“Standardisation of tools and practices between teams make it easier for new people to hit the ground running regardless of where they are based. Each team can customise as they see fit.”
+</b>
+</center>
+<br> <br>
+</div>
+
+<p>
+Additionally, on the startup there is a clear link to vital resources, in a structured and coherent manner on all key aspects from getting started with the tools, to the on boarding process. <br><br>
+Jack will get paired up with an experienced employee to walk through the testing and development process’s that he will adopt in his daily work. Jack starts by coding on his local machine for development work. This is the VM (Virtual Machine) and was spun up in conjunction with configuration management tools such as puppet or ansible to ensure that all the required software, installs and resources were present. This also means the set up process is completely idempotent i.e. runs the same on all machines, every time. <br> 
+More so, Jack’s machine is almost identical to the production live environment, he is able to run and test code locally - this means he can make changes to production code without having to infringe on active development code. This also reduces potential strain on shared resources and the developers actively working on changes.</p>
+
+
+						<center><span class="image small	"><img src="images/devops/devops.jpg" alt="DevOps"></span></center><br>
+
+
+	
+<p>
+ Prior to main branch deployment, BetaNova engineers can achieve a good degree of confidence by running a suite of local unit and functional tests. Depending on the size and complexity of the project, the team can either test their changes against a server ‘production-clone’ (a Jenkins or Octopus cluster) which is almost identical to live. This also allows them to adopt continuous integration, all this without committing to the master branch (route to live). At this point the engineers have an even further boosted degree of confidence that their change is clean. 
+</p>
+
+
+<div id="quote"><center>
+<b style = "font-size:190%;color:orange">“The difference between Change and Version driven continuous integration is only dictated by the technology. It is akin to choosing between wet and dry tyres - it depends entirely upon the terrain.”
+</b>
+</center>
+<br> <br>
+</div>
+
+<p>
+BetaNova excels in both cutting edge mainstream technology as well as retaining a core legacy knowledge base for traditional customers and services. This means a challenge for the colleagues to maintain a duel and sometimes diametric mindset to the change process.  This means understanding the difference between a change driven CI pipeline and a version driven pipeline. The difference appears subtle on the surface but like cracks in a foundation can have significant downstream affects if the wrong approach is adopted.</p>
+<p> 
+For JAVA, React and modern technology deployments, commits happen rapidly throughout the day via GitHub. To take advantage of this the team have built a change triggered CI pipeline where the minute a developer wishes to commit, it is managed by intelligent deployment tools, automatically building, running tests and even dropping the code off to QA if necessary. This automatically starts to build the QA servers as well as running the full CI test suite.</p>
+<p> 
+ For traditional COBOL, Assembler and PL1 developers, code synchronisation is governed more rigidly. Continuous integration is not based on the latest changes but rather it is initiated when there is agreement between all interconnected components that they have the same version. This acts as a procedural safety net, preventing a new small superfluous change taking precedence over a structured coordinated deployment of components that have successors and dependencies.<br><br>
+  For the uninitiated the opposing philosophy  (change vs Version driven) can appear completely alien and perplexing however for the veteran DevOps specialist, this is simply a change in the position at where the continuous integration kicks off. As in both cases, the code movement should be fully automated with the same standard for code quality adopted. It is effectively the difference between choosing wet or dry tyres, in that it depends on the terrain. 
+</p>
+
+
+<div id="quote"><center>
+<b style = "font-size:180%;color:orange">“Developers document all the fixes to standard problems and known issues in a centralised repository.  This means that when ops are called out in the early hours they will have a goto resource for all known standard fixes - this can save hours of investigation every week.”
+</b>
+</center>
+<br> <br>
+</div>
+
+
+<p>
+	BetaNova’s automated CI process takes in and around 5 to 15 minutes to deploy fully from start to finish. At any point during the CI if the deployments or tests fail, ample reports are available with monitoring tools that are not restricted to production in visibility. Additionally developers are encouraged to add resolutions and fix history to a centralised repository that the whole team use. This means that when ops are called out in the early hours they will have a go to resource for known standard fixes - this can save hours of investigation every week. </p>
+
+
+						<center><span class="image small	"><img src="images/devops/dev2.jpg" alt="DevOps"></span></center>
+<center> <i>New tools are adopted only after careful evaluation from both the seniors and at least 50% of the engineers who will be using it </i></center><br>
+
+
+
+
+<p>
+ Depending on the companies commitment to code quality they can also integrate code scanning tools like SonarQube to catch both syntactic and functional human errors - even things as advanced as datatype mismatch can be caught. Additionally, BetaNova fosters a blameless environment culture, where senior engineers can occasionally pull code to ask for spot checks. Newer colleagues and junior members are partnered and skilled up but more importantly are encouraged to be a part of that process as early as possible as to prevent the feeling of ‘elitist programming’.</p>
+
+
+<div id="quote"><center>
+<b style = "font-size:190%;color:orange">“Team leaders and seniors should lead by example to foster a team of true equals. There should be no favouritism and technical silos should be discouraged.”
+</b>
+</center>
+<br> <br>
+</div>
+
+<p> Further more, both junior and new colleagues are actively guided in the DevOps culture, and those showing passion and interest are supported from the top to grow and are acknowledged for their contributions. This can involve local team awards - from gift vouchers to recognition, as to dissuade the trend of the <i>bell curve favouritism</i>.</p>
+<p>
+In fact significantly more resources should be allocated to developing and struggling colleagues than the resident leaders. So much so that the recognition should be equally allocated to the struggling engineers who have finally caught up and overcome their challenges. Not simply because a team is as fast as its slowest member, but to foster a true DevOps culture requires the enthusiasm and support of all colleagues so that we move from a team of siloed experts to a true multifunctional team of specialists. </p>
+
+
+									<center><div id="start"> <h2> Thanks for Reading</h2> </div></center> 
+
+
+
+
+<br><strong> Adam McMurchie  20/Sep/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg6"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

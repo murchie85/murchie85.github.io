@@ -1,0 +1,381 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>Evotetris</title>
+    <meta property="og:url"      content="https://murchie85.github.io/evotetris.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="Understanding Genetic Neural Networks" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="https://murchie85.github.io/images/blog/tetris.jpg" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/blog/tetris.jpg">
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="This blog takes a look at genetic algorithms by use of example - A customisable genetic algorythm that applies evolutional learning by playing Tetris. ">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Understanding Genetic Neural Networks</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+							<center><span class="image med"><img src="EvoTetris/mario.gif" alt="Deep Learning Mario"></span></center>
+										<center> <i> Mario being played by a Neural Network</i></center>
+
+<a style = "font-size:110%;color:silver" href = "#start"> <i> Skip Intro</i></a>.<br><br>
+
+<p> There is so much happening in the world of AI right now, that even an experienced software engineer would still need about 6-8 months training to get up to speed.  No doubt of heard of the terms Neural Networks and machine learning or LTSMs, SVMs, recurrent & feedforward networks if you are a bit more involved. 
+That said, almost all neural networks today (which are a sub set of machine learning systems modelled on the brain) ultimately rely on the same core principles. That is they are directed somehow to achieve a desired outcome, be it feed forward with hidden layers or recursive error corrective approaches. 
+</p>
+
+
+<p>
+As <i>‘exciting’</i> as that sounds, in this blog we will discuss a different one which is the dark horse of the pack - The Evolutional Neural Network. 
+As suggested in the name, Evolutional Neural Networks <b>(ENNs)</b> follow a process of natural selection and are subject to a degree of randomness as well as other features that we see in nature. 
+About 30 years ago, ENNs or Genetic Neural Networks came onto the scene. For 25 years it hadn’t made much of an impact and there was little to no real utility in the mainstream. However just recently about 4 or 5 years ago with the increase of computational power and the introduction of neural network libraries like tenor flow - genetic NNs have risen from the flames.  Now we are  seeing widespread adoption of ENNs in startups, big corporations and research where scientists are looking for new ways to find optimal solutions to complex problems. 
+</p>
+
+
+
+							<center><span class="image med"><img src="EvoTetris/tetrisg.gif" alt="Tetris"></span></center><br>
+
+<p>
+In this hybrid blog/tutorial we are going to walk through all the key features of ENNs by looking at code (provided<a style = "color:silver;" href = "https://github.com/murchie85/murchie85.github.io/tree/master/EvoTetris"> here</a>.) that has been popular amongst A.I machine learning scientists. It is a genetic algorithm embedded with a javascript Tetris game, and applies an evolutional (survival of the fittest) approach to playing the game. By allowing nature to take its course over hundreds of generations (game session),  complexity arises and the A.I starts to make increasingly efficient selections. 
+ The code in total is 1000 lines of javascript, which I will provide (including links to the original author of the code) and we will be coding the first100 lines This constitutes the highest level approach, the initialisation function all the helper methods. We will see exactly what the high level architecture is then we will talk about the helper functions. But ultimately will cover all 1000 lines of code.
+</p>
+												<center><div id="start"> <h2> HOW EVOLUTIONAL MODELS WORK </h2> </div></center> 
+
+<p>
+
+The terms evolutionary and genetic are used interchangeably, e.g. a genetic algorithm - they are the same thing. There are three parts to a evolutionary/genetic algorithm<br><br>
+
+<b> 1 - Selection</b> <br><br>
+We create a population of genomes (sometimes called chromosomes) they can be anything, but ultimately they are some kind of entity you want to improve over time. 
+Say for example you want to create a 3D simulation and we wanted to create a bipedal robot, we would have a bunch of spiders or quadrupeds. They would be our genomes, they would then breed and the idea is each genome has multiple genes (parameters) then we use a fitness function to select what the best ones are. We can decide what these fitness functions are, such as who can walk past 2 meters - congratulations you get to breed. Essentially we SELECT who is fit to breed. <br><br>
+<b>2 - Crossover</b><br><br>
+Now we come to the reproduction (the fittest ones get to make babies here) reproduction can mean many things. In this case we have some sort of merging combination that is analogous to reproduction so for example we may take two spiders that are fittest, we find a way to convert their stats to a scalar, multiply together and then we get some output scalar. Now we revert it back to a 3D spider. This is entirely application dependent.  So they will create offspring.<br><br>
+
+<b>3 - mutation </b><br><br>
+Now after the fittest have bred, we randomly edit the genes, or parameters in some way so we hope to create beneficial features in the future.  This could be simply multiplying the scaler by a random number.
+The resulting flow looks like this. 
+
+
+<br><br>
+		
+
+ 				<center> <span class="image smaller"><a href="EvoTetris/nn.jpg"><img src="EvoTetris/nn.jpg" alt="Neural Network Flow" /></span></a></center>	
+ 	
+
+
+
+ </p>
+<p>
+The idea is to replicated Darwinian evolution, and just like in DE we have a population, they breed and only the fittest survives. The fittest then get to mate, and their offspring will have their genes (forcibly) mutated so that there is an element of change which can hopefully result in positive features over time in the environment.
+So in a nutshell we initialise a population, then perform a selection and we breed them finally we apply a mutation.</p>
+
+												<center> <h2> THE GOOD THE BAD AND THE DARWIN AWARD </center> </h2>
+
+
+
+<p>So why don’t we use this more often? First lets understand how normal neural networks work. A conventional neural net will use a process known as backwards propagation to error correct.
+	<i>We take some input data then we propagate it through each layer, then we have an output value and compare with expected value (the difference between the two) - this is our error value and we use that to calculate the partial derivative with respect to each layer going backwards and then multiply by our weights to update our network.</i></p>
+<p>
+So instead of that we evolve the weights (genomes) by selection and mutation (instead of using the derivative approach). At present backwards propagation is still the best approach,  but evolutionary algorithms are promising and they have been around since the 80s. For example open A.I have released a paper on evolution strategies as a scalable alternative to reinforcement learning. Another good use case is neuro-evolution used in games, it is a neural network optimised for a certain objective and it doesn’t stop there. </p>
+<p>
+Conventional neural networks that use gradient decent (backwards propagation) doesn’t always converge to the global minima, it converges to the local minima. If we consider the optimisation options as a bendy curve, conventional methods will find the local minima instead of the global minima (so not the actual lowest point i.e. the best cost). This is where NeuroEvolution can be beat by evolutionary algorithms.</p>
+<p>
+They are also able to discover and work on entire neural networks, instead of hyper parameters (previous network state). If we consider a neural network zoo (a bunch of networks), one used for binary data another scalar data  and so so that we may have 10 or more different choices, this can present a huge problem figuring out which NN to apply and when. What if we could learn what NNs would be optimal for a certain use case, THIS is where genetic algorithms are most appropriate because standard backward propagation NNs are not configurable for this. Evolutionary algorithms can optimise for the entire type. <p/>
+<p> <b> <i> So..........</i> </b> </p>
+
+
+
+												<center> <h2> back to tetris </center> </h2>
+
+<br><br>
+
+			<center><span class="image med"><a href = "EvoTetris/tet.jpg"> <img src="EvoTetris/tet.jpg" alt="Tetris played by ENN"></a></span></center>
+										<center> <i> This is what the final produce looksl like, not the generation number on the right</i></center>
+<br> <br>	
+<p> In the context of a tetris AI
+<ol><b>
+<li>We initialize a population of 50 genomes.</li>
+<li>Each genome is a set of 7 parameter values of the game state.</li>
+<li>Our AI makes moves based on these parameters values.</li>
+<li>It tries out all possible moves based on each genomes in the current population to make a single move.</li>
+<li>once we've gone through all genomes in the population we create a new set via the crossover approach.</li></b>
+</ol>
+<p>
+The goal is to get a score of at least 500. we keep evolving until then.<br>
+A genome is these set of weight values which improve over times. The  agent makes decisions based on these genome values
+
+<br>
+
+<h3> score calculations</h3>
+<ol>
+<li>Each time the block moves down the score is incremented by one </li>
+<li>When a row is cleared the score is increased depending on how many rows cleared at once	</li>
+
+</ol>	
+
+<br>
+
+<h3> Order of Helper Functions (after global parms have been set)</h3>
+<ol>
+<li> createinitialpopulation </li>
+<li> evaluatenextgenome (SELECTION)</li>
+<li> evolve (CROSSOVER)</li>
+<li> makechild (MUTATION)</li>
+<li> makenextmove</li>
+<li> getAllPossibleMoves</li>
+<li> gethighestratedmove</li>
+<li> update</li>
+
+</ol>	
+
+</p>
+
+
+<p>
+							<center> <h2> building the game </h2> </center>
+Ok, that is a lot of coverage, now its time to get into the meat of the code by building up the core high level flow which is within the first 100 lines.
+First define an array as shown below. <br>
+
+			<center><span class="image smaller"><a href = "EvoTetris/1.jpg"> <img src="EvoTetris/1.jpg" alt="Tetris played by ENN"></a></span></center>
+										<center> <i> a 10 by 20 nested array grid</i></center><br> 
+Now we define the block shapes as neatest arrays with coordinates
+
+
+			<center><span class="image smaller"><a href = "EvoTetris/2.jpg"> <img src="EvoTetris/2.jpg" alt="Tetris played by ENN"></a></span></center>
+Now we define block colours which are just hex values
+
+		<center><span class="image smaller"><a href = "EvoTetris/3.jpg"> <img src="EvoTetris/3.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+We want to seed our code so its reproducible so it is deterministic, this means we will have a lot of randomness. So whenever we compile the game over and over again we will start from same point and our random values will be the same every time (this is good for  debugging)
+
+
+		<center><span class="image med"><a href = "EvoTetris/18.jpg"> <img src="EvoTetris/18.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+Lets start writing code for our block shapes. We want to keep track of current block we are on, for the x value and y value we want zero, and we want to change over time. the shape in this case is undefined (that is our I,J,L etc).<br>
+<br>
+		<center><span class="image small"><a href = "EvoTetris/5.jpg"> <img src="EvoTetris/5.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+Then we want our upcoming shape and we want to store them in a bag var. Then we define an index, to show where we are in the bag, what block are we using .
+	</p>
+
+<p>
+
+Now we want our upcoming shape and we want to store them in a bag var. Then we define an index, to show where we are in the bag, what block are we using .
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/4.jpg"> <img src="EvoTetris/4.jpg" alt="Tetris played by ENN"></a></span></center>
+<br>
+We can change speed, and a boolean to say if we want to even change the speed or not.Then we want to save the state of the game, the state is going to be used as a way to save it and reload it later. It is like model checkpoints in tensor flow. 
+We have an index in a speed value array for four speed values. <br>
+
+We have a value to set A.I on or off. A draw value to draw the game and a function to update the algorithm.Moves take and a limitation (more than 500 moves will go over the ceiling) Keeping it here will allow our machine to optimise for the score, so a point each move.MoveAlgorithm are our seven parameters. Inspect move selection is a boolean for inspecting which moves we will play next.
+
+
+
+
+							<center> <h3> genetic Algorithm values </h3> </center>
+<p>
+Lets start off with 50 genomes, then then an array to store them in, the current genome keeps track of that (the index we start off with). We iterate through this as we start off with thing. The first generation is called the zeroth generation. Archive is used to store what our values are for each generation, we will use javascript built in local storage function, allows us to store these values in ram (this is super useful, we don’t need to use a database). The elites are the genomes that we want to reproduce, and all our genomes
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/6.jpg"> <img src="EvoTetris/6.jpg" alt="Genetic Algorithm code"></a></span></center>
+<br>
+
+Now we have our mutation rate, this is our value we use to mutate the children (this can be tuned like hyper parameters in a neural network - we can tune this to  make it better). This is like al earning rate. We then have a mutation step - this is a bit like momentum, ‘what is the interval we want to apply the mutation rate too’. <br> 
+
+Now we have our initialize function:<br>
+
+<br>
+		<center><span class="image small"><a href = "EvoTetris/8.jpg"> <img src="EvoTetris/8.jpg" alt="Initialize function"></a></span></center>
+<br>
+
+The first step is to initialise the population size and store in the archive. <br>
+Then we get next shape (from the bag) and we apply that shape to the grid  (stick it in the grid). The get state will have two clones one will save and one will set to current state. Now we create our randomly generated initial values for these seven weights then we start our game loop. The loop is a nested function and we can allow changes to the speed by clearing interval and set a new interval, so this is only if the speed is changed.
+If speed is zero (if game is stopped), then we instruct - don’t draw anything , now update the game (regardless if we draw or not). Otherwise we will just keep drawing.<br>
+The update function updates the game, including the fitness, the move that the A.I makes then it evaluates the next move.<br>
+Finally we initialise with document unload function, this happens right when DOM loads up for this function. 
+
+</p>
+
+<p>
+
+
+														<center> <h2> helper functions </h2> </center>
+<br><br>
+Now its time to cover in detail the  AIs core functions - the helper functions. A quick recap, there are 8 functions in total: 
+
+
+<br><br>
+		<center><span class="image small"><a href = "EvoTetris/9.jpg"> <img src="EvoTetris/9.jpg" alt="Initialize function"></a></span></center>
+<br>
+
+
+
+														<center> <h3>  1. create initial population  </h3> </center>
+
+We will initialise the genome array where we store the genome, so we say ok given a population size 50, then each individual genome will be initialised.  So these are the 7 values you see on the game screen (below )that we hope improve overtime with each generation.
+
+
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/17.jpg"> <img src="EvoTetris/17.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+Now to cover each of the 7 parameters.
+<pre>
+<code>
+
+var genome = {
+	//unique identifier for a genome
+<red>id: Math.random(),</red>
+	//The weight of each row cleared by the given move. the more rows that are cleared, the more this weight increases
+<red>rowsCleared: Math.random() - 0.5,</red>
+	//the absolute height of the highest column to the power of 1.5
+	//added so that the algorithm can be able to detect if the blocks are stacking too high
+<red>weightedHeight: Math.random() - 0.5,</red>
+	//The sum of all the column’s heights
+<red>cumulativeHeight: Math.random() - 0.5,</red>
+	//the highest column minus the lowest column
+<red>relativeHeight: Math.random() - 0.5,</red>
+	//the sum of all the empty cells that have a block above them (basically, cells that are unable to be filled)
+<red>holes: Math.random() * 0.5,</red>
+	// the sum of absolute differences between the height of each column 
+	//(for example, if all the shapes on the grid lie completely flat, then the roughness would equal 0).
+<red>roughness: Math.random() - 0.5,</red>
+};
+
+
+</code></pre>
+
+</p>
+
+<p>
+
+In short these are all things we want to optimise for like minimising the amount of holes, maximising the number of rows cleared etc. 
+<br>
+ Lets look at the gene for clearing rows, the more the rows are cleared then the more this weight increases, why not have the absolute value instead? This weight value looks unrelated to input and output data, but in reality they are measurements we use to compute an output scalars that multiply/optimise. We initialise it randomly. We use crossover to update all the values .
+
+
+
+
+														<center> <h3>  2. Evaluate Next Genome  </h3> </center>
+
+Now we have created the initial population, we want to select for the best genome, firstly we want to increment where we are in the genome array and we will do this for each genome. If there is none we will evolve the population, so its time to move on to the next generation (then start breeding). If there is one we will load up where we are in the game, we will reset the move, make the next move (and try out a bunch of moves). <br>
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/13.jpg"> <img src="EvoTetris/13.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+
+														<center> <h3>  3. Evolve  </h3> </center>
+<br>
+In the high level genetics flow, this is step two (where the interesting stuff is about to happen). So lets talk about what evolution looks like in this case. This is where the mating happens. Firstly we reset the current genome for this generation, then increment to the next, then reset the grid/game to start again. Assuming we calculated what our fitness will be we then sort the genomes in order of fitness (so we can push the best ones into the elites array i.e. they are fit to breed). Then we remove the tail end by popping it off (this is the bad half we don't want to make it). We then sum the total fitness of the genomes together. 
+
+
+<br><br><br><br>
+		<center><span class="image small"><a href = "EvoTetris/14.jpg"> <img src="EvoTetris/14.jpg" alt="Initialize function"></a></span></center>
+<br><br>
+
+If you got this far then I am truly grateful for you taking the time, there are still another 5 helper functions to go - I have decided to focus my time on the next big thing. That said if you made it this far please drop me a message and I will finishing the final five off straight away. 
+
+</p>
+
+
+
+
+</p>
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Understanding%20a Genetic Neural Networks">
+Tweet</a></div>
+
+<div class="fb-like" data-href="https://murchie85.github.io/evotetris.html" data-width="12" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+
+
+<br><strong> Adam McMurchie  26/May/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg9"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

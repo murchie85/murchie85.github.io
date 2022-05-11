@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>Game Development for Android</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta property="og:title" content="Game Development for Android" />
+		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+		<meta itemprop="image" content="images/android.jpg" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/android.jpg">
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Learning to Code games can seem daunting, in this blog I talk about the basics of coding games in Java using the android development kit. I cover off what was easy to pick up, and what took time. I also try to give some high level tips, info and sources for anyone wanting to pick it up">
+		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Game Development for Android </h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+				<div id="blogs">
+					<article id="Blog">
+			
+
+
+ 									<center>	<h3> Game Development Using Java </h3> </center>
+
+<p>
+ For me game development is more of a journey than a skill - there doesn’t appear to be a clearly defined boundary at which point you have made it as a games programmer. As I will explain in a future blog on HTML games, it takes about a day to learn how to code pong from scratch (or 20 minutes if you have experience). </P>
+<P/>
+On the other end of the spectrum, it takes hundreds of developers, with qualifications, years of experience and millions to produce a mainstream game such as Grand Theft Auto.  There is an ocean of knowledge to be learned and game development has a rich history and diverse heritage. </P>
+<P>
+All the above considered, on the scale I rate myself as just beyond the point of dipping my toes in the water. In this instalment, I will cover some of the learnings I have encountered coding games in Java using the ASDK - Android Software Development Kit. 
+</P>
+									<CENTER>			<I style= "color:yellow;">	SKIP TO LESSON</I>								</CENTER><br>
+
+
+
+<p>My progress with creating Super Mario for a mobile device can be found here:   <a href="https://github.com/murchie85/mario3 "> Adam's GitHub</a>. Also a video of this can be found here at <a href="https://www.youtube.com/watch?v=2u5WwJ0FQFs   I">Super Mario</a>. Finally I also managed to fully complete <a href="https://www.youtube.com/watch?v=-PffRq-agTw">flappy birds</a> - but have more I wish to add in the future.  </p>
+
+
+
+										<center>	<h3> LIBGDX</h3> </center>
+<p>Whilst Java has many libraries, which includes useful functions, for gaming it can get quite tedious constantly defining things like x,y,z position, velocities, vectors. delta time and so on. LIBGDX saves a lot of the low level design and encapsulates a lot of functions that can be used on the android platform. It is highly recommended to use this lib or a similar one. </p>
+<p>The link for LIBGDX can be found here at <a href="https://libgdx.badlogicgames.com/"> BadLogic</a>. </p>
+<span class="image main"><img src="images/JAVA-GAMES/libgdx.jpg" alt="Image of GDX Form"/></span><br>
+
+<p> Once you have filled the form for your specified game - a jar file will be produced with a project file directory that can be imported into android SDK. For more detailed instructions on how to set up LIBGDX - feel free to contact me. </p>
+
+												<center>	<h3> CREATE DESKTOP MODE</h3> </center>
+
+<p>Instead of having to boot the simulation/game onto your phone or device every time you need to test your code - its far easier to create a run configuration set to your desktop. The high level steps are here -</p>
+<div id="green">
+<ol>
+<li>ANDROID DROPDOWN -------> EDIT CONFIGURATION </li>
+<li>PLUS SIGN ----------------------> APPLICATION </li>
+<li>NAME -----------------------------> DESKTOP </li>
+<li>CLASS PATH ---------------------> DESKTOP</li>
+<li>MAIN CLASS ---------------------> DESKTOP LAUNCHER (THE CLASS THAT GETS RUN WHEN WE select RUN) </li>
+<li>WORKING DIR--------------------> ANDROID ASSETS FOLDER (LIB GDX LOOKS FOR EVeRYTHING IN ASSETS FOLDER) </li>
+</ol></div>
+
+<p> Select <i> Apply</i> and confirm. Run the code using the desktop run mode. When ever you wish to test the code in your game, simply click the desktop from the dropdown and click the green play icon. You Should now see the badlogic logo, if you don't - then check your desktop configuration and import of LIBGDX</p>
+<span class="image main"><img src="images/JAVA-GAMES/badlogic.jpg" alt="badlogic image"/></span><br>
+
+											<center>	<h3> Create a State package</h3> </center>
+<p> In order to create our different game states <i>(such as Pause, Menu and Play state)</i>, we need to bundle them up into a package.Here are the steps to create our package called <b>STATES</B> and our first class called <b>State</b></p>
+	<div id="green">
+<ol>
+<li>CORE---->JAVA </li>
+<li>COM.BIRDS.FLAPPY--->CREATE NEW PACKAGE(called states)</li>
+<li>STATES------> CREATE NEW CLASS (called State) </li>
+</ol></div>
+<p> State class will be an <i> abstract class</i> in which all other states like play state, will extend this. The reason we use an abstract class, is if all our other classes were to have a common feature, such as initializing the camera, then there is no need to write that piece of code 5 times for five classes. Simply put it in the abstract class, and have all the other classes extend it. If this is confusing, I would recommend going through some more JAVA examples first (I prefer to learn by example). Otherwise feel free to contact me for a breakdown</p>
+
+<p> Now its time to flesh out our abstract class, I have put some of the basics in the code snippet below to get you started</p>
+
+
+<pre>
+  <code>
+  	
+  <blue>public abstract class</blue> State {
+
+   <blue>protected</blue> OrthographicCamera <purple>cam</purple>;
+   <blue>protected</blue> Vector3 <purple>mouse</purple>;
+   <blue>protected</blue> GameStateManager <purple>gsm</purple>;
+
+
+   <blue>protected</blue> State(GameStateManager <purple>gsm</purple>){
+       <blue>this</blue>.<purple>gsm</purple> = gsm;
+       <purple>cam</purple> = <blue>new</blue> OrthographicCamera();
+       <purple>mouse</purple> = <blue>new</blue> Vector3();
+
+   }
+
+   <blue>protected abstract void</blue> handleInput();
+   <blue>public  abstract void</blue> update(); 
+   /// takes in DT difference beteen one frame rendered and next frame rendered
+   <blue>public abstract void</blue> render(SpriteBatch ab); 
+   // Sprite batch container for everything to render
+}
+
+  </code>
+</pre>
+
+						 							<center>	<h3> COMING UP</h3> </center><br>
+ 
+ <p>Now that we have the LIBGDX installed and a desktop run configuration, its time to start talking about some of the specific functions that will be required for making a basic game. For the purpose of this lesson, we will consider small games that requires less memory. Some things that will be covered are game-loops, textures, Orthographic cameras, and game worlds. I will also cover methods for coding in collisions, interaction with objects such as the ground.</b>
+
+
+<strong> Adam McMurchie  10/April/2017 </strong>
+<br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg3"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

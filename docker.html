@@ -1,0 +1,296 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>Containerization with Docker</title>
+    <meta property="og:url"      content="https://murchie85.github.io/docker.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Tutorials - Containerization with Docker" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="images/docker/docker3.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/docker/docker3.jpg"> <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Docker is simply awesome, in this tutorial I will give a hands on run through of how to rapidly spin up docker containers and hit the ground running with self contained applicaiton deployments">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=1751839964842666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Containerization with Docker</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs" style = "background-color: rgba(27, 31, 34, 0.90);">
+					<article id="Blog">
+
+							<center><span class="image med"><img src="images/docker/docker4.jpg" alt="docker"></span></center>
+										<center> <i>Shipping and Containing your Applications with Docker</i></center><br>
+
+
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=containerisation with docker">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/docker.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
+
+													<center><h1>What is Docker?</h1></center>
+
+
+<p>
+Docker is <b>awesome</b>, that’s what it is.<br> In a nutshell, docker helps you get round the problem of <i>‘well it worked on my machine’</i> routine. It does this by taking an application you want to work on, all the bits and bobs around it (database, configurations etc) and packages it up into a self contained container. These containers are built from a simple image, this means a whole bunch of containers one for each developer can be rolled out in minutes - allowing parallel development with no infringement on the main coding branch.  Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
+</p>
+
+							<center><span class="image med"><img src="images/docker/docker2.jpg" alt="docker"></span></center>
+										<center> <i>Docking uses less memory, as each container can share resources but remain isloated</i></center><br>
+
+
+
+<p>So “whats a container?” I hear you ask. Containers are a way to package software in a format that can run isolated on a shared operating system. Unlike VMs, containers do not bundle a full operating system - only libraries and settings required to make the software work are needed. This makes for efficient, lightweight, self-contained systems and guarantees that software will always run the same, regardless of where it’s deployed. </p>
+
+<p>
+<h3> Docker Engine</h3>
+ The docker engine: 
+<li>Has ability to run containers</li>
+<li>Run in the background on linux virtual machines </li>
+<li>Adopts linux container technology </li>
+<li>Docker container shares resources - efficient </li>
+<li>They look like seperate isolated machines, resources, items etc but actually share resources </li><br><br>
+
+</p>
+
+<br>
+
+										<center> <h2> Docker Tutorial </center> </h2><br><br>
+
+
+<p>Right lets get stuck in, first up here are some useful links you can use for installation</p>
+
+
+<li> Docker install options <a style = "color:gold;" href = "https://docs.docker.com/engine/installation/#time-based-release-schedule"> here</a></li>
+
+<li> Docker for AWS <a style = "color:gold;" href = "https://docs.docker.com/docker-for-aws/why/"> here</a></li>
+
+<li> Indepth Docker Tutorial <a style = "color:gold;" href = "http://takacsmark.com/getting-started-with-docker-in-your-project-step-by-step-tutorial/"> here</a></li>
+
+<li> Removing Docker <a style = "color:gold;" href = "https://tecadmin.net/remove-docker-images-and-containers/#"> here</a></li>
+
+<br><br>
+
+
+										<center> <h3> Getting Started</center> </h3><br>
+
+<pre>
+<code>$ docker ps
+<green>shows docker containers installed</green>
+$ docker run hello-world 
+<green>downloads and runs standard hello world docker application </green>
+</code></pre>	
+Once you have installed docker, and are happy that the service is up and running create your own directory lets call it docker-tutorial and then open terminal or command line and run the above commands. 
+Now its time to navigate to the official Docker site to look for some pre designed images we can use to spin up containers. First go <a style = "color:gold;" href = "https://hub.docker.com/ "> here</a>. Then in the top left corner you see a search bar, you can search for the application/lib/config combo you wish to use - note you don't actually download it here as you can do that from terminal<br><br>
+
+
+
+							<center><span class="image med"><img src="images/docker/dockershot.jpg" alt="docker options"></span></center>
+										<center> <i>Docker has a large community of open source and official images</i></center><br>
+Images are obtained from docker hub, You can get custom made images as well as official ones. The search result shows metrics for each image, including the number of pulls, ratings etc. Lets search for Nginx and select the one that says official. <br>
+More information on Nginx related to docker can be found  <a style = "color:gold;" href = "https://hub.docker.com/_/nginx/"> here</a>.<br><br> On the docker Nginx information page, it also shows you examples of how to use the image, which I will flesh out. Normally the default nginx is based on Db and Jessie (a linux distribution which is feature rich and stable), but today we will be using the Alpine version - a trendy distribution that is linear and optimised for secrurity. Also it is MUCH smaller, from about 71mb down to 17mb. 
+Now lets go log back into terminal and pull the Nginx official repo down to our computer. <br><br>
+
+<pre>
+<code>$ docker pull nginx:1.10.2-alpine
+<green>This will download nginx for you</green>
+$ docker images
+<green>Now we can see our new image</green>
+</code></pre>
+<br>
+
+Awesome, now that nginx has been downloaded and verified we want to run the docker container, but first we need to map our container to host ports. This is simple with docker, we simply use the format pxx:yy where xx is the container port and yy is your host port. If you try it without maping you wont be able to access your container port. <br> <br>
+<center> <code>docker run --name my-nginx -p 80:80 nginx:1.10.1-alpine</code></center>
+<br>
+Once complete, lets open up our browser and navigate to localhost. Simpley enter http://localhost or put in your local ip address. You should see the following output:<br><br>
+
+
+							<center><span class="image med"><img src="images/docker/nginx.jpg" alt="nginx welcome screen"></span></center>
+<br>
+
+Notice that when you refresh the browser if you look on the terminal screen you can see it adds a new transaction for every refresh. <br><br>
+
+
+							<center><span class="image med"><img src="images/docker/transactions.jpg" alt="transaction count"></span></center>
+
+<h3> Terminate Container</h3>
+
+Now its time to close down the container <br>
+
+<pre>
+<code>$ CTL + C
+<green>terminates docker container application run</green>
+$ docker ps -a
+<green>displays all active and inactive containers</green>
+$ docker rm my-nginx
+<green>Removes container</green>
+$ docker ps -a
+<green>displays all active and inactive containers</green></code></pre>
+<br> 
+So just now we were able to quickly and rapidly, download a docker image, spin up the image and run it so that we were able to start the nginx reverse proxy server. Also: <br>
+<li>We could see the container in the foreground (everytime we refreshed a transaction was added) </li>
+<li>If we wish to run in the background, we simply add -D as a runtime parameter (this means it runs as Daemon)</li>
+<li>You can't change runtime parameters of an existing container, you need to create a new container (I will show you a way to modify parms later)</li>
+<li>So this means if you want to change port mappings of a container once its spun up, you can't do that</li>
+<li>You need to launch a new container, and drive that container using configuration map</li><br><br>
+
+
+<h3> Run Application in Background</h3>
+
+As mentioned above we enter the same run script specifying ports etc, but this time we add in a -d parameter which is our runtime parameter to tell docker to run it as daemon.<br><br>
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 nginx:1.10.1-alpine
+<green>Runs in background</green></code></pre><br><br>
+
+You might want to verify this by running the <code> docker ps </code> command and going to localhost on your browser.<br> <br><p><br><br> </p>
+
+											<center> <h2> important information</h2></center> 
+<li>Do not put information into containers </li>
+<li>You can not set up a new container with the same information as the one previous </li>
+<li>To solve this we put data outside the container and map to it with volumes</li>
+<br>
+
+<h3> Mounting Docker to A Volume </h3>
+
+Lets create a configuration file and map that configuration file into our container (NGINX), but to do that we must first get inside the container and run a command to mount the volume, then take a copy as a template we can configure later: <br> <br>
+
+<pre>
+<code>$ docker exec -ti my-nginx /bin/sh
+<green>Executes nginx commands inside the container</green>
+$ #/bin/sh 
+<greej>starts shell</green>
+$ ls -al
+<green>list all components</green>
+$ whoami
+<green>prints user </green></code></pre><br><br> 
+
+Now lets go and look at the nginx configuration file, take a note and copy this into sublime or any other text editor. <br><br>
+
+<pre>
+<code>$ -v /host/path/nginx.conf
+<green>mounts the volume</green>
+$ cat /etc/nginx/nginx.conf 
+<green>prints to screen the contents of nginx.conf</green>
+$exit 
+<green> exits the docker application</green></code></pre><br><br>
+
+ Now its time to stop and remove the container as we are going to create a new instance with a configuration file, in which we will make a minor change to show that we can pass parameters in via a mounted volume.<br><br>
+
+<pre>
+<code>$ docker stop my-nginx 
+<green>Stops the application</green>
+$ docker rm my-nginx 
+<green>removes the container named my-nginx</green></code></pre><br><br>
+
+Now its time to open up nginx.conf in sublime, within our directory. Just CD to docker-tutorials and run sublime nginx.conf. Now lets paste our output that we had copied from inside the previous docker container. Look for the commented section that says gzip on; and uncomment this. Now apply the  following command to run a new docker container except passing in your configuration. <br><br>
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 -v /Users/adammcmurchie/docker-tutorial/docker/nginx.conf:/etc/nginx/nginx.conf:ro nginx:1.10.1-alpine
+<green>You will need to amend the path to point to your nginx.conf but keep in the :ro that follows</green></code></pre><br><br>
+
+Now lets go to localhost in the browser, if you use google chrome open up developers tools, then click on network and click local. Refresh and you should notice that the content-encoding will now say gzip. You may need to clear the cash in google if it doesn't update automatically. <br><br>
+
+<h2> adding a webstite</h2>
+
+Lets make it more interesting and add a website so that we can navigate to when the application and thus the nginx server is running. First clear down your existing nginx docker containers. <br><br>
+
+
+<pre>
+<code>$ docker stop my-nginx 
+<green>Stops the application</green>
+$ docker rm my-nginx 
+<green>removes the container named my-nginx</green></code></pre><br><br>
+
+Now in your directory (which we called docker-tutorials) on the same level make a source folder (mkdir source) and in that folder add a webpage index file (touch index.html). Now in that file add some basic text you can surround it in tags if you like such as bold, header and so on. Save the file and note the directory from terminal by running pwd (present working directory). <br><br>
+
+<pre>
+<code>$ docker run --name my-nginx -d -p 80:80 -v /Users/adammcmurchie/docker-tutorial/docker/nginx.conf:/etc/nginx/nginx.conf:ro -v /Users/adammcmurchie/docker-tutorial/docker/src:/usr/share/nginx/html:ro nginx:1.10.1-alpine
+<green>Again change the paths to match your instance, the first is to your docker configuration and the second is to the src folder</green></code></pre><br><br>
+
+GREAT! Now you are done, if you go to the localhost in the browser page you can see your text in your virtual website. Good Job!
+
+
+<br><strong> Adam McMurchie  23/Sep/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg14"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

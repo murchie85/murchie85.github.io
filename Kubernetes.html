@@ -1,0 +1,357 @@
+<!DOCTYPE HTML>
+
+
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>Kubernetes - Let's get stuck in</title>
+		<meta property="og:url"           content="https://murchie85.github.io/Kubernetes.html" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title" content="Kubernetes - Let's get stuck in" />
+		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+		<meta itemprop="image" content="images/kubernetes/kub.jpg"" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/kubernetes/kub.jpg">
+
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="A no nonsense guide to getting started with Kubernetes">
+		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+
+<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3"></script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Kubernetes in a nutshell</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+<center> <h2> Let's get stuck in</h2></center>
+<br>
+<div>
+<a class="twitter-share-button"
+  href="https://murchie85.github.io/Kubernetes.html">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/china.html" data-width="" data-layout="button" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br><br>
+
+<center> <span class="image main"><img src="images/kubernetes/kub.jpg" alt="Kubernetes" /></span><br>
+			<i>Kubernetes is only about 4 years old, but already has seen adoption that rivals the levels of cloud</i></center><br></br>
+
+Kubernetes is huge, I mean <b>REALLY</b> huge! As of 2018 it is fair to say that Kubernetes ranks amongst the top 5 most sought after skills for technology companies (Along with AWS, Python, Docker and React). </p>
+<p>
+To be frank, it doesn’t really matter if you are a Developer, Tester, DevOps or SysAdmin - Kubernetes skills are worth its weight in gold. The reason is that Kubernetes encompasses several bleeding edge Infrastructure and Software Development concepts: </p>
+
+<li>Infrastructure as Code</li>
+<li>Containerisation</li>
+<li>IaaS</li>
+<li>Cloud</li>
+<li>Serverless Computing </li>
+<br><br>
+<p>
+<b><i>Explanation:</i></b> Kubernetes is an open-source container-orchestration system for automating deployment, scaling and management of containerized applications. What this means is it works as a kind of hub for Pods which in turn comprise of containers (most commonly docker containers), allowing you perform management on mass , such as spinning up 20 pods when traffic demand increases. Inside each container is a stripped down bloat free Linux OS which has your application installed. The reason for this is it makes software development modular, moves away from big monolithic services and can be easily migrated too and from the Cloud. </p>
+<p>
+In this tutorial I am going to take you through the steps needed to install MiniKube which is our local Kubernetes cluster manager, write a simple NodeJs application, wrap that up in a Docker container and use Kubernetes to deploy, manage and load balance our container.</p> 
+<p>
+<b>Warning</b> : It seems like there is a lot of code, but most are one line commands and I explain each step on the way. Don’t be put off, ultimately much of this can eventually be done in a YAML file, but learning how to use the kubectl interface is the first step in becoming a kubernetes master! </p>
+
+
+<center><h1> Installing MiniKube</h1></center>
+
+<p> In this walkthrough we will be using minkube to create a local cluster on your machine, these steps are for use with Mac operating system, if you are using another system the steps are a little bit different. Please google "Minikube installation guide" it will be the first hit </p>
+
+
+
+<center><h3>Install via Mac Brew</h3></center>
+<pre><code><green>brew cask install minikube
+</green></code></pre>
+
+
+<p> Next lets install the kubernetes CLI, this will allow us to interarct with the cluster directly via the command line. </p>
+
+<center><h3>Install Kubernetes CLI</h3></center>
+<pre><code><green>brew install kubernetes-cli
+</green></code></pre>
+
+
+<p> Ensure you have docker up and running, if you don't have it installed I would recommend installing 'docker for mac' that is the most stable popular instance.</p>
+
+<center><h3>Check Docker Up and Running</h3></center>
+<pre><code><green>docker images
+</green></code></pre>
+
+
+<p> Now its time to start your Minikube session.</p>
+
+<center><h3>Starting Minkube</h3></center>
+<pre><code><green>minikube start
+</green></code></pre>
+
+<p> Lets set the Minikube context. The context is what determines which cluster kubectl is interacting with. You can see all your available contexts in the ~/.kube/config file. We will also run another step to check cluster-info after just to ensure kubectl is configured correctly</p>
+
+<center><h3>Setting the Context</h3></center>
+<pre><code><green>kubectl config use-context minikube
+
+kubectl cluster-info
+</green></code></pre>
+
+
+
+<p> Finally in this section you can check the dashboard, (get in the habbit of running this command to keep a view of what is going on with your cluster)</p>
+
+<center><h3>View the Dashboard</h3></center>
+<pre><code><green>minikube dashboard
+</green></code></pre>
+<br></br>
+
+<center><h1>Building your Node Application </h1></center>
+<br></br>
+
+<p> Of course as the purpose of this tutorial is to walkthrough kubernetes, we won't spend too much time on our Node applicaiton. First off, you will need to install node and npm on your mac, once done come back to this section to create a very simple app. <br><br>
+ It may be hard to appreciate the utility of Kubernetes running a simple app like this, but try to imagine the potential of what this could be. For example, this could be a node and react front end applicaiton, with a persistence database and Java backend - which could quickly scale in complexity. Ultimately the approach for running these applications in pods remains the same as our basic app we are going to build now.<br><br>
+
+ Copy the code below into a file and save as <b>server.js</b>
+ 
+</p>
+
+<center><h3>server.js</h3></center>
+<pre><code><white><red>var</red> http = require('http');
+
+<red>var</red> handleRequest = function(request, response) {
+  console.log('Received request for URL: ' + request.url);
+  response.writeHead(200);
+  response.end(<green>'Kubernetes Rocks!'</green>);
+};
+<red>var</red> www = http.createServer(handleRequest);
+www.listen(8080);
+</white></code></pre>
+
+
+<p> Now lets run  our application, using the command below (make sure you are in the same directory as the server.js file for this whole tutorial. Once you have run the command you should be able to see our 'Kubernetes Rocks!' message at  <a href="http://localhost:8080/">http://localhost:8080/</a> </p>
+
+<center><h3>Run your application</h3></center>
+<pre><code><green>node server.js
+</green></code></pre>
+<br></br>
+
+
+<center><H1>Create a Docker container image</H1></center>
+
+<p>Next we want to create our Dockerfile that basically acts as a template for building docker images. When you run a docker build command, it picks up the Dockerfile from that directory and builds the image. This Docker container image we are building extends the server.js image</p>
+
+<center><h3>Dockerfile</h3></center>
+<pre><code><white>FROM node:6.14.2
+EXPOSE 8080
+COPY server.js .
+CMD node server.js
+</white></code></pre>
+
+
+<p> Normally when we kick off Docker build commands it stores the image in your machines docker registry. However since Minikube also has a Docker registry we need to point to that one. <i>Note</i> If you need to roll back and finish this tutorial early, run the following comamnd <b><i>eval $(minikube docker-env -u).</i></b></p>	
+
+<center><h3>Point to Minikube docker registry</h3></center>
+<pre><code><green>eval $(minikube docker-env)
+</green></code></pre>
+
+<p>Now lets build our docker image, don't forget to copy the trailing dot below or it won't work.</p>
+
+<center><h3>Build Docker Image</h3></center>
+<pre><code><white>docker build -t myfirstpod:v1 .
+</white></code></pre>
+
+<p>Finally lets check our Minikube docker registry is up and running by connecting and having a look at our images.</p>
+
+<center><h3>Check Minikube Docker Registry</h3></center>
+<pre><code><white>minikube ssh docker images 
+</white></code></pre>
+<p> You should see your image in the list.</p>	
+
+<br></br>
+
+<center><h1>Create a deployment</h1></center>
+<br><br>
+<p>For clarify a Kubernetes Pod is a collection of containers, in this case we are just using one Docker container, but wrapping them up in a deployment pod makes it more logically efficient. If a cointaier/pod was to fail or terminate - Kubernetes automatically spins up a new one! <b>Note</b> in the instructions below, we specify in the flag to not pull from native docker registry  - this means we are sticking to using our Minikube registry</p>
+
+<center><h3>Build myfirstpod Deployment</h3></center>
+<pre><code><white>kubectl run myfirstpod --image=myfirstpod:v1 --port=8080 --image-pull-policy=Never
+</white></code></pre>
+<br><br>
+
+<center><h3>View Deployment</h3></center>
+<pre><code><white>kubectl get deployments
+</white></code></pre>
+<br><br>
+
+<center><h3>View Pod</h3></center>
+<pre><code><white>kubectl get pods
+</white></code></pre>
+<br><br>
+
+
+
+<center><h1>Create a Service</h1></center>
+<br><br>
+<p>We are getting close to the end now, so 	good job for getting this far! Creating a Service is the next logical step after creating a deployment. First off we need to open up our ports so the service can be viewed externally</p>
+
+
+<center><h3>Expose Deployment</h3></center>
+<pre><code><white>kubectl expose deployment myfirstpod --type=LoadBalancer
+</white></code></pre>
+<br><br>
+
+<center><h3>View Service</h3></center>
+<pre><code><white>kubectl get services
+</white></code></pre>
+<br><br>
+
+<p>Finally lets actually view the output of our service by running the command below. This automatically opens a browser using a local ip address to serve content.</p>
+
+
+<center><h3>Start service</h3></center>
+<pre><code><white>minikube service myfirstpod 
+</white></code></pre>
+<br><br>
+
+<p>Remember the get <b><i>kubectl get pods</i></b> command from earlier, use that pod ID to drive the command below to view the logs of your application. </p>
+
+<center><h3>View Pod Logs</h3></center>
+<pre><code><white>kubectl logs YOUR-POD-NAME
+</white></code></pre>
+<br><br>
+
+<p> <B>FANTASTIC</B> work!! You now are running docker containers in Kubernetes load balanced Pods! Do you remember the command from earlier to view the dashboard? Try running that again, have a look at what is changed.</p>
+
+<center><h1>Update our App</h1></center>
+<br><br>
+<p> So what happens if the developers decide to make changes, add a new version of the app for deployment - <b>No problem!</b> This is what Docker and Kubernetes are designed for. Lets edit our server.js file, and change the message as below.</p>
+
+<center><h3>Amend Server.js file</h3></center>
+<pre><code><white>response.end('Kubernetes REALLY Rocks!!');
+</white></code></pre>
+<br><br>
+
+
+<center><h3>Build a new version of your image</h3></center>
+<pre><code><white>docker build -t myfirstpod:v2 .
+</white></code></pre>
+<br><br>
+
+<center><h3>Update the image of your Deployment</h3></center>
+<pre><code><white>kubectl set image deployment/myfirstpod myfirstpod=myfirstpod:v2
+</white></code></pre>
+<br><br>
+
+
+<p> Finally lets run the app again, and view the message to ensure it has updated (and in fact our new version is running).</p>
+
+<center><h3>Run the Service</h3></center>
+<pre><code><white>minikube service myfirstpod
+</white></code></pre>
+<br><br>
+
+
+<center><h1>Clearing down and cleaning up</h1></center>
+<br><br>
+<p> Seriously you have done very very well to get this far, give yourself a pat on the back! Now its time to clear up our resources, and tear down our Kubernetes environment. You may want to retain the images for later - but I always find doing a full delete after a tutorial is important if you want to save space.</p>
+
+<center><h3>Delete Service and Deployment</h3></center>
+<pre><code><white>kubectl delete service myfirstpod
+kubectl delete deployment myfirstpod
+</white></code></pre>
+<br><br>
+
+<center><h3>Remove Docker image</h3></center>
+<pre><code><white>docker rmi myfirstpod:v1 myfirstpod:v2 -f
+</white></code></pre>
+<br><br>
+
+
+<center><h3>Stop minikube and remove pointer</h3></center>
+<pre><code><white>minikube stop
+eval $(minikube docker-env -u)
+</white></code></pre>
+<br><br>
+
+<center><h3>Delete Minikube</h3></center>
+<pre><code><white>minikube delete
+</white></code></pre>
+<br><br>
+
+
+<h1>Where Next? </h1>
+
+<p>
+I hope that by going through this tutorial you were able to see the utility and power of Kubernetes. Although the journey doesn’t stop here, what if you wanted to automatically provision Pods to with application ready Front end, Back end services, roll out DataBases and replicate them as read traffic increases or add storage dynamically. <br>
+These features and much much more are part of Kubernetes IAAS feature, by designing YAML files to act as a template for our entire infrastructure, we can have a ready to roll out end to end service delivered within minutes. </p>
+<p>
+ For us however, take time to digest what we did, try and re-run the steps and see what sticks in the memory. Take a break and once you are ready to jump back into the fray - start looking at working with Kubernetes YAML declarative files. </p>
+
+<br><strong> Adam McMurchie  <br></br>07/October/2018 </strong>
+<br><br>
+<br><br>
+
+
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg16"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,351 @@
+	<!DOCTYPE HTML>
+
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>Jenkins like a boss</title>
+    <meta property="og:url"      content="https://murchie85.github.io/jenkins.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Tutorials - Jenkins like a Boss with AWS" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="images/jenkins/muscle.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/jenkins/muscle.jpg"> <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="In this walkthrough I show you a way to optimise Jenkins Continuous Integration by harnessing EC2 instances on AWS allowing us to drive slave nodes on the cloud">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=1751839964842666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+
+						</div>
+					</header>
+					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+				<div id="blogs" style = "background-color: rgba(27, 31, 34, 1.0);">
+					<article id="Blog">
+
+
+													<center><h1>Jenkins like a Boss</h1></center>
+
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Jenkins Like a Boss">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/jenkins.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
+
+
+
+													<center><h2>Jenkins CI integration with AWS</h2></center>
+<p>
+Jenkins is one of the hottest DevOps tools on the scene right now, with a huge open source community and continuous development of the master platform - Jenkins dominance doesn’t look to end anytime soon. I am going to show you how a quick and straight forward way to go from a Jenkins puppet to a Jenkins General by optimising with AWS. 
+So without further ado, the breakdown of what we will learn today is as follows: <br>
+
+<li>Launching three Linux instances on AWS</li>
+<li>Making them talk to each other</li>
+<li>Setting up one instance as our Jenkins master server</li>
+<li>Setting up a couple of instances as our Jenkins slave nodes</li> <br><br>
+Slave nodes are important when you have a large set up and a lot of jobs because Jenkins is smart enough to evenly distribute these jobs across multiple nodes. This means you aren’t waiting for critical jobs to complete, it is essentially parallel processing. 
+ </p>
+
+							<center><span class="image med"><img src="images/jenkins/jenkins.jpg" alt="jenkins"></span></center>
+										<center> <i>Jenkins like a boss</i></center><br>
+
+
+										<center> <h2> AWS - Spinning up EC2 Instances </center> </h2><br><br>
+
+
+<p>First thing to do is log into AWS and create some EC2 instances, for those with little or no experience with AWS, you should still be able to follow these steps, but it may be worth doing a basic tour of AWS by reviewing the getting started to guides which are on the main AWS page when you login. If you don’t have an account it is free to sign up, card details are required but you won’t be charged for anything and there are a lot free goodies to play with. 
+
+										<center> <h3> Getting Started</center> </h3><br>
+Our first step is using AWS to build and configure our three instances. Log into AWS, at <a href="https://www.aws.amazon.com" style="color:gold;">aws.amazon.com</a> then on the top left hand side, click the services drop down and select EC2.<br><br>
+
+
+
+							<center><span class="image small"><img src="images/jenkins/ec2.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+
+In this screen you will notice a lot of options and metrics, feel free to explore but when you are ready to proceed click the blue launch instance button as shown below.<br>
+
+							<center><span class="image med"><img src="images/jenkins/launch.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+
+This section is essentially a list of all the pre configured server instances you can chose from, this includes pre intalled windows, linux and ubuntu versions. If you note on the left hand side, you can also select community instances - these are instances that people have set up and opened to the public, they are generally open source but some require a password to use. Feel free to browse the instances on offer, but when you are ready select the first option which should be the Amazon Linux AMI 2017.03.1 (HVM), SSD Volume Type - ami-ebd02392. There may be a later version when you are reading this tutorial, such as 2017.04 feel free to go for the latest version. <br><br>
+
+							<center><span class="image med"><img src="images/jenkins/linux.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+
+Now select your instance type, <strong> NOTE </strong> some of these are not free - so please select as shown below, there should be a green text saying free tier. Select and click next. <br><br>
+
+							<center><span class="image med"><img src="images/jenkins/step2.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+Now its time to configure your instance, simply change the number of instances to 3 (our master server and two slave nodes). Leave everything else as is and click next.<br><br>
+							<center><span class="image med"><img src="images/jenkins/step3.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+
+Feel free to add a tag as shown below - this is optional. <br><br>
+
+							<center><span class="image med"><img src="images/jenkins/step5.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+Keep the storage to 8gb, no need to change this for the POC we are working on. <br><br>
+
+							<center><span class="image med"><img src="images/jenkins/step6.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+You need to create a new security group, this will define how EC2 can be accessed, such as TCP, HTTPS and in this case we want to select all traffic and give our group a name.<br><br>
+							<center><span class="image med"><img src="images/jenkins/security.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+
+We need to generate a key pair, this is because when we launch our instances we need to connect to them (via your computer). Your computer wont have direct access to ssh connect, this is why you need to save the key to a local directory on your computer. Fortunately AWS is very self explanitory and should keep you right. Click create a new pair, then download to a folder on your computer that you can get to easily via terminal or command line. <br><br>
+							<center><span class="image small"><img src="images/jenkins/key.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br>
+Once you have clicked launch, you will have to navigate back to your EC2 instances screen and wait a moment for the serveres to come online. Feel free to name your instances as I have done below.<br><br>
+							<center><span class="image med"><img src="images/jenkins/up.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+Next we will enable our computer key, then log into the Jenkins master server, and we will create a SSH key that we put in the authorised key file both nodes. That way the two nodes can communicate with the master. Once complete we will install Jenkins on the master server.</p>
+
+
+
+										<center> <h2> Connecting to Master </center> </h2><br><br>
+
+
+<p>	In our instances page where we can see our three servers, tick the Master server box only and you can then click the connect button to the right of launch instance which will talk you through the process of enabling your key. 			
+
+					<center><span class="image med"><img src="images/jenkins/up.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+In summary the steps are : 
+<li>Open an SSH client (terminal/command line) </li>
+<li>Locate your private key file (in my case I called it DEMO.pem)</li>
+<li>Your key must not be publicly viewable for SSH to work. Use this command if needed: <br> <center> <code>chmod 400 DEMO.pem
+</code> </center><br> Where DEMO.pem is the name of the key you saved</li>
+<li>Connect to your instance using its Public DNS</li>
+<li><code>ssh -i "DEMO.pem" <i> connection url</i></code><br><br>
+
+You will be prompted in terminal if you want to connect, enter yes. Now enter the following to update. <br><br>
+
+
+<pre>
+<code>$ sudo yum update
+<green> Installs updates, you will need to press yes to confirm</green></code></pre><br><br>
+
+
+
+										<center> <h2> Generate SSH RSA KEY </center> </h2><br><br>
+
+<pre>
+<code>$ ssh-keygen -t rsa -C “myemail@gmail.com”
+<green>press enter until the key is generated</green>
+$  cat .ssh/id_rsa.pub
+<green>Prints the contects of the public key to the screen</green>
+</code></pre>
+<br>
+
+Awesome, now we need to copy the public key - be sure to save it incase you clear the screen by accident. Now lets log into our first node and paste our key which I will just call copiedkey for now. To log into node one, again go to the AWS instances screen, select that tick box only for node1 then click connect to get the command you can run on terminal/command line to connect. It is usually the command right at the bottom. Replace copied key with the public key your printed out. <br><br>
+
+<pre>
+<code>$ echo “copiedkey” >> .ssh/authorized_keys
+<green> Replace copied key with your key. This will write that key to the authorized keys folder in the server allowing the master to connect ot it.</green></code></pre><br><br>
+
+Now repeat the process but this time for node2 and we should now have all our three servers capable of communication.
+
+</p>
+
+
+
+										<center> <h2> Updating Java </center> </h2><br><br>
+<p> This step is a bit of a pain in that Jenkins is not compatible with the older 1.7 version of JAVA anymore, but the latest Linux AWS instances do not have the latest version of Java....well this is all good for the soul.	<br>
+	Log into master node via terminal (as we did before), and run the following commands to update JAVA:
+<pre>
+<code>$ sudo yum install -y java-1.8.0-openjdk.x86_64
+<green>Installs the latest version</green>
+$  sudo /usr/sbin/alternatives --set java /usr/lib/jvm/jre-1.8.0-openjdk.x86_64/bin/java
+$  sudo /usr/sbin/alternatives --set javac /usr/lib/jvm/jre-1.8.0-openjdk.x86_64/bin/javac
+<green>Repoints to latest JAVA version</green>
+$ sudo yum remove java-1.7
+<green>Deletes older version</green>
+</code></pre>
+<br>
+You now need to do the same process for the other two nodes, or Jenkins will fail on node builds. 
+</p>
+
+										<center> <h2> Installing Jenkins </center> </h2><br><br>
+<p> Now its time to install Jenkins, there are already some fantastic documentation on doing that, such as <a href="https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Red+Hat+distributions" style="color:gold;">this link</a>. On Linux and Mac machine the following commands can be run to install:
+
+<pre>
+<code>$ sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+$ sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
+$ sudo yum install jenkins
+<green>  This will add jenkins repos then install them from command line</green></code></pre><br><br>
+
+Jenkins always runs on port 8080, so bare this in mind when configuring security groups. Now that jenkins is installed lets start the service by running the following command <br>
+<center> <code> $ sudo service jenkins start</code></center><br>
+Now nagivate to the jenkins instance on the Master Server in the Browser. To do that we need the ip address of the master instance then affix :8080 to the end.<br>
+<li>Go to AWS website</li>
+<li>EC2 Instances</li>
+<li>Select master instance</li>
+<li>IP address can be found on the bottom right hand side</li>
+<br>
+Open a browser and navigate to jenkins: <br>
+<center> <code> ipaddress:8080</Code></center>
+<br>
+
+Now you should see the welcome to Jenkins screen as shown below!<br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/welcome.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+If you are unlucky, Jenkins may ask you to do some initial configuration instead of saying welcome ... boo! If this happens then enter the following in the terminal that is connected to Master Jenkins: <br>
+
+<center> <code> sudo cat /var/lib/jenkins/secrets/initialAdminPassword</code> </center>
+<br>
+
+Now click build executor status in the bottom left hand side <br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/build.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+Great, we can now see our master node. <br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/master.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+
+										<center> <h2> Building Slave Nodes </center> </h2><br><br>
+
+Now before we start kicking off jobs we need to build our two nodes. Before we do that we need to ensure we have our SSH slaves plugin installed. To do this navigate to jenkins home -> manage jenkins -> manage plugins -> installed tab. You can scroll down to check if you have the SSH Slaves plugin if you don't you can download it from <a href="https://wiki.jenkins.io/display/JENKINS/SSH+Slaves+plugin" style="color:gold;">this link</a>.
+Once you have downloaded the plugin you need to go to the advanced tab in Jenkins manage plugins (where you just were before), scroll down to upload plugin and point to your downloaded plugin (it is a .hpi file) and upload. <br>
+
+Now create a new node by selecting new node (where we viewed the master node) as shown below.<br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/newnode.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+Add name and select permanent agent (this name may change in the future, before it was called dumb slave). The first one we will call Jenkins Node 1<br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/node1.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+you will now have a lot of options to fill in. Important - we have to make sure when using private IP addresses we have our servers are in the same availability zone - so they can talk to each other over internal network. If we put public ip we are charged for bandwidth. But over internal network its free with private IPs. Enter the following details<br>
+<li>Remote root directory : /home/ec2-user </li>
+<li>Usage: Use this node as much as possible</li>
+<li>Launch Method: Launch slave agents via SSH</li>
+<li>Host key Verification strategy : Manually trusted key verification strategy (don't check the tick box)</li>
+<li>HOST: Enter the <b>PRIVATE IP</b> for your first slave ndoe (you can find this on AWS, instances, click node1 look for private ip details at the bottom)</li>
+<br>
+ 
+ Don't leave this page, but open up a ssh session with the master node again. Now we need to copy the private key that of the pair we generated earlier. Enter the following command: 
+<br>
+<cetner> <code> cat .ssh/id_rsa</code> </center>
+<br>
+Now go back to our Jenkins Node setup page, and click on the add button next to credentials. Fill in the username as ec2-user and select kind as SSH username with private key as shown below then paste in your private key.<br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/credentials.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+Now click save, Refresh the status, if we keep clicking the response time should drop to under 5ms. Now repeat for the second node, but we will get the option to select copy from existing node. Everything stays the same except for the host ip. We can note our build executor status, on each node we can have multiple processes running but for our nodes we only have one configured for now. <br><br>
+
+
+
+										<center> <h2> Running Jobs in Parallel</center> </h2><br><br>
+
+Lets create a new job, we can do this by clicking on create new jobs, you can do this by clicking on create new jobs on the welcom screen. Or new item in the top left hand side. Give it a name and make it a free style project.<br>
+Lets just do something simple like make it sleep for 10 seconds so we can show the different nodes working. In job configuration scroll down to the build option and select execute shell from the list. Then enter the following command.<br><br>
+<center> <code> sleep 10s</code> </center>
+<br><br>
+
+Now select apply and save. Repeate the process for job two. You should have two jobs like below. <br><br>
+
+
+					<center><span class="image med"><img src="images/jenkins/job2.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+The quickest way to run both jobs is to click the clock dial on the right hand side, go and click both of them to trigger both jobs. You should now see in the bottom left hand side both jobs running but on different nodes. <br><br>
+
+					<center><span class="image med"><img src="images/jenkins/jobs.jpg" alt="jenkins options"></span></center>
+										<center> <i></i></center><br><br>
+
+
+GREAT! We have now configured Jenkins to run jobs on multiple nodes over AWS!! It was a bit of a long haul but well done for making it here. Please drop me an email if you want to see any more of this or have any issues. Again well done! <br><br>
+
+
+<br><strong> Adam McMurchie  28/Sep/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg15"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

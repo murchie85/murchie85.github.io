@@ -1,0 +1,415 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+		<title>Lets build a RESTful backend with JSON</title>
+		<meta property="og:url"           content="https://murchie85.github.io/rest.html" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title" content="Lets build a RESTful backend with JSON" />
+		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+		<meta itemprop="image" content="images/bg7.jpg" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/bg7.jpg">
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="This is an advanced tutorial where I will be walking through how to build a RESTful API using JSON, PHPand my SQL database. I have included step by step instructions with code dumps">
+		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Lets build a RESTful backend with JSON</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+
+
+ 									<center>	<h2>Overview</h2> </center>
+
+
+
+ 									
+<P> In this tutorial we want to build a backend service, that can be called from a browser or a front end and pass back data to the user. The data it passes back will be stored on our database that we will build, for example this could be a list of customers. This is a bit of an advanced tutorial where we will implement four key concepts via the first hand approach. I will do my best to keep things as straight forward as I can,  we are going to cover PHP, REST messaging, JSON data interchange and managing a mySQL database. 
+	<center> <span class="image smaller"><img src="images/blog/backend2.jpg" alt="" /></span></center>
+Even although there are a lot of things going on, all the steps are here and I will give a high level overview in this paragraph then we will just get straight to it. The main goal is for us to create an API that is able to perform full create, read, update and delete functions (CRUD) on a database.  Our database is where we will store our customer information using phpmyadmin a built in database tool that runs on your local server or online one. <br>
+The process of communicating with our API is using REST which essentially has four main states (which is defined by the URL affix) you will see more about this later. In our API, we will make use of all REST states POST, PUT, GET and Delete which will also be linked to our database operations of Add, Update, Retrieve and Delete records respectively. <br>
+If at anytime you get stuck, please reference the my support code that can be found <a style = "color:silver;" href = "https://github.com/murchie85/DEMO-RESTfull-API"> here</a>. Also there are earlier versions of my code labelled restfulldemopt1 and pt2. Ok, lets get started! 
+
+<br><br>
+
+ 									<center>	<h2>Installing the required Software</h2> </center>
+
+ 									
+<h3>Composer</h3>
+
+<p>You can get Composer <a style = "color:silver;" href = "https://getcomposer.org/"> here</a> however the main issue here is actually getting composer to work (if you use mac). After running the suggested terminal script like below, you should try to input the command composer to see if it actually works.<br><br>
+							<span class="image main"><img src="images/rest/composer.jpg" alt="" /></span>
+<br>If the response is bash command not found, then find the composer.phar file and try to run the following command. <br>
+											<center><code>$ mv composer.phar /usr/local/bin/composer</code></center> <br>
+Now you need to install a platform that will allow you to set up a server on your own computer (Apache), to work with PHP and use PEARL. This can be done by installing either WAMP, MAMP or XAMP these are specifically for Windows, Mac and Linux respectively. Although XAMP now runs on all three operating systems. The link can be found <a style = "color:silver;" href = "https://www.apachefriends.org/index.html"> here</a>
+</P>
+<p>
+The next step is to download an extension that allows you to initiate RESTful requests, this is a great way for debugging your API once set up. You can constantly fire in requests to add, delete, read and update data from your DATABASE provided by your API, this can be customer information, stock quantity etc. To do this its best to download RESTeasy extension on chrome. Simply click the apps icon in your chrome nav bar, go to the web store and enter RESTeasy in the search.It is offered by resteasy.venuedistrict.com and is a ‘developers tool’.
+</p>
+											<center>	<h2>File Creation</h2> </center>
+<p>To get started go ahead and create a file in your htdocs folder of your XAMP/WAMP/MAMP directory. You can do this via normal finder/window method, but to get practice with terminal do the following. 
+												<center><code>cd /applications/xampp/htdocs</code></center> <br>
+Now lets create our new folder
+												<center><code>mkdir demo</code></center> <br>
+First set up a folder structure like the below, don’t worry about the ‘vendor’ file, this gets created in a later step when you install slimphp from command line. DEMO is the main folder directory, public is where the user comes into, and there is a .htaccess file which we will insert some code to help shorten our URL. SRC directory, has a config folder where we contain our  database settings, routes is where we contain our actual script for processing customers. <br><br>
+											<center>	<span class="image smaller"><img src="images/rest/file.jpg" alt="" /></span></center>
+</p>
+
+											<center>	<h2>Install SLIMPHP and Create Our Home Script</h2> </center>
+
+<p>Next in order to add our vendor files (including the libs that lets us handle JSON) we should download a PHP tool, slimPHP, the easiest way to do this is to run the suggested command from the SlimPHP <a style = "color:silver;" href = "https://www.slimframework.com/"> site</a> for mac and the current script its 
+											<center><code>composer require slim/slim "^3.0"</code></center> <br>
+Now its time to start creating some files, I am using sublime to do my coding and file creation but you can use brackets notepad ++ or many others.
+In the DEMO folder, create an index.php this is where the main php scripts are going to be written and paste in the example from slimphp website in getting started. <br>
+
+											<center>	<span class="image main"><img src="images/rest/code.jpg" alt="" /></span></center>
+</p>
+<p>
+When we create a restful API we create routes that deal with requests and response objects, that is what we are doing in the first two lines, we are dealing with the request/response objects. So every SLIM application/route is given these object as the argument for the call back routine. SLIM supports PSR7 the php standard for messaging, a great approach for writing apps. Autoload.php is created by composer and allows us to refer to SLIM dependencies. $app-> allows us to create our route. in this case its /hello/name <br>
+We then compose the response and return it. Finally we need to do the run command at the end to make it actually work. In our case we modify the require statement to add ../ as we are in the sub directory. 
+ </p>
+ 											<center>	<h2>Starting and Stopping Your Server </h2> </center>
+
+<p>In order to run our php pages on a server, and navigate to them via the browser we need to start our servers. Locate the XAMPP application and click start all servers. This can be a tricky step as sometimes the severs don’t start due to other applications using port 80, alternatively you can run
+<code> sudo lsof -i -P | grep -i "listen"</code> this should output open ports any problems just drop me a message. Once you are ready go ahead and open up a  browser and put in </p>
+											<center><code>http://localhost/slimapp/public/index.php/hello/bob</code></center> <br>
+<p>Bob can in fact be any name due to the way the code is set up, have a look at your index script to make sure you understand what is happening .</p>
+
+ 											<center>	<h2>ACCESS TO OMIT INDEX.PHP PATH</h2> </center>
+<p>We don't want to include the index.php every time so we will use a ht access file, additionally to omit the xxpubicxx part of the URL, we can add a virtual host in Apache. 
+	<pre><code> 
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.php [L]
+	</pre></code>
+Add a .htaccess file, add this code and save in the public folder. Now try out your hyperlink and omit the index.php to see if it works by going to http://localhost/demo/public/hello/bob</p>
+
+ 											<center>	<h2>Adding virtual host - Enable Virtual hosts</h2> </center>
+<p>I am actually having trouble with making this work myself, but if you want to try then first thing you’ll need to do is open the file /Applications/XAMPP/xamppfiles/etc/httpd.conf in your favourite text editor. Look for the following lines:
+	<pre><code> 
+# Virtual hosts
+#Include /Applications/XAMPP/etc/extra/httpd-vhosts.conf
+	</pre></code>
+Uncomment the second line, next add Virtual Hosts which can be found at <code>conf >> extra>>httpd-vhosts.conf</code> or <code>/Applications/XAMPP/xamppfiles/etc/httpd.conf</code> on the mac. Note make sure this isn't the folder with the tag original, that is just a backup in case the httpd file is corrupted or mistakes are made. Follow the steps in the help link provided in the httpd.conf doc, and once you are happy you have set up your virtual host, you need to go to the hosts document and add the host database. Either way be very careful in this process as its easy to cause problems to your server. </p>
+
+ 											<center>	<h2>Point to a Working Directory </h2> </center>
+
+<p>Now we are going to modify our main index.php file so it points to our customer script, this is where we will perform our main part of our work. Note once you do this, your original URL you used for returning hello/name will no longer work  Follow the step below </p>
+											<center>	<span class="image main"><img src="images/rest/code2.jpg" alt="" /></span></center>
+<p>In our customers php file, lets  add the following and run the code by navigating to it in the browser as shown in the example below
+
+											<center>	<span class="image main"><img src="images/rest/code3.jpg" alt="" /></span></center>
+Navigate path to run the code is <code> http://localhost/demo/public/api/customers</code> once loaded into the browser you should see the text CUSTOMERS printed to the screen	
+</p>
+
+ 											<center>	<h2>Create a Database</h2> </center>
+
+<p>The whole point of building this API is so we can store information on a database and allow customers/ front end users to interact with it via the service API we provide. Lets  create a bare bones database. First log into <code> http://localhost/phpmyadmin</code> you should see a screen like the following
+
+											<center>	<span class="image main"><img src="images/rest/db.jpg" alt="" /></span></center>
+ Click on new, and create your database, lets call it demo for now, now create a table called customers with 10 columns. We may not actually need 10 columns, but myphpadmin is smart enough to allocate what we need.  The first column should be called id, it should have A.I ticked and click ok, also have it as length 11. For the other 9 rows, go with </p>
+<p><center> <pre>
+first_name
+last_name
+phone
+email
+address
+city
+district
+</pre></center>
+This GUI is rather self intuitive but if you have any issues I have included a copy of the SQL package you can upload. </p>
+
+
+ 											<center>	<h2>Connect to a Database</h2> </center>
+
+<P>DEMO has no native data database wrappers so we will use PHP, specifically PDO which are PHP data objects (info can be found <a style = "color:silver;" href = " http://php.net/manual/en/book.pdo.php"> here</a>) . This is an alternative to mySQLI, <a style = "color:silver;" href = "http://php.net/manual/en/pdo.connections.php"> here</a> you can find the connection documentation which you may need to reference when learning about setting up connections to your database, for now we can use my example.   
+Now its time to set up your database configuration, its worth reading up on how this all works, but I have included my code sample for a starter, note that you will need to configure user/passwork/database name accordingly. If you are doing something different from my steps, then this can be quite an in-depth process so please contact me if you have any issues.
+
+											<center>	<span class="image main"><img src="images/rest/code4.jpg" alt="" /></span></center>
+
+After the DB.PHP config has been set we need to add it in our main php file.
+
+</P>
+
+ 												<center>	<h2>Test Connection String</h2> </center>
+
+<p>Add a reference to the database in the main index.php script below the autoload require clause like so 
+<center><pre><code>
+require '../vendor/autoload.php';
+require '../src/config/db.php'; 
+
+</center></pre></code>
+now open up the URL  <code> http://localhost/demo/public/api/customers</code> if you see any errors, then there is an issue with connecting to the database and you may need to trouble shoot your user/password/host settings. </p>
+
+
+ 												<center>	<h2>Using PHP and PDO</h2> </center>
+
+<p>Before we go to creating statements, here are some tips on using PHP with PDO standards, remember there is also links to the documentation provided in the ‘connect to a database’ section above.  To create a variable, we use the $ sign, applying a function like connect looks like this. <br>
+												<center> <code> $db->connect();</center> </code>
+We create statements like this 
+												<center><pre> <code> 
+$stmt = $db->query($sql);
+$customers = $stmt->fetchAll(PDO: :FETCH_OBJ);
+
+												</center> </pre></code>
+<pre>
+In general...
+	// when we are working with PDO we need to create statements 
+	// there are a few benefits to creating prepared statements
+	// 1. the query only needs to be parsed once 
+	// 2. can be executed multiple times with the same / or diff peramaters
+	// 3. the parameters don't need to be quoted.
+</pre>
+</p>
+
+
+ 												<center>	<h2>Retrieve customer information as JSON</h2> </center>
+
+<p>Now its time to writes some code that will pull customer information from our database . Instead of doing an echo of CUSTOMERS text, we want to add an SQL variable that selects all from our database. This will be executed in a try/catch  step, the modified code looks as follows.
+<pre> <code>
+//Get All Customers 
+
+$app->get('/api/customers', function(Request $request, Response $response){
+	$sql = "SELECT * FROM customers";
+
+		try{
+			// Get DB object 
+			$db = new db();
+			// connect 
+			$db = $db->connect(); 
+			// when we are working with PDO we need to  create statements 
+			// there are a few benefits to creating prepared statements
+			// 1. the query only needs to be parsed once 
+			// 2. can be executed multiple times with the same / or diff peramaters
+			// 3. the parameters don't need to be quoted. 
+			//stmt is standard 
+			// passes in $sql var
+
+
+			$stmt = $db->query($sql);
+			$customers = $stmt->fetchAll(PDO::FETCH_OBJ);
+			$db = null;
+			echo json_encode($customers);
+
+
+		} catch(PDOException $e){
+			//e for errors exception handling
+       		 echo '{"error": {"text": '.$e->getMessage().'}';
+    	}
+});
+</pre></code>
+ I understand there is a lot of new things we added, including the SQL so please look through the code to familiarize yourself, if you are struggling to understand then start by reading up on basic sql, then php DB connection examples. Call the same URL <code> http://localhost/demo/public/api/customers</code> and you should now see the record outputted into the screen .
+</p>
+
+ 												<center>	<h2>Interrogate API with RestEasy</h2> </center>
+<p>
+It is time to treat our code like a professional API backend and interrogate it the proper way, with a front end mockup. Open RESTeasy application and follow the steps shown in the screen shot below. 
+
+
+											<center>	<span class="image main"><img src="images/rest/rest1.jpg" alt="" /></span></center><br>
+
+If it works you will see 200 which means that everything is OK! Well done!  This is a big step, you have effectively managed the core functionality of your API, now we simply add more features to the process, such as the full CRUD service of create, read, update and delete.</p>
+
+
+ 												<center>	<h2>Retrieve a Single Customer from Database</h2> </center>
+
+<p>So far so good! Again there is a lot of code that would take another tutorial to explain, so for this purpose it will be to get us up and running, I advise revisting the code for a deeper study afterwards. Copy the get all customers code and paste below, first change the route to point to the id as follows
+
+<pre> <code>
+//Get A SINGLE CUSTOMER 
+//****All customers terms changed to customer, except in SQL statement
+$app->get('/api/customer/{id}', function(Request $request, Response $response){
+	$id = $request->getAttribute('id');
+
+	$sql = "SELECT * FROM customers WHERE id = $id"; //$id comes from the URL 
+
+		try{
+			// Get DB object 
+			$db = new db();
+			// connect 
+			$db = $db->connect(); 
+
+
+			$stmt = $db->query($sql);
+			$customer = $stmt->fetchAll(PDO::FETCH_OBJ); // changed to singular
+			$db = null;
+			echo json_encode($customer);  // changed to singular
+
+
+		} catch(PDOException $e){
+			//e for errors exception handling
+       		 echo '{"error": {"text": '.$e->getMessage().'}';
+    	}
+});
+</pre></code>
+
+
+These steps simply allow the database to fish out one record which matches the user input. Now lets use the Resteasy front end to call our API, note we need to change the url, as we amended in the code. This time its not customers in the URL, it is customer, followed by a number (which related to the ID) as shown below. <br><br>
+
+											<center>	<span class="image main"><img src="images/rest/rest0.jpg" alt="" /></span></center><br>
+
+Note if we change id to 2, we can pull back the second customer from the database, more specifically, the customer whose ID relates to number 2.</p>
+
+
+ 												<center>	<h2>Add a Customer</h2> </center>
+ 												
+<p>Now we want to add a customer, here is the add customer code to adde below in your customers.php file.
+<pre> <code>
+// Add Customer
+//we need to get the parameters, usually these would be thru a form, instead of get attribute which is the url
+	// if now we want to get param
+$app->post('/api/customer/add', function(Request $request, Response $response){
+    $first_name = $request->getParam('first_name');// GETS PARAMETERS FROM USER INPUT
+    $last_name = $request->getParam('last_name');
+    $phone = $request->getParam('phone');
+    $email = $request->getParam('email');
+    $address = $request->getParam('address');
+    $city = $request->getParam('city');
+    $district = $request->getParam('district');
+    $sql = "INSERT INTO customers (first_name,last_name,phone,email,address,city,district) VALUES
+    (:first_name,:last_name,:phone,:email,:address,:city,:district)";
+    try{
+        // Get DB Object
+        $db = new db();
+        // Connect
+        $db = $db->connect();
+        $stmt = $db->prepare($sql);
+        $stmt->bindParam(':first_name', $first_name);  // BIND EACH PARAMATER
+        $stmt->bindParam(':last_name',  $last_name);
+        $stmt->bindParam(':phone',      $phone);
+        $stmt->bindParam(':email',      $email);
+        $stmt->bindParam(':address',    $address);
+        $stmt->bindParam(':city',       $city);
+        $stmt->bindParam(':district',      $district);
+        $stmt->execute();
+        echo '{"notice": {"text": "Customer Added"}';
+    } catch(PDOException $e){
+        echo '{"error": {"text": '.$e->getMessage().'}';
+    }
+});
+</pre></code>
+
+Now we want to actually execute this with our front end using the GET request instead of the post request. Do the following  add to the headers, content-type and call the value application/json.<br>
+
+											<center>	<span class="image main"><img src="images/rest/rest2.jpg" alt="" /></span></center><br>
+here is some example code to try to add into the database. 
+
+<pre> <code>
+{
+	"first_name" : "Stacey",
+	"last_name" : "Hoffman",
+	"phone" : "444-333-111-34",
+	"email" : "stacy@gmail.com",
+	"address" : "27 London St",
+	"city" : "London",
+	"district" : "center"
+
+}
+</pre></code>
+
+
+Remember to change the URL and set the method to post (since we are using the REST update functionality). An example is shown below. <br><br>
+
+											<center>	<span class="image main"><img src="images/rest/rest3.jpg" alt="" /></span></center><br>
+If performed correctly, you should see a response message saying customer added in the JSON response. You can reload the database to check, and it should look like something below. <br>
+
+											<center>	<span class="image main"><img src="images/rest/db2.jpg" alt="" /></span></center><br>
+<strong> CHALLENGE</strong> Try to pull back the newly added customer using the get a single customer method.
+</p>
+
+ 												<center>	<h2>Finishing the project</h2> </center>
+<p>Now all that is left to complete the CRUD operation of being able to update and delete a customer. Try to do this one on your own, however if you have managed to get this far please contact me for the full source code if you are struggling - as it contains the update and delete steps. 
+A huge congratulations for attempting this tutorial, if you were able to get to the stage where you can interrogate your API by either the URL or rest easy then you have in a sense built a back end, you have also built and managed a database. Many thanks for all your efforts and I will be adding more content as well as a more in depth tutorial on these concepts. </p>
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Building%20a Rest Service">
+Tweet</a></div>
+
+<br><strong> Adam McMurchie  1/May/2017 </strong>
+<br><br>
+
+
+
+<div class="fb-like" data-href="https://murchie85.github.io/rest.html" data-width="12" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg7"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

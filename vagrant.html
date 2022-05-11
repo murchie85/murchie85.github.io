@@ -1,0 +1,332 @@
+	<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html prefix="og: http://ogp.me/ns#">
+	<head>
+ 	<title>VAGRANT</title>
+    <meta property="og:url"      content="https://murchie85.github.io/vagrant.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Tutorials - Server Virtualisation with Vagrant" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+    <meta itemprop="image" content="https://murchie85.github.io/images/vagrant/BG1.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/vagrant/BG1.jpg"> <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="A to the point guide on how to spin up and configure lightweight virtual envirionments and servers using Vagrant.">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+
+	</head>
+
+	<body>
+
+		<!-- Facebook Like Code -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=1751839964842666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		<!-- Tweet Code -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<a href="index.html"><h1>Envirionment and Server Virtualization</h1></a>
+							</div>
+						</div>
+					</header>
+					<br>
+
+				<div id="blogs">
+					<article id="Blog">
+
+
+							<center><span class="image med"><img src="images/vagrant/vagrant.jpg" alt="Vagrant"></span></center>
+										<center> <i> A guide to virtualization using Vagrant and VirtualBox</i></center><br>
+
+
+<div>
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=How to spin up your own Virtual Servers and environments ">
+Tweet</a></div>
+<div class="fb-like" data-href="https://murchie85.github.io/vagrant.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> <br><br> 
+
+
+<p>  This tutorial walks through how to use vagrant a sophisticated virtualisation tool to spin up virtual servers and environments, as well as roll out pre-fabricated operating systems. Additionally we will manipulate our virtual IP addresses and add a domain name (for free) to make the environment as much like production as we can. This of course is just the first steps towards proper configuration, but at least gives a primer on how to quickly and efficiently spin up virtual servers. </p>
+
+
+<p>
+Note that you will need a linux operating system in order to follow along, if you have a Mac then that should be fine.
+</p>
+
+
+									<center><div id="start"> <h2> Getting Started</h2> </div></center> 
+
+
+<p>First think that is required is to download and install both <a style = "color:silver;" href = "https://www.virtualbox.org/wiki/Downloads"> Virtual Box</a> and <a style = "color:silver;" href = "https://www.vagrantup.com"> vagrant</a>, these can be found on their respective websites that I have linked in this sentence. In a nutshell, virtual box allows your operating system to spin up virtual servers, and vagrant allows a more simplified command line interface with lightweight available servers pre configured to use.  </p>
+
+
+<p> Once the applications are installed, try running the following command to ensure vagrant is working. </p>
+
+							<center><span class="image med"><img src="images/vagrant/1.jpg" alt="Vagrant"></span></center>
+
+<p>Go to Vagrant cloud.com to look at some popular boxes to install in our system </p>
+
+							<center><span class="image small"><img src="images/vagrant/2.jpg" alt="vagrant sit"></span></center><br>
+
+<p>In a moment we will want to download the Precise 32 bit since it only takes about 300mb of ram to run, the other requires 5/600. If you have about 4 gig ram, then select 32 bit because you can spin up more parallel instances.</p>
+
+							<center><span class="image small"><img src="images/vagrant/3.jpg" alt="Server Instances"></span></center> <br>
+
+<p>We will not download via the website however, we will do all of our work on the terminal command line. First enter the command shown below, ignoring my name before the dollar sign. Note many of the commands I show can not be copied and pasted, I want you to get used to entering these commands into the terminal to develop your muscle memory - it is an essential part towards becoming a skilled programmer.</p>
+
+							<center><span class="image med"><img src="images/vagrant/4.jpg" alt="hashicorp/precise32"></span></center><br>
+
+<p> The above command will download the vagrant file to the directory that you are currently in, but it will not install the image. To do so enter the following command.</p>
+
+							<center><span class="image med"><img src="images/vagrant/5.jpg" alt="initialize"></span></center><br>
+
+
+
+
+
+												<center> <h3> Spinning up a Virtual Server </center> </h3>
+
+
+<p> Now it is time to spin up an instance of the server image we downloaded, this will actually create the virtual server allocating memory dynamically to the virtual server. Enter the following command to make that happen:</p>
+
+							<center><span class="image smaller"><img src="images/vagrant/6.jpg" alt="vagrant up "></span></center>
+
+<p> Now the box has been succesfully spun up, and will be running constantly on your computers ram, you should see the following output. </p>
+
+							<center><span class="image med"><img src="images/vagrant/7.jpg" alt="vagrant success"></span></center><br>
+
+												<center> <h3> Connecting to your Virtual Server</center> </h3>
+<p> It is time to connect to your virtual server, to do this we want to use the SSH method. When creating the vagrant instance a key pair was generated in order for your local instance to talk to the virtual server. In real work envirionments, these keys will need to be managed and should not be handed out to anyone. Enter the following commands to connect via ssh</P>
+
+							<center><span class="image med"><img src="images/vagrant/8.jpg" alt="ssh connect"></span></center><br>
+
+<P> You should see the following successful output</p>
+
+							<center><span class="image med"><img src="images/vagrant/9.jpg" alt="success output"></span></center><br>
+
+<p> Now that is us connected to the precise box, (you can tell by looking at the text preceeding the dollar sign on the command line). As far as your computer is concerned, it is actually connecting to a real server on the internet. It does not know the difference</p>
+
+
+
+
+
+									<center><div id="start"> <h2> Installing Software</h2> </div></center> 
+
+
+
+<pre><code>sudo apt-get install git</code></pre><br>
+
+<p>Try installing GitHub to see if it works (remember this is installing on the virtual server, not your actual linux local terminal). Press Y to confirm  </p>
+
+
+<p> You should see the following installation success</p>
+
+
+							<center><span class="image med"><img src="images/vagrant/10.jpg" alt="install success"></span></center><br>
+
+<p> Now verify by runnning the following command:
+
+<pre><code>git - - version</code></pre><br>
+
+Now exit the session <br><br>
+
+<pre><code>exit</code></pre><br>
+</p>
+
+
+
+
+									<center><div id="start"> <h2> Configuring an IP Address </h2> </div></center> 
+
+
+<p>Lets make this even more realistic by giving it an IP address and a domain name, and as a fake domain name (so we don’t need to purchase it).If we type ls on the command line, we can see the Vagrantfile, this was generated after we did vagrant init command</p>
+
+							<center><span class="image med"><img src="images/vagrant/11.jpg" alt="ls"></span></center><br>
+<p>We are back on our machine, so lets open the vagrant file in sublime text or any other editor you are comfortable with. Try either of these commands </p>
+
+<pre><code>sublime Vagrantfile</code></pre><br>
+<pre><code>sub Vagrantfile</code></pre><br>
+
+<p> Also do not forget to set the ruby syntax so you can see what code is actually active, in sublime this is in the bottom right hand side of the GUI</p>
+
+							<center><span class="image smaller"><img src="images/vagrant/13.jpg" alt="syntax"></span></center><br>
+<p>You will notice there are only two lines, the rest are just boilerplate stuff.Now uncomment the line as shown above and give it a spoof ID address.
+In my case I chose 55.55.55.5.
+
+							<center><span class="image med"><img src="images/vagrant/14.jpg" alt="ip"></span></center><br>
+<p> Once complete, save and quit</p>
+
+
+									<center><div id="start"> <h2> Rebooting Vagrant</h2> </div></center>
+
+<p> In the terminal enter the following to restart the virtual server (so IP change can take effect). <br><br>
+
+<pre><code>vagrant reload</code></pre><br>
+Note that in this process you will see outputs stuff like Machine already provisioned, a lot of the time these are just information messages. 	
+If you try to connect to 55.55.55.5 in your browser it wont be able to load anything up - this is because nothing is actually configured to run like apache, so we need to install a local server. </p>
+
+
+									<center><div id="start"> <h2> Installing nginX</h2> </div></center>
+
+<p>EngineX is a substitute for apache, its what you usually use when running a nodesjs application in production. Run the following commands:
+
+<pre><code>vagrant ssh</code></pre><br>
+<pre><code>sudo apt-get update</code></pre><br>
+Always run update when you connect, this way you are always working with the latest versions. <br><br>
+<pre><code>sudo apt-get install nginx</code></pre><br>
+The file is very light, and quick to install, now lets boot up our local nginx instance on our virtual server. Now lets start the server by running the following. <br>
+<pre><code>sudo service nginx start</code></pre><br>
+Now if we try to connect to 55.55.55.5 we should see the following. 
+</p> 
+
+
+
+							<center><span class="image med"><img src="images/vagrant/success.jpg" alt="success"></span></center><br>
+
+<center><H1> CONGRATULATIONS!!</h1></center>
+
+<p>Now we are running a web server on the IP that we configured within our virtual server - pretty neat! <br>
+	Lets now exit and we will map to a domain name. <br>
+<pre><code>exit</code></pre><br>
+Now open your hosts file using either command 
+<pre><code>sublime /etc/hosts</code></pre><br>
+<pre><code>sudo open /etc/hosts -a “sublime Text”</code></pre><br>
+It may ask for your password, this is your mac login password. you will now see the following once the file opens
+</p>
+
+
+							<center><span class="image med"><img src="images/vagrant/15.jpg" alt="localhost"></span></center><br>
+
+<p>
+	If you haven’t touched a hosts file before there are two key rules
+	<li>Don’t change anything that is in here already</li>
+	<li>Any IP address you type in you can assign a domain name to it </li>
+<br>
+Now lets append a URI map for our fake IP<br>
+<br>
+
+							<center><span class="image med"><img src="images/vagrant/16.jpg" alt="fakeip"></span></center><br>
+
+I just added this at the bottom below slimapp, feel free to add any name you like. What happens here is anytime someone on your computer goes to vagrantrox (or the name you assigned) it will direct it to the ip 55.55.55.5 (or the IP you configured).<br><br>
+<b>Note*</b>  There is also a plugin called Vagrant Hostmanager - for auto-entering the domain into the hosts file.<br>
+Now navigate to vagrantrox.com or your given URL and see it redirect to our nginx server! <br><br>
+<b>NOTE*</b> Some may name it dev.vagrantrox.com for the development version
+What we have done is we have spun up a LINUX virtual server, configured it and ran our own local server instance within that and created a fake IP and Domain that we can connect to. <br>
+Now close your Vagrant instance to save memory. The vagrant file will remain, but the installations will need to be carried out again the next time you start up a server. 
+</p>
+<pre><code>vagrant destroy</code></pre><br>
+
+
+									<center><div id="start"> <h2> Why is this Useful?</h2> </div></center>
+
+
+<p>
+	This is really useful for being able to quickly spin up linux machines, configure them and destroy them when we need to.<br>
+Also this allows us to practice making command line deployments to our dev server without blowing up our production server. <br>
+Developers chose to run a vagrant file in the repository for their project, whenever their project is open instead of running MAMP that installs apache , mysql and PHP on your machine. </p>
+<p>
+You can actually just run a vagrant box that is configured just like your proaction webserver, then give it an IP address and domain name, like dev.myawesomewebsite.com so now your machine is not tied to one project. 
+Lots of times what will happen is a developer will have a problem on their machine, but not see that problem on another machine because they may be running a different version of PHP or RUBY or a slightly different version of MAC OS. <br>
+This way the code you are writing, is running on the exact same virtual box that all the other DEVs on your team are running their code on. 	
+Another great thing is whenever you SSH to the vagrant VS, you can access the code from your GitHub repo in the virtual server that anyone who connects to that VS can access. This solves the problem of the old, it doesn’t happen on my machine routine. 
+</p>
+
+
+
+
+									<center><div id="start"> <h2> USEFUL VAGRANT COMMANDS</h2> </div></center>
+
+<P> Vagrant's basic commands<br> 
+
+All commands should be executed inside the VDD directory.<br><br>
+
+SSH into virtual machine.
+<pre><code>$ vagrant ssh</code></pre>
+Start virtual machine.<br><br>
+<pre><code>$ vagrant up</code></pre>
+Share your virtual machine to the world via a temporary and unique url.<br><br>
+<pre><code>$ vagrant share</code></pre>
+Halt virtual machine.<br><br>
+<pre><code>$ vagrant halt</code></pre>
+Destroy your virtual machine. The source code and the content of the data directory will remain unchanged. Only the VirtualBox machine instance will be destroyed. You can build your machine again with the 'vagrant up' command. This command is useful if you want to save disk space.
+Warning: this command will destroy your site databases. Backup them using drush sql-dump > db.sql for each site.<br><br>
+<pre><code>$ vagrant destroy</code></pre>
+Reconfigure the virtual machine after a source code change.<br><br>
+<pre><code>$ vagrant provision</code></pre>
+Reload the virtual machine. Useful when you need to change network or synced folder settings.<br><br>
+<pre><code>$ vagrant reload</code></pre><br>
+
+I really hope this tutorial will have come in useful for anyone looking to understand more around building virtual servers and envirionments. This is the first in a series of DevOps tutorials that I will be releasing focusing on tools for automating the Development and Operations pipeline. 
+</p> 
+
+
+<br><strong> Adam McMurchie  26/Aug/2017 </strong>
+<br><br>
+
+
+		<!-- **************************footer picture goes here *********************************************** -->
+
+								<span class="image main"><img src="images/blog/pic02.jpg" alt="" /></span>
+							</article>
+					</div>
+
+				<!-- Main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Adam. McMurchie: <a href="https://html5up.net">Project</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- **************************background picture goes here *********************************************** -->
+			<div id="bg11"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

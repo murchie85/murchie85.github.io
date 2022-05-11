@@ -1,0 +1,483 @@
+<html>
+	
+	<head>
+ 	<title>Adam McMurchie</title>
+    <meta property="og:url"      content="https://murchie85.github.io/projects/portfolio/murchie.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title" content="McMurchie's Portfolio" />
+    <meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
+
+    <meta itemprop="image" content="images/head.jpg" />   <!-- PREVIEW IMAGE -->
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/head.jpg"> <!-- PREVIEW IMAGE -->
+
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="A technical Porftolio for me, Adam McMurchie.">
+    <meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+	</head>
+<body onload="startNaviTime();startTime();startPorftfolioTime();startSkillsTime(); "  >
+
+<!-- style="  border-style: solid;
+  border-color: #306230; border-width: thick; background-color:#9bbc0f;" -->
+
+<!--    ************************* INTRO ANIMATION *******************************************-->
+
+
+<center style="padding-top:2%">
+<video onended="ShowText()" width=80% height=80% autoplay="autoplay" muted  style="  border-style: solid;
+  border-color: #306230; border-width: thick; " >
+  <source src="Portfolio.mov" type="video/mp4">
+  <source src="Portfolio.mov" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+</center>
+
+<center><p  style="font-size: 250%;" id="p1"> </p></center>
+
+
+<script type='text/javascript'>
+  function ShowText(){
+  	document.getElementById("p1").innerHTML = "Hello! Please <b> Scroll Down</b> for Portfolio";
+    console.log("The End.")
+  }
+</script>
+
+
+<!--    ************************* FIRST ARROW DOWN *******************************************-->
+<center><a href="#intro"><img src="Arrow/arrow2.png" alt="arrow" id="arrow"></a></center>
+
+
+
+
+
+
+
+
+<br></br>  <br></br> <br></br> <br id='intro'></br> <br></br> <br ></br> <br></br>
+
+<!--    ************************* SUMMARY  *******************************************-->
+<div>
+
+    <img src="ship/ship1.png" alt="SpaceShip" align='right' id="ship" style="margin-right: 15%; margin-top: 5%">
+    <p style="font-size: 250%; margin: 50px; margin-right: 40%; padding-left:5%">Hello!<br></br>
+    I'm <b>Adam McMurchie</b>, an experienced <b>senior engineer</b> looking to make a transition into the gaming world. 
+    </p>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+var timerid = 0;
+var images = new Array( "ship/ship1.png",
+      "ship/ship2.png",
+      "ship/ship3.png",
+      "ship/ship4.png",
+      "ship/ship5.png"
+
+
+      );
+var countimages = 0;
+function startTime()
+{
+  if(timerid)
+  {
+    timerid = 0;
+  }
+  var tDate = new Date();
+  
+  if(countimages == images.length)
+  {
+    countimages = 0;
+  }
+  if(tDate.getMilliseconds() > 5)
+  {
+    document.getElementById("ship").src = images[countimages];
+  }
+  countimages++;
+  
+  timerid = setTimeout("startTime()", 100);
+}
+</script>
+
+<!-- page break -->
+<p style="margin-bottom: 18%"></p>
+
+<!--    ************************* SECOND ARROW DOWN *******************************************-->
+<center><a href="#background"><img src="Arrow/arrow2.png" alt="arrow" id="arrow"></a></center>
+
+<!-- page break -->
+<p style="margin-bottom: 20%"></p>
+
+
+
+<!--    ************************* MY BACKGROUND  *******************************************-->
+
+<div id='background'>
+
+    <img src="navi/navi.png" alt="navi" align='left' id="navi" style="margin-left: 15%; padding-right: 5% ;margin-bottom: 50%">
+    <p style="font-size: 120%; margin: 50px; margin-right: 10%; font-family:verdana"><br></br>
+     I’m a <b>senior multi-specialist engineer</b> with extensive experience leading teams and delivering complex projects. I have delivered on all major aspects of the Software Development Lifecycle: Full Stack development, Test Automation, SysAdmin and DevOps delivery.<br></br>
+
+     My current role is as the <b>Head of DevOps</b> at Barclays Bank in the Chief Security Office - I lead a team of 15 engineers via my hands on approach of lead-by-example with an ethos of minimal micromanagement and multi-disciplinary agile scrum teams. 
+      <br></br>Coding wise, I am very active and in the <b>Top100 GitHub contributors</b> in the world with over 3,400 commits this year on a range of Gaming, AI and Cloud projects. Some examples include slack bots, sentiment analysis, Web Scraping, Python games (the hard way - in Flask not pygame), Automating automation with pipeline as a service and much more. </p>
+     <h1 style="color: green">Gaming Industry Transition</h1>
+    <p style="font-size: 120%; margin: 50px; margin-right: 10%;font-family:verdana ">
+ I believe my <b>10 years of experience</b> in App Development, DevOps, AI and agile background puts me in a position to add value. 
+ That said, I am not without experience, I have been developing games for years from the ground up in assembler, Python, Java, JS and in GameMakerStudio (examples showcased in portfolio below). 
+<br></br>
+I am comfortable with working on <i>do-or-die</i> release cycles and am experienced in growing multi- functional scrum teams but equally adept at hands-on implementation. I have developed and delivered key projects over the years from the first instalment of ApplePay in the UK, to large-scale <b>refactoring of monolithic Online backend into microServices</b> for ring fence banking.
+<br></br>
+ It is my sole focus to do whatever it takes to transition into gaming, this is a career decision that has been bubbling up over the years as such, I am fully realistic about salary expectations and have no qualms about whatever investment is required from me to bridge the gap. 
+
+
+
+    </p>
+
+</div>
+
+
+<script language="javascript" type="text/javascript">
+var naviTimerid = 0;
+var NaviImages = new Array( "navi/navi.png",
+      "navi/navi1.png",
+      "navi/navi2.png",
+      "navi/navi3.png",
+      "navi/navi4.png",
+      "navi/navi5.png",
+      "navi/navi6.png",
+      "navi/navi7.png"
+
+
+      );
+var countNaviimages = 0;
+function startNaviTime()
+{
+  if(naviTimerid)
+  {
+    naviTimerid = 0;
+  }
+  var naviDate = new Date();
+  
+  if(countNaviimages == NaviImages.length)
+  {
+    countNaviimages = 0;
+  }
+  if(naviDate.getMilliseconds() > 100)
+  {
+    document.getElementById("navi").src = NaviImages[countNaviimages];
+  }
+  countNaviimages++;
+  
+  naviTimerid = setTimeout("startNaviTime()", 100);
+}
+</script>
+
+
+<!--    ************************* SECOND ARROW DOWN *******************************************-->
+<center><a href="#skills"><img src="Arrow/arrow2.png" alt="arrow" id="arrow"></a></center>
+
+
+
+<!-- page break -->
+
+<!--    ************************* SKILLS  *******************************************-->
+<p style="margin-bottom: 40%"></p>
+
+
+<img src="skills/skills10.png" alt="navi" align='left' id="skills" style="margin-left: 15%; padding-right: 5% ">
+<img src="skills/skillOverview.png" alt="navi"  >
+<!--
+<table style="margin-left: 50%; border-spacing: 20px 10px; padding-top: 5%">
+  <tr style="font-size: 150%;">
+
+    <td>Dev</td>
+    <td>DevOps</td>
+    <td>Frameworks</td>
+  </tr>
+  <tr>
+
+    <td>Python</td>
+    <td>CICD</td>
+    <td>GameMakerStudio 2</td>
+  </tr>
+
+  <tr>
+
+    <td>Assembler</td>
+    <td>Jenkins</td>
+    <td>Unreal Engine</td>
+  </tr>
+
+
+</table>
+-->
+
+
+<script language="javascript" type="text/javascript">
+var skillTimerid = 0;
+var skillImages = new Array( "skills/skills1.png",
+      "skills/skills2.png",
+      "skills/skills3.png",
+      "skills/skills4.png",
+      "skills/skills5.png",
+      "skills/skills6.png" ,
+      "skills/skills7.png" ,
+      "skills/skills8.png" ,
+      "skills/skills9.png" ,
+      "skills/skills10.png" 
+
+
+      );
+
+var countSkillsImages = 0;
+function startSkillsTime()
+{
+  if(skillTimerid)
+  {
+    skillTimerid = 0;
+  }
+  var skillDate = new Date();
+  
+  if(countSkillsImages == skillImages.length)
+  {
+    countSkillsImages = 0;
+  }
+  if(skillDate.getMilliseconds() > 200)
+  {
+    document.getElementById("skills").src = skillImages[countSkillsImages];
+  }
+  countSkillsImages++;
+  
+  skillTimerid = setTimeout("startSkillsTime()", 500);
+}
+</script>
+
+
+<!--    ************************* SECOND ARROW DOWN *******************************************-->
+<center><a href="#projectLogo"><img src="Arrow/arrow2.png" alt="arrow" id="arrow"></a></center>
+
+
+<!-- page break -->
+<p style="margin-bottom: 40%"></p>
+
+<!--    ************************* PORTFOLIO  *******************************************-->
+
+<center><img src="logo/portfolio.png" alt="portfolio"  id="projectLogo" ></center>
+
+<script language="javascript" type="text/javascript">
+var portfolioTimerid = 0;
+var portfolioImages = new Array( "logo/Porftolio.png",
+      "logo/Porftolio1.png",
+      "logo/Porftolio2.png",
+      "logo/Porftolio3.png",
+      "logo/Porftolio4.png",
+      "logo/Porftolio5.png",
+      "logo/Porftolio6.png" ,
+      "logo/Porftolio7.png"
+
+      );
+
+var countPortfolioImages = 0;
+function startPorftfolioTime()
+{
+  if(portfolioTimerid)
+  {
+    portfolioTimerid = 0;
+  }
+  var portfolioDate = new Date();
+  
+  if(countPortfolioImages == portfolioImages.length)
+  {
+    countPortfolioImages = 0;
+  }
+  if(portfolioDate.getMilliseconds() > 200)
+  {
+    document.getElementById("projectLogo").src = portfolioImages[countPortfolioImages];
+  }
+  countPortfolioImages++;
+  
+  portfolioTimerid = setTimeout("startPorftfolioTime()", 500);
+}
+</script>
+<br></br>
+
+<center>
+  <h1 style="color:green"> Coding Activity</h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+
+<img src="projects/git.png" align = 'left'  style=" width:60%; height:60%; padding: 2% ; padding-top: 5%">
+
+<p style="margin-bottom: 10%; padding: 2%; font-size: 150%;   font-family:verdana; text-align:left">
+     The github activity on the left shows my personal commits with over 180 projects over the past 4 years.
+     Projects include: <br></br>
+     - App Dev<br>
+     - Scraping<br>
+     - Analytics and Modelling <br>
+     - Game Dev<br>
+     - Hacking & CyberSecurity<br>
+     - Blockchain and Crypto contracts<br>
+     - Mobile Dev<br>
+     - Bots and Automation <br> </br>
+
+    <a href="https://github.com/murchie85?tab=repositories" style="color:green">Source</a>
+   </p>
+</div>
+</center>
+
+
+<br></br><br></br><br></br><br></br><br></br>
+
+
+<center>
+  <h1 style="color:green"> DarkTrace Social Threat Intel Feeds</h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+
+<a href="https://murchie85.github.io/darkwire/darkwire.html"><img src="projects/darkLogo.png" align = 'left'  style=" width:50%; height:50%; padding: 2% "></a>
+
+<p style="margin-bottom: 10%; padding: 2%; font-size: 150%;   font-family:verdana; text-align:left">
+     Cybersecurity driven exclusively by social feeds, information streams are all from the public, twitter, reddit etc and parsed based upon word of mouth rather than traditional threat intelligence stats. Data, images, tweets and comments are all parsed automatically and do not reflect the opinion of the platform developer (me).
+     <br></br>
+     <a href="https://murchie85.github.io/darkwire/darkwire.html" style="color:green">Site</a>
+
+     <a href="https://github.com/murchie85/twitterCyberMonitor" style="color:green">Source</a>
+
+   </p>
+
+
+</div>
+</center>
+<br></br><br></br><br></br><br></br><br></br>s
+
+<center>
+  <h1 style="color:green"> Depolarise Social Media (Bots, ML analytics & Automation)</h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+
+<img src="projects/analytics.jpeg" align = 'left'  style=" width:50%; height:50%; padding: 2% ; padding-top: 5%">
+
+<p style="margin-bottom: 10%; padding: 2%; font-size: 150%;   font-family:verdana; text-align:left">
+     This project involves deploying multiple bots to twitter, scraping and sourcing meta-data - then by statistical analytics sentiment, ranked opinion, geo-data and other metrics can be obtained. <br></br>The aim is to produce daily objective social media reports to show exactly how opinion is split on certain topics; this is then compared and contrasted with traditional media. This whole process is automated and run daily as batch jobs, including training of ML models.
+     <br></br>
+     <a href="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA" style="color:green">Source</a>
+
+     <a href="https://github.com/murchie85/twitter_hashtag_analytics" style="color:green">Source 2</a>
+
+   </p>
+</div>
+</center>
+<br></br><br></br><br></br><br></br><br></br>s
+
+
+<center>
+  <h1 style="color:green"> OMEGA STORM</h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+
+<iframe align = 'left' width="50%" height=50% src="https://www.youtube.com/embed/S4OUni52UUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding: 6%"></iframe>
+
+
+<p style="margin-bottom: 8%; margin-top: 3%; padding: 2%; font-size: 150%;   font-family:verdana; text-align:left">
+  <br></br>
+     OMEGA STORM is an ambitious SpaceShooter RPG currently in development<br></br>
+     The game will maintain much of the mechanics from the generic classics but diverge significantly in gameplay with RPG mechanics, three view modes (topDown, side scroller and HUD).<br>
+
+     The codebase is private for IP reasons but a look at the basic foundation codebase can be found below.
+
+    <a href="https://github.com/murchie85/starshooter" style="color:green">Source</a>
+   </p>
+</div>
+</center>
+
+<br></br><br></br><br></br><br></br><br></br>
+
+
+<center>
+  <h1 style="color:green"> CONQUEST</h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+<embed type="text/html" src="slider.html" width="50%" height="50%" align = 'left' style="padding:8%">
+
+
+<p style="margin-bottom: 8%; margin-top: 3%; padding: 2%; font-size: 150%;   font-family:verdana; text-align:left">
+  <br></br>
+     Conquest started out as a series of <b>neural networks</b> to model complex global systems and morphed into a <b>terminal game</b> , then grew arms and legs into a PythonGame finally into a <b>Web game</b> with databases.<br></br>
+
+     I built neural networks to try and simulate how governments interact by reducing geo-politic variables down to a few key features, namely - Finance, Ideology, Social Contentment, Science and politics.<br></br>
+
+
+     I then wanted to interact directly with the simulation so I built terminal commands for tweaking hyper parameters - this then turned into a Linux/Windows and Mac terminal game. From then I quickly got bored with the original idea and moved on to expanding the game. After completing the first major iteration on terminal I decided to further expand it. <br></br>
+
+      I then refactored the code yet again into the Flask framework so the game could be played by anyone - to make it more accessible I refactored all Json data structures into mySql tables and rewrote the code yet again. 
+
+    <a href="https://github.com/murchie85/gameOfWar" style="color:green">Source</a>
+   </p>
+</div>
+</center>
+
+<br></br><br></br><br></br><br></br><br></br>
+
+
+
+
+<center>
+  <h1 style="color:green"> Developing Mario on Android (for Fun) </h1>
+<div style="border-style: solid; border-color: #306230; border-width: thick; width:80%" >
+
+<iframe align = 'left' width="50%" height=50%  src="https://www.youtube.com/embed/2u5WwJ0FQFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding:5%"></iframe>
+
+<p style="margin-bottom: 8%; font-size: 150%;   font-family:verdana; text-align:left">
+  <br></br>
+     About three years ago I decided to build on my Android SDK experience by trying to build classic games from scratch, including flappy birds, tetris and Mario. This was primarily a chance for me to work with the core Java OOO framework in this context, paticularily balancing tradeoffs between Async tasks versus Multithreading. <br></br>
+
+      Other areas such as managing logic flow, what tilemaps and assets work best on android were explored - ultimately it was mostly straightforward - the SDK is powerful and intuitive. That said, I never progressed to publishing simply because of the taboo related to the app store (Ip infringement for any of my original games , 3 strikes approach and poor support network.) 
+      <a href="https://github.com/murchie85/mario4" style="color:green">Source</a>
+      
+   </p>
+</div>
+</center>
+
+<br></br><br></br><br></br><br></br><br></br>
+
+
+
+
+<!--
+
+<h2> Games</h2>
+
+
+Tetris
+Flappy Birds
+
+
+<h2> Tech Projects</h2>
+
+  Android Games
+Twitter Automation
+-->
+
+
+
+
+<br></br><br></br>
+
+<center>
+<div id="banner" style="overflow: hidden; margin-left: 40%" >
+
+<div class="image-div" style="float:left; margin-right: 10px; max-width: 20%">
+<a href="https://www.linkedin.com/in/adam-mcmurchie-83863177"><img src="logo/logo1.png" alt="logo" ></a>
+</div>
+<div class="image-div" style="float:left; margin-right: 10px; max-width: 20%">
+<a href="https://github.com/murchie85"><img src="logo/logo2.png" alt="logo" ></a>
+</div>
+<div class="image-div" style="float:left; margin-right: 10px; max-width: 20%">
+<a href="https://murchie85.github.io/"><img src="logo/logo3.png" alt="logo" ></a>
+</div>
+</div>
+
+</center>
+</body>
+
+</html>
