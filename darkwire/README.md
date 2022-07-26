@@ -29,8 +29,8 @@ The most popular user is: **apeguildbsc**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "'Industrial control systems have these inherent vulnerabilities,' Ron Fabela, CTO of OT cybersecurity firm SynSabe… https://t.co/NS0qn279JO |
-| RT @TheHackersNews: #Drupal has released patches for one "critical" and three "moderately critical" vulnerabilities. The "critical" bug (CV… |
+| "When it comes to #cyberattacks, small &amp; medium businesses are one of the most vulnerable &amp; frequently targeted org… https://t.co/a9ZxDT93fA |
+| RT @ephraimnjegafan: I don't like the games Chebukati is playing. The country cannot survive a prolonged election dispute given the economi… |
 | RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to… |
 
 ## RELATED METRICS<br>
@@ -39,9 +39,9 @@ The most popular user is: **apeguildbsc**
 | #1 Most tweeted to  | **apeguildbsc** |
 | #2 Most tweeted to  | **BlockSafu** |
 | #3 Most tweeted to  | **hackinarticles** |
-| NewProfiles (less than 10 days) | 1.66%  |
-| Tweeters with < 10 followers  | 4.04%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| NewProfiles (less than 10 days) | 1.36%  |
+| Tweeters with < 10 followers  | 4.5%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -51,8 +51,8 @@ The most popular user is: **apeguildbsc**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **VULNERABILITIES**  |
-| second  | **FOUND**  |
-| third  | **SMART** |
+| second  | **SMART**  |
+| third  | **FOUND** |
 | fourth  | **AUDIT**  |
 | fifth  | **CONTRACT**  |
 
@@ -60,12 +60,12 @@ The most popular user is: **apeguildbsc**
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@DrewPavlou CIA is more advance &amp; doesn't need service of this lady.US the biggest buyer on "Zero-day vulnerabili… https://t.co/H4EmKCyxCK |
+|@alifarhat79 @greg16676935420 @farokh Just teaching you a lesson on your vulnerabilities, ill give it back... |
 
 ### MOST RETWEETED 
 
@@ -74,6 +74,131 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
 | Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our th… https://t.co/6IAvPnbiO8 |
 
 # Potential Fake Accounts
+ 
+# Sunnydecree_2USER INFO
+![image](http://pbs.twimg.com/profile_images/1551830010792755205/q9QhcL83_normal.jpg)
+ 
+`User ScreenName:` Sunnydecree_2 
+ 
+`User chosen Name:` Sunnydecree 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 24 18:18:24 +0000 2022 
+ 
+`User Description?:` Just one of those #Bitcoin dudes... 📷 https://t.co/eyLwzxkska 
+ 
+`Followers?: `0 
+ 
+`Following?:` 0 
+ 
+`User URL?:` None 
+ 
+`Location:` Schweiz 
+ 
+`Number of tweets extracted`  : 52 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551830010792755205/q9QhcL83_normal.jpg 
+ 
+`Number of tweets excluding replies:` 52 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@SUNNYDECREE:** 48 , **BITCOIN** 26 , **IPHONE** 6 , **BTC** 6 , **EVERYONE** 4 , **VS** 4 , **ANOTHER** 4 , **CRYPTO** 4 , **MARKET** 4 , **4** 3 , **TELL** 3 , **INFLATION** 3 , **GOOD** 3 , **STILL** 3 , **NEW** 3 , **STARTED:** 3 , **VIDEO** 3 , **YOUTUBE** 3 , **BEAR** 3 , **1** 2 , 
+ 
+## What this user tweeted
+ 
+RT @sunnydecree: BREAKING NEWS: The #Bitcoin FUD reached level: Pentagon.
+
+The establishment must be very concerned at this point.
+
+We are…
+ 
+# techresourzeUSER INFO
+![image](http://pbs.twimg.com/profile_images/1551276418381889537/VdHZ4PcZ_normal.jpg)
+ 
+`User ScreenName:` techresourze 
+ 
+`User chosen Name:` Tech Resources 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jul 23 06:53:40 +0000 2022 
+ 
+`User Description?:` Tech resources at your fingertip. 
+ 
+`Followers?: `16 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 79 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551276418381889537/VdHZ4PcZ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**PYTHON** 26 , **100DAYSOFCODE** 25 , **MACHINELEARNING** 20 , **IOT** 18 , **DEVCOMMUNITY** 17 , **AI** 16 , **BIGDATA** 15 , **DATASCIENCE** 13 , **PYTORCH** 11 , **DEVELOPER** 10 , **TENSORFLOW** 9 , **CSS** 9 , **JAVASCRIPT** 9 , **@THEPRACTICALDEV:** 9 , **DAY** 8 , **HTML** 7 , **VIA** 7 , **PROGRAMMING** 7 , **ANALYTICS** 6 , **DIGITALHEALTH** 6 , 
+ 
+## What this user tweeted
+ 
+RT @hackinarticles: Indirect Command Execution: Defense Evasion (T1202)
+
+https://t.co/gOHuWJHafl
+
+#infosec #cybersecurity #cybersecuritytip…
+ 
+# mdsagor20164192USER INFO
+![image](http://pbs.twimg.com/profile_images/1549406922008305664/FPcb_m0S_normal.jpg)
+ 
+`User ScreenName:` mdsagor20164192 
+ 
+`User chosen Name:` md sagor hossen 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jul 18 06:04:09 +0000 2022 
+ 
+`User Description?:` Students 
+ 
+`Followers?: `3 
+ 
+`Following?:` 26 
+ 
+`User URL?:` None 
+ 
+`Location:` Dhaka, Bangladesh 
+ 
+`Number of tweets extracted`  : 116 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1549406922008305664/FPcb_m0S_normal.jpg 
+ 
+`Number of tweets excluding replies:` 117 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AIRDROP** 18 , **LOVELY** 18 , **@LOVELY_FINANCE:** 16 , **TOKEN** 11 , **@FROM_DOG_TO_GOD:** 11 , **@V3SWAP:** 10 , **SWAP** 10 , **FINANCE** 9 , **💧** 9 , **ALTPAY** 9 , **@APEGUILDBSC:** 9 , **$GOD** 9 , **1** 8 , **MEME** 8 , **🔥** 8 , **WORLD** 7 , **@ANTIQUE_TOKEN:** 7 , **🏆** 6 , **LOVELYINU** 6 , **@ELITECASH_IO:** 5 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
 # PubuduRansikaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1550872266560442368/6Sv_Bbrt_normal.jpg)
@@ -88,19 +213,19 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 `User Description?:` 🌎❤️🌏 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 14 
+`Following?:` 15 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 22 
+`Number of tweets extracted`  : 24 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550872266560442368/6Sv_Bbrt_normal.jpg 
  
-`Number of tweets excluding replies:` 22 
+`Number of tweets excluding replies:` 24 
  
 
  
@@ -108,7 +233,7 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
  
 ## User Top tweeted words 
  
-**AIRDROP** 5 , **@APEGUILDBSC:** 5 , **TOKEN** 5 , **@CHAMITHRASMIKA** 3 , **@CHAMINRASHMIKA** 3 , **TASKS** 3 , **GOOD** 3 , **@THEBINANCENFT:** 3 , **NFT** 2 , **@CLEVERAGENT_:** 2 , **CLEVERAGENT** 2 , **$FREE** 2 , **TOKENS** 2 , **GIVEAWAY** 2 , **@PINKECOSYSTEM** 2 , **COMMUNITY** 2 , **$APEG** 2 , **APEGUILD** 2 , **👉NO** 2 , **"NFTALLSTARS"** 2 , 
+**AIRDROP** 7 , **@APEGUILDBSC:** 5 , **TOKEN** 5 , **EARN** 4 , **TOKENS** 4 , **TASKS** 4 , **@CHAMITHRASMIKA** 3 , **@CHAMINRASHMIKA** 3 , **GOOD** 3 , **@THEBINANCENFT:** 3 , **@JOG2EOFFICIAL:** 2 , **MONEY** 2 , **🌱** 2 , **RUNNING** 2 , **LIVE!** 2 , **NFT** 2 , **@CLEVERAGENT_:** 2 , **CLEVERAGENT** 2 , **$FREE** 2 , **GIVEAWAY** 2 , 
  
 ## What this user tweeted
  
@@ -212,9 +337,9 @@ However, close scrutiny will reveal that a good part of…
  
 `User Description?:` We work to make cyber hygiene and peace. Help everyone in need. cybercell@mail.com or itcell@mail.com 
  
-`Followers?: `219 
+`Followers?: `269 
  
-`Following?:` 0 
+`Following?:` 3 
  
 `User URL?:` None 
  
@@ -290,7 +415,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` Computer science ( cyber security) 
  
-`Followers?: `14 
+`Followers?: `15 
  
 `Following?:` 54 
  
@@ -298,11 +423,11 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Location:`  
  
-`Number of tweets extracted`  : 70 
+`Number of tweets extracted`  : 71 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550474958576533504/RABGxs8e_normal.jpg 
  
-`Number of tweets excluding replies:` 70 
+`Number of tweets excluding replies:` 71 
  
 
  
@@ -310,7 +435,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 26 , **INFOSEC** 18 , **PENTESTING** 15 , **OSCP** 14 , **@SEOKONIKAISLAM:** 14 , **PYTHON** 14 , **REDTEAM** 12 , **AI** 12 , **@HACKINARTICLES:** 11 , **CYBERSECURITYTIPS** 11 , **INFORMATIONSECURITY** 11 , **@BIORTCNIG** 9 , **MACHINELEARNING** 9 , **DATASCIENCE** 9 , **RSTATS** 8 , **DATAANALYTICS** 8 , **CISSP** 7 , **BIGDATA** 7 , **IIOT** 7 , **DATASECURITY** 7 , 
+**CYBERSECURITY** 27 , **INFOSEC** 18 , **@SEOKONIKAISLAM:** 15 , **PENTESTING** 15 , **OSCP** 14 , **PYTHON** 14 , **REDTEAM** 12 , **AI** 12 , **@HACKINARTICLES:** 11 , **CYBERSECURITYTIPS** 11 , **INFORMATIONSECURITY** 11 , **@BIORTCNIG** 9 , **MACHINELEARNING** 9 , **DATASCIENCE** 9 , **RSTATS** 8 , **DATAANALYTICS** 8 , **ANALYTICS** 7 , **CISSP** 7 , **BIGDATA** 7 , **IIOT** 7 , 
  
 ## What this user tweeted
  
@@ -339,19 +464,19 @@ https://t.co/3Zibosmjfv
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 101 
+`Following?:` 104 
  
 `User URL?:` None 
  
 `Location:` Khulna, Bangladesh 
  
-`Number of tweets extracted`  : 101 
+`Number of tweets extracted`  : 111 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549345077297721344/LyaFVnQr_normal.jpg 
  
-`Number of tweets excluding replies:` 101 
+`Number of tweets excluding replies:` 111 
  
 
  
@@ -359,7 +484,7 @@ https://t.co/3Zibosmjfv
  
 ## User Top tweeted words 
  
-**AIRDROP** 60 , **AIRDROP:** 17 , **START** 17 , **@AIRDROPDET:** 16 , **NEW** 16 , **🔴** 16 , **BOT** 16 , **🔍** 15 , **REWARD:** 15 , **REFERRAL** 11 , **WORTH** 11 , **TOKEN** 11 , **POOL:** 10 , **TOKENS** 10 , **+** 9 , **POOL** 9 , **🏆** 9 , **TASKS** 9 , **@APEGUILDBSC:** 9 , **JOIN** 9 , 
+**AIRDROP** 66 , **START** 19 , **REWARD:** 18 , **@AIRDROPDET:** 18 , **AIRDROP:** 18 , **🔴** 18 , **BOT** 18 , **🔍** 17 , **NEW** 17 , **REFERRAL** 13 , **+** 12 , **POOL** 11 , **WORTH** 11 , **TOKEN** 11 , **JOIN** 10 , **🏆** 10 , **💲** 10 , **TASKS** 10 , **POOL:** 10 , **TOKENS** 10 , 
  
 ## What this user tweeted
  
@@ -378,19 +503,19 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 35 
+`Following?:` 36 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 35 
+`Number of tweets extracted`  : 37 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550666967677571072/RKYdCrYk_normal.jpg 
  
-`Number of tweets excluding replies:` 35 
+`Number of tweets excluding replies:` 37 
  
 
  
@@ -398,7 +523,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**AIRDROP** 8 , **PROJECT** 8 , **@SHAEDLIMON5** 7 , **@SARKARSUJOY965** 7 , **@ASIFUDDULAM** 7 , **@APEGUILDBSC:** 6 , **➕** 6 , **💧** 5 , **JOIN** 4 , **PLI** 3 , **REWARD:** 3 , **REFERRAL:** 3 , **50** 3 , **DATE:** 3 , **APEGUILD** 3 , **COMMUNITY** 3 , **TOKEN** 3 , **🏆** 3 , **TASK:** 3 , **WORTH** 3 , 
+**PROJECT** 9 , **AIRDROP** 8 , **@SHAEDLIMON5** 7 , **@SARKARSUJOY965** 7 , **@ASIFUDDULAM** 7 , **@APEGUILDBSC:** 6 , **➕** 6 , **💧** 5 , **JOIN** 4 , **PLI** 3 , **REWARD:** 3 , **REFERRAL:** 3 , **50** 3 , **DATE:** 3 , **APEGUILD** 3 , **COMMUNITY** 3 , **TOKEN** 3 , **🏆** 3 , **TASK:** 3 , **WORTH** 3 , 
  
 ## What this user tweeted
  
@@ -419,17 +544,17 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `0 
  
-`Following?:` 10 
+`Following?:` 13 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 30 
+`Number of tweets extracted`  : 48 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549357220013670401/XjWd7DTr_normal.jpg 
  
-`Number of tweets excluding replies:` 30 
+`Number of tweets excluding replies:` 48 
  
 
  
@@ -437,7 +562,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**AIRDROP** 13 , **START** 6 , **@AIRDROPDET:** 5 , **NEW** 5 , **🔴** 5 , **BOT** 5 , **REFERRAL** 4 , **🔍** 4 , **AIRDROP:** 4 , **REWARD:** 4 , **POOL** 4 , **@APEGUILDBSC:** 4 , **💲** 3 , **+** 3 , **COMMUNITY** 3 , **TOKEN** 3 , **LST** 3 , **GOOD** 2 , **CLEVERAGENT** 2 , **DEFI** 2 , 
+**AIRDROP** 16 , **NEW** 8 , **START** 6 , **AIRDROP:** 5 , **REWARD:** 5 , **GOODRT** 5 , **@AIRDROPDET:** 5 , **🔴** 5 , **BOT** 5 , **MOST** 4 , **IMMERSIVE** 4 , **@MY_EDVERSE:** 4 , **TOKEN** 4 , **REFERRAL** 4 , **🔍** 4 , **POOL** 4 , **@APEGUILDBSC:** 4 , **RANDOM** 3 , **NFT** 3 , **@OCTIUM_IO:** 3 , 
  
 ## What this user tweeted
  
@@ -495,19 +620,19 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` Panarra®️ Panaderia Artesanal en Cd Obregón Sonora Mexico gran variedad de panes del mundo, con masa madre y largas fermentaciones. 
  
-`Followers?: `25 
+`Followers?: `29 
  
-`Following?:` 202 
+`Following?:` 215 
  
 `User URL?:` None 
  
 `Location:` Ciudad Obregon, Sonora México 
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 19 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550297886172348422/D28xna4L_normal.jpg 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 19 
  
 
  
@@ -515,7 +640,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**DE** 19 , **LA** 7 , **Y** 5 , **EL** 5 , **DEL** 4 , **@PANARRA_** 3 , **QUE** 3 , **MI** 3 , **CON** 3 , **EN** 3 , **NUESTRO** 2 , **POR** 2 , **JOIN** 2 , **LOS** 2 , **HONORABLE** 2 , **PANADERIA** 2 , **BAKER** 2 , **DANIEL** 2 , **LEADER** 2 , **FOUNDER** 2 , 
+**DE** 21 , **LA** 7 , **Y** 5 , **EL** 5 , **EN** 4 , **DEL** 4 , **SE** 3 , **NUESTRO** 3 , **@PANARRA_** 3 , **QUE** 3 , **MI** 3 , **CON** 3 , **DIA** 2 , **AL** 2 , **FAMILIA** 2 , **POR** 2 , **JOIN** 2 , **LOS** 2 , **HONORABLE** 2 , **PANADERIA** 2 , 
  
 ## What this user tweeted
  
@@ -534,19 +659,19 @@ RT @AlisonRBentley: Join the upcoming Sustainable Development in Latin America &
  
 `User Description?:`  
  
-`Followers?: `10 
+`Followers?: `11 
  
-`Following?:` 137 
+`Following?:` 148 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 60 
+`Number of tweets extracted`  : 72 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 60 
+`Number of tweets excluding replies:` 72 
  
 
  
@@ -554,7 +679,7 @@ RT @AlisonRBentley: Join the upcoming Sustainable Development in Latin America &
  
 ## User Top tweeted words 
  
-**AIRDROP** 22 , **PROJECT** 14 , **GOOD** 13 , **@AHMADUL82596161** 13 , **@RAJUAHMMED6765** 11 , **💧** 8 , **JULY** 7 , **REFERRAL:** 7 , **GIVEAWAY** 7 , **TOKEN** 6 , **AIRDROP:** 6 , **🚀** 6 , **@AJINKYARAHANE88** 6 , **WORTH** 6 , **2022** 6 , **REWARD:** 5 , **DATE:** 5 , **NFT** 5 , **@RAJON85136685** 5 , **BHU** 5 , 
+**AIRDROP** 27 , **PROJECT** 17 , **GOOD** 16 , **@AHMADUL82596161** 16 , **@RAJUAHMMED6765** 12 , **REWARD:** 8 , **@AJINKYARAHANE88** 8 , **GIVEAWAY** 8 , **💧** 8 , **🚀** 7 , **WORTH** 7 , **TOKEN** 7 , **JULY** 7 , **REFERRAL:** 7 , **@RAJON85136685** 6 , **AIRDROP:** 6 , **2022** 6 , **+** 5 , **TASKS** 5 , **X** 5 , 
  
 ## What this user tweeted
  
@@ -575,17 +700,17 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `0 
  
-`Following?:` 21 
+`Following?:` 24 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 10 
+`Number of tweets extracted`  : 18 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549370891418869761/MrCDCuZW_normal.jpg 
  
-`Number of tweets excluding replies:` 10 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -593,7 +718,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**AIRDROP** 10 , **START** 4 , **@AIRDROPDET:** 3 , **🔴** 3 , **BOT** 3 , **@APEGUILDBSC:** 3 , **TOKEN** 3 , **KELP** 2 , **🏆** 2 , **POOL** 2 , **CLEVERAGENT** 2 , **@CLEVERAGENT_:** 2 , **10** 2 , **$FREE** 2 , **TOKENS** 2 , **REFERRAL** 2 , **🔍** 2 , **LST** 2 , **+** 2 , **POOL:** 2 , 
+**AIRDROP** 13 , **START** 4 , **@COINMARKETCAP** 3 , **@OCTIUM_IO:** 3 , **@AIRDROPDET:** 3 , **🔴** 3 , **BOT** 3 , **@APEGUILDBSC:** 3 , **TOKEN** 3 , **NEW** 2 , **TOTAL** 2 , **REWARD:** 2 , **NFTS** 2 , **1300** 2 , **RANDOM** 2 , **100** 2 , **@FAHRI86RT** 2 , **@FAUJI80TW** 2 , **@LOOTMOGUL:** 2 , **LIVE!** 2 , 
  
 ## What this user tweeted
  
@@ -659,11 +784,11 @@ SAST and DAST are application security testing methodologies used to find securi
  
 `Location:`  
  
-`Number of tweets extracted`  : 178 
+`Number of tweets extracted`  : 200 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1551517452844109825/B9sAnO3H_normal.jpg 
  
-`Number of tweets excluding replies:` 179 
+`Number of tweets excluding replies:` 338 
  
 
  
@@ -671,90 +796,11 @@ SAST and DAST are application security testing methodologies used to find securi
  
 ## User Top tweeted words 
  
-**–** 20 , **VIDEO** 17 , **2022** 15 , **LEAKED** 14 , **SERIES** 13 , **AGE** 11 , **VIRAL** 11 , **TWITTER** 11 , **AFTER** 11 , **WEB** 10 , **WATCH** 10 , **ONLINE** 9 , **FREE** 9 , **DIES** 8 , **CAST** 7 , **DEAD** 6 , **REDDIT** 6 , **WIKI** 5 , **SEASON** 5 , **NUDE** 5 , 
+**VIDEO** 22 , **–** 20 , **LEAKED** 18 , **VIRAL** 15 , **TWITTER** 13 , **2022** 13 , **REDDIT** 12 , **SERIES** 10 , **WATCH** 10 , **AGE** 10 , **STAR** 9 , **AFTER** 9 , **ACTOR** 8 , **WEB** 8 , **ONLINE** 8 , **MADDY** 7 , **DEAD** 7 , **SEASON** 7 , **»** 6 , **PHOOSI** 6 , 
  
 ## What this user tweeted
  
 Government Warns Apple Watch Users in India of Multiple High Severity Vulnerabilities https://t.co/zSPUkzNHvp
- 
-# iamnoc10USER INFO
-![image](http://pbs.twimg.com/profile_images/1548696710284595200/E5Gnh6Rq_normal.jpg)
- 
-`User ScreenName:` iamnoc10 
- 
-`User chosen Name:` Mùchén 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 16 05:31:01 +0000 2022 
- 
-`User Description?:` No Future No Future 
- 
-`Followers?: `6 
- 
-`Following?:` 59 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 73 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1548696710284595200/E5Gnh6Rq_normal.jpg 
- 
-`Number of tweets excluding replies:` 73 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SECURITY** 12 , **AMA** 12 , **L** 12 , **UTC** 11 , **@RICHVERSEWEB3** 11 , **JULY** 10 , **@WANCHAIN_ORG** 8 , **@MAMUDSIFAT** 8 , **@DON_8811** 8 , **COMMUNITY** 7 , **HOLD** 7 , **PM** 7 , **@WALKEN_IO** 7 , **ALWAYS** 6 , **MOST** 6 , **@IM_COMMUNITYITW:** 6 , **IM** 6 , **2022** 6 , **GMT+7** 6 , **PRIZE:** 6 , 
- 
-## What this user tweeted
- 
-@Altcoinbuzzio @wanchain_org At Wanchain, do you consider security and user-satisfaction an important concern. Mean… https://t.co/SDg6Y1G0CE
- 
-# Irfannfi1USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` Irfannfi1 
- 
-`User chosen Name:` Irfan Nurfauzan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 05:58:25 +0000 2022 
- 
-`User Description?:` Hunter 
-My account @Irfannfi 
- 
-`Followers?: `1 
- 
-`Following?:` 81 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 263 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TEAM** 101 , **GOOD** 98 , **PROJECT** 53 , **CONGRATULATION** 49 , **EFFORTS** 45 , **MAKE** 39 , **RT** 39 , **DONE** 31 , **AIRDROP** 30 , **+** 29 , **WISH** 24 , **LUCK** 24 , **GOD** 23 , **FOLLOW** 23 , **💧** 17 , **AIRDROP:** 16 , **NEW** 15 , **GIVEAWAY** 15 , **TH…** 14 , **$50** 14 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
 # NOYONAH85287496USER INFO
 ![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
@@ -771,17 +817,17 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `0 
  
-`Following?:` 12 
+`Following?:` 14 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 11 
+`Number of tweets extracted`  : 12 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 11 
+`Number of tweets excluding replies:` 12 
  
 
  
@@ -789,7 +835,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**AIRDROP** 10 , **REWARD:** 5 , **🔵** 4 , **✅** 3 , **ALTPAY** 3 , **REFERRAL** 3 , **@AIRDROPDET:** 3 , **🔴** 3 , **START** 3 , **BOT** 3 , **CONTRACT** 2 , **VIRALCOIN** 2 , **WORTH** 2 , **POOL** 2 , **@SAF_CAT:** 2 , **🏆** 2 , **➕** 2 , **MILLION** 2 , **:** 2 , **NEW** 2 , 
+**AIRDROP** 11 , **REWARD:** 5 , **🔵** 4 , **✅** 3 , **ALTPAY** 3 , **REFERRAL** 3 , **@AIRDROPDET:** 3 , **🔴** 3 , **START** 3 , **BOT** 3 , **BEAVERS** 2 , **CONTRACT** 2 , **VIRALCOIN** 2 , **WORTH** 2 , **POOL** 2 , **@SAF_CAT:** 2 , **🏆** 2 , **➕** 2 , **MILLION** 2 , **:** 2 , 
  
 ## What this user tweeted
  
@@ -859,7 +905,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549405009992974336/dhjwfa2q_normal.jpg 
  
-`Number of tweets excluding replies:` 539 
+`Number of tweets excluding replies:` 576 
  
 
  
@@ -867,7 +913,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 94 , **SECURITY** 24 , **INFOSEC** 21 , **PYTHON** 17 , **CYBER** 16 , **MACHINELEARNING** 14 , **AI** 14 , **HACKING** 12 , **🔎** 12 , **RANSOMWARE** 11 , **BIGDATA** 11 , **DATASCIENCE** 11 , **THREAT** 10 , **@CHANNEL969:** 10 , **PENTESTING** 10 , **DATA** 9 , **NEW** 9 , **SQL** 9 , **100DAYSOFCODE** 9 , **ANALYTICS** 8 , 
+**CYBERSECURITY** 96 , **SECURITY** 28 , **INFOSEC** 26 , **PYTHON** 19 , **MACHINELEARNING** 17 , **🔎** 16 , **DATASCIENCE** 14 , **CYBER** 14 , **AI** 13 , **BIGDATA** 12 , **PENTESTING** 12 , **HACKING** 12 , **THREAT** 11 , **NEWS** 11 , **@CHANNEL969:** 10 , **NEW** 10 , **…RT** 9 , **DATA** 9 , **ANALYTICS** 9 , **RANSOMWARE** 9 , 
  
 ## What this user tweeted
  
@@ -896,11 +942,11 @@ Visit https://t.co/v1C5R01MSy for information about recently released #cybers…
  
 `Location:`  
  
-`Number of tweets extracted`  : 128 
+`Number of tweets extracted`  : 131 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1548877339588796416/SpWcWV0T_normal.jpg 
  
-`Number of tweets excluding replies:` 130 
+`Number of tweets excluding replies:` 133 
  
 
  
@@ -908,7 +954,7 @@ Visit https://t.co/v1C5R01MSy for information about recently released #cybers…
  
 ## User Top tweeted words 
  
-**TIMOTHÉE** 37 , **CHALAMET** 27 , **@TIMOTHEEMYWORLD:** 15 , **@MUSETTA_MAY:** 9 , **I’M** 7 , **NEED** 7 , **DON’T** 7 , **MUCH** 6 , **MAN** 5 , **LOVE** 5 , **MISS** 5 , **TIMMY** 5 , **DEAN** 5 , **@CHALAMENCIAGA:** 5 , **🕯️** 5 , **TIMOTHEE** 4 , **WAY** 4 , **@ELIOANDOLIVERSE:** 4 , **MOVIE** 4 , **@CHANDLERRIGGS:** 4 , 
+**TIMOTHÉE** 37 , **CHALAMET** 27 , **@TIMOTHEEMYWORLD:** 15 , **@MUSETTA_MAY:** 9 , **I’M** 8 , **NEED** 7 , **DON’T** 7 , **LOVE** 6 , **TIMMY** 6 , **MUCH** 6 , **MAN** 5 , **MISS** 5 , **DEAN** 5 , **@CHALAMENCIAGA:** 5 , **🕯️** 5 , **TIMOTHEE** 4 , **WAY** 4 , **@ELIOANDOLIVERSE:** 4 , **MOVIE** 4 , **@CHANDLERRIGGS:** 4 , 
  
 ## What this user tweeted
  
@@ -927,7 +973,7 @@ RT @APRILMESCUDI: please put respect on Kid Cudi’s name. He paved the way of s
  
 `User Description?:` Made by @pkknowsnothing for @summerofbitcoin. 
  
-`Followers?: `38 
+`Followers?: `37 
  
 `Following?:` 3 
  
@@ -939,7 +985,7 @@ RT @APRILMESCUDI: please put respect on Kid Cudi’s name. He paved the way of s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550813405921292290/sQ24GiqR_normal.jpg 
  
-`Number of tweets excluding replies:` 1340 
+`Number of tweets excluding replies:` 1359 
  
 
  
@@ -947,7 +993,7 @@ RT @APRILMESCUDI: please put respect on Kid Cudi’s name. He paved the way of s
  
 ## User Top tweeted words 
  
-**BITCOIN** 45 , **LIGHTNING** 39 , **FREE** 25 , **SATS** 22 , **@JACK** 21 , **ZESTY** 21 , **⚡** 21 , **@BOLTCOINER** 21 , **UNLOCK** 21 , **@COINBASE** 20 , **@LEDGER** 19 , **CRYPTO** 13 , **CLAIMING** 13 , **@_BITCOINER'S** 13 , **FAUCET!** 13 , **COINBASE** 13 , **BTC** 12 , **TWEET** 10 , **LEDGER** 8 , **FAUCET** 8 , 
+**BITCOIN** 40 , **LIGHTNING** 37 , **FREE** 22 , **@LEDGER** 20 , **SATS** 20 , **@JACK** 19 , **ZESTY** 19 , **⚡** 19 , **@BOLTCOINER** 19 , **UNLOCK** 19 , **@COINBASE** 18 , **CLAIMING** 12 , **@_BITCOINER'S** 12 , **FAUCET!** 12 , **COINBASE** 12 , **CRYPTO** 11 , **BTC** 10 , **TWEET** 9 , **NEW** 7 , **BINANCE** 7 , 
  
 ## What this user tweeted
  
@@ -964,11 +1010,11 @@ RT @cryptorebel_SV: @BitcoinJungleCR @lightning "Superior", yet its broken and h
  
 `User signup date?:` Sun Jul 24 16:13:46 +0000 2022 
  
-`User Description?:` Follow for real time updates of my divorce process with a vicious narcissist woman who was my dream girl. Can you relate?  #npd 
+`User Description?:` Follow for real time updates of my divorce process with a vicious narcissist woman who was my dream girl. Can you relate? Your advice/opinions are welcome. #npd 
  
 `Followers?: `2 
  
-`Following?:` 73 
+`Following?:` 74 
  
 `User URL?:` None 
  
@@ -1005,9 +1051,9 @@ RT @cryptorebel_SV: @BitcoinJungleCR @lightning "Superior", yet its broken and h
  
 `User Description?:` Gay, 17, br 
  
-`Followers?: `2 
+`Followers?: `3 
  
-`Following?:` 229 
+`Following?:` 239 
  
 `User URL?:` None 
  
@@ -1017,7 +1063,7 @@ RT @cryptorebel_SV: @BitcoinJungleCR @lightning "Superior", yet its broken and h
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550968605138984960/vU53Y99G_normal.jpg 
  
-`Number of tweets excluding replies:` 236 
+`Number of tweets excluding replies:` 275 
  
 
  
@@ -1025,7 +1071,7 @@ RT @cryptorebel_SV: @BitcoinJungleCR @lightning "Superior", yet its broken and h
  
 ## User Top tweeted words 
  
-**@SPACEMARVELINC:** 22 , **DE** 16 , **NFT** 14 , **WL** 13 , **GIVEAWAY** 11 , **PERSITA** 10 , **NEW** 10 , **FOLLOW** 10 , **O** 9 , **@CREMILDAFELICI2:** 8 , **EUSOURODRIGOGARCIA** 8 , **2** 8 , **@IBATOFFICIAL:** 7 , **ART** 7 , **@LORDBELORD:** 7 , **NFTS** 7 , **QUE** 7 , **DISCORD** 7 , **T…RT** 7 , **1** 7 , 
+**@MMXXIIMETA:** 23 , **DE** 16 , **NEW** 15 , **NFT** 15 , **WL** 14 , **@SPACEMARVELINC:** 14 , **NFTS** 11 , **FOLLOW** 11 , **MMXXII** 10 , **GIVEAWAY** 10 , **PERSITA** 10 , **QUE** 9 , **O** 9 , **@IBATOFFICIAL:** 8 , **🎉** 8 , **@LORDBELORD:** 8 , **@CREMILDAFELICI2:** 8 , **EUSOURODRIGOGARCIA** 8 , **RT** 7 , **@OARILENA:** 7 , 
  
 ## What this user tweeted
  
@@ -1044,7 +1090,7 @@ RT @crypto: The Bank of England says a $2 trillion plunge in the value of crypto
  
 `User Description?:` Naija walker MAKING HISTORY 🖤🖤🖤🖤 NOTE:: If opportunity doesn’t knock, build a 🚪 door …. 
  
-`Followers?: `28 
+`Followers?: `29 
  
 `Following?:` 416 
  
@@ -1125,7 +1171,7 @@ RT @APRILMESCUDI: please put respect on Kid Cudi’s name. He paved the way of s
  
 `User Description?:`  
  
-`Followers?: `0 
+`Followers?: `1 
  
 `Following?:` 270 
  
@@ -1137,7 +1183,7 @@ RT @APRILMESCUDI: please put respect on Kid Cudi’s name. He paved the way of s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549659063654486016/FIG93_CM_normal.jpg 
  
-`Number of tweets excluding replies:` 326 
+`Number of tweets excluding replies:` 325 
  
 
  
@@ -1173,11 +1219,11 @@ RT @crypto: The Bank of England says a $2 trillion plunge in the value of crypto
  
 `Location:` London, England 
  
-`Number of tweets extracted`  : 133 
+`Number of tweets extracted`  : 131 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550468587948736515/t4OqoYhx_normal.jpg 
  
-`Number of tweets excluding replies:` 134 
+`Number of tweets excluding replies:` 132 
  
 
  
@@ -1185,46 +1231,7 @@ RT @crypto: The Bank of England says a $2 trillion plunge in the value of crypto
  
 ## User Top tweeted words 
  
-**FOLLOW** 36 , **+** 33 , **0X92FD6D4934FEDD3BCB3F4C7EB768B93ED9B35079** 29 , **RT** 25 , **HOURS** 22 , **-RT** 14 , **NFT** 13 , **DONE** 12 , **0X92FD6D4934FEDD3BCB3F4C7EB768B93ED9B35079RT** 12 , **@GIVEAWAYHOST:** 11 , **24** 9 , **GIVEAWAY** 8 , **$50** 7 , **$ETH** 7 , **🎁** 7 , **DONERT** 6 , **$100** 6 , **12** 6 , **4** 6 , **RETWEET** 6 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# futanescaqtUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551575841356005376/nTWryfvB_normal.jpg)
- 
-`User ScreenName:` futanescaqt 
- 
-`User chosen Name:` Futanesca QT 🌺 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 24 01:52:46 +0000 2022 
- 
-`User Description?:` Main account got s-worded: @MagnifiCoffee 💔 
- 
-`Followers?: `17 
- 
-`Following?:` 216 
- 
-`User URL?:` None 
- 
-`Location:` Republic of the Philippines 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551575841356005376/nTWryfvB_normal.jpg 
- 
-`Number of tweets excluding replies:` 536 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 112 , **FOLLOW** 66 , **HOURS** 56 , **•** 52 , **+** 45 , **GIVEAWAY** 39 , **$50** 36 , **||** 30 , **$100** 21 , **3** 18 , **4** 15 , **$30** 15 , **~** 15 , **@GEMHOSTGLOBAL:** 14 , **💜** 13 , **@SOF1AZARA03:** 12 , **HRS** 12 , **8** 12 , **2** 10 , **✅RT** 10 , 
+**FOLLOW** 35 , **+** 31 , **0X92FD6D4934FEDD3BCB3F4C7EB768B93ED9B35079** 29 , **RT** 25 , **HOURS** 21 , **-RT** 13 , **NFT** 13 , **0X92FD6D4934FEDD3BCB3F4C7EB768B93ED9B35079RT** 12 , **@GIVEAWAYHOST:** 11 , **DONE** 11 , **24** 8 , **GIVEAWAY** 8 , **$50** 7 , **$ETH** 7 , **🎁** 7 , **$100** 6 , **12** 6 , **4** 6 , **1** 6 , **DONERT** 5 , 
  
 ## What this user tweeted
  
@@ -1282,9 +1289,9 @@ The impacts of Climate Change are exacerbating existing rural livelihoods vulner
  
 `User Description?:` akun hunter 
  
-`Followers?: `134 
+`Followers?: `148 
  
-`Following?:` 343 
+`Following?:` 354 
  
 `User URL?:` None 
  
@@ -1294,7 +1301,7 @@ The impacts of Climate Change are exacerbating existing rural livelihoods vulner
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550415571409260544/Q2cR41qY_normal.png 
  
-`Number of tweets excluding replies:` 649 
+`Number of tweets excluding replies:` 676 
  
 
  
@@ -1302,7 +1309,85 @@ The impacts of Climate Change are exacerbating existing rural livelihoods vulner
  
 ## User Top tweeted words 
  
-**RT** 126 , **FOLLOW** 108 , **HOURS** 64 , **+** 45 , **~** 41 , **•** 39 , **||** 39 , **$100** 36 , **IDR** 30 , **$50** 28 , **GIVEAWAY** 28 , **24** 21 , **MINS** 15 , **RETWEET** 14 , **8** 13 , **📌RT** 13 , **$150** 13 , **@MISSUFE:** 12 , **12** 12 , **HRS** 12 , 
+**RT** 127 , **FOLLOW** 103 , **HOURS** 60 , **+** 54 , **•** 41 , **~** 37 , **GIVEAWAY** 34 , **||** 34 , **$100** 33 , **$50** 30 , **IDR** 24 , **HRS** 19 , **@SOF1AZARA03:** 17 , **24** 17 , **4** 16 , **@MISSUFE:** 14 , **8** 13 , **MINS** 13 , **12** 12 , **@GEMHOSTGLOBAL:** 12 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
+ 
+# missusenaUSER INFO
+![image](http://pbs.twimg.com/profile_images/1549330109978771457/OjVLo94h_normal.jpg)
+ 
+`User ScreenName:` missusena 
+ 
+`User chosen Name:` Sena | Free tag 🍀 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 19 04:07:13 +0000 2022 
+ 
+`User Description?:` Old account @.missufeely, @.missusoya, @.missufeairo has suspend. please don't reroll if i win a prize Im not multi 🙏🏻. 
+ 
+`Followers?: `33 
+ 
+`Following?:` 640 
+ 
+`User URL?:` None 
+ 
+`Location:` Denpasar, Bali 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1549330109978771457/OjVLo94h_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1311 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 137 , **FOLLOW** 101 , **+** 71 , **HOURS** 68 , **•** 56 , **||** 55 , **$50** 38 , **GIVEAWAY** 37 , **IDR** 34 , **~** 31 , **$30** 24 , **📌RT** 23 , **HRS** 20 , **3** 20 , **$100** 18 , **24** 16 , **4** 16 , **@SOF1AZARA03:** 16 , **8** 13 , **JOIN** 13 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
+ 
+# meancreature13USER INFO
+![image](http://pbs.twimg.com/profile_images/1551096984064634880/hofZ9hPX_normal.jpg)
+ 
+`User ScreenName:` meancreature13 
+ 
+`User chosen Name:` scorpio😈 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jul 24 03:46:47 +0000 2022 
+ 
+`User Description?:` 😈 
+ 
+`Followers?: `83 
+ 
+`Following?:` 547 
+ 
+`User URL?:` https://t.co/ui6gqC2H6Y 
+ 
+`Location:` Cicendo, Indonesia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551096984064634880/hofZ9hPX_normal.jpg 
+ 
+`Number of tweets excluding replies:` 848 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 146 , **FOLLOW** 84 , **HOURS** 67 , **+** 60 , **~** 52 , **$50** 38 , **IDR** 37 , **•** 33 , **||** 32 , **GIVEAWAY** 22 , **3** 21 , **$30** 21 , **$100** 20 , **24** 19 , **📌RT** 17 , **HRS** 17 , **RETWEET** 16 , **TWEET** 14 , **4** 14 , **$20** 13 , 
  
 ## What this user tweeted
  
@@ -1324,9 +1409,9 @@ My 1st and 2nd Account Got Suspended 💔💔
 @wins_otocse_29
 @oxLynwinxcity 
  
-`Followers?: `20 
+`Followers?: `21 
  
-`Following?:` 311 
+`Following?:` 325 
  
 `User URL?:` None 
  
@@ -1336,7 +1421,7 @@ My 1st and 2nd Account Got Suspended 💔💔
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550481694385311754/nqAGjH11_normal.jpg 
  
-`Number of tweets excluding replies:` 1361 
+`Number of tweets excluding replies:` 1455 
  
 
  
@@ -1344,68 +1429,28 @@ My 1st and 2nd Account Got Suspended 💔💔
  
 ## User Top tweeted words 
  
-**🙏** 85 , **RT** 71 , **DONE** 49 , **FOLLOW** 45 , **PLEASE** 43 , **PICK** 41 , **HOURS** 40 , **👇** 39 , **PROOFS** 36 , **•** 25 , **+** 24 , **$50** 18 , **☑️** 16 , **$30** 13 , **3** 13 , **IDR** 13 , **:** 12 , **DC** 11 , **~** 10 , **$100** 9 , 
+**🙏** 127 , **PLEASE** 70 , **PICK** 66 , **RT** 65 , **DONE** 47 , **FOLLOW** 44 , **👇** 40 , **+** 39 , **PROOFS** 39 , **HOURS** 28 , **•** 20 , **GIVEAWAY** 19 , **$50** 14 , **||** 14 , **~** 14 , **HRS** 11 , **$30** 11 , **@SOF1AZARA03:** 10 , **3** 10 , **IDR** 9 , 
  
 ## What this user tweeted
  
 RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
-# OxmelbigwinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549736834388750336/3aNrjH3g_normal.jpg)
+# razorskeletonnUSER INFO
+![image](http://pbs.twimg.com/profile_images/1550813905764552705/6MYIGa0v_normal.jpg)
  
-`User ScreenName:` Oxmelbigwin 
+`User ScreenName:` razorskeletonn 
  
-`User chosen Name:` Amelia🌸 Bantu FB pls || freetag💫 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 20 11:49:06 +0000 2022 
- 
-`User Description?:` i have acc @maretcityx26 got 🍣 and acc @melmelia26 has been privat (sudah bukan akun GA lagi) . im not multi pls don't rerol me 🙏🏻
-BISSMILLAH BERKAH BIGWIN🌸 
- 
-`Followers?: `64 
- 
-`Following?:` 370 
- 
-`User URL?:` None 
- 
-`Location:` she acc hunter 🇲🇨  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549736834388750336/3aNrjH3g_normal.jpg 
- 
-`Number of tweets excluding replies:` 626 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 121 , **FOLLOW** 93 , **+** 78 , **HOURS** 75 , **$50** 44 , **IDR** 42 , **GIVEAWAY** 39 , **||** 38 , **4** 27 , **~** 26 , **-RT** 25 , **@SOF1AZARA03:** 24 , **$100** 23 , **•** 19 , **HRS** 18 , **@MISSUFE:** 18 , **3** 17 , **24** 17 , **TAG** 17 , **@GIVEAWAYHOST:** 15 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# viaapesanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549650114968371200/url1MnxU_normal.jpg)
- 
-`User ScreenName:` viaapesan 
- 
-`User chosen Name:` Rey 
+`User chosen Name:` vin | follback yaa 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Jul 20 06:48:12 +0000 2022 
+`User signup date?:` Sat Jul 23 11:59:52 +0000 2022 
  
-`User Description?:` my previous acc @viapesan got suspended. freetag 
+`User Description?:` used to be @razorskeleton 🍣 | hunter acc 
  
-`Followers?: `67 
+`Followers?: `40 
  
-`Following?:` 415 
+`Following?:` 536 
  
 `User URL?:` None 
  
@@ -1413,9 +1458,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1549650114968371200/url1MnxU_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1550813905764552705/6MYIGa0v_normal.jpg 
  
-`Number of tweets excluding replies:` 707 
+`Number of tweets excluding replies:` 1251 
  
 
  
@@ -1423,7 +1468,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 133 , **FOLLOW** 112 , **HOURS** 77 , **||** 72 , **+** 55 , **•** 51 , **$100** 39 , **$50** 37 , **GIVEAWAY** 36 , **~** 31 , **IDR** 29 , **24** 28 , **📌RT** 25 , **RETWEET** 24 , **4** 18 , **@GEMHOSTGLOBAL:** 17 , **💜** 17 , **HRS** 17 , **12** 17 , **@SOF1AZARA03:** 14 , 
+**RT** 142 , **FOLLOW** 83 , **~** 80 , **+** 57 , **HOURS** 53 , **IDR** 46 , **•** 40 , **||** 35 , **$50** 30 , **GIVEAWAY** 29 , **3** 27 , **📌RT** 26 , **@PRCTIU:** 25 , **RETWEET** 24 , **$30** 18 , **TAG** 16 , **$10** 16 , **HRS** 15 , **4** 15 , **FRIENDS** 15 , 
  
 ## What this user tweeted
  
@@ -1442,9 +1487,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` 🍀JULY BIG WINS CUTIE🍀 $2000, $1000, $500, $200, $100, $50. PICKAW PLEASE PICK ME✨🤞🏻 
  
-`Followers?: `6 
+`Followers?: `7 
  
-`Following?:` 509 
+`Following?:` 576 
  
 `User URL?:` None 
  
@@ -1454,7 +1499,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1548922599744602112/mSVOqzRU_normal.jpg 
  
-`Number of tweets excluding replies:` 631 
+`Number of tweets excluding replies:` 752 
  
 
  
@@ -1462,7 +1507,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 183 , **FOLLOW** 118 , **HOURS** 87 , **+** 76 , **IDR** 42 , **||** 41 , **📌RT** 41 , **•** 40 , **~** 39 , **$50** 36 , **GIVEAWAY** 33 , **$100** 33 , **3** 19 , **24** 19 , **4** 16 , **$10** 15 , **12** 14 , **$30** 14 , **@GEMHOSTGLOBAL:** 12 , **@SOF1AZARA03:** 12 , 
+**RT** 179 , **FOLLOW** 120 , **HOURS** 79 , **IDR** 65 , **+** 59 , **~** 55 , **||** 44 , **📌RT** 42 , **•** 40 , **GIVEAWAY** 28 , **$10** 27 , **$50** 27 , **3** 19 , **$100** 19 , **24** 15 , **MINS** 15 , **4** 13 , **$30** 13 , **12** 13 , **140000** 13 , 
  
 ## What this user tweeted
  
@@ -1483,7 +1528,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `21 
  
-`Following?:` 695 
+`Following?:` 727 
  
 `User URL?:` None 
  
@@ -1493,7 +1538,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549034553548763138/9Mwr444N_normal.jpg 
  
-`Number of tweets excluding replies:` 1495 
+`Number of tweets excluding replies:` 1587 
  
 
  
@@ -1501,46 +1546,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 137 , **FOLLOW** 105 , **HOURS** 84 , **•** 57 , **$50** 56 , **+** 52 , **GIVEAWAY** 36 , **||** 35 , **$100** 32 , **24** 24 , **4** 19 , **~** 17 , **📌RT** 16 , **💜** 16 , **12** 15 , **@GEMHOSTGLOBAL:** 15 , **6** 14 , **IDR** 13 , **HRS** 12 , **📌** 10 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# Tiar_bigwinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1548536317772201984/ZdB8fIT7_normal.jpg)
- 
-`User ScreenName:` Tiar_bigwin 
- 
-`User chosen Name:` G4R4M_asin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 17 05:03:32 +0000 2022 
- 
-`User Description?:` Semoga bulan Juli bisa bigwin 
- 
-`Followers?: `45 
- 
-`Following?:` 431 
- 
-`User URL?:` None 
- 
-`Location:` Jatinegara, Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1548536317772201984/ZdB8fIT7_normal.jpg 
- 
-`Number of tweets excluding replies:` 1298 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 95 , **FOLLOW** 73 , **HOURS** 54 , **~** 40 , **•** 36 , **+** 29 , **IDR** 24 , **$50** 23 , **||** 21 , **GIVEAWAY** 15 , **4** 13 , **$15** 13 , **💜** 11 , **$100** 10 , **$30** 10 , **2** 10 , **@NATHANTCOMBS:** 9 , **$20** 9 , **$10** 9 , **(🔔)RT** 8 , 
+**RT** 127 , **FOLLOW** 100 , **+** 73 , **HOURS** 69 , **$50** 49 , **•** 43 , **||** 35 , **GIVEAWAY** 33 , **$100** 29 , **24** 26 , **4** 21 , **~** 19 , **HRS** 18 , **@SOF1AZARA03:** 17 , **12** 15 , **$150** 14 , **-RT** 12 , **💜** 12 , **TWEET** 12 , **📌** 11 , 
  
 ## What this user tweeted
  
@@ -1559,7 +1565,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` move from @zulfhabc 
  
-`Followers?: `19 
+`Followers?: `22 
  
 `Following?:` 290 
  
@@ -1598,9 +1604,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` Fallow me and i'll fallow back 
  
-`Followers?: `122 
+`Followers?: `118 
  
-`Following?:` 523 
+`Following?:` 551 
  
 `User URL?:` None 
  
@@ -1610,7 +1616,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549983915531587585/DJfpqvBp_normal.jpg 
  
-`Number of tweets excluding replies:` 1734 
+`Number of tweets excluding replies:` 1905 
  
 
  
@@ -1618,46 +1624,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 148 , **FOLLOW** 80 , **+** 62 , **~** 59 , **HOURS** 56 , **IDR** 56 , **•** 47 , **📌RT** 32 , **||** 31 , **$50** 26 , **GIVEAWAY** 26 , **$30** 21 , **3** 20 , **4** 18 , **$10** 18 , **RETWEET** 18 , **MINS** 18 , **NFT** 17 , **$20** 16 , **2** 14 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# tzuberiwinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551412477623054337/zwrJuAdT_normal.jpg)
- 
-`User ScreenName:` tzuberiwin 
- 
-`User chosen Name:` Seya 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 23 08:39:26 +0000 2022 
- 
-`User Description?:` JOINER // @luckseya is suspended, please don't re-roll ^^ 
- 
-`Followers?: `70 
- 
-`Following?:` 364 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551412477623054337/zwrJuAdT_normal.jpg 
- 
-`Number of tweets excluding replies:` 994 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 131 , **FOLLOW** 75 , **~** 68 , **IDR** 56 , **+** 46 , **HOURS** 39 , **RETWEET** 31 , **•** 30 , **GIVEAWAY** 27 , **3** 19 , **||** 18 , **$50** 16 , **📌RT** 16 , **@PRCTIU:** 16 , **$10** 16 , **4** 15 , **$15** 14 , **$20** 13 , **$30** 13 , **MINS** 11 , 
+**RT** 125 , **~** 71 , **+** 61 , **IDR** 60 , **FOLLOW** 58 , **HOURS** 33 , **HRS** 31 , **•** 29 , **RETWEET** 26 , **$10** 24 , **$50** 24 , **||** 24 , **4** 23 , **3** 21 , **@PRCTIU:** 21 , **GIVEAWAY** 20 , **$15** 18 , **📌RT** 18 , **MINS** 15 , **2** 14 , 
  
 ## What this user tweeted
  
@@ -1688,7 +1655,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1548627360270123009/tByCfLXZ_normal.jpg 
  
-`Number of tweets excluding replies:` 2245 
+`Number of tweets excluding replies:` 2244 
  
 
  
@@ -1717,7 +1684,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `45 
  
-`Following?:` 447 
+`Following?:` 486 
  
 `User URL?:` None 
  
@@ -1727,7 +1694,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1548983701584785409/RVuazS_x_normal.jpg 
  
-`Number of tweets excluding replies:` 1931 
+`Number of tweets excluding replies:` 2112 
  
 
  
@@ -1735,14 +1702,14 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 90 , **FOLLOW** 48 , **HOURS** 39 , **•** 39 , **~** 32 , **+** 31 , **IDR** 29 , **||** 22 , **GIVEAWAY** 18 , **2** 16 , **$50** 15 , **3** 15 , **$10** 12 , **TAG** 12 , **$30** 12 , **FRIENDS** 10 , **@YUNAPROMOTES_:** 10 , **MINS** 9 , **RETWEET** 9 , **420000** 9 , 
+**RT** 87 , **FOLLOW** 53 , **+** 49 , **~** 42 , **HOURS** 40 , **IDR** 33 , **GIVEAWAY** 31 , **•** 24 , **||** 23 , **$50** 22 , **RETWEET** 20 , **$100** 16 , **$10** 16 , **@GEMHOSTGLOBAL:** 16 , **3** 13 , **HRS** 13 , **@SOF1AZARA03:** 12 , **4** 11 , **$15** 11 , **💜** 11 , 
  
 ## What this user tweeted
  
 RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
 # renthafeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550777159610167296/Rrdex0z9_normal.jpg)
+![image](http://pbs.twimg.com/profile_images/1551799225427849216/EKIkCDQW_normal.jpg)
  
 `User ScreenName:` renthafe 
  
@@ -1754,9 +1721,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` It's an immpossibility to be perfect, but it's possible to do the best ✨ . don't rerolled me akun @rechanfe sus 
  
-`Followers?: `38 
+`Followers?: `40 
  
-`Following?:` 400 
+`Following?:` 433 
  
 `User URL?:` None 
  
@@ -1764,9 +1731,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1550777159610167296/Rrdex0z9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1551799225427849216/EKIkCDQW_normal.jpg 
  
-`Number of tweets excluding replies:` 1049 
+`Number of tweets excluding replies:` 1209 
  
 
  
@@ -1774,7 +1741,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 105 , **FOLLOW** 85 , **HOURS** 70 , **~** 42 , **+** 42 , **•** 35 , **IDR** 29 , **$100** 28 , **$50** 25 , **24** 22 , **||** 21 , **RENAPROOF** 20 , **GIVEAWAY** 20 , **RETWEET** 15 , **4** 12 , **8** 11 , **@SOF1AZARA03:** 11 , **-RT** 11 , **WL** 11 , **@PRCTIU:** 11 , 
+**RT** 112 , **FOLLOW** 70 , **+** 55 , **||** 54 , **HOURS** 48 , **•** 35 , **IDR** 34 , **~** 31 , **$50** 29 , **GIVEAWAY** 28 , **$100** 25 , **RETWEET** 22 , **24** 21 , **RENAPROOF** 20 , **@SOF1AZARA03:** 18 , **HRS** 16 , **3** 13 , **4** 11 , **$30** 11 , **700RB** 10 , 
  
 ## What this user tweeted
  
@@ -1795,7 +1762,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Followers?: `38 
  
-`Following?:` 687 
+`Following?:` 779 
  
 `User URL?:` None 
  
@@ -1805,7 +1772,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550728188895977472/igRhcryt_normal.jpg 
  
-`Number of tweets excluding replies:` 2143 
+`Number of tweets excluding replies:` 2748 
  
 
  
@@ -1813,7 +1780,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 134 , **FOLLOW** 76 , **IDR** 73 , **+** 62 , **||** 58 , **•** 53 , **Ღ** 50 , **FAST** 37 , **CASH** 37 , **$** 31 , **@JAEWOOK_PROMS:** 27 , **RETWEET** 26 , **📌RT** 25 , **₱** 25 , **~** 23 , **MINS** 21 , **(🔔)RT** 21 , **HOURS** 19 , **🔔RT** 19 , **💸** 17 , 
+**RT** 189 , **FOLLOW** 116 , **•** 112 , **+** 78 , **IDR** 72 , **HOURS** 44 , **📌RT** 36 , **~** 34 , **@SKYEGIVES:** 33 , **@JEONAAGIVES:** 29 , **MINS** 29 , **FAST** 28 , **CASH** 27 , **||** 27 , **90** 26 , **$2** 24 , **💜** 23 , **🔔RT** 22 , **27000** 21 , **MINS!** 21 , 
  
 ## What this user tweeted
  
@@ -1836,9 +1803,9 @@ NFTs💰💰💰
 #THEAMERICANS
 #theamericansnft 
  
-`Followers?: `45 
+`Followers?: `44 
  
-`Following?:` 501 
+`Following?:` 563 
  
 `User URL?:` None 
  
@@ -1848,7 +1815,7 @@ NFTs💰💰💰
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549754148945543168/Ss6q1kbl_normal.jpg 
  
-`Number of tweets excluding replies:` 1078 
+`Number of tweets excluding replies:` 1281 
  
 
  
@@ -1856,7 +1823,7 @@ NFTs💰💰💰
  
 ## User Top tweeted words 
  
-**RT** 80 , **FOLLOW** 67 , **HOURS** 54 , **||** 46 , **+** 45 , **$50** 36 , **•** 32 , **GIVEAWAY** 25 , **4** 20 , **$100** 20 , **24** 16 , **RETWEET** 15 , **JOIN** 15 , **~** 15 , **HRS** 14 , **IDR** 13 , **12** 12 , **TG** 11 , **$150** 10 , **📌RT** 10 , 
+**RT** 102 , **FOLLOW** 63 , **HOURS** 58 , **+** 57 , **||** 41 , **•** 34 , **$50** 31 , **GIVEAWAY** 29 , **IDR** 24 , **~** 20 , **3** 17 , **$100** 16 , **$30** 14 , **24** 13 , **@SOF1AZARA03:** 13 , **-RT** 12 , **HRS** 12 , **4** 12 , **8** 11 , **💜** 10 , 
  
 ## What this user tweeted
  
@@ -1875,9 +1842,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` was user @066win. my main account got s word. 
  
-`Followers?: `85 
+`Followers?: `84 
  
-`Following?:` 514 
+`Following?:` 515 
  
 `User URL?:` None 
  
@@ -1887,7 +1854,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1551185047713357824/ebaeTOvA_normal.jpg 
  
-`Number of tweets excluding replies:` 2799 
+`Number of tweets excluding replies:` 2823 
  
 
  
@@ -1895,7 +1862,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 83 , **FOLLOW** 44 , **IDR** 43 , **•** 33 , **+** 30 , **HOURS** 27 , **MINS** 18 , **~** 17 , **$10** 16 , **GIVEAWAY** 15 , **||** 15 , **60** 13 , **2** 11 , **3** 10 , **RETWEET** 8 , **HRS** 8 , **TWEET** 8 , **$15** 8 , **@GROVERPROMOTES:** 8 , **$5** 8 , 
+**RT** 79 , **FOLLOW** 43 , **IDR** 39 , **•** 29 , **+** 28 , **HOURS** 25 , **GIVEAWAY** 18 , **$10** 16 , **MINS** 16 , **~** 15 , **||** 15 , **2** 11 , **RETWEET** 10 , **60** 10 , **$5** 9 , **@GROVERPROMOTES:** 8 , **JOIN** 7 , **@KYOONGBH_:** 7 , **$50** 7 , **TWEET** 7 , 
  
 ## What this user tweeted
  
@@ -1914,9 +1881,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` just making mylife easier🌻|17 
  
-`Followers?: `24 
+`Followers?: `29 
  
-`Following?:` 187 
+`Following?:` 185 
  
 `User URL?:` None 
  
@@ -1940,6 +1907,45 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
+# h0XykuccityyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1549563837774409729/YiTY_RfN_normal.jpg)
+ 
+`User ScreenName:` h0Xykuccityy 
+ 
+`User chosen Name:` h0kyku🍀🍀 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 19 03:22:59 +0000 2022 
+ 
+`User Description?:` #taefairy 
+ 
+`Followers?: `83 
+ 
+`Following?:` 1097 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1549563837774409729/YiTY_RfN_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2670 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 138 , **FOLLOW** 98 , **HOURS** 62 , **+** 53 , **•** 50 , **~** 41 , **IDR** 33 , **||** 32 , **$50** 31 , **GIVEAWAY** 26 , **$100** 22 , **📌RT** 20 , **RETWEET** 18 , **HRS** 17 , **4** 16 , **$10** 14 , **12** 14 , **24** 13 , **2** 13 , **💜** 13 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
+ 
 # 0xluckyjenusUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1550433569176436737/0PNMbMTd_normal.jpg)
  
@@ -1953,9 +1959,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` hi, not a multi/bot, @kenjiewins is suspended pls dont rr me, freetag 
  
-`Followers?: `35 
+`Followers?: `36 
  
-`Following?:` 489 
+`Following?:` 510 
  
 `User URL?:` None 
  
@@ -1965,7 +1971,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550433569176436737/0PNMbMTd_normal.jpg 
  
-`Number of tweets excluding replies:` 754 
+`Number of tweets excluding replies:` 784 
  
 
  
@@ -1973,7 +1979,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 123 , **FOLLOW** 101 , **HOURS** 80 , **$50** 55 , **+** 54 , **$100** 40 , **•** 35 , **DONE** 31 , **PO** 29 , **~** 26 , **||** 24 , **GIVEAWAY** 22 , **24** 21 , **12** 18 , **6** 17 , **4** 16 , **HRS** 16 , **8** 14 , **TWEET** 13 , **JOIN** 13 , 
+**RT** 116 , **FOLLOW** 94 , **HOURS** 81 , **+** 60 , **$50** 56 , **$100** 37 , **•** 34 , **DONE** 34 , **PO** 33 , **||** 25 , **~** 23 , **GIVEAWAY** 22 , **6** 18 , **4** 18 , **8** 17 , **24** 16 , **HRS** 16 , **12** 16 , **IDR** 15 , **TWEET** 13 , 
  
 ## What this user tweeted
  
@@ -1992,9 +1998,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` my old acc @Oxsuffebigwin got suspend || free tag 
  
-`Followers?: `55 
+`Followers?: `59 
  
-`Following?:` 606 
+`Following?:` 651 
  
 `User URL?:` None 
  
@@ -2004,7 +2010,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550741940353699840/eEyOZZye_normal.jpg 
  
-`Number of tweets excluding replies:` 2183 
+`Number of tweets excluding replies:` 2330 
  
 
  
@@ -2012,7 +2018,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 83 , **FOLLOW** 72 , **HOURS** 46 , **+** 40 , **||** 38 , **$50** 31 , **•** 26 , **IDR** 25 , **~** 21 , **$100** 17 , **GIVEAWAY** 17 , **4** 14 , **RETWEET** 11 , **24** 11 , **JOIN** 10 , **3** 10 , **WINNER** 8 , **@GIVEAWAYHOST:** 8 , **-RT** 8 , **LIMIT** 7 , 
+**RT** 101 , **FOLLOW** 79 , **||** 57 , **HOURS** 56 , **+** 44 , **IDR** 44 , **~** 35 , **•** 32 , **GIVEAWAY** 23 , **$50** 23 , **3** 19 , **RETWEET** 19 , **24** 18 , **$100** 14 , **$30** 13 , **4** 13 , **WINNER** 12 , **JOIN** 11 , **📌RT** 11 , **WL** 11 , 
  
 ## What this user tweeted
  
@@ -2031,9 +2037,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` Bigwin setiap hari don't rerol akun sus @bigwinkak_chita @r4m4dhanberkah 
  
-`Followers?: `33 
+`Followers?: `35 
  
-`Following?:` 394 
+`Following?:` 440 
  
 `User URL?:` None 
  
@@ -2043,7 +2049,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1548252086483046410/OwLKXGZD_normal.jpg 
  
-`Number of tweets excluding replies:` 1838 
+`Number of tweets excluding replies:` 2104 
  
 
  
@@ -2051,7 +2057,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 82 , **FOLLOW** 51 , **||** 42 , **+** 37 , **HOURS** 36 , **•** 34 , **$50** 27 , **~** 27 , **IDR** 24 , **GIVEAWAY** 20 , **RETWEET** 18 , **3** 16 , **4** 14 , **HRS** 12 , **MINS** 11 , **$100** 10 , **DONERT** 9 , **$30** 9 , **6** 8 , **JOIN** 8 , 
+**RT** 84 , **~** 56 , **FOLLOW** 49 , **IDR** 42 , **HOURS** 37 , **•** 32 , **+** 29 , **RETWEET** 27 , **||** 22 , **DONERT** 21 , **3** 18 , **@PRCTIU:** 18 , **TAG** 17 , **$50** 16 , **FRIENDS** 16 , **$30** 15 , **GIVEAWAY** 12 , **WL** 11 , **$10** 11 , **4** 9 , 
  
 ## What this user tweeted
  
@@ -2071,9 +2077,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
 `User Description?:` Ga hunter🏹
 🤩incoming infotech college student this sy😍 
  
-`Followers?: `93 
+`Followers?: `90 
  
-`Following?:` 499 
+`Following?:` 548 
  
 `User URL?:` None 
  
@@ -2083,7 +2089,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549603152348848128/Hb5PnMbD_normal.jpg 
  
-`Number of tweets excluding replies:` 1173 
+`Number of tweets excluding replies:` 1377 
  
 
  
@@ -2091,7 +2097,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 145 , **FOLLOW** 78 , **HOURS** 59 , **+** 52 , **IDR** 50 , **•** 37 , **📌RT** 32 , **~** 30 , **GIVEAWAY** 22 , **$50** 19 , **@YNAHGIVES:** 18 , **$100** 17 , **4** 16 , **$4** 16 , **30MINS** 16 , **$20** 15 , **-RT** 15 , **$10** 14 , **TWEET** 14 , **3** 14 , 
+**RT** 144 , **FOLLOW** 86 , **||** 84 , **+** 62 , **IDR** 52 , **•** 50 , **HOURS** 41 , **GIVEAWAY** 36 , **$50** 33 , **~** 33 , **RETWEET** 31 , **$10** 27 , **HRS** 27 , **📌RT** 23 , **4** 20 , **@SOF1AZARA03:** 16 , **WINNER** 14 , **MINS** 14 , **@GEMHOSTGLOBAL:** 13 , **2** 12 , 
  
 ## What this user tweeted
  
@@ -2136,10 +2142,10 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
-# bhfvhlUSER INFO
+# mnnsh_USER INFO
 ![image](http://pbs.twimg.com/profile_images/1550767371656515589/mfDXArk__normal.jpg)
  
-`User ScreenName:` bhfvhl 
+`User ScreenName:` mnnsh_ 
  
 `User chosen Name:` 1%|FREETAG🍀 
  
@@ -2149,9 +2155,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` just another dreamer #regrets 
  
-`Followers?: `20 
+`Followers?: `19 
  
-`Following?:` 582 
+`Following?:` 627 
  
 `User URL?:` None 
  
@@ -2161,7 +2167,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1550767371656515589/mfDXArk__normal.jpg 
  
-`Number of tweets excluding replies:` 2726 
+`Number of tweets excluding replies:` 3036 
  
 
  
@@ -2169,38 +2175,38 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 92 , **FOLLOW** 65 , **DONE❤️** 59 , **HOURS** 54 , **||** 46 , **•** 38 , **+** 36 , **GIVEAWAY** 29 , **$50** 27 , **IDR** 21 , **$100** 20 , **@GEMHOSTGLOBAL:** 20 , **💜** 20 , **DONE❤️RT** 17 , **3** 13 , **~** 13 , **NFT** 13 , **6** 10 , **24** 10 , **4** 10 , 
+**RT** 80 , **DONE❤️** 61 , **+** 57 , **FOLLOW** 55 , **||** 55 , **GIVEAWAY** 37 , **HOURS** 34 , **•** 33 , **$50** 31 , **HRS** 20 , **RETWEET** 18 , **@SOF1AZARA03:** 18 , **4** 17 , **IDR** 16 , **~** 15 , **24** 14 , **@GEMHOSTGLOBAL:** 14 , **DONE❤️RT** 13 , **💜** 13 , **700RB** 11 , 
  
 ## What this user tweeted
  
 RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
-# ikankoi1000xUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550846237829890050/i1tx7-9W_normal.jpg)
+# chachabobooUSER INFO
+![image](http://pbs.twimg.com/profile_images/1550520411922001920/Jovis_TP_normal.jpg)
  
-`User ScreenName:` ikankoi1000x 
+`User ScreenName:` chachaboboo 
  
-`User chosen Name:` ikan koi free tag 
+`User chosen Name:` Ei✨ 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jul 23 14:10:05 +0000 2022 
+`User signup date?:` Tue Jul 19 07:58:47 +0000 2022 
  
-`User Description?:` akun lama @. Zhunie_Zhua1807 
+`User Description?:` F R E E T A G @iwishiwashappyy @jjoahamnidaaaaa @vousmeevoooyez @bigwintud_ei & @iwish1washappyy has been suspended pls don't reroll me🥹🙏🏻 #Eiproof ✨ 
  
-`Followers?: `29 
+`Followers?: `142 
  
-`Following?:` 374 
+`Following?:` 805 
  
-`User URL?:` https://t.co/5aKUF68t4z 
+`User URL?:` None 
  
-`Location:` Bumi Hoki 
+`Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1550846237829890050/i1tx7-9W_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1550520411922001920/Jovis_TP_normal.jpg 
  
-`Number of tweets excluding replies:` 482 
+`Number of tweets excluding replies:` 2409 
  
 
  
@@ -2208,7 +2214,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**RT** 135 , **FOLLOW** 96 , **HOURS** 68 , **~** 57 , **+** 53 , **•** 39 , **IDR** 39 , **$50** 26 , **$100** 25 , **GIVEAWAY** 20 , **||** 18 , **📌RT** 18 , **WL** 18 , **24** 17 , **3** 16 , **8** 14 , **$20** 13 , **TAG** 13 , **$30** 12 , **2** 12 , 
+**RT** 119 , **FOLLOW** 70 , **+** 58 , **HOURS** 49 , **~** 42 , **EIPROOF** 36 , **✨** 36 , **IDR** 34 , **||** 34 , **$50** 30 , **•** 28 , **GIVEAWAY** 22 , **$30** 19 , **3** 19 , **HRS** 18 , **$10** 16 , **📌RT** 16 , **4** 16 , **RETWEET** 15 , **TWEET** 14 , 
  
 ## What this user tweeted
  
@@ -2227,7 +2233,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` Please folbek kak🙏 akun lama ke Susi.🥰 
  
-`Followers?: `25 
+`Followers?: `24 
  
 `Following?:` 181 
  
@@ -2239,7 +2245,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549055926073987072/hOu60NIz_normal.jpg 
  
-`Number of tweets excluding replies:` 302 
+`Number of tweets excluding replies:` 304 
  
 
  
@@ -2247,7 +2253,46 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**FOLLOW** 83 , **RT** 75 , **HOURS** 70 , **+** 52 , **$100** 45 , **24** 29 , **GIVEAWAY** 26 , **~** 21 , **•** 21 , **$150** 20 , **||** 20 , **8** 19 , **$50** 18 , **JOIN** 16 , **✅RT** 16 , **HRS** 16 , **12** 15 , **-RT** 13 , **@MISSUFE:** 13 , **@DAJENUS:** 12 , 
+**FOLLOW** 83 , **RT** 76 , **HOURS** 71 , **+** 52 , **$100** 46 , **24** 28 , **GIVEAWAY** 26 , **~** 21 , **•** 21 , **8** 20 , **$150** 20 , **||** 20 , **$50** 18 , **JOIN** 16 , **12** 15 , **✅RT** 15 , **HRS** 15 , **@MISSUFE:** 14 , **-RT** 13 , **IDR** 12 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
+ 
+# 0xsushixyzUSER INFO
+![image](http://pbs.twimg.com/profile_images/1551761565975977986/YIo_PF-H_normal.jpg)
+ 
+`User ScreenName:` 0xsushixyz 
+ 
+`User chosen Name:` 🍀 Sushi Terosss 🍀 | Freetag 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 19 05:45:01 +0000 2022 
+ 
+`User Description?:` Please don't reroll me, I'm Not Multi Account. My Another Account Has Sus***d & Deactive, thanks  |  Aku follback pelan-pelan yaa, biar ga diresein pargoy 🙏 
+ 
+`Followers?: `54 
+ 
+`Following?:` 520 
+ 
+`User URL?:` None 
+ 
+`Location:` Indonesia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1551761565975977986/YIo_PF-H_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2108 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 45 , **FOLLOW** 33 , **HOURS** 25 , **+** 23 , **||** 22 , **DONE** 21 , **~** 17 , **•** 16 , **BLIBLI** 14 , **LOVE** 14 , **YOU!** 14 , **BLIMINBELIIN** 14 , **$50** 13 , **BISMILLAH** 13 , **😇** 13 , **BLIBLISETIAPHARI@BLIBLIDOTCOM** 12 , **✅** 11 , **PROOF** 11 , **IDR** 10 , **WISH** 10 , 
  
 ## What this user tweeted
  
@@ -2266,9 +2311,9 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `User Description?:` llfsdfs 
  
-`Followers?: `0 
+`Followers?: `1 
  
-`Following?:` 415 
+`Following?:` 418 
  
 `User URL?:` None 
  
@@ -2278,7 +2323,7 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 `Profile image:` http://pbs.twimg.com/profile_images/1549149278811062275/QxB6opRW_normal.png 
  
-`Number of tweets excluding replies:` 510 
+`Number of tweets excluding replies:` 518 
  
 
  
@@ -2286,11 +2331,50 @@ RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No s
  
 ## User Top tweeted words 
  
-**@SPACEMARVELINC:** 23 , **NFT** 21 , **NEW** 12 , **من** 10 , **@JORDANELIZABETH:** 10 , **FOLLOW** 10 , **RT** 9 , **WL** 9 , **🔥** 9 , **SPACE** 9 , **2** 9 , **@NOVELS_BOOKS:** 9 , **@PAPFEELOFFICIAL:** 8 , **MARVEL** 8 , **NFTS** 7 , **GAME** 7 , **GIVEAWAY** 7 , **في** 7 , **💎** 6 , **TEAM** 6 , 
+**@SPACEMARVELINC:** 23 , **NFT** 22 , **NEW** 12 , **WL** 10 , **من** 10 , **@JORDANELIZABETH:** 10 , **FOLLOW** 10 , **RT** 9 , **🔥** 9 , **SPACE** 9 , **2** 9 , **@NOVELS_BOOKS:** 9 , **GIVEAWAY** 8 , **GAME** 8 , **@PAPFEELOFFICIAL:** 8 , **MARVEL** 8 , **NFTS** 7 , **في** 7 , **🚀** 6 , **1** 6 , 
  
 ## What this user tweeted
  
 RT @crypto: The Bank of England says a $2 trillion plunge in the value of cryptoassets underscores vulnerabilities in the market and the ne…
+ 
+# 0xwinx_87USER INFO
+![image](http://pbs.twimg.com/profile_images/1549349244816932870/Y5ZuRSvr_normal.jpg)
+ 
+`User ScreenName:` 0xwinx_87 
+ 
+`User chosen Name:` Ceppi'e 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jul 19 10:46:17 +0000 2022 
+ 
+`User Description?:` My account @0xawywinx_87 got suspend. Please don't reroll. Thanks 
+ 
+`Followers?: `40 
+ 
+`Following?:` 868 
+ 
+`User URL?:` None 
+ 
+`Location:` Kota Parepare, Sulawesi Selata 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1549349244816932870/Y5ZuRSvr_normal.jpg 
+ 
+`Number of tweets excluding replies:` 3782 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 106 , **FOLLOW** 60 , **+** 55 , **HOURS** 45 , **•** 35 , **$50** 28 , **IDR** 27 , **||** 24 , **~** 23 , **3** 23 , **GIVEAWAY** 23 , **$30** 16 , **@SOF1AZARA03:** 13 , **TWEET** 13 , **6** 12 , **4** 12 , **@TAEGIVEAWAY:** 11 , **TAG** 11 , **HRS** 11 , **8** 9 , 
+ 
+## What this user tweeted
+ 
+RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
  
 # PickawwinerUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1551502080405536768/fLQl0tOI_normal.jpg)
@@ -2307,9 +2391,9 @@ RT @crypto: The Bank of England says a $2 trillion plunge in the value of crypto
 #tweetpicker & #pickaw NO1
 Follow me  i Will follow you back 100% #sobatpickaw #sobatTWpicker 
  
-`Followers?: `28 
+`Followers?: `29 
  
-`Following?:` 448 
+`Following?:` 471 
  
 `User URL?:` None 
  
@@ -2319,7 +2403,7 @@ Follow me  i Will follow you back 100% #sobatpickaw #sobatTWpicker
  
 `Profile image:` http://pbs.twimg.com/profile_images/1551502080405536768/fLQl0tOI_normal.jpg 
  
-`Number of tweets excluding replies:` 1142 
+`Number of tweets excluding replies:` 1194 
  
 
  
@@ -2327,679 +2411,7 @@ Follow me  i Will follow you back 100% #sobatpickaw #sobatTWpicker
  
 ## User Top tweeted words 
  
-**RT** 89 , **DONE** 69 , **FOLLOW** 63 , **HOURS** 54 , **+** 40 , **$100** 28 , **•** 23 , **$50** 22 , **24** 16 , **||** 15 , **8** 12 , **:** 12 , **4** 12 , **GIVEAWAY** 11 , **12** 10 , **JOIN** 10 , **JT** 9 , **~** 9 , **@MISSUFE:** 8 , **IDR** 8 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# Bigwin_juny07USER INFO
-![image](http://pbs.twimg.com/profile_images/1550520243952701440/NEZRDhF4_normal.jpg)
- 
-`User ScreenName:` Bigwin_juny07 
- 
-`User chosen Name:` Bigwin July || freetag 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jul 17 16:38:44 +0000 2022 
- 
-`User Description?:` my old account is suspended @idearu_v, please don't reroll.. Bismillah #HwannieProofs #IwonHanabi #cutetesty #Jihantesti #Jenus  #inezwinners #SobatGarangan 
- 
-`Followers?: `31 
- 
-`Following?:` 537 
- 
-`User URL?:` None 
- 
-`Location:` Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550520243952701440/NEZRDhF4_normal.jpg 
- 
-`Number of tweets excluding replies:` 1303 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 54 , **FOLLOW** 50 , **HOURS** 37 , **$100** 28 , **+** 22 , **$50** 22 , **~** 17 , **24** 16 , **•** 14 , **HRS** 14 , **ARRAZIQ** 12 , **JOIN** 10 , **12** 9 , **☑️** 9 , **:** 9 , **DC** 9 , **9322** 9 , **POST** 9 , **4** 8 , **🔔** 8 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# user_bigwinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549295725376262144/jdHURSWU_normal.jpg)
- 
-`User ScreenName:` user_bigwin 
- 
-`User chosen Name:` 🍀🍀 BIGWINTODAY 🍀🍀 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 07:23:46 +0000 2022 
- 
-`User Description?:` Hello, this is @barubigwinlagi. My account is currently suspended and I will be using this to join in giveaways. Please don't reroll. | free tag 
- 
-`Followers?: `36 
- 
-`Following?:` 464 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549295725376262144/jdHURSWU_normal.jpg 
- 
-`Number of tweets excluding replies:` 1476 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 118 , **FOLLOW** 67 , **HOURS** 50 , **~** 47 , **IDR** 39 , **+** 31 , **•** 31 , **$50** 22 , **$10** 21 , **||** 16 , **MINS** 15 , **$30** 15 , **RETWEET** 14 , **3** 13 , **140000** 12 , **4** 12 , **$20** 11 , **$100** 11 , **✅** 11 , **420000** 10 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# Andik1616USER INFO
-![image](http://pbs.twimg.com/profile_images/1550823948841263109/YeGcgOyq_normal.jpg)
- 
-`User ScreenName:` Andik1616 
- 
-`User chosen Name:` Andik123 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jul 23 12:40:31 +0000 2022 
- 
-`User Description?:` Maju kena mundur kena
-fan Warkop DKI
-newbie hunter
-mintol follow nti ku folbek plan2
-mohon maaf kalo nyeret lagi belajar
-terimakasih. 
- 
-`Followers?: `29 
- 
-`Following?:` 179 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 191 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550823948841263109/YeGcgOyq_normal.jpg 
- 
-`Number of tweets excluding replies:` 191 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 85 , **FOLLOW** 73 , **~** 44 , **HOURS** 42 , **+** 38 , **IDR** 35 , **$50** 20 , **RETWEET** 19 , **$100** 16 , **•** 15 , **||** 14 , **GIVEAWAY** 13 , **HRS** 13 , **3** 13 , **-RT** 12 , **$15** 12 , **4** 11 , **24** 11 , **PROOF** 10 , **:** 9 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# 0xAnyabigwinUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549306409795592196/dyWPbhsW_normal.png)
- 
-`User ScreenName:` 0xAnyabigwin 
- 
-`User chosen Name:` 𝓪𝓷𝔂𝓪 •𝓯𝓻𝓮𝓮𝓽𝓪𝓰 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 08:10:50 +0000 2022 
- 
-`User Description?:` 99L | This account only for hunter, no multi. Don't reroll, please | My account @rensbigwin @0xRensbigwin @0xSoohyang has been suspend 
- 
-`Followers?: `91 
- 
-`Following?:` 1157 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549306409795592196/dyWPbhsW_normal.png 
- 
-`Number of tweets excluding replies:` 1855 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 138 , **FOLLOW** 78 , **~** 64 , **HOURS** 55 , **+** 55 , **||** 51 , **IDR** 49 , **•** 43 , **📌RT** 30 , **$50** 29 , **GIVEAWAY** 26 , **3** 25 , **RETWEET** 23 , **$100** 17 , **4** 17 , **$10** 15 , **MINS** 15 , **$15** 14 , **$30** 14 , **24** 13 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# tahuninisoldoutUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550898694064832512/zc6o1UKH_normal.jpg)
- 
-`User ScreenName:` tahuninisoldout 
- 
-`User chosen Name:` Nanaaaa🦄 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 10:10:39 +0000 2022 
- 
-`User Description?:` New acc because my lovely acc @meplusluck got suspended • Until my old acc back will use this acc only 
- 
-`Followers?: `46 
- 
-`Following?:` 998 
- 
-`User URL?:` None 
- 
-`Location:` Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550898694064832512/zc6o1UKH_normal.jpg 
- 
-`Number of tweets excluding replies:` 4181 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 99 , **FOLLOW** 55 , **YA** 53 , **ALLAH** 53 , **BISMILLAH** 52 , **WISH** 52 , **LUCK** 52 , **•** 49 , **~** 43 , **HOURS** 40 , **IDR** 31 , **+** 29 , **$50** 23 , **GIVEAWAY** 15 , **3** 15 , **||** 14 , **$10** 13 , **4** 13 , **MINS** 12 , **RETWEET** 10 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# givemejiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1551234374712295424/N0vqhcuA_normal.jpg)
- 
-`User ScreenName:` givemeji 
- 
-`User chosen Name:` yuzz freetag 🕊️ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jul 18 01:38:35 +0000 2022 
- 
-`User Description?:` new acc, @ydamimy @talkkyu got 🍣 please dont reroll me! 
- 
-`Followers?: `96 
- 
-`Following?:` 922 
- 
-`User URL?:` https://t.co/WlurLHUdtk 
- 
-`Location:` ina 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551234374712295424/N0vqhcuA_normal.jpg 
- 
-`Number of tweets excluding replies:` 3245 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 115 , **FOLLOW** 92 , **HOURS** 83 , **+** 48 , **$50** 47 , **•** 45 , **||** 40 , **IDR** 27 , **GIVEAWAY** 27 , **~** 24 , **$100** 23 , **3** 20 , **4** 20 , **$30** 18 , **12** 17 , **6** 14 , **24** 11 , **📌RT** 11 , **HRS** 9 , **RETWEET** 9 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# oxmenangxUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549587020577591297/hobp3P4d_normal.jpg)
- 
-`User ScreenName:` oxmenangx 
- 
-`User chosen Name:` BIGWIN🙏✨ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Jul 20 02:35:22 +0000 2022 
- 
-`User Description?:` #gemhost #BUNALOVE #bunniefied #jihantesti #thunderlegit #6️⃣5️⃣🎹
-
-7-21-2022 I change my phone now,if my media is not the same, plz dont reroll me. thank u ❤️ 
- 
-`Followers?: `31 
- 
-`Following?:` 778 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549587020577591297/hobp3P4d_normal.jpg 
- 
-`Number of tweets excluding replies:` 4022 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 110 , **FOLLOW** 70 , **HOURS** 47 , **•** 45 , **+** 44 , **IDR** 31 , **||** 27 , **$50** 24 , **~** 23 , **$100** 16 , **4** 14 , **$10** 13 , **GIVEAWAY** 13 , **RETWEET** 11 , **✅** 11 , **$30** 11 , **$20** 10 , **HRS** 10 , **WL** 10 , **3** 10 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# nen9riskaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550072700709654528/Mvt3uTli_normal.jpg)
- 
-`User ScreenName:` nen9riska 
- 
-`User chosen Name:` 🍒Nen9 Riska Ameliya 🍒 | FreeTag | 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 23:02:32 +0000 2022 
- 
-`User Description?:` please don't reroll because my account is suspended @bojonekanghayam 
- 
-`Followers?: `105 
- 
-`Following?:` 738 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550072700709654528/Mvt3uTli_normal.jpg 
- 
-`Number of tweets excluding replies:` 1612 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 138 , **FOLLOW** 85 , **HOURS** 67 , **•** 65 , **+** 54 , **~** 48 , **IDR** 39 , **||** 29 , **$100** 28 , **$50** 26 , **GIVEAWAY** 25 , **4** 23 , **24** 22 , **📌RT** 21 , **@GEMHOSTGLOBAL:** 21 , **💜** 20 , **$30** 17 , **MINS** 17 , **$10** 16 , **✅** 16 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# JeromewintyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550619443960590336/uCn1hDyB_normal.jpg)
- 
-`User ScreenName:` Jeromewinty 
- 
-`User chosen Name:` Rome 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Jul 21 22:17:41 +0000 2022 
- 
-`User Description?:` Im lucky boi 2022 
- 
-`Followers?: `7 
- 
-`Following?:` 570 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550619443960590336/uCn1hDyB_normal.jpg 
- 
-`Number of tweets excluding replies:` 1558 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 133 , **FOLLOW** 92 , **HOURS** 76 , **+** 55 , **•** 51 , **~** 39 , **IDR** 38 , **||** 38 , **$50** 35 , **GIVEAWAY** 29 , **$100** 23 , **3** 19 , **4** 18 , **📌RT** 17 , **$30** 17 , **DONE** 17 , **24** 15 , **🔔RT** 14 , **RETWEET** 14 , **12** 13 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# CLaraharum2022USER INFO
-![image](http://pbs.twimg.com/profile_images/1549304963066580992/yDYWQ6kx_normal.jpg)
- 
-`User ScreenName:` CLaraharum2022 
- 
-`User chosen Name:` Clara| Fb| freetag 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 08:05:30 +0000 2022 
- 
-`User Description?:` manifesting win $1000 
- 
-`Followers?: `27 
- 
-`Following?:` 461 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549304963066580992/yDYWQ6kx_normal.jpg 
- 
-`Number of tweets excluding replies:` 1273 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 83 , **FOLLOW** 59 , **HOURS** 43 , **DONE** 39 , **+** 36 , **$50** 25 , **•** 25 , **$100** 23 , **~** 18 , **||** 17 , **IDR** 15 , **4** 12 , **12** 11 , **GIVEAWAY** 11 , **MINS** 11 , **JOIN** 10 , **6** 8 , **HRS** 8 , **:** 8 , **$30** 8 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# siswantimita1USER INFO
-![image](http://pbs.twimg.com/profile_images/1549413877867130882/07mpih8s_normal.jpg)
- 
-`User ScreenName:` siswantimita1 
- 
-`User chosen Name:` mita siswanti 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 15:19:06 +0000 2022 
- 
-`User Description?:` Tukang seblak 
- 
-`Followers?: `10 
- 
-`Following?:` 991 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549413877867130882/07mpih8s_normal.jpg 
- 
-`Number of tweets excluding replies:` 2742 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 132 , **FOLLOW** 81 , **+** 78 , **HOURS** 42 , **~** 42 , **IDR** 38 , **•** 27 , **||** 24 , **📌RT** 24 , **ريال** 19 , **$100** 16 , **GIVEAWAY** 15 , **1** 14 , **@KALIVERSION:** 14 , **24** 13 , **8** 13 , **$50** 12 , **$SOL** 12 , **3** 11 , **4** 11 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# 0xyujiiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550596738779840512/8jWIZtXM_normal.jpg)
- 
-`User ScreenName:` 0xyujii 
- 
-`User chosen Name:` yan🌟 blessed 😇freetag🍀 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Jul 22 21:40:23 +0000 2022 
- 
-`User Description?:` sus acc @/ranyuji_ pls don't reroll///check event 🌟✨$100 $200 $500 $1000 IN GOD'S PERFECT TIMING 🌟🌟😇 
- 
-`Followers?: `189 
- 
-`Following?:` 474 
- 
-`User URL?:` https://t.co/tsmguu2msO 
- 
-`Location:` $1000 soon💫 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550596738779840512/8jWIZtXM_normal.jpg 
- 
-`Number of tweets excluding replies:` 870 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 97 , **FOLLOW** 76 , **HOURS** 66 , **•** 46 , **+** 39 , **||** 36 , **$50** 35 , **GIVEAWAY** 30 , **$100** 22 , **@GEMHOSTGLOBAL:** 17 , **4** 17 , **💜** 16 , **24** 14 , **IDR** 14 , **~** 14 , **NA** 13 , **12** 12 , **@CRYPTOKING1ST:** 10 , **$30** 10 , **$150** 9 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# xzoue130USER INFO
-![image](http://pbs.twimg.com/profile_images/1550787580538433538/wPnHtb6V_normal.jpg)
- 
-`User ScreenName:` xzoue130 
- 
-`User chosen Name:` Zouyou 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 08:09:35 +0000 2022 
- 
-`User Description?:` Read 📌 #6️⃣5️⃣🎹 | free tag | turn off my rts 
- 
-`Followers?: `44 
- 
-`Following?:` 326 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550787580538433538/wPnHtb6V_normal.jpg 
- 
-`Number of tweets excluding replies:` 1475 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 81 , **FOLLOW** 51 , **+** 49 , **HOURS** 31 , **||** 27 , **$50** 27 , **HRS** 26 , **GIVEAWAY** 25 , **$100** 22 , **~** 20 , **@SOF1AZARA03:** 18 , **24** 17 , **4** 16 , **•** 16 , **IDR** 12 , **700RB** 11 , **✅RT** 10 , **$20** 9 , **JT** 8 , **NA** 8 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# 0xbigtyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549273794199822336/rptY1aXq_normal.jpg)
- 
-`User ScreenName:` 0xbigty 
- 
-`User chosen Name:` Ang 🍀 free tag 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 06:00:11 +0000 2022 
- 
-`User Description?:` Hunter | @pixkyone has suspended 👿 
- 
-`Followers?: `37 
- 
-`Following?:` 518 
- 
-`User URL?:` https://t.co/QRZhT7shrO 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549273794199822336/rptY1aXq_normal.jpg 
- 
-`Number of tweets excluding replies:` 1989 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 90 , **FOLLOW** 79 , **HOURS** 55 , **||** 39 , **~** 35 , **+** 34 , **IDR** 28 , **•** 28 , **$50** 26 , **@YUNAPROMOTES_:** 17 , **$20** 16 , **$100** 15 , **RETWEET** 15 , **⏳** 14 , **2** 13 , **GIVEAWAY** 12 , **4** 12 , **24** 11 , **$30** 10 , **280K** 9 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# 0x_BigwinterusUSER INFO
-![image](http://pbs.twimg.com/profile_images/1549241500172619776/EeD5y1Cu_normal.jpg)
- 
-`User ScreenName:` 0x_Bigwinterus 
- 
-`User chosen Name:` Lia||freetag🍒 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 03:47:51 +0000 2022 
- 
-`User Description?:` Bismillah untuk akun @0xJuli_Bigwinzz dan @Pickmissglorya ke suspend,no multi,dont reroll,semoga akun ini jg ikut wangi..
-amin.. 
- 
-`Followers?: `44 
- 
-`Following?:` 551 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1549241500172619776/EeD5y1Cu_normal.jpg 
- 
-`Number of tweets excluding replies:` 1055 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 107 , **FOLLOW** 61 , **HOURS** 53 , **•** 47 , **+** 41 , **~** 38 , **$50** 28 , **IDR** 26 , **$100** 20 , **GIVEAWAY** 20 , **3** 14 , **24** 14 , **RETWEET** 13 , **NFT** 13 , **$30** 12 , **JOIN** 12 , **📌RT** 12 , **||** 11 , **MINT** 10 , **TAG** 9 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# IhatSolihat03USER INFO
-![image](http://pbs.twimg.com/profile_images/1551570538916560896/ob7kQ6Po_normal.jpg)
- 
-`User ScreenName:` IhatSolihat03 
- 
-`User chosen Name:` Ihat Solihat 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 06:50:44 +0000 2022 
- 
-`User Description?:` Akun @IhatSolihat01 Di tangguhkan hari ini 19-7-2022, kalau win jangan di reroll ya mba dan uncle host 🙏🙏 
- 
-`Followers?: `115 
- 
-`Following?:` 951 
- 
-`User URL?:` None 
- 
-`Location:` Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1551570538916560896/ob7kQ6Po_normal.jpg 
- 
-`Number of tweets excluding replies:` 4164 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 93 , **FOLLOW** 57 , **HOURS** 49 , **+** 38 , **$50** 33 , **•** 31 , **~** 30 , **||** 26 , **IDR** 22 , **:** 18 , **GIVEAWAY** 18 , **RETWEET** 15 , **$100** 14 , **3** 14 , **4** 13 , **TWEET** 11 , **JOIN** 11 , **$30** 11 , **GIVING** 11 , **12** 10 , 
- 
-## What this user tweeted
- 
-RT @apeguildbsc: Our smart contract audit has been completed by @BlockSafu. No security vulnerabilities are found. We express our thanks to…
- 
-# aksawinesaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1550250534266740736/YVoYRv2z_normal.jpg)
- 
-`User ScreenName:` aksawinesa 
- 
-`User chosen Name:` Aksa 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jul 19 07:27:58 +0000 2022 
- 
-`User Description?:` Akun baru karena akun @Adinesalucky sedang ditangguhkan🙏
-Bantu follow ya terimakasih.... 
- 
-`Followers?: `40 
- 
-`Following?:` 720 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1550250534266740736/YVoYRv2z_normal.jpg 
- 
-`Number of tweets excluding replies:` 3594 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 82 , **DONE** 75 , **FOLLOW** 52 , **•** 37 , **+** 37 , **HOURS** 35 , **GIVEAWAY** 33 , **||** 29 , **~** 26 , **$50** 23 , **IDR** 18 , **$100** 17 , **BISMILLAH** 15 , **RETWEET** 14 , **3** 14 , **@GEMHOSTGLOBAL:** 13 , **HRS** 13 , **4** 12 , **💜** 11 , **@SOF1AZARA03:** 11 , 
+**RT** 84 , **FOLLOW** 74 , **DONE** 72 , **HOURS** 58 , **+** 41 , **||** 38 , **$100** 29 , **$50** 26 , **•** 23 , **24** 20 , **12** 15 , **IDR** 15 , **~** 13 , **8** 12 , **-RT** 11 , **🔔** 11 , **@MISSUFE:** 11 , **WINNER** 10 , **GIVEAWAY** 10 , **:** 10 , 
  
 ## What this user tweeted
  
