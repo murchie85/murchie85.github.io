@@ -31,9 +31,9 @@ https://t.co/WLopIGLEjT relying on our o… https://t.co/53XTblSR0L
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Daily Vulnerability Trends: Fri Oct 14 2022 - https://t.co/WgLV85wfnR#OSINT #ThreatIntel #CyberSecurity #Vulnerability |
-| Malware Analysis - evasion - 713414a391d0fb5beb6ef0eb88bb2380 - https://t.co/K4PqIvAzwd#Malware #OSINT #ThreatIntel  #evasion |
-| BLOG: Qbot (AKA Qakbot or Pinkslipbot) is a banking trojan that steals sensitive info from victims’ machines and se… https://t.co/OBA8JdNYFz |
+| RT @SBRC_Scotland: 🟠 Amber Cyber Threat 🟠Our #threatintel team have received information regarding a banking trojan seen in the UK which… |
+| Malware Analysis - evasion - 248188e5b9ac8a5ac4d62405a80ed220 - https://t.co/Jue9w8V9lm#Malware #OSINT #ThreatIntel  #evasion |
+| RT @vtxproject: Happy Friday! 😀 We've got some NEW NEW Synapse Power-Ups. Take a look! https://t.co/BooL4JNz8k #threatintel #cybersecurity… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -42,7 +42,7 @@ https://t.co/WLopIGLEjT relying on our o… https://t.co/53XTblSR0L
 | #2 Most tweeted to  | **DailyOsint** |
 | #3 Most tweeted to  | **circl_lu** |
 | NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 1.88%|
+| Tweeters with < 10 followers  | 1.86%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -67,7 +67,7 @@ VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Cobalt Stike Beacon Detected - 150[.]158[.]180[.]97:443 - https://t.co/7kqDRd0w4V#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
+|Malware Analysis - discovery - f27dbb274fb29ae23bbf99d2f0daba71 - https://t.co/Ss2sztHMzA#Malware #OSINT #ThreatIntel  #discovery |
 
 ### MOST RETWEETED 
 
@@ -90,7 +90,7 @@ VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
  
 `User Description?:` Cybersecurity Manager and Military Veteran with 15 years of proven capabilities in accomplishing measurable results while leading high skilled teams. 
  
-`Followers?: `4 
+`Followers?: `5 
  
 `Following?:` 63 
  
