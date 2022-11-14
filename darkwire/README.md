@@ -31,9 +31,9 @@ Cr3dOv3r searches for public leaks on #haveibeenpwned and… https://t.co/pbmb21
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Malware Analysis - azov - a029befa6a4679c3a724d759022e57d9 - https://t.co/9rOcnD7GSW#Malware #OSINT #ThreatIntel  #azov |
-| BugCrowd Bug Bounty Disclosure:  - Panel access at https://t.co/Jbj2Ozva0z. - By rahul0x01 -… https://t.co/8huGxgQFux |
-| How do you stay current in #cybersecurity? Why not join me and 200 other people LIVE 🔴 in 5 minutes I'll be del… https://t.co/d1CNgPej0V |
+| RT @RedPacketSec: LockBit 3.0 Ransomware Victim: sinopecthc[.]com - https://t.co/T7VqbHjwUw#LockBit 3.0 #Ransomware #OSINT #ThreatIntel #… |
+| RT @MicroFocusSec: 2022-11-10, #Sandworm threat group attributed to a recent wave of #cyberattacks affecting transportation and logistics f… |
+| It’s been another busy week in the world of cyber security. The ongoing war in #Ukraine has seen #NATO warn of a gr… https://t.co/lcggHbqwpY |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,8 +41,8 @@ Cr3dOv3r searches for public leaks on #haveibeenpwned and… https://t.co/pbmb21
 | #1 Most tweeted to  | **RedPacketSec** |
 | #2 Most tweeted to  | **DailyOsint** |
 | #3 Most tweeted to  | **BranhamRoen** |
-| NewProfiles (less than 10 days) | 0.93%  |
-| Tweeters with < 10 followers  | 1.55%|
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 1.53%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -62,12 +62,12 @@ Cr3dOv3r searches for public leaks on #haveibeenpwned and… https://t.co/pbmb21
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (30.0%)
+VIEWS WERE : **SUBJECTIVE**  (70.0%) & **NEGATIVELY-SUBJECTIVE** (30.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RedPacketSec: BugCrowd Bug Bounty Disclosure:  - Panel access at https://t.co/Jbj2Ozva0z. - By rahul0x01 - https://t.co/pgvfwhaRlG#Bu… |
+|RT @ChicagoCyber: This chart should be definitive in the #ThreatIntel space. Applicable to both #CyberWarCon and #BrunchCon https://t.co/dq… |
 
 ### MOST RETWEETED 
 
