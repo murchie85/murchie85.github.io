@@ -29,9 +29,9 @@ The most popular user is: **Malwar3Ninja**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 🧠 Infoblox Cyber Intelligence Group is releasing a new algorithm for reliable reputation scoring:… https://t.co/lvLYQQU9Vu |
-| RT digitalshadows "We are proud to share that our partners at @ReliaQuest are hosting a LIVE #webinar featuring our… https://t.co/k9ZYcEHp9x |
-| RT @Albert_hacks_: Snapchat? Twitter? Instagram?Facebook?WhatsApp?? #MachineLearning#CyberSecurity#Python #RStats #TensorFlow #Java#Ja… |
+| RT @Vicky3112: Enjoy a confident smile that looks brand new and lasts for ̡years.  🤚#threatintel #threatintelligence #cybernews #cyberatt… |
+| The #FBI assured Congress that the Chinese-owned video platform is on their radar. #Security#ThreatIntel #threats… https://t.co/98fFeu4LoM |
+| RT @Loydhacks: Snapchat? Twitter? Instagram?Facebook?WhatsApp?? #MachineLearning#CyberSecurity#Python #RStats #TensorFlow #Java#JavaSc… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -40,7 +40,7 @@ The most popular user is: **Malwar3Ninja**
 | #2 Most tweeted to  | **DailyOsint** |
 | #3 Most tweeted to  | **DailyCTI** |
 | NewProfiles (less than 10 days) | 0.25%  |
-| Tweeters with < 10 followers  | 1.9%|
+| Tweeters with < 10 followers  | 1.88%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -60,12 +60,12 @@ The most popular user is: **Malwar3Ninja**
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (46.15%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @brightorigin: https://t.co/hA2vFD6Huq is for sale.#threatintelligence #cybersecurity #privacy #infosec #databreach #threatintel #cyber… |
+|RT @DailyOsint: OSINT &amp; Sourcing Mind Maphttps://t.co/PnGISf5Cz7#OSINT #investigation #intelligence #mindmap #infosec #cybersecurity #t… |
 
 ### MOST RETWEETED 
 
