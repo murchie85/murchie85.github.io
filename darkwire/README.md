@@ -31,17 +31,17 @@ For those… https://t.co/th6PRjhijn
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Amazon fixes vulnerability affecting AWS AppSync https://t.co/ZqgWHM90AY |
-| Cobalt Stike Beacon Detected - 121[.]127[.]233[.]205:6666 - https://t.co/Q8G4xGUPdv#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
-| Cobalt Stike Beacon Detected - 1[.]15[.]141[.]252:8888 - https://t.co/ggYiNcIVq0#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
+| #EvilChat #BlackMarket #fraud through app🎣phishing: bzg-2jc8t[.]com https://t.co/zs7BT3soh054saw[.]org… https://t.co/0ctsggHoRq |
+| RT @TJ_Null: It is done! This should have been released a long time ago but I am glad I took the time to finish it. For those of you who… |
+| Cobalt Stike Beacon Detected - 107[.]148[.]201[.]158:7443 - https://t.co/fWUnmerMVk#CobaltStrikeBeaconDetected #OSINT #ThreatIntel |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **TJ_Null** |
 | #2 Most tweeted to  | **DailyOsint** |
-| #3 Most tweeted to  | **DailyCTI** |
-| NewProfiles (less than 10 days) | 0.2%  |
+| #3 Most tweeted to  | **RedPacketSec** |
+| NewProfiles (less than 10 days) | 0.14%  |
 | Tweeters with < 10 followers  | 2.69%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
@@ -56,18 +56,18 @@ For those… https://t.co/th6PRjhijn
 | second  | **TIME**  |
 | third  | **THREATINTEL** |
 | fourth  | **MALWARE**  |
-| fifth  | **DETECTED**  |
+| fifth  | **RELEASED**  |
 
 
 ## Twitter Bio Analysis![image](assets/threatintel/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/threatintel/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @threatintel: On the latest #CyberSecurityBrief podcast, a recent #Billbug espionage campaign, #Prestige ransomware hits Ukraine, and mu… |
+|RT @TJ_Null: It is done! This should have been released a long time ago but I am glad I took the time to finish it. For those of you who… |
 
 ### MOST RETWEETED 
 
@@ -92,17 +92,17 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJEC
  
 `Followers?: `1 
  
-`Following?:` 64 
+`Following?:` 79 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 49 
+`Number of tweets extracted`  : 52 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 49 
+`Number of tweets excluding replies:` 52 
  
 
  
@@ -110,7 +110,7 @@ VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJEC
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 41 , **@HACKINARTICLES:** 39 , **INFOSEC** 39 , **CYBERSECURITYTIPS** 38 , **PENTESTING** 37 , **OSCP** 37 , **REDTEAM** 35 , **INFORMATIONSECURITY** 23 , **CISSP** 14 , **C…RT** 8 , **PIC** 7 , **DAY** 7 , **CHEAT** 6 , **SHEET** 6 , **VS** 6 , **@NANDANLOHITAKSH:** 4 , **RED** 4 , **SECURITY** 4 , **INFORMATIONSECURITY…RT** 4 , **…RT** 4 , 
+**CYBERSECURITY** 41 , **INFOSEC** 40 , **@HACKINARTICLES:** 39 , **CYBERSECURITYTIPS** 38 , **PENTESTING** 37 , **OSCP** 37 , **REDTEAM** 35 , **INFORMATIONSECURITY** 23 , **CISSP** 14 , **C…RT** 8 , **PIC** 7 , **DAY** 7 , **CHEAT** 6 , **SHEET** 6 , **VS** 6 , **@NANDANLOHITAKSH:** 5 , **@DANIELMAKELLEY:** 4 , **CYBERSECURITY:** 4 , **1** 4 , **2** 4 , 
  
 ## What this user tweeted
  
@@ -137,7 +137,7 @@ https://t.co/UrQE8QMhWh
  
 `Followers?: `3 
  
-`Following?:` 134 
+`Following?:` 133 
  
 `User URL?:` None 
  
@@ -155,52 +155,13 @@ https://t.co/UrQE8QMhWh
  
 ## User Top tweeted words 
  
-**@MANIESHNEUPANE:** 11 , **!** 9 , **PENTESTING** 8 , **INFOSEC** 7 , **CYBERSECURITY** 7 , **@HACKINARTICLES:** 5 , **CYBERSECURITYTIPS** 5 , **OSCP** 5 , **REDTEAM** 5 , **INFORMATIONSECURITY** 5 , **GOD** 5 , **@NIXCRAFT:** 4 , **YEARS** 3 , **AGO** 3 , **PIC** 3 , **DAY** 3 , **CISSP** 3 , **LINUX** 3 , **ANY** 3 , **C…RT** 3 , 
+**INFOSEC** 8 , **PENTESTING** 8 , **CYBERSECURITY** 7 , **@HACKINARTICLES:** 5 , **CYBERSECURITYTIPS** 5 , **OSCP** 5 , **REDTEAM** 5 , **INFORMATIONSECURITY** 5 , **GOD** 5 , **@NIXCRAFT:** 4 , **SECURITY** 3 , **HACKING** 3 , **:** 3 , **YEARS** 3 , **AGO** 3 , **PIC** 3 , **DAY** 3 , **CISSP** 3 , **LINUX** 3 , **ANY** 3 , 
  
 ## What this user tweeted
  
 RT @TJ_Null: It is done! This should have been released a long time ago but I am glad I took the time to finish it. 
 
 For those of you who…
- 
-# system32_500USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` system32_500 
- 
-`User chosen Name:` system32 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Nov 15 18:45:49 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 25 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 26 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RANSOMEWARE** 6 , **RANSOMWARE** 5 , **CYBERSECURITY** 4 , **IOCS** 3 , **THESE** 3 , **MALWARE** 3 , **LOCKBIT** 3 , **DE** 3 , **ORGANIZATIONS** 3 , **@USCERT_GOV:** 2 , **@CISAGOV** 2 , **JOINT** 2 , **ADVISORY** 2 , **ACTORS** 2 , **TARGETING** 2 , **APT** 2 , **FIND** 2 , **REPORTING** 2 , **NEW** 2 , **ASYNCRAT** 2 , 
- 
-## What this user tweeted
- 
-RT @Cyberknow20: Can't speak on validity or freshness of these #IOCs  - but they are related to #Gamaredon #actinium apt targeting #ukraine…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
