@@ -31,9 +31,9 @@ The most popular user is: **YvetteCooperMP**
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CristiVlad25: From ethical hacking to cybersecurity management, these 9 careers are perfect for you, the aspiring cyber-expert! (no bug… |
-| RT @WaterISAC: Did you know we offer a 60-day complimentary membership?  Give us a trial run and be ready for a new year!Sign-up here t… |
-| RT @cpomagazine: Hive #ransomware alert is a joint release from CISA, the FBI and the DHHS, part of the ongoing #StopRansomware series. Hiv… |
+| These #Women Know #Cybersecurity.. Exabeam Manager @shelly1256 | Atos Chief Technology Officer @So_Proust | Trellix… https://t.co/bjRcVp6CcC |
+| RT @avancercorp: At its core, #FactoryModel enables companies to initiate digital transformation in a faster and efficient manner, along wi… |
+| Detected #phishing clone at address: hxxps://shareswana[.]d64qz7yk9ff2d[.]amplifyapp[.]com/#microsoft #infosec… https://t.co/VIT55d2Kdt |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,9 +41,9 @@ The most popular user is: **YvetteCooperMP**
 | #1 Most tweeted to  | **hackinarticles** |
 | #2 Most tweeted to  | **HacBrain247** |
 | #3 Most tweeted to  | **Eli_Krumova** |
-| NewProfiles (less than 10 days) | 1.44%  |
-| Tweeters with < 10 followers  | 5.38%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| NewProfiles (less than 10 days) | 1.46%  |
+| Tweeters with < 10 followers  | 5.06%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -62,12 +62,12 @@ The most popular user is: **YvetteCooperMP**
 ## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/cybersecurity/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|4 Tips to Avoid Deceptive Actions when using #VoIP https://t.co/aX3dhqVSSA #UCatWork #UC #UCaaS #Telecom… https://t.co/NNfj7z6E8D |
+|RT @Gate_15_Analyst: Popular HR and Payroll Company Sequoia Discloses a Data Breach https://t.co/6uFZbJjdrC via @wired #cybersecurity |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,105 @@ VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJ
 | This is extraordinary &amp; very serious@JakeBerry says there were “multiple breaches of the Ministerial Code” by… https://t.co/nFDCJq1j0q |
 
 # Potential Fake Accounts
+ 
+# HarknessHubUSER INFO
+![image](http://pbs.twimg.com/profile_images/1599498664849952768/zM6jTZaG_normal.png)
+ 
+`User ScreenName:` HarknessHub 
+ 
+`User chosen Name:` Jack Harkness 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 04 20:19:33 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `1 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 181 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1599498664849952768/zM6jTZaG_normal.png 
+ 
+`Number of tweets excluding replies:` 181 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@HISTORIES_ARCH** 9 , **@WORLDARCHAEO** 9 , **US** 8 , **@EARTHJUSTICE** 8 , **@CLIMATEREALITY** 8 , **@STOPFUNDINGHATE** 8 , **@BIODIVERSITYSOS** 7 , **@CURRENTARCHAEO** 6 , **WORLD** 6 , **ROMAN** 6 , **@REFORESTEARTH** 6 , **@ROYALFAMILY** 5 , **@KENSINGTONROYAL** 5 , **@COP27P** 5 , **@SFMISINFO** 5 , **@HRW** 5 , **COULD** 5 , **ANCIENT** 5 , **@KIRSTIEALLEY** 5 , **LIBRARY** 5 , 
+ 
+## What this user tweeted
+ 
+@HumanRights1st on how military groups like the RAB evade US sanctions by traveling to countries outside the US.… https://t.co/ulEjT5VTsr
+ 
+# Walk3rJohnyUSER INFO
+![image](http://pbs.twimg.com/profile_images/1597833940496449536/80RLdrnU_normal.jpg)
+ 
+`User ScreenName:` Walk3rJohny 
+ 
+`User chosen Name:` Bugs_info 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Nov 30 06:02:50 +0000 2022 
+ 
+`User Description?:` This Is a automation for collecting a #BugBounty tips from  hackers. 
+ 
+`Followers?: `29 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1597833940496449536/80RLdrnU_normal.jpg 
+ 
+`Number of tweets excluding replies:` 1974 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BUGBOUNTY** 101 , **BEST** 100 , **TIP** 100 , **CYBERSECURITY** 25 , **SECURITY** 17 , **INFOSEC** 11 , **NEW** 9 , **DATA** 8 , **PYTHON** 7 , **PENTESTING** 6 , **HACKING** 5 , **OSCP** 5 , **CYBERSECURITYRT** 5 , **US** 5 , **MANAGEMENT** 4 , **BUSINESS** 4 , **ANY** 4 , **…RT** 4 , **INFORMATIONSECURITY** 4 , **PHISHING** 4 , 
+ 
+## What this user tweeted
+ 
+RT @Stanleyhacks2: Hacker needed
+DM me now for any hacking services
+Dm
+
+#BigData  #DataScience #AI #MachineLearning #IoT #PyTorch #Python #…RT @Shubham_pen: Linux Performance Tools
+Credit: https://t.co/7yEpQ2uQML
+
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #…RT @gogodinez: Why Modernizing #Cybersecurity Boosts #SaaS Companies’ Bottom Line | @Proofpoint 2020 User Risk Report is mentioned in this…RT @osintph: CloudWave acquires Sensato Cybersecurity, bringing together cloud hosting services and managed Cybersecurity-as-a-Service for…RT @investindia: #InvestInIndia 
+
+A cloud-first strategy, business-led innovation, and data privacy are the main growth drivers of #NewIndi…RT @bestavbyssg: Interested in applying to one of @SANS_EDU's #cybersecurity graduate programs? Attend this virtual application workshop to…RT @kleiton0x7e: I created a C2 by abusing the Reddit API to host the C2 traffic. As I'm posting this, the C2 totally undetectable since it…RT @AtomSpam: Detected #phishing clone at address: hxxps://22174-4630[.]s3[.]webspace[.]re/az/webcss/
+
+#BancaSella #bank #infosec #cybersec…RT @RangeForce: Our next Community Challenge is live! Good luck to all of our SQL Injection challengers.
+
+Not a member of our Community Edi…RT @icmuc1: Can anyone comment on that plain text ASUS backdoor in the bios bin update files? #ASUS #backdoor #malware #CyberSecurity #Cybe…RT @Shubham_pen: Web Security Testing Cheat Sheet
+Credit: https://t.co/mtKtj6bOKe
+
+#infosec #cybersecurity #pentesting #oscp  #informations…RT @priyank14554202: Buy Google Voice Accounts Or Buy USA Phone Number.
+https://t.co/rezKUn8FUf…
+
+#MachineLearning #DataScience #Python  #1…RT @AtomSpam: Detected #phishing clone at address: hxxps://portail-orange00[.]ddns[.]net/messagerie/36639620ade6ddb/finish[.]html
+
+#orange…RT @MicroFocus: See who the #CyberRes Partners of the Year for 2022 are in @MicroFocusSec's new partner blog: https://t.co/KIXXs9YEs8 #Cybe…
  
 # itsbakihoxhaUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1600975528986558464/3o43TTDN_normal.jpg)
@@ -157,59 +256,6 @@ RT @danielmakelley: Anyone with an Internet connection can get into cybersecurit
 
 @rootme_org is free.
 @LetsDef…
- 
-# Walk3rJohnyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1597833940496449536/80RLdrnU_normal.jpg)
- 
-`User ScreenName:` Walk3rJohny 
- 
-`User chosen Name:` Bugs_info 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 06:02:50 +0000 2022 
- 
-`User Description?:` This Is a automation for collecting a #BugBounty tips from  hackers. 
- 
-`Followers?: `29 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1597833940496449536/80RLdrnU_normal.jpg 
- 
-`Number of tweets excluding replies:` 1965 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**BUGBOUNTY** 101 , **BEST** 100 , **TIP** 100 , **CYBERSECURITY** 25 , **SECURITY** 18 , **INFOSEC** 10 , **NEW** 10 , **DATA** 8 , **PYTHON** 6 , **CYBERSECURITYRT** 5 , **PENTESTING** 5 , **US** 5 , **ACCOUNT** 4 , **HACKING** 4 , **PHISHING** 4 , **@THOMASCARLE6:** 4 , **THOMAS** 4 , **CARLE:** 4 , **HTTPS://TCO/FHA1B3QUQJ** 4 , **FOLLOW** 4 , 
- 
-## What this user tweeted
- 
-RT @gogodinez: Why Modernizing #Cybersecurity Boosts #SaaS Companies’ Bottom Line | @Proofpoint 2020 User Risk Report is mentioned in this…RT @osintph: CloudWave acquires Sensato Cybersecurity, bringing together cloud hosting services and managed Cybersecurity-as-a-Service for…RT @investindia: #InvestInIndia 
-
-A cloud-first strategy, business-led innovation, and data privacy are the main growth drivers of #NewIndi…RT @bestavbyssg: Interested in applying to one of @SANS_EDU's #cybersecurity graduate programs? Attend this virtual application workshop to…RT @kleiton0x7e: I created a C2 by abusing the Reddit API to host the C2 traffic. As I'm posting this, the C2 totally undetectable since it…RT @AtomSpam: Detected #phishing clone at address: hxxps://22174-4630[.]s3[.]webspace[.]re/az/webcss/
-
-#BancaSella #bank #infosec #cybersec…RT @RangeForce: Our next Community Challenge is live! Good luck to all of our SQL Injection challengers.
-
-Not a member of our Community Edi…RT @icmuc1: Can anyone comment on that plain text ASUS backdoor in the bios bin update files? #ASUS #backdoor #malware #CyberSecurity #Cybe…RT @Shubham_pen: Web Security Testing Cheat Sheet
-Credit: https://t.co/mtKtj6bOKe
-
-#infosec #cybersecurity #pentesting #oscp  #informations…RT @priyank14554202: Buy Google Voice Accounts Or Buy USA Phone Number.
-https://t.co/rezKUn8FUf…
-
-#MachineLearning #DataScience #Python  #1…RT @AtomSpam: Detected #phishing clone at address: hxxps://portail-orange00[.]ddns[.]net/messagerie/36639620ade6ddb/finish[.]html
-
-#orange…RT @MicroFocus: See who the #CyberRes Partners of the Year for 2022 are in @MicroFocusSec's new partner blog: https://t.co/KIXXs9YEs8 #Cybe…
  
 # pangtarolUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1600669792524185600/6r1UcslN_normal.jpg)
@@ -343,7 +389,7 @@ RT @FMoCDENigeria: Professor of Cybersecurity, Guest Lecturer, Minister of Commu
  
 `User Description?:` Artificial Intelligence (AI) is the future of our healthcare. Follow along to stay updated on this growing world of technology. 
  
-`Followers?: `0 
+`Followers?: `1 
  
 `Following?:` 9 
  
@@ -351,11 +397,11 @@ RT @FMoCDENigeria: Professor of Cybersecurity, Guest Lecturer, Minister of Commu
  
 `Location:` Evansville, IN 
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 13 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600888577814142976/W5DGGbI5_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 13 
  
 
  
@@ -363,7 +409,7 @@ RT @FMoCDENigeria: Professor of Cybersecurity, Guest Lecturer, Minister of Commu
  
 ## User Top tweeted words 
  
-**AI** 4 , **HEALTHCARE** 4 , **UNIVERSITY** 4 , **ARTIFICIAL** 4 , **INTELLIGENCE** 3 , **HEALTH** 3 , **FUTURE** 2 , **GRUBER** 2 , **NEW** 2 , **SHARES** 2 , **MACHINE** 1 , **LEARNING** 1 , **ROBOTICS** 1 , **WEARABLE** 1 , **SENSORS** 1 , **USED** 1 , **DETECT** 1 , **DISEASE** 1 , **REDUCING** 1 , **DRUG** 1 , 
+**AI** 5 , **ARTIFICIAL** 4 , **HEALTHCARE** 4 , **UNIVERSITY** 4 , **INTELLIGENCE** 3 , **HEALTH** 3 , **GRUBER** 2 , **FUTURE** 2 , **NEW** 2 , **SHARES** 2 , **YOU'RE** 1 , **READING** 1 , **SIGN** 1 , **BECOME** 1 , **INVOLVED** 1 , **RESEARCH** 1 , **WITHIN** 1 , **HEALTHCARE!** 1 , **LINK** 1 , **BELOW** 1 , 
  
 ## What this user tweeted
  
@@ -624,11 +670,11 @@ I called VW customer care on 11/18. The rep's name is Collin. I told him my eGol
  
 `Location:`  
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 16 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600866950745309184/mT2NQCmR_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -636,7 +682,7 @@ I called VW customer care on 11/18. The rep's name is Collin. I told him my eGol
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 10 , **@HEYIMAXCEL:** 8 , **EDUCATION** 8 , **TRAINING** 8 , ****FREE**** 7 , **RESOURCES** 6 , **CHECK** 5 , **THANKS** 4 , **SHARING!** 4 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **❤️** 2 , **TWITTERBOTS** 2 , **RT** 1 , **@BASTIONNE1** 1 , **@ANNELIEBUCHLER** 1 , **@CISAGOV** 1 , 
+**CYBERSECURITY** 14 , **@HEYIMAXCEL:** 12 , **EDUCATION** 12 , ****FREE**** 11 , **TRAINING** 11 , **CHECK** 9 , **RESOURCES** 9 , **THANKS** 8 , **SHARING!** 8 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **@HACBRAIN247** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **❤️** 2 , **TWITTERBOTS** 2 , **RT** 1 , **@ZNACHOR_LAFAR** 1 , 
  
 ## What this user tweeted
  
@@ -665,11 +711,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:`  
  
-`Number of tweets extracted`  : 25 
+`Number of tweets extracted`  : 30 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600282953422094339/gnIu4EQ__normal.jpg 
  
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 31 
  
 
  
@@ -677,7 +723,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 22 , **EDUCATION** 16 , **@HEYIMAXCEL:** 15 , **CHECK** 15 , ****FREE**** 14 , **TRAINING** 14 , **THANKS** 13 , **SHARING!** 13 , **RESOURCES** 10 , **@ACCESSCYBERORG:** 6 , **PAY** 3 , **A…RT** 2 , **WHATEVER** 2 , **BUNDLE** 2 , **HACKING** 2 , **CAREER** 2 , **@GOTHAMJSHARMA:** 2 , **ACCESSCYBER** 2 , **INFOSEC** 2 , **US** 2 , 
+**CYBERSECURITY** 26 , **@HEYIMAXCEL:** 20 , **CHECK** 20 , **EDUCATION** 20 , **THANKS** 18 , **SHARING!** 18 , ****FREE**** 18 , **TRAINING** 18 , **RESOURCES** 13 , **@ACCESSCYBERORG:** 6 , **@HACKINARTICLES** 3 , **A…RT** 3 , **PAY** 3 , **HTTP…RT** 2 , **WHATEVER** 2 , **BUNDLE** 2 , **HACKING** 2 , **CAREER** 2 , **@GOTHAMJSHARMA:** 2 , **ACCESSCYBER** 2 , 
  
 ## What this user tweeted
  
@@ -706,11 +752,11 @@ https://t.co/MJ18TslztM…
  
 `Location:` NYC Metro 
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 16 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600873982303080452/0zhvjQQJ_normal.jpg 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -718,7 +764,7 @@ https://t.co/MJ18TslztM…
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 12 , **@HEYIMAXCEL:** 10 , **EDUCATION** 10 , **TRAINING** 10 , ****FREE**** 9 , **CHECK** 7 , **RESOURCES** 7 , **THANKS** 6 , **SHARING!** 6 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@RICHACK_** 1 , **@_COCOBOT** 1 , **HTTPS://T…RT** 1 , **@PROJECTETERNAL9** 1 , 
+**CYBERSECURITY** 15 , **@HEYIMAXCEL:** 13 , **EDUCATION** 13 , **TRAINING** 13 , ****FREE**** 12 , **CHECK** 10 , **THANKS** 9 , **SHARING!** 9 , **RESOURCES** 9 , **@HACKINARTICLES** 3 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@ZNACHOR_LAFAR** 1 , **@BASTIONNE1** 1 , **@ANNELIEBUCHLER** 1 , 
  
 ## What this user tweeted
  
@@ -747,11 +793,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:` Newark, NJ 
  
-`Number of tweets extracted`  : 12 
+`Number of tweets extracted`  : 16 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600880987084300290/XE5-YEah_normal.jpg 
  
-`Number of tweets excluding replies:` 12 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -759,7 +805,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 11 , **@HEYIMAXCEL:** 9 , **EDUCATION** 9 , ****FREE**** 8 , **TRAINING** 8 , **RESOURCES** 6 , **CHECK** 6 , **THANKS** 5 , **SHARING!** 5 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@7GTECH** 1 , **HTTPS://TCO/TKTYF2G…RT** 1 , **@INSIGHTGL** 1 , **@KONARKSS** 1 , **HTTPS://…RT** 1 , 
+**CYBERSECURITY** 15 , **@HEYIMAXCEL:** 13 , **EDUCATION** 13 , ****FREE**** 12 , **TRAINING** 12 , **CHECK** 10 , **RESOURCES** 10 , **THANKS** 9 , **SHARING!** 9 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@MINTIMINZZ2** 1 , **AT…RT** 1 , **@RICHACK_** 1 , 
  
 ## What this user tweeted
  
@@ -788,11 +834,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:`  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 18 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600872499436306432/kmLj7DMp_normal.png 
  
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 18 
  
 
  
@@ -800,7 +846,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 15 , **@HEYIMAXCEL:** 13 , **EDUCATION** 13 , ****FREE**** 12 , **TRAINING** 12 , **CHECK** 10 , **THANKS** 9 , **SHARING!** 9 , **RESOURCES** 9 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@ZNACHOR_LAFAR** 1 , **@BASTIONNE1** 1 , **@ANNELIEBUCHLER** 1 , 
+**CYBERSECURITY** 17 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 14 , **TRAINING** 14 , **CHECK** 12 , **THANKS** 11 , **SHARING!** 11 , **RESOURCES** 11 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACBRAIN247** 2 , **@HACKINARTICLES** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@RSCHULER10** 1 , **HTTPS://TCO/TKTY…RT** 1 , 
  
 ## What this user tweeted
  
@@ -829,11 +875,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:`  
  
-`Number of tweets extracted`  : 17 
+`Number of tweets extracted`  : 22 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600897422313619456/Ekm9uLXd_normal.png 
  
-`Number of tweets excluding replies:` 17 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -841,7 +887,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 16 , **@HEYIMAXCEL:** 14 , **EDUCATION** 14 , ****FREE**** 13 , **TRAINING** 13 , **CHECK** 11 , **THANKS** 10 , **SHARING!** 10 , **RESOURCES** 10 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@RICHACK_** 1 , **HTTPS://TCO/TKTYF2…RT** 1 , **@RSCHULER10** 1 , 
+**CYBERSECURITY** 20 , **@HEYIMAXCEL:** 19 , **EDUCATION** 18 , ****FREE**** 17 , **TRAINING** 17 , **CHECK** 16 , **THANKS** 15 , **SHARING!** 15 , **RESOURCES** 13 , **@HACKINARTICLES** 4 , **A…RT** 3 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@CHINETWORKS** 1 , **@CYBERDOTSC** 1 , **@THEHACKERSNEWS** 1 , 
  
 ## What this user tweeted
  
@@ -862,7 +908,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `User Description?:` Welcome to the official Max & Co. Twitter account. If you have any questions or complaints, please keep them to yourself. 
  
-`Followers?: `95 
+`Followers?: `96 
  
 `Following?:` 75 
  
@@ -909,11 +955,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:`  
  
-`Number of tweets extracted`  : 16 
+`Number of tweets extracted`  : 17 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600878315702738944/OcgoEccU_normal.jpg 
  
-`Number of tweets excluding replies:` 16 
+`Number of tweets excluding replies:` 17 
  
 
  
@@ -921,7 +967,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 15 , **@HEYIMAXCEL:** 14 , **EDUCATION** 14 , ****FREE**** 13 , **TRAINING** 12 , **CHECK** 10 , **RESOURCES** 10 , **THANKS** 8 , **SHARING!** 8 , **HI!** 4 , **MIGHT** 4 , **INTERESTED** 4 , **A…RT** 2 , **CAREER** 2 , **HTTPS…RT** 2 , **BA** 2 , **RT** 1 , **@HACBRAIN247** 1 , **@SDOGDEV** 1 , **HTTPS:/…RT** 1 , 
+**CYBERSECURITY** 16 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 14 , **TRAINING** 13 , **CHECK** 11 , **RESOURCES** 11 , **THANKS** 9 , **SHARING!** 9 , **HI!** 4 , **MIGHT** 4 , **INTERESTED** 4 , **@HACKINARTICLES** 2 , **A…RT** 2 , **CAREER** 2 , **HTTPS…RT** 2 , **BA** 2 , **RT** 1 , **@MINTIMINZZ2** 1 , **AT…RT** 1 , 
  
 ## What this user tweeted
  
@@ -987,11 +1033,11 @@ Cybersecurity
  
 `Location:`  
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 23 
  
 `Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 23 
  
 
  
@@ -999,7 +1045,7 @@ Cybersecurity
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 15 , **EDUCATION** 11 , **@HEYIMAXCEL:** 10 , ****FREE**** 9 , **TRAINING** 9 , **CHECK** 8 , **THANKS** 6 , **SHARING!** 6 , **RESOURCES** 6 , **@ACCESSCYBERORG:** 5 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **BA** 2 , **CAREER** 2 , **@GOTHAMJSHARMA:** 2 , **US** 2 , **ACCESSCYBER** 2 , **INFOSEC** 2 , **RT** 1 , 
+**CYBERSECURITY** 19 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 13 , **TRAINING** 13 , **CHECK** 12 , **THANKS** 10 , **SHARING!** 10 , **RESOURCES** 10 , **@ACCESSCYBERORG:** 5 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **A…RT** 2 , **BA** 2 , **CAREER** 2 , **@GOTHAMJSHARMA:** 2 , **US** 2 , **ACCESSCYBER** 2 , 
  
 ## What this user tweeted
  
@@ -1110,11 +1156,11 @@ RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin’ it: @McDonalds Prepares
  
 `Location:`  
  
-`Number of tweets extracted`  : 13 
+`Number of tweets extracted`  : 17 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600871786970759169/N9vTt1Oy_normal.png 
  
-`Number of tweets excluding replies:` 13 
+`Number of tweets excluding replies:` 17 
  
 
  
@@ -1122,7 +1168,7 @@ RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin’ it: @McDonalds Prepares
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 12 , **@HEYIMAXCEL:** 11 , **EDUCATION** 11 , ****FREE**** 10 , **TRAINING** 10 , **CHECK** 8 , **THANKS** 7 , **SHARING!** 7 , **RESOURCES** 7 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **BA** 2 , **RT** 1 , **@BASTIONNE1** 1 , **@ANNELIEBUCHLER** 1 , **@CISAGOV** 1 , **RESOU…RT** 1 , **@INFOTEKCONSULT** 1 , **HTTPS://TCO…RT** 1 , 
+**CYBERSECURITY** 16 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 14 , **TRAINING** 14 , **CHECK** 12 , **THANKS** 11 , **SHARING!** 11 , **RESOURCES** 11 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACKINARTICLES** 2 , **A…RT** 2 , **BA** 2 , **RT** 1 , **@RICHACK_** 1 , **HTTPS://TCO/TKTYF2…RT** 1 , **@RSCHULER10** 1 , **HTTPS://TCO/TKTY…RT** 1 , 
  
 ## What this user tweeted
  
@@ -1149,11 +1195,11 @@ RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin’ it: @McDonalds Prepares
  
 `Location:`  
  
-`Number of tweets extracted`  : 18 
+`Number of tweets extracted`  : 27 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600870972512501760/gKd32evj_normal.png 
  
-`Number of tweets excluding replies:` 18 
+`Number of tweets excluding replies:` 27 
  
 
  
@@ -1161,7 +1207,7 @@ RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin’ it: @McDonalds Prepares
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 17 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 14 , **TRAINING** 14 , **RESOURCES** 11 , **CHECK** 9 , **THANKS** 8 , **SHARING!** 8 , **HI!** 6 , **MIGHT** 6 , **INTERESTED** 6 , **A…RT** 2 , **HTTPS…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@RICHACK_** 1 , **HTTPS://TCO/TKTYF2…RT** 1 , **@RSCHULER10** 1 , 
+**@HEYIMAXCEL:** 24 , **CYBERSECURITY** 24 , **EDUCATION** 22 , ****FREE**** 21 , **TRAINING** 20 , **CHECK** 17 , **THANKS** 16 , **SHARING!** 16 , **RESOURCES** 16 , **HI!** 6 , **MIGHT** 6 , **INTERESTED** 6 , **@HACKINARTICLES** 3 , **A…RT** 3 , **HTTPS://TCO/TKTYF…RT** 2 , **TRAINI…RT** 2 , **HTTPS…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , 
  
 ## What this user tweeted
  
@@ -1231,11 +1277,11 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `Location:` Ontario, Canada 
  
-`Number of tweets extracted`  : 1 
+`Number of tweets extracted`  : 2 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600939434924548096/js6ykQ1P_normal.jpg 
  
-`Number of tweets excluding replies:` 1 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -1243,7 +1289,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 ## User Top tweeted words 
  
-**ENTREPRENEUR** 1 , **PERSONNEL** 1 , **STUDENT** 1 , **LEGON** 1 , **CYBERSECURITY** 1 , **EXPERT** 1 , **SOCIALIST** 1 , **CHELSEA** 1 , **FAN** 1 , **💙💙💙** 1 , 
+**DIMES** 1 , **@VERYPOOLISH** 1 , **@WILL_TAYLOR23** 1 , **@MILES2KM** 1 , **@NFTS_NEWBIE** 1 , **@BITCOINBEORN** 1 , **@POKEBALLCLUB** 1 , **@LDOSHOREDITCH** 1 , **HTTPS://TCO/CVYT0EMTCUAN** 1 , **ENTREPRENEUR** 1 , **PERSONNEL** 1 , **STUDENT** 1 , **LEGON** 1 , **CYBERSECURITY** 1 , **EXPERT** 1 , **SOCIALIST** 1 , **CHELSEA** 1 , **FAN** 1 , **💙💙💙** 1 , 
  
 ## What this user tweeted
  
@@ -1348,11 +1394,11 @@ networking hacking cybersecurity chess
  
 `Location:` New Jersey, USA 
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 20 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1600925882511753216/z8Wgl8it_normal.jpg 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 20 
  
 
  
@@ -1360,7 +1406,7 @@ networking hacking cybersecurity chess
  
 ## User Top tweeted words 
  
-**CYBERSECURITY** 17 , **@HEYIMAXCEL:** 15 , **EDUCATION** 15 , ****FREE**** 14 , **TRAINING** 14 , **CHECK** 12 , **THANKS** 11 , **SHARING!** 11 , **RESOURCES** 10 , **@HACKINARTICLES** 3 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@RICHACK_** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@HACBRAIN247** 1 , **@SDOGDEV** 1 , 
+**CYBERSECURITY** 18 , **@HEYIMAXCEL:** 16 , **EDUCATION** 16 , ****FREE**** 15 , **TRAINING** 15 , **CHECK** 13 , **THANKS** 12 , **SHARING!** 12 , **RESOURCES** 11 , **@HACKINARTICLES** 3 , **HI!** 3 , **MIGHT** 3 , **INTERESTED** 3 , **@HACBRAIN247** 2 , **@RICHACK_** 2 , **A…RT** 2 , **@ACCESSCYBERORG:** 2 , **BA** 2 , **RT** 1 , **@BEEFYSPACE** 1 , 
  
 ## What this user tweeted
  
@@ -1381,7 +1427,7 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
  
 `User Description?:` 2️⃣0️⃣2️⃣2️⃣☪️🕵️ 
  
-`Followers?: `181 
+`Followers?: `183 
  
 `Following?:` 1017 
  
@@ -1408,84 +1454,6 @@ https://t.co/MJ18TslztM…RT @accesscyberorg: ‘Ba da ba ba ba… I’m hackin�
 RT @Shubham_pen: Knowing What Information Your Devices Contains
 
 #infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #…
- 
-# ltzgslUSER INFO
-![image](http://pbs.twimg.com/profile_images/1598021890794262536/zTGW9_O8_normal.jpg)
- 
-`User ScreenName:` ltzgsl 
- 
-`User chosen Name:` LTZGSL 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 18:28:45 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 58 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1598021890794262536/zTGW9_O8_normal.jpg 
- 
-`Number of tweets excluding replies:` 58 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@TEDCRUZ:** 8 , **TWITTER** 4 , **STATE** 4 , **TIKTOK** 4 , **PEOPLE** 4 , **GOVERNMENT** 4 , **@THE_JBS:** 3 , **DOWN** 3 , **TEXAS** 3 , **CHINESE** 3 , **COMMUNIST** 3 , **@REPMTG:** 3 , **T…RT** 3 , **CHINA** 3 , **ELON** 3 , **MUSK** 3 , **@ELONMUSK** 3 , **TRUMP** 2 , **BAN** 2 , **DEVICES** 2 , 
- 
-## What this user tweeted
- 
-RT @GovAbbott: Today, I ordered all Texas state agencies to ban TikTok on government-issued devices as the Chinese Communist Party poses a…
- 
-# sussanelewisvi0USER INFO
-![image](http://pbs.twimg.com/profile_images/1600111519966035968/_9nzgva5_normal.jpg)
- 
-`User ScreenName:` sussanelewisvi0 
- 
-`User chosen Name:` sussanelewisville 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Nov 30 12:02:36 +0000 2022 
- 
-`User Description?:` Mother of a handsome boy and not ready for any relationship Which wouldn't let to marriage 
- 
-`Followers?: `3 
- 
-`Following?:` 44 
- 
-`User URL?:` None 
- 
-`Location:` Lagos, Nigeria 
- 
-`Number of tweets extracted`  : 9 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1600111519966035968/_9nzgva5_normal.jpg 
- 
-`Number of tweets excluding replies:` 10 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 2 , **US** 2 , **NIGERIA** 2 , **@SATOSHIBTCSS:** 1 , **WHATEVER** 1 , **LAUNCH** 1 , **PRICE** 1 , **CORE** 1 , **GOING** 1 , **MOON!** 1 , **🌕…RT** 1 , **@CNNBRK:** 1 , **BASKETBALL** 1 , **STAR** 1 , **BRITTNEY** 1 , **GRINER** 1 , **RELEASED** 1 , **RUSSIAN** 1 , **CUSTODY** 1 , **PRISONER** 1 , 
- 
-## What this user tweeted
- 
-RT @GovAbbott: Today, I ordered all Texas state agencies to ban TikTok on government-issued devices as the Chinese Communist Party poses a…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
