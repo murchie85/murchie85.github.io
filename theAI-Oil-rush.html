@@ -85,15 +85,52 @@
 
 
 
+<p>The rush to build AIs with no explainability is similar to the oil rush in that it is driven by the desire to obtain short-term value without considering the long-term implications. Just as the oil rush led to the rapid extraction and consumption of fossil fuels without adequate regard for the environmental consequences, the rush to build AI systems without explainability is leading to the development of complex and opaque algorithms that are difficult to understand and manage.</p>
 
+<p>Like the oil rush, the AI rush is motivated by the promise of immediate rewards. AI systems that are trained on large amounts of data can often produce impressive results, such as accurate predictions or efficient decision-making. However, like the oil rush, this pursuit of short-term value comes at a cost. The lack of explainability in AI systems can make it difficult to understand why they make certain decisions, which can lead to issues such as bias or inadequate performance in edge cases. Additionally, the lack of explainability can make it difficult to debug or improve these systems over time, limiting their potential value in the long run.</p>
+    
+<p> Just as the oil rush has had lasting environmental consequences that we are still grappling with today, the rush to build AI systems without explainability may have long-term consequences that we are not yet aware of. It is important for us to consider these implications and to ensure that we are building AI systems in a responsible and sustainable way. This may require a shift in focus from short-term gains to long-term value and sustainability.</p>
+    
+    
+    
+    
 
-<p>  Understanding just what DevOps is and how it can be applied is a job in itself, but envisioning the end to end dynamic can be next to impossible if the mindset isn’t there. That is why in this blog rather than lecture the theory, we will explore a hypothetical team and their BAU adoption of DevOps from how tools are best utilised to adopting a multi-functional team that rewards enthusiasm and promotes proactive contribution.
-Our hypothetical scenario involves a company BetaNova Ltd, they have been fully agile for five years now and have spun up multiple Scrum teams, adopting end to end DevOps methodologies from Continuous integration and Delivery to test driven development.  
+<p>There are many examples that demonstrate the challenges and consequences of building AI systems with no explainability. For instance, a study published in the journal Science found that an AI system trained to predict the likelihood of reoffending by criminal defendants was biased against African American defendants. This bias was not apparent when examining the AI system's output, but it became apparent when researchers looked at how the AI system made its decisions. In this case, the lack of explainability in the AI system made it difficult to identify and address the bias.</p>
+    
+<p>Another example is the use of AI systems in medical diagnosis. AI systems that are trained on large amounts of medical data can often produce accurate diagnoses, but their lack of explainability can make it difficult for doctors to understand why the AI system made a particular diagnosis. This can be problematic in cases where the AI system makes an incorrect diagnosis, as it can be difficult for doctors to determine why the AI system made the mistake and how to correct it.</p>
+    
+<p>Overall, these examples demonstrate that the lack of explainability in AI systems can have real-world consequences, such as bias and inadequate performance. It is therefore important for us to consider the long-term implications of building AI systems without explainability and to ensure that we are building AI systems in a responsible and sustainable way.</p>
+    
+    
+    
+<p>It is difficult to predict the long-term consequences of building AI systems with no explainability, as the field of AI is rapidly evolving and the potential implications of these systems are not yet fully understood. However, some potential long-term consequences include the following:</p>
+    
+<h2>Inadequate performance </h2>
+<p> AI systems that are not transparent and explainable may not perform well in edge cases or in situations where their input data is not representative of the real world. This can lead to incorrect or inadequate decisions, which can have serious consequences, such as in the case of medical diagnosis or financial decision-making.</p>
+    
+<h2> Bias and discrimination</h2>
+<p> AI systems that are not explainable may be more likely to incorporate bias and discrimination into their decision-making. For example, an AI system that is trained on biased data may produce decisions that reflect that bias. This can lead to unfair treatment of certain groups of people, such as those based on race, gender, or other factors.</p>
+
+<h2>Lack of trust</h2>
+<p>The lack of explainability in AI systems can make it difficult for people to trust and understand these systems. This can lead to a lack of adoption and acceptance of AI technology, which can limit its potential value and impact.</p>
+<h2>Difficulty improving and adapting</h2> 
+
+<p>The lack of explainability in AI systems can make it difficult to understand and improve these systems over time. This can limit their ability to adapt to changing conditions and may make them less valuable and relevant in the long run.</p>
+
+<p>Overall, the long-term consequences of building AI systems with no explainability are likely to be significant and far-reaching. It is therefore important for us to consider these implications and to ensure that we are building AI systems in a responsible and sustainable way.</p>
+    
+    
+    
+    
+    Adam Mcmurchie
+    give a two sentence summary of this essay
+    The rush to build AI systems with no explainability is motivated by the desire to obtain short-term value without considering the long-term implications. This pursuit of short-term value comes at a cost, as the lack of explainability in AI systems can have real-world consequences, such as bias and inadequate performance, and may have long-term consequences that we are not yet aware of.
+    
+    
+    
+    
+    
 </p>
-
-<p> A new engineer Jack starts his day with a laptop and a development virtual machine (VM) already set up, authorisations, user access and all the accounts are preconfigured and active. The most common GitHub and Endevor repositories are cloned and linked. Aliases, shortcuts and prerequisites are installed for all the tools and are clearly visible. </p>
-
-
 
 <div id="quote"><center>
 <b style = "font-size:190%;color:orange">“Standardisation of tools and practices between teams make it easier for new people to hit the ground running regardless of where they are based. Each team can customise as they see fit.”
@@ -102,78 +139,13 @@ Our hypothetical scenario involves a company BetaNova Ltd, they have been fully 
 <br> <br>
 </div>
 
-<p>
-Additionally, on the startup there is a clear link to vital resources, in a structured and coherent manner on all key aspects from getting started with the tools, to the on boarding process. <br><br>
-Jack will get paired up with an experienced employee to walk through the testing and development process’s that he will adopt in his daily work. Jack starts by coding on his local machine for development work. This is the VM (Virtual Machine) and was spun up in conjunction with configuration management tools such as puppet or ansible to ensure that all the required software, installs and resources were present. This also means the set up process is completely idempotent i.e. runs the same on all machines, every time. <br> 
-More so, Jack’s machine is almost identical to the production live environment, he is able to run and test code locally - this means he can make changes to production code without having to infringe on active development code. This also reduces potential strain on shared resources and the developers actively working on changes.</p>
-
-
-						<center><span class="image small	"><img src="images/devops/devops.jpg" alt="DevOps"></span></center><br>
-
-
-	
-<p>
- Prior to main branch deployment, BetaNova engineers can achieve a good degree of confidence by running a suite of local unit and functional tests. Depending on the size and complexity of the project, the team can either test their changes against a server ‘production-clone’ (a Jenkins or Octopus cluster) which is almost identical to live. This also allows them to adopt continuous integration, all this without committing to the master branch (route to live). At this point the engineers have an even further boosted degree of confidence that their change is clean. 
-</p>
-
-
-<div id="quote"><center>
-<b style = "font-size:190%;color:orange">“The difference between Change and Version driven continuous integration is only dictated by the technology. It is akin to choosing between wet and dry tyres - it depends entirely upon the terrain.”
-</b>
-</center>
-<br> <br>
-</div>
-
-<p>
-BetaNova excels in both cutting edge mainstream technology as well as retaining a core legacy knowledge base for traditional customers and services. This means a challenge for the colleagues to maintain a duel and sometimes diametric mindset to the change process.  This means understanding the difference between a change driven CI pipeline and a version driven pipeline. The difference appears subtle on the surface but like cracks in a foundation can have significant downstream affects if the wrong approach is adopted.</p>
-<p> 
-For JAVA, React and modern technology deployments, commits happen rapidly throughout the day via GitHub. To take advantage of this the team have built a change triggered CI pipeline where the minute a developer wishes to commit, it is managed by intelligent deployment tools, automatically building, running tests and even dropping the code off to QA if necessary. This automatically starts to build the QA servers as well as running the full CI test suite.</p>
-<p> 
- For traditional COBOL, Assembler and PL1 developers, code synchronisation is governed more rigidly. Continuous integration is not based on the latest changes but rather it is initiated when there is agreement between all interconnected components that they have the same version. This acts as a procedural safety net, preventing a new small superfluous change taking precedence over a structured coordinated deployment of components that have successors and dependencies.<br><br>
-  For the uninitiated the opposing philosophy  (change vs Version driven) can appear completely alien and perplexing however for the veteran DevOps specialist, this is simply a change in the position at where the continuous integration kicks off. As in both cases, the code movement should be fully automated with the same standard for code quality adopted. It is effectively the difference between choosing wet or dry tyres, in that it depends on the terrain. 
-</p>
-
-
-<div id="quote"><center>
-<b style = "font-size:180%;color:orange">“Developers document all the fixes to standard problems and known issues in a centralised repository.  This means that when ops are called out in the early hours they will have a goto resource for all known standard fixes - this can save hours of investigation every week.”
-</b>
-</center>
-<br> <br>
-</div>
-
-
-<p>
-	BetaNova’s automated CI process takes in and around 5 to 15 minutes to deploy fully from start to finish. At any point during the CI if the deployments or tests fail, ample reports are available with monitoring tools that are not restricted to production in visibility. Additionally developers are encouraged to add resolutions and fix history to a centralised repository that the whole team use. This means that when ops are called out in the early hours they will have a go to resource for known standard fixes - this can save hours of investigation every week. </p>
-
-
-						<center><span class="image small	"><img src="images/devops/dev2.jpg" alt="DevOps"></span></center>
-<center> <i>New tools are adopted only after careful evaluation from both the seniors and at least 50% of the engineers who will be using it </i></center><br>
-
-
-
-
-<p>
- Depending on the companies commitment to code quality they can also integrate code scanning tools like SonarQube to catch both syntactic and functional human errors - even things as advanced as datatype mismatch can be caught. Additionally, BetaNova fosters a blameless environment culture, where senior engineers can occasionally pull code to ask for spot checks. Newer colleagues and junior members are partnered and skilled up but more importantly are encouraged to be a part of that process as early as possible as to prevent the feeling of ‘elitist programming’.</p>
-
-
-<div id="quote"><center>
-<b style = "font-size:190%;color:orange">“Team leaders and seniors should lead by example to foster a team of true equals. There should be no favouritism and technical silos should be discouraged.”
-</b>
-</center>
-<br> <br>
-</div>
-
-<p> Further more, both junior and new colleagues are actively guided in the DevOps culture, and those showing passion and interest are supported from the top to grow and are acknowledged for their contributions. This can involve local team awards - from gift vouchers to recognition, as to dissuade the trend of the <i>bell curve favouritism</i>.</p>
-<p>
-In fact significantly more resources should be allocated to developing and struggling colleagues than the resident leaders. So much so that the recognition should be equally allocated to the struggling engineers who have finally caught up and overcome their challenges. Not simply because a team is as fast as its slowest member, but to foster a true DevOps culture requires the enthusiasm and support of all colleagues so that we move from a team of siloed experts to a true multifunctional team of specialists. </p>
-
 
 									<center><div id="start"> <h2> Thanks for Reading</h2> </div></center> 
 
 
 
 
-<br><strong> Adam McMurchie  20/Sep/2017 </strong>
+<br><strong> Adam McMurchie  11/Dec/2022 </strong>
 <br><br>
 
 
