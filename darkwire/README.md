@@ -31,9 +31,9 @@ This… https://t.co/9kCO6ugG3G
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @virusbtn: Qualys' Akshat Pradhan analyses a popular open-source post-exploitation framework. Empire provides the capability to expand a… |
-| RT @cybraryIT: Fortinet seems to have had a rough year security-wise. Several vulnerabilities and at least one credit exposure have affecte… |
-| RT @Julie1Warden: @onymo95947821 @FromReaders Why does anyone need to know about her "vulnerabilities" in the first place? She's meant to b… |
+| @securityblvdAlmost exactly one year after #Log4Shell sent security teams scrambling to patch, more than seven in… https://t.co/Gki7SJJeVe |
+| Distributed Energy Resources Cybersecurity Outlook: Vulnerabilities, Attacks, Impacts, and Mitigations. (arXiv:2205… https://t.co/JIUlHQ44PY |
+| RT @WendyMeer11: Reality Winner performed a public service by alerting election officials to  vulnerabilities in our election infrastructur… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,7 +41,7 @@ This… https://t.co/9kCO6ugG3G
 | #1 Most tweeted to  | **hackinarticles** |
 | #2 Most tweeted to  | **elonmusk** |
 | #3 Most tweeted to  | **a_derfelGazette** |
-| NewProfiles (less than 10 days) | 0.9%  |
+| NewProfiles (less than 10 days) | 0.92%  |
 | Tweeters with < 10 followers  | 6.96%|
 | Tweeters with > 1000000 followers  | 0.08%  |
 
@@ -62,12 +62,12 @@ This… https://t.co/9kCO6ugG3G
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @hackinarticles: Path to get Job in Cyber Security#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #information… |
+|RT @hackinarticles: Types of Computer memory#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity… |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,45 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
 | Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
+ 
+# MMusings23USER INFO
+![image](http://pbs.twimg.com/profile_images/1602709695764078592/1ilL0B-X_normal.jpg)
+ 
+`User ScreenName:` MMusings23 
+ 
+`User chosen Name:` Misty Musings23 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Dec 10 21:33:40 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 3 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 5 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1602709695764078592/1ilL0B-X_normal.jpg 
+ 
+`Number of tweets excluding replies:` 5 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**LOVES** 2 , **@ELONMUSK** 1 , **@DOGEOFFICIALCEO** 1 , **GREAT** 1 , **PLATFORM** 1 , **RELEASE** 1 , **INNER** 1 , **NARRATIVES** 1 , **NOT!** 1 , **IDEAS** 1 , **RATHER** 1 , **ONE'…** 1 , **HTTPS://TCO/4CED6LYA2R@ELONMUSK** 1 , **"WOKE"S** 1 , **PRIVILEGED** 1 , **PREROGATIVE** 1 , **BLISSFULLY** 1 , **UNAWARE** 1 , **INHERENT** 1 , **PREJUDICES** 1 , 
+ 
+## What this user tweeted
+ 
+@elonmusk @dogeofficialceo Great platform to release inner narratives one loves and loves not! Ideas or rather one'… https://t.co/4cEd6LyA2R
  
 # euacademy_dcuUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1600885466223575040/4RqlsBHN_normal.jpg)
@@ -254,11 +293,11 @@ during difficult and tumultuous times in the market and the economy, identity th
  
 `Location:` Kottayam, India 
  
-`Number of tweets extracted`  : 156 
+`Number of tweets extracted`  : 157 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1601450189101105157/FeeeUc7A_normal.jpg 
  
-`Number of tweets excluding replies:` 156 
+`Number of tweets excluding replies:` 157 
  
 
  
@@ -266,7 +305,7 @@ during difficult and tumultuous times in the market and the economy, identity th
  
 ## User Top tweeted words 
  
-**"** 20 , **TIME** 10 , **@ELONMUSK** 10 , **@KYIVINDEPENDENT** 9 , **OLD** 8 , **PROBABLY** 7 , **COULD** 7 , **WAR** 7 , **COUNTRY** 7 , **GOD** 7 , **DURING** 6 , **WORLD** 6 , **FIGHTING** 6 , **OTHER** 5 , **ANY** 5 , **HUMAN** 5 , **BEING** 5 , **SOME** 5 , **ESSENCE** 5 , **STRENGTH** 4 , 
+**"** 20 , **@ELONMUSK** 11 , **TIME** 10 , **@KYIVINDEPENDENT** 9 , **OLD** 8 , **PROBABLY** 7 , **COULD** 7 , **WAR** 7 , **COUNTRY** 7 , **GOD** 7 , **DURING** 6 , **WORLD** 6 , **FIGHTING** 6 , **OTHER** 5 , **ANY** 5 , **HUMAN** 5 , **BEING** 5 , **SOME** 5 , **ESSENCE** 5 , **STRENGTH** 4 , 
  
 ## What this user tweeted
  
@@ -607,17 +646,17 @@ a monster has vulnerabilities to multiple damage types
  
 `Followers?: `4 
  
-`Following?:` 1 
+`Following?:` 5 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 7 
+`Number of tweets extracted`  : 8 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1601273017853583361/BappTBK6_normal.jpg 
  
-`Number of tweets excluding replies:` 7 
+`Number of tweets excluding replies:` 8 
  
 
  
@@ -625,7 +664,7 @@ a monster has vulnerabilities to multiple damage types
  
 ## User Top tweeted words 
  
-**@UCLALABOR** 5 , **DE** 5 , **@JANITORALWATCH** 4 , **LAS** 4 , **EN** 2 , **CALIFORNIA”** 2 , **Y** 2 , **LO** 2 , **UNA** 2 , **EL** 2 , **12** 2 , **11:00** 2 , **PARA** 2 , **“PERFILES** 1 , **TRABAJADORES** 1 , **LIMPIEZA** 1 , **INVESTIGAN** 1 , **EXP…** 1 , **HTTPS://TCO/TKWT6HPGVPNEW** 1 , **REPORT:** 1 , 
+**@UCLALABOR** 5 , **DE** 5 , **@JANITORALWATCH** 4 , **LAS** 4 , **EN** 2 , **CALIFORNIA”** 2 , **Y** 2 , **LO** 2 , **UNA** 2 , **EL** 2 , **12** 2 , **11:00** 2 , **PARA** 2 , **RT** 1 , **@IRVINEFDN:** 1 , **NEW** 1 , **REPORT** 1 , **@JANITORIALWATCH** 1 , **HIGHLIGHTS** 1 , **WORKING** 1 , 
  
 ## What this user tweeted
  
@@ -1370,7 +1409,7 @@ SHARING/LIKES/RETWEETS ARE NOT ENDORSEMENTS
  
 ## User Top tweeted words 
  
-**@JOHNEDEATON1:** 30 , **RIPPLE** 22 , **XRP** 17 , **@ELONMUSK:** 16 , **TWITTER** 15 , **SEC** 11 , **SOME** 10 , **ENTERPRISE** 8 , **@ELONMUSK** 7 , **STILL** 7 , **COMMON** 7 , **DON'T** 6 , **NEED** 6 , **SAM** 6 , **BANKMAN** 6 , **REAL** 6 , **CASE** 6 , **@DANIELACAMBONE** 6 , **FREE** 5 , **ELON** 5 , 
+**@JOHNEDEATON1:** 30 , **RIPPLE** 22 , **XRP** 17 , **@ELONMUSK:** 16 , **TWITTER** 15 , **SEC** 12 , **SOME** 10 , **ENTERPRISE** 8 , **@ELONMUSK** 7 , **STILL** 7 , **COMMON** 7 , **DON'T** 6 , **NEED** 6 , **ELON** 6 , **SAM** 6 , **BANKMAN** 6 , **REAL** 6 , **CASE** 6 , **@DANIELACAMBONE** 6 , **FREE** 5 , 
  
 ## What this user tweeted
  
