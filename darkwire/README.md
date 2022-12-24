@@ -31,9 +31,9 @@ This… https://t.co/9kCO6ugG3G
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Vulnerability Spotlight: Lansweeper directory traversal and cross-site scripting vulnerabilities… https://t.co/WOlSWwtCb0 |
-| Ensuring that software is free from known #vulnerabilities requires a multi-prong strategy to lock down the compone… https://t.co/17V80ol9on |
-| RT @hackinarticles: Linux Command Line#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #ciss… |
+| Vulnerability Spotlight: Lansweeper directory traversal and cross-site scripting vulnerabilities… https://t.co/1mBh1rfgNv |
+| It's essential to roll out proper security measures along with #5G due to increased security vulnerabilities and cy… https://t.co/isbBXMXA1s |
+| RT @binarly_io: 🔥New REsearch: "#efiXplorer: Hunting UEFI Firmware NVRAM Vulnerabilities"💥Incorrect use of sequential GetVariable/SetVari… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
@@ -41,8 +41,8 @@ This… https://t.co/9kCO6ugG3G
 | #1 Most tweeted to  | **hackinarticles** |
 | #2 Most tweeted to  | **OasisProtocol** |
 | #3 Most tweeted to  | **far___away___** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 6.7%|
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 6.74%|
 | Tweeters with > 1000000 followers  | 0.12%  |
 
 
@@ -62,12 +62,12 @@ This… https://t.co/9kCO6ugG3G
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheHackersNews: Several severe security vulnerabilities have been discovered in the Passwordstate #password management system that coul… |
+|RT @hackinarticles: Tools for Hackers#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp… |
 
 ### MOST RETWEETED 
 
@@ -76,6 +76,47 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJEC
 | Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
 
 # Potential Fake Accounts
+ 
+# YashChannelerUSER INFO
+![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+ 
+`User ScreenName:` YashChanneler 
+ 
+`User chosen Name:` Yash Malik 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Dec 20 23:30:49 +0000 2022 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
+ 
+`Number of tweets excluding replies:` 414 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**YASH** 31 , **U** 13 , **SOMEONE** 10 , **BACK** 9 , **GURU** 9 , **:** 8 , **SUCH** 8 , **TOO** 8 , **SAID:** 8 , **D** 8 , **GOING** 8 , **ANOTHER** 7 , **ONES** 7 , **COULD** 7 , **ALREADY** 7 , **FATHER** 7 , **WENT** 7 , **MAKE** 7 , **SOME** 7 , **SAY** 7 , 
+ 
+## What this user tweeted
+ 
+I Am Back On Marked Words
+
+Below Is A Beautifully Compiled List Of The Most Common Vulnerabilities Any Network IT B… https://t.co/BQO9H9JgYI
  
 # StefaniaSparkleUSER INFO
 ![image](http://pbs.twimg.com/profile_images/1603732017111334917/iObwAW1A_normal.jpg)
@@ -919,7 +960,7 @@ If you are implementing your own personalized smart contract, always do an audit
  
 `User Description?:` Get everything you need to know about the Web3 in one place. 
  
-`Followers?: `1016 
+`Followers?: `1017 
  
 `Following?:` 4 
  
@@ -1355,7 +1396,7 @@ RT @hackinarticles: Web Application Pentest Checklist
  
 `User Description?:` A Smart Contract #CTF for fun and profit. Can you hack it? 
  
-`Followers?: `23 
+`Followers?: `26 
  
 `Following?:` 0 
  
@@ -1599,11 +1640,11 @@ RT @hackinarticles: Web Application Pentest Checklist
  
 `Location:` United Kingdom 
  
-`Number of tweets extracted`  : 169 
+`Number of tweets extracted`  : 170 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1604199836445802497/SOIoayaO_normal.jpg 
  
-`Number of tweets excluding replies:` 169 
+`Number of tweets excluding replies:` 170 
  
 
  
@@ -1611,7 +1652,7 @@ RT @hackinarticles: Web Application Pentest Checklist
  
 ## User Top tweeted words 
  
-**UK** 17 , **LABOUR** 10 , **NEW** 8 , **PEOPLE** 7 , **PARTY** 7 , **TWITTER** 7 , **HOUSE** 6 , **CHRISTMAS** 5 , **THAN** 5 , **GOVERNMENT** 5 , **COULD** 5 , **MANY** 5 , **WELL** 4 , **👇** 4 , **NEWS** 4 , **SUPPORT** 4 , **MP** 4 , **ARMED** 4 , **DOES** 4 , **MOBILE** 4 , 
+**UK** 17 , **LABOUR** 11 , **NEW** 8 , **PEOPLE** 7 , **PARTY** 7 , **TWITTER** 7 , **GOVERNMENT** 6 , **HOUSE** 6 , **CHRISTMAS** 5 , **THAN** 5 , **COULD** 5 , **MANY** 5 , **WELL** 4 , **👇** 4 , **NEWS** 4 , **SUPPORT** 4 , **MP** 4 , **ARMED** 4 , **DOES** 4 , **MOBILE** 4 , 
  
 ## What this user tweeted
  
@@ -1677,11 +1718,11 @@ In many instances, the red team was able to take advantage of surprisingly basic
  
 `Location:`  
  
-`Number of tweets extracted`  : 26 
+`Number of tweets extracted`  : 27 
  
 `Profile image:` http://pbs.twimg.com/profile_images/1603923676449181697/NngmOBrn_normal.jpg 
  
-`Number of tweets excluding replies:` 26 
+`Number of tweets excluding replies:` 27 
  
 
  
@@ -1689,7 +1730,7 @@ In many instances, the red team was able to take advantage of surprisingly basic
  
 ## User Top tweeted words 
  
-**@MARKLEVINSHOW** 6 , **CLAIM** 2 , **@ELONMUSK** 2 , **TOO** 2 , **@THEVIVAFREI:** 2 , **SCIENCE"** 2 , **THEN** 2 , **TRIAL** 2 , **DOES** 2 , **AFTER** 2 , **JIM** 2 , **FBI** 2 , **SUPREME** 2 , **@MTAIBBI** 2 , **@CARNIVOROUSME1** 1 , **@MIKHAILAFULLER** 1 , **@JORDANBPETERSON** 1 , **@OBESITYRESOLVED** 1 , **@KENDBERRYMD** 1 , **@SBAKERMD** 1 , 
+**@MARKLEVINSHOW** 6 , **WONDER** 2 , **BOARDERS** 2 , **CLAIM** 2 , **@ELONMUSK** 2 , **TOO** 2 , **@THEVIVAFREI:** 2 , **SCIENCE"** 2 , **THEN** 2 , **TRIAL** 2 , **DOES** 2 , **AFTER** 2 , **JIM** 2 , **FBI** 2 , **SUPREME** 2 , **@MTAIBBI** 2 , **@SOYBOYHEY** 1 , **@THISISKYLER** 1 , **CARE** 1 , **NATIONAL** 1 , 
  
 ## What this user tweeted
  
