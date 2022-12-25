@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **teneikaask_you**  
  
 
-## Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.
-
-This… https://t.co/9kCO6ugG3G 
+## If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC 
 
   
 
@@ -25,25 +23,25 @@ This… https://t.co/9kCO6ugG3G
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ernestgfx: Penetration Testing — Discovering Vulnerabilitieshttps://t.co/b0wXDqkfqCEthical Hacking Full Coursehttps://t.co/Qws4bN8j… |
-| RT @AcooEdi: osv-scanner: find existing vulnerabilities affecting your project’s dependencies https://t.co/M2udQwFLqh via securityonline ht… |
-| "The only common denominator here is 3Commas," says one hack victim. But the company blames phishing, not technical… https://t.co/IvkPHgJp3E |
+| RT @0xor0ne: Series on ARM64 (iOS) reverse engineering and exploitation by @inversecos Part 1: https://t.co/yor99FCNTe Part 2: https://t… |
+| Combine the power of personalization with the permanence and security of blockchain for greater data protection.… https://t.co/eZErtaqxWp |
+| RT @DailyDarkWeb: Attacking Active Directory with LinuxCredit: Hernan Rodriguezhttps://t.co/3MQfExNce9"Attacking from linux with exte… |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **gindaanis** |
-| #3 Most tweeted to  | **SAJANIN23640930** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 7.5%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #2 Most tweeted to  | **Shubham_pen** |
+| #3 Most tweeted to  | **0xor0ne** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 6.12%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -52,57 +50,59 @@ This… https://t.co/9kCO6ugG3G
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **DEATH**  |
-| third  | **INFOSEC** |
-| fourth  | **CYBERSECURITYTIPS**  |
-| fifth  | **PENTESTING**  |
+| first  | **INFOSEC**  |
+| second  | **PENTESTING**  |
+| third  | **AI** |
+| fourth  | **HACKING**  |
+| fifth  | **DATASCIENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AltheyuhMoves: Love how macabre this scene is. Again, Janella Salvador uses her nuances. You can see the many things swirling in Regina… |
+|RT @hackinarticles: Python Cheat Sheet#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #ciss… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **teneikaask_you**  |
 | ------------- |
-| Quai Network's developers are focused on making the core codebase as light-weight and efficient as possible.This… https://t.co/9kCO6ugG3G |
+| If you're looking to pivot into entry-level tech roles, IBM has 6 FREE trainings with badges or certs you can earn.… https://t.co/QfnKyCMxcC |
 
 # Potential Fake Accounts
  
-# PreetSa03424841USER INFO
-![image](http://pbs.twimg.com/profile_images/1604660015495000064/yeixaZep_normal.jpg)
+# corexitaldataUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603898374922682369/e3fQ3nwg_normal.jpg)
  
-`User ScreenName:` PreetSa03424841 
+`User ScreenName:` corexitaldata 
  
-`User chosen Name:` Preet Saini 
+`User chosen Name:` derek johnston 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 19 02:08:25 +0000 2022 
+`User signup date?:` Fri Dec 16 23:33:19 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Im from https://t.co/FcnTylsfvu and I do photoshop, and Web services. check out my github and fiverr accounts
+https://t.co/Vk3y1xUCWv
+https://t.co/xfoLqtTaEd 
  
-`Followers?: `1 
+`Followers?: `55 
  
-`Following?:` 1 
+`Following?:` 27 
  
-`User URL?:` None 
+`User URL?:` https://t.co/6S3zsIl29J 
  
-`Location:`  
+`Location:` saskatchewan 
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 53 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1604660015495000064/yeixaZep_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1603898374922682369/e3fQ3nwg_normal.jpg 
  
-`Number of tweets excluding replies:` 403 
+`Number of tweets excluding replies:` 53 
  
 
  
@@ -110,104 +110,27 @@ VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
  
 ## User Top tweeted words 
  
-**SACHA** 90 , **DERA** 89 , **SAUDA** 85 , **SAINT** 72 , **JI** 60 , **PEOPLE** 60 , **VOLUNTEERS** 52 , **CLOTHES** 51 , **WARM** 47 , **WINTER** 42 , **RAM** 37 , **RAHIM** 34 , **INSAN** 32 , **INSPIRATION** 29 , **@GURMEETRAMRAHIM** 29 , **NEEDY** 27 , **MANY** 23 , **WARMTHOFHUMANITY** 21 , **SEASON** 19 , **POOR** 19 , 
+**HTTPS://TCO/RASB2NIHWJ** 8 , **CHECK** 7 , **BEST** 6 , **LISTS** 6 , **PHONE** 6 , **KIDS** 6 , **EMAIL** 5 , **PROGRAM** 5 , **FREE** 5 , **PLEASE** 4 , **EDUCATIONAL** 4 , **CODE** 4 , **GIFT** 4 , **DEVELOPMENT** 3 , **HTTPS://TCO/RASB2NZSNR** 3 , **PROXY** 3 , **MARKETING** 3 , **SPECIALIZES** 3 , **DAY** 3 , **INFOSEC** 3 , 
  
 ## What this user tweeted
  
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
+https://t.co/raSb2NIhWj
+We are under development of our 'Secure Point'. SMTP Attack surface monitoring, keep your S… https://t.co/u6nWRRMfEl
  
-# Nishant60259153USER INFO
-![image](http://pbs.twimg.com/profile_images/1604841878494810112/U4DmRnGW_normal.jpg)
+# kuchinito2023USER INFO
+![image](http://pbs.twimg.com/profile_images/1607123918149586944/uKE-ZO5x_normal.jpg)
  
-`User ScreenName:` Nishant60259153 
+`User ScreenName:` kuchinito2023 
  
-`User chosen Name:` Nishant Pundir 
+`User chosen Name:` kuchinito2023 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Dec 18 15:30:06 +0000 2022 
+`User signup date?:` Sun Dec 25 20:25:26 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `2 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604841878494810112/U4DmRnGW_normal.jpg 
- 
-`Number of tweets excluding replies:` 1243 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WINTER** 115 , **CLOTHES** 94 , **PEOPLE** 92 , **DERA** 80 , **SACHA** 78 , **SAUDA** 75 , **SAINT** 72 , **WARM** 61 , **VOLUNTEERS** 59 , **SEASON** 56 , **JI** 53 , **WARMTHOFHUMANITY** 40 , **MANY** 40 , **RAM** 36 , **NEEDY** 36 , **INSPIRATION** 34 , **RAHIM** 33 , **@GURMEETRAMRAHIM** 30 , **BLANKETS** 25 , **POOR** 25 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# Darshan59398014USER INFO
-![image](http://pbs.twimg.com/profile_images/1603580573230170112/ZlicTQeR_normal.jpg)
- 
-`User ScreenName:` Darshan59398014 
- 
-`User chosen Name:` Darshan insan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 02:39:06 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `11 
- 
-`Following?:` 119 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603580573230170112/ZlicTQeR_normal.jpg 
- 
-`Number of tweets excluding replies:` 636 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SAINT** 68 , **WINTER** 58 , **JI** 51 , **DERA** 50 , **SACHA** 48 , **SAUDA** 46 , **@GURMEETRAMRAHIM** 46 , **PEOPLE** 43 , **CLOTHES** 40 , **VOLUNTEERS** 36 , **INSAN** 28 , **WARM** 27 , **के** 26 , **INSPIRATION** 24 , **SEASON** 22 , **RAM** 19 , **NEEDY** 18 , **UNDER** 18 , **GUIDANCE** 18 , **की** 17 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# gautamgupta9087USER INFO
-![image](http://pbs.twimg.com/profile_images/1604451264397717509/vxXwTTlx_normal.jpg)
- 
-`User ScreenName:` gautamgupta9087 
- 
-`User chosen Name:` Gautam 07 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 18 08:51:05 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `17 
  
 `Following?:` 13 
  
@@ -215,11 +138,11 @@ RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper r
  
 `Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 49 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1604451264397717509/vxXwTTlx_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1607123918149586944/uKE-ZO5x_normal.jpg 
  
-`Number of tweets excluding replies:` 7165 
+`Number of tweets excluding replies:` 49 
  
 
  
@@ -227,275 +150,44 @@ RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper r
  
 ## User Top tweeted words 
  
-**के** 80 , **SAINT** 68 , **WARMTHOFHUMANITY** 66 , **DERA** 62 , **SACHA** 62 , **SAUDA** 59 , **JI** 57 , **RAM** 54 , **RAHIM** 53 , **WINTER** 42 , **CLOTHES** 41 , **PEOPLE** 38 , **में** 36 , **से** 33 , **@GURMEETRAMRAHIM** 33 , **को** 30 , **सर्दी** 28 , **VOLUNTEERS** 28 , **लोगों** 28 , **लिए** 26 , 
+**DE** 14 , **DATASCIENCE** 6 , **LA** 6 , **EN** 6 , **@GP_PULIPAKA:** 5 , **BIGDATA** 5 , **ANALYTICS** 5 , **IOT** 5 , **IIOT** 5 , **PYTHON** 4 , **EL** 4 , **Y** 4 , **UN** 4 , **@PICKOVER:** 3 , **MATHEMATICS** 3 , **AI** 3 , **MACHINELEARNING** 3 , **QUE** 3 , **SE** 3 , **@QUANTAMAGAZINE:** 3 , 
  
 ## What this user tweeted
  
-RT @MamtaIn86578591: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
+RT @DailyDarkWeb: Attacking Active Directory with Linux
+
+Credit: Hernan Rodriguez
+
+https://t.co/3MQfExNce9
+
+"Attacking from linux with exte…
  
-# RajKaur10696571USER INFO
-![image](http://pbs.twimg.com/profile_images/1606675503108460546/c1MFOSAY_normal.png)
+# b3lldaisy_USER INFO
+![image](http://pbs.twimg.com/profile_images/1605463974350163968/-FYeQI3__normal.jpg)
  
-`User ScreenName:` RajKaur10696571 
+`User ScreenName:` b3lldaisy_ 
  
-`User chosen Name:` Raj Kaur 
+`User chosen Name:` daisyB 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 24 15:37:44 +0000 2022 
+`User signup date?:` Wed Dec 21 07:12:56 +0000 2022 
  
-`User Description?:`  
+`User Description?:` Nerd/geek stuffs here 
  
 `Followers?: `0 
- 
-`Following?:` 76 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606675503108460546/c1MFOSAY_normal.png 
- 
-`Number of tweets excluding replies:` 595 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 101 , **WINTER** 95 , **CLOTHES** 83 , **SACHA** 68 , **DERA** 67 , **SAUDA** 66 , **SEASON** 66 , **WARM** 57 , **SAINT** 51 , **VOLUNTEERS** 50 , **WARMTHOFHUMANITY** 42 , **JI** 39 , **NEEDY** 36 , **MANY** 35 , **INSPIRATION** 30 , **DAY** 28 , **RAM** 27 , **RAHIM** 25 , **POOR** 25 , **@GURMEETRAMRAHIM** 22 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# asktoroboUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606529666432761856/zZQnVxvo_normal.jpg)
- 
-`User ScreenName:` asktorobo 
- 
-`User chosen Name:` AskToRobo 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 22 16:02:55 +0000 2022 
- 
-`User Description?:` Get Answers From Robo 🤖.  Mention in any tweet and wait for Reply.
-If you have any suggestions: @sankalpa_02 
- 
-`Followers?: `2 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 48 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606529666432761856/zZQnVxvo_normal.jpg 
- 
-`Number of tweets excluding replies:` 48 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**1** 11 , **2** 11 , **3** 7 , **APP** 4 , **4** 4 , **NEVER** 4 , **DEF** 4 , **MOST** 3 , **MAKE** 3 , **SUBDOMAIN** 3 , **BUG** 3 , **BOUNTY** 3 , **PROGRAM** 3 , **IMPORT** 3 , **C** 3 , **@SANKALPA_02** 2 , **DIFFERENT** 2 , **TASKS** 2 , **IMAGE** 2 , **GALLERY** 2 , 
- 
-## What this user tweeted
- 
-@sankalpa_02 1. Setup an inventory of assets. 
-2. Begin recon &amp; use automated tools. 
-3. Create reports &amp; triage bu… https://t.co/aYariiSicc
- 
-# sumitmalik035USER INFO
-![image](http://pbs.twimg.com/profile_images/1604784631538409474/VFZGdfrB_normal.png)
- 
-`User ScreenName:` sumitmalik035 
- 
-`User chosen Name:` sumit malik 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 19 10:24:06 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604784631538409474/VFZGdfrB_normal.png 
- 
-`Number of tweets excluding replies:` 1062 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 101 , **WINTER** 97 , **CLOTHES** 88 , **WARM** 61 , **SACHA** 61 , **DERA** 59 , **SAUDA** 57 , **SAINT** 57 , **SEASON** 52 , **WARMTHOFHUMANITY** 50 , **VOLUNTEERS** 49 , **JI** 44 , **NEEDY** 38 , **MANY** 37 , **DAY** 36 , **@GURMEETRAMRAHIM** 32 , **INSPIRATION** 27 , **HELP** 26 , **POOR** 26 , **DISTRIBUTE** 24 , 
- 
-## What this user tweeted
- 
-RT @DeepBhuckal: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volunteer…
- 
-# HarnakSingh13USER INFO
-![image](http://pbs.twimg.com/profile_images/1606238229271019521/sTfexS_I_normal.png)
- 
-`User ScreenName:` HarnakSingh13 
- 
-`User chosen Name:` Harnak Singh 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 23 10:40:10 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 59 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606238229271019521/sTfexS_I_normal.png 
- 
-`Number of tweets excluding replies:` 617 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WINTER** 99 , **PEOPLE** 92 , **CLOTHES** 84 , **DERA** 76 , **SACHA** 74 , **SAUDA** 66 , **SAINT** 62 , **SEASON** 55 , **WARMTHOFHUMANITY** 55 , **WARM** 52 , **JI** 52 , **VOLUNTEERS** 48 , **MANY** 41 , **RAM** 40 , **NEEDY** 38 , **RAHIM** 36 , **DAY** 35 , **INSPIRATION** 27 , **SOME** 25 , **HELP** 23 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# SubhashLyAlewaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1604470495943933952/iRUkt1hQ_normal.jpg)
- 
-`User ScreenName:` SubhashLyAlewa 
- 
-`User chosen Name:` Subhash ji Kashyap 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 18 13:27:15 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `34 
- 
-`Following?:` 406 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604470495943933952/iRUkt1hQ_normal.jpg 
- 
-`Number of tweets excluding replies:` 2041 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 50 , **है** 46 , **से** 36 , **का** 32 , **को** 32 , **DERA** 32 , **SACHA** 32 , **SAUDA** 31 , **WINTER** 29 , **SAINT** 27 , **JI** 26 , **में** 25 , **CLOTHES** 25 , **की** 24 , **PEOPLE** 24 , **और** 23 , **WARM** 18 , **नहीं** 17 , **RAM** 17 , **RAHIM** 17 , 
- 
-## What this user tweeted
- 
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# DeepakK70342730USER INFO
-![image](http://pbs.twimg.com/profile_images/1605038270265425923/7R_tFSj8_normal.png)
- 
-`User ScreenName:` DeepakK70342730 
- 
-`User chosen Name:` Deepak Kumar 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 20 03:11:58 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1605038270265425923/7R_tFSj8_normal.png 
- 
-`Number of tweets excluding replies:` 1890 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 86 , **WINTER** 76 , **DERA** 72 , **SACHA** 72 , **SAUDA** 64 , **SAINT** 63 , **CLOTHES** 62 , **WARMTHOFHUMANITY** 53 , **JI** 50 , **RAM** 44 , **SEASON** 41 , **RAHIM** 41 , **VOLUNTEERS** 36 , **WARM** 35 , **के** 32 , **NEEDY** 32 , **MANY** 32 , **DAY** 25 , **POOR** 23 , **INSPIRATION** 21 , 
- 
-## What this user tweeted
- 
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# sohi4_sohiUSER INFO
-![image](http://pbs.twimg.com/profile_images/1605951078520217600/J1Tbd7vl_normal.png)
- 
-`User ScreenName:` sohi4_sohi 
- 
-`User chosen Name:` Sohi Saab 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 22 15:39:08 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
  
 `Following?:` 43 
  
 `User URL?:` None 
  
-`Location:` Punjab, India 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 6 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1605951078520217600/J1Tbd7vl_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1605463974350163968/-FYeQI3__normal.jpg 
  
-`Number of tweets excluding replies:` 1809 
+`Number of tweets excluding replies:` 6 
  
 
  
@@ -503,28 +195,28 @@ RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper r
  
 ## User Top tweeted words 
  
-**PEOPLE** 100 , **CLOTHES** 93 , **WINTER** 91 , **DERA** 67 , **SACHA** 63 , **SAUDA** 61 , **WARM** 61 , **WARMTHOFHUMANITY** 57 , **SAINT** 51 , **JI** 44 , **VOLUNTEERS** 42 , **NEEDY** 42 , **RAM** 40 , **SEASON** 40 , **RAHIM** 39 , **MANY** 38 , **POOR** 32 , **DAY** 26 , **INSPIRATION** 25 , **SOME** 24 , 
+**FREE** 3 , **NAME** 2 , **FYP** 2 , **CHOOSE** 2 , **RT** 1 , **@VXUNDERGROUND:** 1 , **PASSWORD** 1 , **"INFECTED"** 1 , **NICE** 1 , **DAY** 1 , **ENJOY** 1 , **REMAINDER** 1 , **WEEKENDRT** 1 , **@0DAYCTF:** 1 , **INFOSEC** 1 , **TIP:** 1 , **WEBSITE** 1 , **ASKS** 1 , **MOTHER'S** 1 , **MAIDEN** 1 , 
  
 ## What this user tweeted
  
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
+RT @0dayCTF: Infosec tip: If a website asks for your mother's maiden name, your first pet's name, and the street you grew up on, just give…
  
-# RajveerSohi4USER INFO
-![image](http://pbs.twimg.com/profile_images/1605808411521978373/Q2fm-6a1_normal.png)
+# JohnMil25776716USER INFO
+![image](http://pbs.twimg.com/profile_images/1604873675462819840/BYKIJTPR_normal.jpg)
  
-`User ScreenName:` RajveerSohi4 
+`User ScreenName:` JohnMil25776716 
  
-`User chosen Name:` Rajveer Sohi 
+`User chosen Name:` John Miller 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 22 06:12:14 +0000 2022 
+`User signup date?:` Mon Dec 19 16:17:09 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `7 
+`Followers?: `21 
  
-`Following?:` 21 
+`Following?:` 4 
  
 `User URL?:` None 
  
@@ -532,48 +224,9 @@ RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper r
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1605808411521978373/Q2fm-6a1_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1604873675462819840/BYKIJTPR_normal.jpg 
  
-`Number of tweets excluding replies:` 1475 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 88 , **WINTER** 84 , **CLOTHES** 65 , **के** 58 , **DERA** 53 , **SAINT** 52 , **SACHA** 50 , **SAUDA** 46 , **WARMTHOFHUMANITY** 44 , **JI** 44 , **VOLUNTEERS** 39 , **SEASON** 38 , **MANY** 33 , **RAM** 33 , **WARM** 32 , **NEEDY** 32 , **RAHIM** 30 , **सर्दी** 29 , **DAY** 28 , **है** 28 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# VeenaRa59327756USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` VeenaRa59327756 
- 
-`User chosen Name:` Veena Rani 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 17 04:26:39 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 98 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 552 
+`Number of tweets excluding replies:` 1151 
  
 
  
@@ -581,558 +234,41 @@ RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper r
  
 ## User Top tweeted words 
  
-**SAINT** 96 , **JI** 87 , **@GURMEETRAMRAHIM** 67 , **INSAN** 60 , **PEOPLE** 52 , **SACHA** 47 , **DERA** 46 , **SAUDA** 44 , **WINTER** 30 , **CLOTHES** 24 , **DIGITALFASTING** 24 , **FAMILYTIME** 23 , **STARTED** 23 , **RAM** 22 , **RAHIM** 22 , **VOLUNTEERS** 21 , **TIME** 21 , **CAMPAIGN** 21 , **WARM** 20 , **FAMILY** 19 , 
+**PYTHON** 100 , **AI** 45 , **ANALYTICS** 39 , **DATASCIENCE** 39 , **MACHINELEARNING** 35 , **BIGDATA** 33 , **DATA** 33 , **@PYTHONPR:** 30 , **IOT** 28 , **IIOT** 28 , **@GP_PULIPAKA:** 24 , **RSTATS** 20 , **USING** 20 , **FORTRAN** 19 , **@SAMUEL_WONG_:** 17 , **SCIENCE** 13 , **PYTORCH** 11 , **LEARN** 11 , **C** 11 , **PROGRAMMING** 10 , 
  
 ## What this user tweeted
  
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
+RT @tut_ml: Step-by-Step Roadmap to learn Data Science for FREE- https://t.co/9oiMPufY3Q
+
+#Machinelearning #100DaysOfCode #AI #IoT #100Days…RT @seokonikaislam: CSS CheatSheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorF…RT @0xor0ne: CVE-2022-0342: patch analysis and authentication bypass on Zyxel devices
+Writeup by Maurizio Agazzini 
+
+https://t.co/CgWVGok8y…
  
-# PREMKUM57309441USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
+# casanov80299347USER INFO
+![image](http://pbs.twimg.com/profile_images/1603945059640086529/En4ixpgA_normal.png)
  
-`User ScreenName:` PREMKUM57309441 
+`User ScreenName:` casanov80299347 
  
-`User chosen Name:` PREM KUMAR 
+`User chosen Name:` casa nova 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Dec 17 16:56:14 +0000 2022 
+`User signup date?:` Sat Dec 17 02:47:56 +0000 2022 
  
 `User Description?:`  
  
 `Followers?: `1 
  
-`Following?:` 92 
+`Following?:` 3 
  
 `User URL?:` None 
  
 `Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 425 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SAINT** 86 , **JI** 75 , **@GURMEETRAMRAHIM** 65 , **PEOPLE** 60 , **INSAN** 52 , **DERA** 43 , **SACHA** 41 , **SEED** 40 , **SAUDA** 38 , **WINTER** 34 , **CLOTHES** 33 , **CAMPAIGN** 31 , **WARM** 23 , **DIGITALFASTING** 23 , **MANY** 21 , **STARTED** 21 , **RAM** 20 , **SEASON** 19 , **UNDER** 19 , **WHICH** 19 , 
- 
-## What this user tweeted
- 
-RT @DeepBhuckal: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volunteer…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# Gurdeep66989963USER INFO
-![image](http://pbs.twimg.com/profile_images/1605387394764734464/l1KJO3De_normal.jpg)
- 
-`User ScreenName:` Gurdeep66989963 
- 
-`User chosen Name:` Gurdeep Sohi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 21 02:16:45 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `10 
- 
-`Following?:` 20 
- 
-`User URL?:` None 
- 
-`Location:` Punjab, India 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1605387394764734464/l1KJO3De_normal.jpg 
- 
-`Number of tweets excluding replies:` 2020 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PEOPLE** 103 , **WINTER** 87 , **CLOTHES** 83 , **DERA** 61 , **SACHA** 58 , **SAUDA** 57 , **SAINT** 54 , **WARM** 54 , **WARMTHOFHUMANITY** 51 , **JI** 44 , **SEASON** 44 , **VOLUNTEERS** 42 , **NEEDY** 33 , **RAM** 32 , **MANY** 32 , **DAY** 31 , **POOR** 31 , **RAHIM** 30 , **HELP** 28 , **SOME** 26 , 
- 
-## What this user tweeted
- 
-RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @DeepBhuckal: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volunteer…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# RAJGARG48046622USER INFO
-![image](http://pbs.twimg.com/profile_images/1605126507407736834/LDOqGgQy_normal.jpg)
- 
-`User ScreenName:` RAJGARG48046622 
- 
-`User chosen Name:` RAJ GARG 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 20 09:02:18 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 90 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1605126507407736834/LDOqGgQy_normal.jpg 
- 
-`Number of tweets excluding replies:` 299 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**JI** 76 , **SAINT** 74 , **DERA** 63 , **SACHA** 58 , **SAUDA** 55 , **PEOPLE** 53 , **@GURMEETRAMRAHIM** 51 , **INSAN** 49 , **CLOTHES** 30 , **WINTER** 25 , **WARM** 23 , **TIME** 23 , **CAMP** 22 , **VOLUNTEERS** 20 , **FAMILY** 19 , **RAM** 18 , **के** 18 , **RAHIM** 16 , **EYE** 16 , **INSPIRATION** 15 , 
- 
-## What this user tweeted
- 
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# DevilalMehra6USER INFO
-![image](http://pbs.twimg.com/profile_images/1603942910252421120/E19YUwHI_normal.png)
- 
-`User ScreenName:` DevilalMehra6 
- 
-`User chosen Name:` Devilal Mehra 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 17 02:39:24 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `23 
- 
-`Following?:` 172 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603942910252421120/E19YUwHI_normal.png 
- 
-`Number of tweets excluding replies:` 1680 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**TREES** 83 , **SAINT** 75 , **JI** 55 , **DERA** 52 , **@GURMEETRAMRAHIM** 51 , **GIFTTONATURE** 48 , **SACHA** 48 , **INSAN** 42 , **ENVIRONMENT** 39 , **NATURE** 39 , **EARTH** 36 , **SAUDA** 34 , **VOLUNTEERS** 33 , **PLANT** 31 , **SAVE** 26 , **INSPIRATION** 25 , **UNDER** 22 , **PLANTING** 22 , **PEOPLE** 21 , **GUIDANCE** 20 , 
- 
-## What this user tweeted
- 
-RT @DeepBhuckal: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volunteer…RT @SAJANIN23640930: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# MleeBussarohUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606462898519216128/GUitMbv__normal.jpg)
- 
-`User ScreenName:` MleeBussaroh 
- 
-`User chosen Name:` Bussaroh Mlee 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Dec 18 01:44:35 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `7 
- 
-`Following?:` 128 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606462898519216128/GUitMbv__normal.jpg 
- 
-`Number of tweets excluding replies:` 563 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@AIM_THEERARAT** 58 , **CHRISTMAS** 18 , **ธีรรัตน์สําเร็จวาณิชย์** 18 , **MERRY** 17 , **@PLE_022** 15 , **김연경** 14 , **@TTATA_TAR:** 11 , **KIMYEONKOUNG** 11 , **@PHLOIPHAILIN_25:** 10 , **✨** 9 , **•** 9 , **@KIMYK10** 9 , **@J_SINDHUPRAI** 8 , **🎄** 8 , **🤍** 7 , **@JIRATCHAYASAPSO:** 7 , **@IMCHENCHEN_N:** 6 , **!** 6 , **@IMPASSIRA:** 6 , **@BYKIMYK:** 6 , 
- 
-## What this user tweeted
- 
-RT @FangSaratsanun: Thai young woman MP at #IPU145 Forum of Women Parliamentarians speaking on women vulnerabilities,  human trafficking is…
- 
-# premi_ramkumarUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606479414283599872/rH-Lmy9e_normal.jpg)
- 
-`User ScreenName:` premi_ramkumar 
- 
-`User chosen Name:` Ramkumar Premi 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 24 02:21:28 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `2 
- 
-`Following?:` 17 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 180 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606479414283599872/rH-Lmy9e_normal.jpg 
- 
-`Number of tweets excluding replies:` 180 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**के** 58 , **SAINT** 52 , **DERA** 52 , **PEOPLE** 52 , **SACHA** 49 , **SAUDA** 45 , **JI** 45 , **CLOTHES** 44 , **में** 37 , **RAM** 35 , **RAHIM** 32 , **WINTER** 31 , **VOLUNTEERS** 30 , **को** 29 , **WARM** 29 , **लिए** 25 , **@GURMEETRAMRAHIM** 25 , **कपड़े** 24 , **NEEDY** 23 , **की** 23 , 
- 
-## What this user tweeted
- 
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# anil12715680USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` anil12715680 
- 
-`User chosen Name:` anil 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Dec 22 02:40:39 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 958 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**SAINT** 63 , **DERA** 61 , **SACHA** 53 , **SAUDA** 51 , **CLOTHES** 51 , **JI** 49 , **PEOPLE** 46 , **VOLUNTEERS** 41 , **WINTER** 38 , **के** 36 , **WARM** 36 , **WARMTHOFHUMANITY** 33 , **RAM** 33 , **@GURMEETRAMRAHIM** 33 , **RAHIM** 32 , **INSAN** 29 , **NEEDY** 25 , **INSPIRATION** 22 , **सर्दी** 22 , **WINTERS** 20 , 
- 
-## What this user tweeted
- 
-RT @vijaysa12381851: Winters are not so cozy for those who don’t have proper resources to fulfill their basic needs. Dera Sacha Sauda Volun…
- 
-# FindingTogetherUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606641889259692033/-XnjzG0X_normal.jpg)
- 
-`User ScreenName:` FindingTogether 
- 
-`User chosen Name:` Finding Our Way Together 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 23 20:48:33 +0000 2022 
- 
-`User Description?:` Know More About You:
-https://t.co/kY2ZsZPwlD 
- 
-`Followers?: `0 
- 
-`Following?:` 14 
- 
-`User URL?:` https://t.co/FmGyy3CkrN 
- 
-`Location:` In your Mind  
- 
-`Number of tweets extracted`  : 27 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606641889259692033/-XnjzG0X_normal.jpg 
- 
-`Number of tweets excluding replies:` 27 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**WAY** 9 , **TOGETHER:** 9 , **MAY** 7 , **PEOPLE** 6 , **FEEL** 5 , **SUCCESS** 5 , **OPEN** 5 , **EXPECTATIONS** 4 , **SOME** 4 , **SET** 3 , **FEELING** 3 , **DIFFERENT** 3 , **CONFIDENT** 3 , **FINDING** 2 , **OTHERS** 2 , **LEAD** 2 , **PERFECTIONISM:** 2 , **HIGH** 2 , **OURSELVES** 2 , **PRESSURE** 2 , 
- 
-## What this user tweeted
- 
-They feel ashamed or guilty: Some people may feel ashamed or guilty about their struggles, and may believe that ask… https://t.co/FUcDgL382t
- 
-# PertinMumUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606397223889436672/3QWNWhsu_normal.jpg)
- 
-`User ScreenName:` PertinMum 
- 
-`User chosen Name:` Mum Pertin 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 21 09:43:21 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `5 
- 
-`Following?:` 63 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606397223889436672/3QWNWhsu_normal.jpg 
- 
-`Number of tweets excluding replies:` 2097 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**STRONG** 95 , **STAY** 88 , **PRIYANKART** 68 , **PRIYANKA** 36 , **PRIYANKACHAHARCHOUDHARY** 31 , **ANKIT** 20 , **@ARSALAN77843430:** 17 , **@NOBODY4U2229:** 16 , **@BEINGALEZAMALIK:** 16 , **@PRIYANKA_STAN:** 16 , **:** 16 , **@DILTHOPAGALHAI:** 16 , **BACK** 14 , **ALEEZA** 14 , **PEOPLE** 13 , **(A)** 13 , **HAI** 12 , **LIFE** 12 , **BIGGBOSS16** 11 , **ANKITGUPTA** 11 , 
- 
-## What this user tweeted
- 
-RT @RemaDas11: Out of your vulnerabilities will come your strength.
-
-STAY STRONG PRIYANKA
- 
-# Patrick11535866USER INFO
-![image](http://pbs.twimg.com/profile_images/1604715887688560641/xfOhmWQ9_normal.jpg)
- 
-`User ScreenName:` Patrick11535866 
- 
-`User chosen Name:` Patricknft 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 19 05:48:18 +0000 2022 
- 
-`User Description?:` Husband. Father. Crypto noo b. Probably NGMI. Never stop learning. Retired MCOC addict/beta tester 
- 
-`Followers?: `1 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:` TradingABCD.NET 
- 
-`Number of tweets extracted`  : 75 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604715887688560641/xfOhmWQ9_normal.jpg 
- 
-`Number of tweets excluding replies:` 75 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**LIVE** 9 , **NFTS** 9 , **3** 8 , **MINT** 6 , **NFT** 6 , **READY** 6 , **EXE** 6 , **CLUB** 5 , **@MONSTROUS_NFT:** 5 , **FOOTBALL** 5 , **COLLECTION** 5 , **FAN** 5 , **10** 5 , **NEW** 5 , **@MOONIENFT:** 5 , **RT** 4 , **JOIN** 4 , **GO** 4 , **METAVERSE** 4 , **1** 4 , 
- 
-## What this user tweeted
- 
-RT @Cryptonautiluss: #Immunefi awards 52 million USD bug bounty in 2022
-
-This year, bug bounty platform Immunefi awarded white hat hackers…
- 
-# DomSpiritoUSER INFO
-![image](http://pbs.twimg.com/profile_images/1604778001299906560/ddyssnDr_normal.jpg)
- 
-`User ScreenName:` DomSpirito 
- 
-`User chosen Name:` Dominic 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Dec 19 09:56:58 +0000 2022 
- 
-`User Description?:`  
- 
-`Followers?: `1 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 3 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604778001299906560/ddyssnDr_normal.jpg 
- 
-`Number of tweets excluding replies:` 3 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@HACKINARTICLES:** 1 , **CYBER** 1 , **SECURITY** 1 , **CAREER** 1 , **PATH** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURIT…RT** 1 , **@AORUSOFFICIAL:** 1 , **OPEN** 1 , **🎁** 1 , **CHRISTMAS** 1 , **GEFORCE** 1 , **RTX™** 1 , **4080** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Cyber Security Career Path
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurit…
- 
-# StefaniaSparkleUSER INFO
-![image](http://pbs.twimg.com/profile_images/1603732017111334917/iObwAW1A_normal.jpg)
- 
-`User ScreenName:` StefaniaSparkle 
- 
-`User chosen Name:` onetinysparkle 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 12:41:23 +0000 2022 
- 
-`User Description?:` Spark magic and inspiration, seek truth and peace, say no to abuse and violence, breathe freely and enjoy the moment. 
- 
-`Followers?: `1 
- 
-`Following?:` 38 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 92 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1603732017111334917/iObwAW1A_normal.jpg 
- 
-`Number of tweets excluding replies:` 92 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ML_PHILOSOPHY** 14 , **PEOPLE** 9 , **DON’T** 6 , **NEVER** 5 , **LOVE** 5 , **@ELONMUSK** 5 , **THEN** 4 , **YOURSELF** 4 , **HUMAN** 4 , **DEAR** 4 , **REAL** 4 , **THAN** 4 , **WORDS** 4 , **NEED** 4 , **MEANS** 4 , **SOMEONE** 4 , **MAY** 4 , **MUCH** 4 , **IPREDATOR** 4 , **DR** 4 , 
- 
-## What this user tweeted
- 
-No to cyberstalking, cyber-bullying and violating people’s privacy on their devices. No to exploitation of vulnerab… https://t.co/mWTYrqDTl9
- 
-# CyberWizz823USER INFO
-![image](http://pbs.twimg.com/profile_images/1604209032222298112/QLEI4iPq_normal.jpg)
- 
-`User ScreenName:` CyberWizz823 
- 
-`User chosen Name:` CyberWizz 👾 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Dec 16 04:25:42 +0000 2022 
- 
-`User Description?:` Just A Cybersecurity Fanatic 💻 
- 
-`Followers?: `8 
- 
-`Following?:` 29 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 108 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1604209032222298112/QLEI4iPq_normal.jpg 
- 
-`Number of tweets excluding replies:` 106 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 12 , **@HACKINARTICLES:** 10 , **INFOSEC** 10 , **PENTESTING** 10 , **OSCP** 10 , **CYBERSECURITYTIPS** 7 , **INFORMATIONSECURITY** 7 , **BAY** 5 , **AREA** 5 , **REDTEAM** 5 , **I’M** 5 , **@HOODVILLE_:** 4 , **HACKING** 4 , **PEOPLE** 4 , **DON’T** 4 , **FR** 3 , **STEP** 3 , **HOE** 3 , **CYBER** 3 , **SECURITY** 3 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Network Attacks
-
-Credit https://t.co/KR2DD3Dl80
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam…RT @hackinarticles: Bug Bounty Platform
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cis…RT @hackinarticles: Cyber Security Tools
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #ci…
- 
-# EpicCyberMSPUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606313044723671040/G4wMNRId_normal.jpg)
- 
-`User ScreenName:` EpicCyberMSP 
- 
-`User chosen Name:` EpicCyber 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Dec 17 15:16:17 +0000 2022 
- 
-`User Description?:` #1 MANAGED CYBERSECURITY MSP FOR AMERICAN BUSINESSES. (ZSCALER, CRWDSTRIKE, OKTA) 
- 
-`Followers?: `1 
- 
-`Following?:` 42 
- 
-`User URL?:` None 
- 
-`Location:` HQ: San Francisco, CA 
  
 `Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606313044723671040/G4wMNRId_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1603945059640086529/En4ixpgA_normal.png 
  
 `Number of tweets excluding replies:` 10 
  
@@ -1142,40 +278,38 @@ Credit https://t.co/KR2DD3Dl80
  
 ## User Top tweeted words 
  
-**@HACKINARTICLES:** 3 , **HAPPY** 2 , **HOLIDAYS** 2 , **CYBER** 2 , **HACKERS** 2 , **INFOSEC** 2 , **CYBERSECURITY** 2 , **CYBERSECURITYTIPS** 2 , **PENTESTING** 2 , **OSCP** 2 , **REDTEAM** 2 , **INFORMATIONSECURITY** 2 , **PASSWORDS** 2 , **RT** 1 , **@ZSCALER:** 1 , **US** 1 , **ZSCALER!** 1 , **☃️** 1 , **ZSCALERLIFE** 1 , **HTTPS://TCO/HJJFH7404LTHE** 1 , 
+**–** 14 , **FULL** 9 , **ACTIVATED** 9 , **DISCOUNT** 9 , **100%** 8 , **OFF** 5 , **PRO** 4 , **OFF…** 4 , **INFOSEC** 3 , **TOOL** 3 , **BOT** 2 , **V520** 2 , **HTTPS://TCO/3OGUSCQQGE** 2 , **BUGCROWD…** 2 , **MARKETING** 2 , **ENTERPRISE** 2 , **BUSINESS** 2 , **YOUTUBE** 2 , **INSTAGRAM** 1 , **HTTPS://TCO/MMNOUEFUOLVIKING** 1 , 
  
 ## What this user tweeted
  
-RT @hackinarticles: Tools for Hackers
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp…
+Instagram Bot Pro v5.2.0 Full Activated – Discount 100% OFF https://t.co/3oGUscQQgE #infosec #bugcrowd… https://t.co/MmNOuEfUOlViking Facebook Tool 2020 Full Activated – Social Media Marketing Tool – Discount 100% OFF https://t.co/piqFSCXhjc… https://t.co/WS0ixB7FoPFacebook Scraper v1.0.1.8 Full Activated – Data Extractor Marketing Tool – Discount 100% OFF… https://t.co/1X6H943GZABurp Bounty Pro Full Activated – Ride First on Bug Hunting – Special Coupon Discount 20% OFF… https://t.co/VHTZwqCLFI
  
-# AllinoneTrendzUSER INFO
-![image](http://pbs.twimg.com/profile_images/1604728742194352130/mAQ2BHEN_normal.jpg)
+# Elonmuskteam_USER INFO
+![image](http://pbs.twimg.com/profile_images/1606977268139573251/5zHlaCsE_normal.jpg)
  
-`User ScreenName:` AllinoneTrendz 
+`User ScreenName:` Elonmuskteam_ 
  
-`User chosen Name:` ALL IN ONE TRENDZ 
+`User chosen Name:` Elon Musk 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 19 06:38:39 +0000 2022 
+`User signup date?:` Sun Dec 25 05:25:03 +0000 2022 
  
-`User Description?:` All in one trendz is the most reliable source on the internet for viewers seeking the essential daily news and information they require to stay updated the mark 
+`User Description?:`  
  
-`Followers?: `2 
+`Followers?: `0 
  
-`Following?:` 1 
+`Following?:` 11 
  
-`User URL?:` https://t.co/KI9zBbDNC1 
+`User URL?:` None 
  
-`Location:` Indore 
+`Location:`  
  
-`Number of tweets extracted`  : 35 
+`Number of tweets extracted`  : 15 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1604728742194352130/mAQ2BHEN_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1606977268139573251/5zHlaCsE_normal.jpg 
  
-`Number of tweets excluding replies:` 35 
+`Number of tweets excluding replies:` 15 
  
 
  
@@ -1183,38 +317,75 @@ RT @hackinarticles: Tools for Hackers
  
 ## User Top tweeted words 
  
-**NEW** 6 , **LATESTNEWS** 4 , **NETFLIX** 4 , **2022** 3 , **ITS** 3 , **GAME** 3 , **NEWSUPDATE** 3 , **LATEST** 3 , **TRENDING** 3 , **CRYPTO** 3 , **FC** 3 , **NASA** 3 , **OSCAR** 3 , **CHRISTMAS** 2 , **GAMEPLAY** 2 , **IDEAL** 2 , **DISNEY** 2 , **की** 2 , **NEWS** 2 , **LATESTUPDATES** 2 , 
+**MERRY** 6 , **FRIEND** 4 , **CHRISTMAS** 4 , **LOVED** 3 , **ONES** 3 , **SORRY** 2 , **XMAS** 2 , **@HOPPERMARK** 1 , **❤️🎄@CRYPTO_BITLORD7** 1 , **❤️🎄@KERRIKGRAY** 1 , **THANK** 1 , **🎁🎄💕@JIMISTEENLAND** 1 , **ALREADY** 1 , **ASKED** 1 , **CYBERSECURITY** 1 , **TEAM** 1 , **LOOK** 1 , **INTO** 1 , **SITUATION** 1 , **IMMEDIATE** 1 , 
  
 ## What this user tweeted
  
-Now Zerobot Malware Spreads By Exploiting Apache Vulnerabilities
-
-#programming #language #apache #devices #malware… https://t.co/kwDXIfa8Qf
+@jimisteenland I have already asked my cybersecurity team to look into the situation with immediate effect.@DamonHughes00 I’m sorry about what happened to you my friend, but I have been receiving complaints from people reg… https://t.co/IX9vTUm3rZ
  
-# lujah_sUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606229848023633920/sOgiVAEL_normal.jpg)
+# IT_DevSecOpsUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606623224791535617/j4HnV7M0_normal.jpg)
  
-`User ScreenName:` lujah_s 
+`User ScreenName:` IT_DevSecOps 
  
-`User chosen Name:` Lujah Shrestha 
+`User chosen Name:` Kot Kotofeevich 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Fri Dec 23 09:21:48 +0000 2022 
+`User signup date?:` Sat Dec 24 12:10:00 +0000 2022 
  
 `User Description?:`  
  
-`Followers?: `2 
+`Followers?: `1 
  
-`Following?:` 35 
+`Following?:` 4 
  
 `User URL?:` None 
  
-`Location:` Kathmandu  
+`Location:`  
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606623224791535617/j4HnV7M0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CYBER** 3 , **DEVOPS** 2 , **DEVSECOPS** 2 , **CHECK** 1 , **LATEST** 1 , **ARTICLE** 1 , **NEWSLETTER:** 1 , **DIFFERENT** 1 , **PERMISSION** 1 , **GROUPS** 1 , **INTERNAL** 1 , **EMPLOYEES** 1 , **EXTERNAL** 1 , **CONT…** 1 , **HTTPS://TCO/VMJ2NRAMK5CREATING** 1 , **GOOD** 1 , **IAM** 1 , **ARCHITECTURE** 1 , **THROUGH** 1 , **ASSET** 1 , 
+ 
+## What this user tweeted
+ 
+Check out the latest article in my newsletter: Different permission groups for internal employees and external cont… https://t.co/Vmj2nRAMk5
+ 
+# Ianto217CastielUSER INFO
+![image](http://pbs.twimg.com/profile_images/1607115854583566336/vJTE5P_q_normal.png)
+ 
+`User ScreenName:` Ianto217Castiel 
+ 
+`User chosen Name:` Ianto Castiel 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 25 20:47:24 +0000 2022 
+ 
+`User Description?:` Just a kid from Chicago that happens to be sicker than your average on my worst day.😎 Possibly the coolest Kat on this planet. Hip Hop flows thru my blood!💯 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
  
 `Number of tweets extracted`  : 3 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606229848023633920/sOgiVAEL_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1607115854583566336/vJTE5P_q_normal.png 
  
 `Number of tweets excluding replies:` 3 
  
@@ -1224,83 +395,38 @@ Now Zerobot Malware Spreads By Exploiting Apache Vulnerabilities
  
 ## User Top tweeted words 
  
-**COMMITTED** 2 , **RT** 1 , **@MAGAR_BINDA:** 1 , **PANCHAPURI** 1 , **MUNICIPALITY** 1 , **MAKING** 1 , **DIGITALMUN** 1 , **VULNERABILITY** 1 , **ASSESSMENT** 1 , **PEOPLE** 1 , **E…RT** 1 , **@SATISHPANDAY01:** 1 , **FINANCIALLITERACY** 1 , **VERY** 1 , **IMPORTANT** 1 , **FINANCIAL** 1 , **DECISIONS** 1 , **INCLUDING** 1 , **INCOME** 1 , **SAVINGS** 1 , 
+**SUIT** 1 , **ARMOR** 1 , **PROVIDES** 1 , **EXCELLENT** 1 , **SUN** 1 , **PROTECTION** 1 , **HOT** 1 , **DAYS@CONVOMFS** 1 , **VIRTUOSO** 1 , **INVESTOR** 1 , **CYBERCRIME** 1 , **CYBERSECURITY** 1 , **@PRICELESSTITANS@PIOUSDEENN** 1 , **AMBASSADOR** 1 , 
  
 ## What this user tweeted
  
-RT @satishpanday01: #FinancialLiteracy is very important for financial decisions including #income, #savings and #expenses. While this beco…
+@convomfs Virtuoso, Investor, know all about cybercrime and cybersecurity. @PricelessTitans
  
-# ResistantCloudUSER INFO
-![image](http://pbs.twimg.com/profile_images/1605368986337775618/2pzrGSw9_normal.jpg)
+# irgordonUSER INFO
+![image](http://pbs.twimg.com/profile_images/1605744579063472128/601ZsufO_normal.jpg)
  
-`User ScreenName:` ResistantCloud 
+`User ScreenName:` irgordon 
  
-`User chosen Name:` Resistant Cloud 
+`User chosen Name:` Ian 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Dec 20 23:50:57 +0000 2022 
+`User signup date?:` Thu Dec 22 01:57:36 +0000 2022 
  
-`User Description?:` Frequent Updates on recent Cybersecurity News
-Social Media - 
-Linktree: https://t.co/r1uopH8KNX 
+`User Description?:` Just a Cybersecurity professional making his way through life | #GIAC | #CompTIA | #CCNA | RT or follow ≠ Endorsement, all views are my own. 
  
-`Followers?: `9 
+`Followers?: `2 
  
-`Following?:` 112 
+`Following?:` 18 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 43 
+`Number of tweets extracted`  : 16 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1605368986337775618/2pzrGSw9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1605744579063472128/601ZsufO_normal.jpg 
  
-`Number of tweets excluding replies:` 43 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 15 , **INFOSEC** 10 , **CYBERSECURITYTIPS** 8 , **SECURITY** 8 , **PENTESTING** 8 , **OSCP** 8 , **REDTEAM** 7 , **@HACKINARTICLES:** 6 , **HACKING** 5 , **INFORMATIONSECURITY** 5 , **ATTACKS** 4 , **USING** 3 , **THAN** 3 , **HACKERS** 3 , **HACKED** 3 , **LINUX** 3 , **CISSP** 3 , **CYBER** 3 , **RECENT** 3 , **RANSOMWARE** 3 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Tools for Hackers
-
-#infosec #cybersecurity #cybersecuritytips  #pentesting #oscp #redteam  #informationsecurity  #cissp…
- 
-# mcmochieUSER INFO
-![image](http://pbs.twimg.com/profile_images/1605355555307937792/3u-PkUe2_normal.jpg)
- 
-`User ScreenName:` mcmochie 
- 
-`User chosen Name:` Mochie ❀ 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Dec 21 00:04:00 +0000 2022 
- 
-`User Description?:` back to the beginning again🌱
-
-#reborn 
- 
-`Followers?: `29 
- 
-`Following?:` 166 
- 
-`User URL?:` None 
- 
-`Location:` Bali, Indonesia 
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1605355555307937792/3u-PkUe2_normal.jpg 
- 
-`Number of tweets excluding replies:` 333 
+`Number of tweets excluding replies:` 16 
  
 
  
@@ -1308,79 +434,38 @@ RT @hackinarticles: Tools for Hackers
  
 ## User Top tweeted words 
  
-**RT** 66 , **$SOL** 63 , **FOLLOW** 47 , **@0XC06:** 43 , **•** 38 , **TAG** 31 , **1** 31 , **+** 31 , **GIVEAWAY** 27 , **🎁** 26 , **🏆** 24 , **🔔** 22 , **2** 22 , **NFT** 20 , **WINNER** 19 , **3** 17 , **WINNERS** 15 , **~** 13 , **⏰** 13 , **TURN** 12 , 
+**CONTINUES** 2 , **IMPORTANT** 2 , **2023** 2 , **ITS** 2 , **@GHOSTFACEKILLAH** 1 , **@JAYVERSACE** 1 , **😂** 1 , **EXACTLY** 1 , **WE’RE** 1 , **TALKING** 1 , **ABOUTRT** 1 , **@CERTIFYGIAC:** 1 , **DEMAND** 1 , **SKILLED** 1 , **CYBERSECURITY** 1 , **PROFESSIONALS** 1 , **GROW** 1 , **UPSKILLING** 1 , **BECOMES** 1 , **INCREASINGLY** 1 , 
  
 ## What this user tweeted
  
-RT @0xc06: +
-
-If you are implementing your own personalized smart contract, always do an audit and/or a pentest in order to find vulnerabil…
+RT @CertifyGIAC: As the demand for skilled #Cybersecurity professionals continues to grow, #Upskilling becomes increasingly important. The…
  
-# autexsecUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606060408225386515/e2zfQhbD_normal.jpg)
+# imranhardawa01USER INFO
+![image](http://pbs.twimg.com/profile_images/1605131524680073218/4uygOviB_normal.jpg)
  
-`User ScreenName:` autexsec 
+`User ScreenName:` imranhardawa01 
  
-`User chosen Name:` Autex Security & Audits 
+`User chosen Name:` Imran Muhammad 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 22 22:48:06 +0000 2022 
+`User signup date?:` Tue Dec 20 09:21:16 +0000 2022 
  
-`User Description?:` Autex provides professional, thorough, fast, and easy-to-understand smart contract security audit. 
- 
-`Followers?: `0 
- 
-`Following?:` 1 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 8 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1606060408225386515/e2zfQhbD_normal.jpg 
- 
-`Number of tweets excluding replies:` 8 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**•** 6 , **SECURITY** 4 , **SMART** 4 , **PRE-SALE** 3 , **IDENTIFICATION;** 2 , **KYC** 2 , **ANALYSIS** 2 , **CONTRACT** 2 , **SAFE** 2 , **NOTE:** 1 , **NEVER** 1 , **REVEAL** 1 , **IDENTITIES** 1 , **UNLESS** 1 , **REQUIRED** 1 , **AUTHORITIES** 1 , **CASE** 1 , **CRIME** 1 , **COMMITED** 1 , **TEAM•** 1 , 
- 
-## What this user tweeted
- 
-We do a straight-forward technical audit to look for common and complex vulnerabilities in the smart contract. We a… https://t.co/H3XO91VJYw
- 
-# CryptoStanislavUSER INFO
-![image](http://pbs.twimg.com/profile_images/1605001173186248704/X5kB2O9E_normal.jpg)
- 
-`User ScreenName:` CryptoStanislav 
- 
-`User chosen Name:` Crypto_Stan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Dec 20 00:44:01 +0000 2022 
- 
-`User Description?:` Crypto & Blockchain Enthusiast | Ambassador $STC, $ROSE and others 
+`User Description?:` Muslim || Royal blood👑 ||Cyber security  undergraduate || 
  
 `Followers?: `10 
  
-`Following?:` 61 
+`Following?:` 228 
  
 `User URL?:` None 
  
-`Location:` Phuket, Thailand 
+`Location:` Gombe, Nigeria 
  
-`Number of tweets extracted`  : 74 
+`Number of tweets extracted`  : 68 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1605001173186248704/X5kB2O9E_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1605131524680073218/4uygOviB_normal.jpg 
  
-`Number of tweets excluding replies:` 74 
+`Number of tweets excluding replies:` 68 
  
 
  
@@ -1388,43 +473,40 @@ We do a straight-forward technical audit to look for common and complex vulnerab
  
 ## User Top tweeted words 
  
-**🎄** 9 , **@GALXE:** 8 , **GALXEHOLIDAY2022** 8 , **NIGHT** 8 , **@OASISPROTOCOL:** 7 , **CHRISTMAS** 5 , **GREAT** 5 , **$NFTB** 5 , **WE'RE** 5 , **TASKS** 5 , **JOIN** 5 , **FOLLOW** 5 , **YEAR** 4 , **COSMIC** 4 , **HORIZON** 4 , **I'M** 4 , **@NFTBMARKET:** 4 , **@BTS_VENTURES:** 4 , **NEW** 4 , **OASIS** 4 , 
+**CYBERSECURITY** 12 , **INFOSEC** 11 , **PENTESTING** 7 , **OSCP** 7 , **@SHUBHAM_PEN:** 5 , **HACKING** 5 , **REDTEAM** 5 , **SECURITY** 5 , **INFORMATIONSECURITY** 3 , **CISSP** 3 , **ALLAH** 3 , **@KWANKWASORM:** 3 , **@THECYBERSECHUB:** 3 , **@HACKINARTICLES:** 3 , **CHEAT** 3 , **SHEET** 3 , **CYBERSECURITYTIPS** 3 , **MANY** 3 , **NIGERIA** 3 , **ENCRYPTION** 2 , 
  
 ## What this user tweeted
  
-RT @OasisProtocol: We're excited to share the latest episode of Oasis Insights!
+RT @Shubham_pen: Encryption VS Cryptography
 
-Episode 5 dives into the Oasis Network's secure protection…
+#infosec #cybersecurity #pentesting #oscp  #informationsecurity #hacking #cissp #redteam #tech…
  
-# Oqas_USER INFO
-![image](http://pbs.twimg.com/profile_images/1604969573517627392/-OR1x1B8_normal.jpg)
+# V66391214MartinUSER INFO
+![image](http://pbs.twimg.com/profile_images/1605838211099623424/Pp8g6x_I_normal.png)
  
-`User ScreenName:` Oqas_ 
+`User ScreenName:` V66391214Martin 
  
-`User chosen Name:` stella 🌷 
+`User chosen Name:` Martin Vincent 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Mon Dec 19 22:22:40 +0000 2022 
+`User signup date?:` Thu Dec 22 08:10:38 +0000 2022 
  
-`User Description?:` ⇛ NOTI GANG - WAGMI ⇚ 
-• nothing special - just a girl who love crypto & nft • 
-
-#3rdReborn 
+`User Description?:`  
  
-`Followers?: `39 
+`Followers?: `12 
  
-`Following?:` 213 
+`Following?:` 184 
  
 `User URL?:` None 
  
-`Location:` Bandung, Indonesia 
+`Location:`  
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1604969573517627392/-OR1x1B8_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1605838211099623424/Pp8g6x_I_normal.png 
  
-`Number of tweets excluding replies:` 509 
+`Number of tweets excluding replies:` 593 
  
 
  
@@ -1432,38 +514,225 @@ Episode 5 dives into the Oasis Network's secure protection…
  
 ## User Top tweeted words 
  
-**$SOL** 62 , **RT** 57 , **•** 47 , **FOLLOW** 45 , **+** 34 , **@0XC06:** 33 , **GIVEAWAY** 32 , **🏆** 28 , **1** 27 , **🔔** 25 , **TAG** 25 , **🎁** 22 , **3** 19 , **2** 18 , **DEGODS** 18 , **WINNER** 18 , **NFT** 15 , **WINNERS** 14 , **@MANLYNFT:** 13 , **TURN** 13 , 
+**MUSK** 204 , **SCANDAL:** 200 , **STOP** 185 , **ABUSE!** 185 , **ELON** 109 , **LET'S** 82 , **NEWSREPORTER** 28 , **NEWSPAPER** 23 , **BREAKINGNEWS** 23 , **SCIENCE** 20 , **ROBOTS** 20 , **CODER** 20 , **ARTIFICIALINTELLIGENCEAI** 20 , **CYBERSECURITY** 20 , **JAVA…** 20 , **ARTIFICIALINTELLIGENCE** 20 , **AI** 20 , **MACHINELEARNING** 20 , **TECHNOLOGY** 20 , **DATASCIENCE…** 20 , 
  
 ## What this user tweeted
  
-RT @0xc06: +
-
-If you are implementing your own personalized smart contract, always do an audit and/or a pentest in order to find vulnerabil…
+📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/GDxFvsFY0u📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/wJTmIbs5tA📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/H1XmJUp21k📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/o5JAR4U85F📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/nIsEGJVZlz📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/ctrD6rYhS2📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/WMTiQMhPzO📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/IIXd6I2IyY📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/GnQmG7XQzD📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/SaapDZ7ye2📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/7aaILSjkNG📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/G1dd8lLifG📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/SvSbncLO4Y📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/DtkjoOfouz📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/v6AA6hCcYS📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/YBq8H7ta6c📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/x9Wi6UhlkW📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/ZYXBxeAICx📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/ShQ6auBoze📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/YcLLibGOem📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/M3P2SWPpE0📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/ZHZyyYfbNl📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/nTuUFQmPeo📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/sf5NNFQIsx📰Elon Musk scandal: STOP THIS ABUSE!
+#science #robots #coder #artificialintelligenceai #cybersecurity #java… https://t.co/BASTR9hNgD
  
-# 0xW3AcademyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1605932402047533057/zoIuYm0E_normal.jpg)
+# tinsechoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1604512375104835584/5IbibuK__normal.jpg)
  
-`User ScreenName:` 0xW3Academy 
+`User ScreenName:` tinsecho 
  
-`User chosen Name:` W3 Academy 
+`User chosen Name:` a.Michaud 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Dec 21 13:04:45 +0000 2022 
+`User signup date?:` Fri Dec 16 17:26:20 +0000 2022 
  
-`User Description?:` Get everything you need to know about the Web3 in one place. 
+`User Description?:`  
  
-`Followers?: `1017 
+`Followers?: `1 
  
-`Following?:` 4 
+`Following?:` 13 
  
-`User URL?:` https://t.co/4JNnTbJXUZ 
+`User URL?:` None 
  
-`Location:` Web3 
+`Location:` mn, usa 
+ 
+`Number of tweets extracted`  : 23 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1604512375104835584/5IbibuK__normal.jpg 
+ 
+`Number of tweets excluding replies:` 28 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@MALWRHUNTERTEAM:** 5 , **@EHACKERNEWS:** 3 , **MICROSOFT** 2 , **REALLY** 2 , **DOING** 2 , **😹** 2 , **COMPLETELY** 2 , **😂** 2 , **MOORE** 2 , **V** 2 , **HARPER** 2 , **CASE** 2 , **SUPREME** 2 , **COURT** 2 , **RT** 1 , **@INFOSECURITYMAG:** 1 , **TIKTOK'S** 1 , **PARENT** 1 , **COMPANY** 1 , **ADMITS** 1 , 
+ 
+## What this user tweeted
+ 
+RT @TheHackersNews: French #privacy watchdog fines #Microsoft Ireland €60 million for placing advertising cookies on users' computers witho…
+ 
+# Digi_WritersUSER INFO
+![image](http://pbs.twimg.com/profile_images/1603705293623418882/dfAV-AsQ_normal.jpg)
+ 
+`User ScreenName:` Digi_Writers 
+ 
+`User chosen Name:` Digi-Writers 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 16 10:35:00 +0000 2022 
+ 
+`User Description?:` we offer: #BUSINESS, #ART #HISTORY #ESSAY #EXAM #TERMPAPER #COURSEWORK #ONLINECLASSES #DISSERTATION #ASSIGNMENTS #HOMEWORK. Email Us kenbarazel254@gmail.com 
+ 
+`Followers?: `35 
+ 
+`Following?:` 96 
+ 
+`User URL?:` None 
+ 
+`Location:` Global 
+ 
+`Number of tweets extracted`  : 80 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1603705293623418882/dfAV-AsQ_normal.jpg 
+ 
+`Number of tweets excluding replies:` 80 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**✔** 47 , **EMAIL:** 40 , **KENBARAZEL254@GMAILCOM** 40 , **HISTORY** 39 , **PAY** 35 , **ECONOMICS** 24 , **ONLINECLASSES** 24 , **ESSAY** 23 , **HOMEWORK** 20 , **COURSEWORK** 20 , **FALL** 19 , **US** 18 , **DM** 18 , **✓ESSAY** 18 , **✓PAPER** 18 , **✓ART** 18 , **✔BIOLOGY** 17 , **✔ESSAY** 17 , **✔MATH** 17 , **MATH** 16 , 
+ 
+## What this user tweeted
+ 
+#WhatsApp DM/Email: ken.barazel@gmail.com
+Physics
+Fall classes 
+English 
+essaypay 
+Math
+History
+Assignments .
+Nursi… https://t.co/bKdGjlsiSu
+ 
+# Brackish_ioUSER INFO
+![image](http://pbs.twimg.com/profile_images/1604283621455663109/o9cwFhTt_normal.jpg)
+ 
+`User ScreenName:` Brackish_io 
+ 
+`User chosen Name:` brackish.io 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 18 01:08:09 +0000 2022 
+ 
+`User Description?:` Brackish Security LLC is a cybersecurity consulting firm that is focused on offensive security testing. 
+ 
+`Followers?: `6 
+ 
+`Following?:` 128 
+ 
+`User URL?:` https://t.co/fFohwix3vz 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1604283621455663109/o9cwFhTt_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**BRACKISH** 2 , **CHATGPT** 2 , **CHECK** 1 , **LATEST** 1 , **BLOG** 1 , **POST** 1 , **WRITTEN** 1 , **100%** 1 , **HTTPS://TCO/TJIRTDCKTY** 1 , **ZEROTRUST** 1 , **CYBERSECURITYNEED** 1 , **PENTEST?** 1 , **CALL** 1 , **MAKE** 1 , **BAD** 1 , **GUYS** 1 , **SALTY!** 1 , **HTTPS://TCO/HBYCHTEJEM** 1 , **CYBERSECURITY** 1 , **HACKERS** 1 , 
+ 
+## What this user tweeted
+ 
+Check out the latest Brackish blog post that written 100% by ChatGPT https://t.co/TjiRtDCKTy #ChatGPT #zerotrust #cybersecurity
+ 
+# CiprianBrebuUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606184908552118272/H3-dBxz0_normal.jpg)
+ 
+`User ScreenName:` CiprianBrebu 
+ 
+`User chosen Name:` The Adventurer’s Travel Bible 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Fri Dec 23 07:00:13 +0000 2022 
+ 
+`User Description?:` The Adventurer’s Travel Bible is a newspaper committed to promoting the beauty and variety of the globe via travel guides, personal travel experiences, and holi 
+ 
+`Followers?: `158 
+ 
+`Following?:` 1009 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 14 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1606184908552118272/H3-dBxz0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 14 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**TRAVEL** 5 , **GUIDE** 5 , **TRAVELING** 3 , **MAGIC** 3 , **BUDAPEST:** 3 , **BEST** 3 , **ATTRACTIONS** 3 , **RESTAURANTS** 3 , **ACCOMMODATION** 3 , **GUIDE:** 2 , **PROTECTING** 2 , **YOURSELF** 2 , **DISCOVER** 2 , **WARSAW** 2 , **ULTIMATE** 1 , **2023** 1 , **LEFKADA** 1 , **EAT** 1 , **ISLAND** 1 , **BEACHES…** 1 , 
+ 
+## What this user tweeted
+ 
+Understanding Cybersecurity: A Comprehensive Guide to Protecting Yourself and Your Organization from Cyber Attacks… https://t.co/26Zj5nbLuW
+ 
+# deltapi17USER INFO
+![image](http://pbs.twimg.com/profile_images/1607003492190916608/f2QC7KjY_normal.jpg)
+ 
+`User ScreenName:` deltapi17 
+ 
+`User chosen Name:` Paul 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Dec 25 10:20:49 +0000 2022 
+ 
+`User Description?:` @iitbombay | @hackthebox_eu Explorer | CyberSec Enthusiast 
+ 
+`Followers?: `1 
+ 
+`Following?:` 23 
+ 
+`User URL?:` https://t.co/vxLukaoTxP 
+ 
+`Location:` India 
  
 `Number of tweets extracted`  : 26 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1605932402047533057/zoIuYm0E_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1607003492190916608/f2QC7KjY_normal.jpg 
  
 `Number of tweets excluding replies:` 26 
  
@@ -1473,39 +742,44 @@ If you are implementing your own personalized smart contract, always do an audit
  
 ## User Top tweeted words 
  
-**BLOCKCHAIN** 10 , **LAYER** 8 , **2** 8 , **ZERO-KNOWLEDGE** 7 , **SOLUTIONS** 6 , **ROLLUPS** 5 , **THREAD** 4 , **NETWORKS** 4 , **SOLUTION** 4 , **ZK-ROLLUPS** 4 , **ETHEREUM** 4 , **IMPROVE** 3 , **ALLOWS** 3 , **ITS** 3 , **PROOF** 3 , **TRANSACTIONS** 3 , **WORK** 3 , **POST** 3 , **CONCEPT** 3 , **DECENTRALIZED** 3 , 
+**@HACKTHEBOX_EU** 26 , **HACKTHEBOX** 24 , **CYBERSECURITYTIPS** 23 , **CONTINUES** 17 , **ADVENTURE** 10 , **PWN-ING** 7 , **CONTINUED** 7 , **THANK** 2 , **BEGINNER** 1 , **TRACK:** 1 , **LAME** 1 , **(USER** 1 , **SYSTEM** 1 , **OWNED)** 1 , **THANKS** 1 , **WONDERFUL** 1 , **LAB** 1 , **@HPYLARINOS** 1 , **YOU…** 1 , **HTTPS://TCO/WZ3Z7RQ9XPTIER-2:** 1 , 
  
 ## What this user tweeted
  
-4/ ZK-Rollups are also only as secure as the underlying zero-knowledge proof system. If there are vulnerabilities i… https://t.co/1MsbB0yu3A
+Beginner Track: LAME (User &amp; System Owned)
+
+Thanks for this wonderful lab
+@hpylarinos 
+@hackthebox_eu
+
+Thank You...… https://t.co/wz3z7rq9xP
  
-# PSYOP_GuyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1606010356215709696/8_tTf1Oe_normal.jpg)
+# crown_obynoUSER INFO
+![image](http://pbs.twimg.com/profile_images/1606941603494612992/nV2bEHYN_normal.jpg)
  
-`User ScreenName:` PSYOP_Guy 
+`User ScreenName:` crown_obyno 
  
-`User chosen Name:` Propaganda & Humanity 
+`User chosen Name:` Steve Crown 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Thu Dec 22 18:06:45 +0000 2022 
+`User signup date?:` Sun Dec 18 07:20:01 +0000 2022 
  
-`User Description?:` (PSY/OP)
-🏴‍☠️ ♟️ Behaviors, Attitudes, Perceptions and Psychological Warfare. #PsyWar 
+`User Description?:` Spread love everywhere you go. Let no one ever come to you without leaving happier. -Mother Teresa 
  
-`Followers?: `3 
+`Followers?: `4 
  
-`Following?:` 31 
+`Following?:` 102 
  
 `User URL?:` None 
  
-`Location:` In The Machine 
+`Location:` Imo, Nigeria 
  
-`Number of tweets extracted`  : 140 
+`Number of tweets extracted`  : 126 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1606010356215709696/8_tTf1Oe_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1606941603494612992/nV2bEHYN_normal.jpg 
  
-`Number of tweets excluding replies:` 140 
+`Number of tweets excluding replies:` 126 
  
 
  
@@ -1513,11 +787,11 @@ If you are implementing your own personalized smart contract, always do an audit
  
 ## User Top tweeted words 
  
-**@JACKPOSOBIEC:** 10 , **PSYOP** 7 , **MEDIA** 7 , **TWITTER** 6 , **INFLUENCE** 6 , **SOMETHING** 5 , **UKRAINE** 5 , **ACCOUNTS** 5 , **PROPAGANDA** 5 , **@LUKEWEARECHANGE:** 4 , **CHRISTMAS** 4 , **VERY** 4 , **GREAT** 4 , **WORK** 4 , **US** 4 , **YES** 4 , **SOCIAL** 4 , **HATE** 4 , **ISN'T** 4 , **MOST** 4 , 
+**MERRY** 17 , **CHRISTMAS** 16 , **HAPPY** 11 , **BLESS** 10 , **GOD** 10 , **CONGRATS** 8 , **LOVE** 8 , **@CRYPTOOLDFELLA:** 8 , **SAITAMA** 8 , **SIR** 8 , **@WEARESAITAMA** 7 , **@CRYPTOOLDFELLA** 6 , **PLEASE** 6 , **RETWEET** 6 , **EVERYONE** 6 , **WINNER** 6 , **COME** 6 , **XMAS** 6 , **GOOD** 6 , **GO** 6 , 
  
 ## What this user tweeted
  
-Social media is - and always will be - an intelligence operation. We have entered into a perpetual state of informa… https://t.co/Vs5azfRowC
+@dataleum I need a job or a laptop to Start cybersecurity training!
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
