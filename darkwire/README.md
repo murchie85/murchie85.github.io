@@ -31,19 +31,19 @@ This… https://t.co/9kCO6ugG3G
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Tidex_Exchange: 🛡 Bug bounty program up to $10,000 rewards for Critical Vulnerabilities found on the HackenProof platform! 👉 Head to… |
-| @DonaldClark @EnglishOER The point of the experiment isn't that ChatG can do what scientists do but that the channe… https://t.co/BLijk6KXiG |
-| RT @intigriti: Have you ever heard of EAR vulnerabilities? 👂@Crypt0g30rgy used this technique to find some JUICY bugs on Intigriti! Now y… |
+| RT @jedisct1: Git security vulnerabilities announced. Time to upgrade! https://t.co/m6f1mpyucG |
+| RT @KanekoaTheGreat: 25/ In effect, the left was allowed to discuss the vulnerabilities of voting machines after the 2016 election, and the… |
+| RT @Kobs_Fifi: Social Protection helps to manage risks of the vulnerabilities.#socialprotectionug https://t.co/1YFhytNdDN |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **hackinarticles** |
-| #2 Most tweeted to  | **jaynormousse** |
+| #2 Most tweeted to  | **KanekoaTheGreat** |
 | #3 Most tweeted to  | **TheHackersNews** |
 | NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 6.04%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| Tweeters with < 10 followers  | 5.26%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -62,12 +62,12 @@ This… https://t.co/9kCO6ugG3G
 ## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jaynormousse: if your knee-jerk reaction to people's suffering is to condemn their wrong choices instead of the politicians who exploit… |
+|@Ibrahim_Shayan_ Hi, thanks for posting. When it comes to the schedule and release of security patch updates, we st… https://t.co/ebjm6y7CFs |
 
 ### MOST RETWEETED 
 
@@ -77,22 +77,226 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
 
 # Potential Fake Accounts
  
-# ArchRoyalKnightUSER INFO
-![image](http://pbs.twimg.com/profile_images/1614996085520621569/zNk3yfbM_normal.jpg)
+# reidfoundation_USER INFO
+![image](http://pbs.twimg.com/profile_images/1615558904796282880/XEg5x382_normal.png)
  
-`User ScreenName:` ArchRoyalKnight 
+`User ScreenName:` reidfoundation_ 
  
-`User chosen Name:` RoyalKnight 🇬🇧🐕‍🦺 
+`User chosen Name:` REID Foundation 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Jan 08 15:37:42 +0000 2023 
+`User signup date?:` Wed Jan 18 03:57:12 +0000 2023 
  
-`User Description?:` Keeping up with the lies and manipulations of malignant narcissistic Sussex royals - Harold and Me-Me-Meghan. The duped Sussexsquad call me BOT. 😳 
+`User Description?:` An organization of economic solutions experts that empowers our partners with complete reform packages that facilitate inclusive economic growth and development 
  
-`Followers?: `24 
+`Followers?: `2 
  
-`Following?:` 52 
+`Following?:` 6 
+ 
+`User URL?:` https://t.co/WeW7VqAiak 
+ 
+`Location:` Pasig City, National Capital Region 
+ 
+`Number of tweets extracted`  : 4 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615558904796282880/XEg5x382_normal.png 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@USAID_MANILA:** 3 , **DICT** 2 , **USAID** 2 , **SPEED** 2 , **REFRESHER** 1 , **WORKSHOP** 1 , **GOVERNMENT** 1 , **PROCUREMENT** 1 , **REFORM** 1 , **ACT** 1 , **(RA9184)** 1 , **REORIENT** 1 , **CENTRAL** 1 , **OFFICE** 1 , **(BATCH** 1 , **1)** 1 , **T…** 1 , **HTTPS://TCO/NBYT5CGHUQRT** 1 , **CONVENES** 1 , **SENIOR** 1 , 
+ 
+## What this user tweeted
+ 
+RT @usaid_manila: Watch! In Oct. 2022, USAID and PCTA, partnered with APNIC to improve cybersecurity capabilities, increase the adoption of…
+ 
+# AiAutomateUSER INFO
+![image](http://pbs.twimg.com/profile_images/1614480716187963393/qUwbat0D_normal.jpg)
+ 
+`User ScreenName:` AiAutomate 
+ 
+`User chosen Name:` ai automate your life 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Jan 14 09:50:26 +0000 2023 
+ 
+`User Description?:` Helping people receive news, tips and stay up to date with what is happening in AI and Automation and how it can benefit them. 
+ 
+`Followers?: `0 
+ 
+`Following?:` 8 
+ 
+`User URL?:` None 
+ 
+`Location:` Adelaide, Australia 
+ 
+`Number of tweets extracted`  : 200 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1614480716187963393/qUwbat0D_normal.jpg 
+ 
+`Number of tweets excluding replies:` 216 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**AI** 103 , **OPENAI** 67 , **CHATGPT** 62 , **NEW** 23 , **FUTURE** 21 , **MICROSOFT** 21 , **OPENAI'S** 19 , **WAY** 19 , **ITS** 18 , **AZURE** 18 , **USE** 16 , **TECH** 14 , **CHATBOT** 14 , **AI-POWERED** 13 , **TECHNOLOGY** 13 , **POTENTIAL** 12 , **AUTOMATION** 11 , **HELP** 11 , **TOOLS** 10 , **STEP** 10 , 
+ 
+## What this user tweeted
+ 
+Want to improve security in your business? Use AI to monitor for potential threats and identify vulnerabilities. #AI #Automation #Security
+ 
+# MedFadil6USER INFO
+![image](http://pbs.twimg.com/profile_images/1615523688224284675/tTxpwyh8_normal.png)
+ 
+`User ScreenName:` MedFadil6 
+ 
+`User chosen Name:` Med Fadil 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 18 01:37:16 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 1 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615523688224284675/tTxpwyh8_normal.png 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@DORADUS_IO:** 2 , **15** 2 , **RT** 1 , **🟢** 1 , **SUCCESSFULLY** 1 , **PASSED** 1 , **AUDIT** 1 , **QUILLAUDIT** 1 , **IDENTIFIED** 1 , **ANY** 1 , **SERIOUS** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/…RT** 1 , **✅** 1 , **PUBLISH** 1 , **REPORT** 1 , **BILLING** 1 , **PERIOD** 1 , **DECEMBER** 1 , **2022** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Doradus_io: 🟢 We have successfully passed the audit from QuillAudit and have not identified any serious vulnerabilities.
+
+https://t.co/…
+ 
+# ClaraCl23433098USER INFO
+![image](http://pbs.twimg.com/profile_images/1615504100975689729/UNIbFqeI_normal.jpg)
+ 
+`User ScreenName:` ClaraCl23433098 
+ 
+`User chosen Name:` Clara Clinton 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 18 00:12:49 +0000 2023 
+ 
+`User Description?:` Manchester United Daughter 🔴💯
+
+From Alaska 
+ 
+`Followers?: `4 
+ 
+`Following?:` 28 
+ 
+`User URL?:` None 
+ 
+`Location:` United States 
+ 
+`Number of tweets extracted`  : 3 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615504100975689729/UNIbFqeI_normal.jpg 
+ 
+`Number of tweets excluding replies:` 4 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@POTUS** 1 , **GOOD** 1 , **PRESIDENT** 1 , **GOT** 1 , **HAND** 1 , **✋RT** 1 , **@UN:** 1 , **NUMBER** 1 , **JOURNALISTS** 1 , **KILLED** 1 , **WORLDWIDE** 1 , **SIGNIFICANTLY** 1 , **INCREASED** 1 , **2022** 1 , **LATEST** 1 , **UPDATE** 1 , **@UNESCO** 1 , **HIGHLIGHTS** 1 , **GRAVE** 1 , **RISKS…NEWPROFILEPIC** 1 , 
+ 
+## What this user tweeted
+ 
+RT @UN: The number of journalists killed worldwide significantly increased in 2022. 
+
+Latest update from @UNESCO highlights the grave risks…
+ 
+# alexjohnemerso1USER INFO
+![image](http://pbs.twimg.com/profile_images/1613328393474293760/C_HL8MAB_normal.jpg)
+ 
+`User ScreenName:` alexjohnemerso1 
+ 
+`User chosen Name:` Dr. Alex John Emerson 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Thu Jan 12 00:03:32 +0000 2023 
+ 
+`User Description?:` I love the Lord - He is my strength! 
+ 
+`Followers?: `9 
+ 
+`Following?:` 455 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 156 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613328393474293760/C_HL8MAB_normal.jpg 
+ 
+`Number of tweets excluding replies:` 156 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@POTUS:** 55 , **@WHITEHOUSE:** 49 , **PRESIDENT** 26 , **–** 23 , **HOUSE** 16 , **FIRST** 16 , **INFLATION** 15 , **BIDEN** 14 , **YEARS** 14 , **@VP:** 14 , **DR** 14 , **TWO** 12 , **DOWN** 12 , **ADMINISTRATION** 12 , **ECONOMY** 11 , **JOBS** 11 , **PRIME** 10 , **MINISTER** 10 , **REPUBLICANS** 10 , **KING** 10 , 
+ 
+## What this user tweeted
+ 
+RT @UN: The number of journalists killed worldwide significantly increased in 2022. 
+
+Latest update from @UNESCO highlights the grave risks…
+ 
+# Chompoo42658971USER INFO
+![image](http://pbs.twimg.com/profile_images/1614274472617574402/3Esa1qtA_normal.jpg)
+ 
+`User ScreenName:` Chompoo42658971 
+ 
+`User chosen Name:` Chompoo🍐 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Jan 10 10:05:24 +0000 2023 
+ 
+`User Description?:` @jeffsatur🤍🤍🤍Thai-Chinese🇹🇭🇨🇳🇨🇵🇰🇷🏳️‍🌈
+For Work Please Contact https://t.co/aOOl1MOjpm 
+ 
+`Followers?: `4 
+ 
+`Following?:` 201 
  
 `User URL?:` None 
  
@@ -100,9 +304,9 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1614996085520621569/zNk3yfbM_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1614274472617574402/3Esa1qtA_normal.jpg 
  
-`Number of tweets excluding replies:` 838 
+`Number of tweets excluding replies:` 874 
  
 
  
@@ -110,38 +314,40 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**HAROLD** 27 , **HARRY** 18 , **@KAISERATCB** 16 , **WILLIAM** 14 , **MEGHAN** 11 , **PEOPLE** 11 , **DON'T** 11 , **@CODEIT** 9 , **MAKE** 9 , **THAT'S** 9 , **SPARE** 9 , **@YOUREALLMAD** 9 , **@MEGHANHARRYCA** 9 , **NEVER** 8 , **JEALOUS** 8 , **QUEEN** 7 , **ROYAL** 7 , **MUCH** 7 , **RACIST** 6 , **THAN** 6 , 
+**:** 18 , **@WORLDMUSICAWARD:** 16 , **@JEFFSATUR** 10 , **/** 10 , **JEFFSATUR** 9 , **BTS** 9 , **@MINDSNAME:** 9 , **FEB** 8 , **@PUSATUR:** 8 , **JIMIN** 7 , **AMBASSADOR** 7 , **HAPPY** 6 , **@SATURGXMS:** 6 , **JENNIE** 6 , **@SARANGYOURFUTU1:** 6 , **STAR** 5 , **FASHION** 5 , **2** 5 , **DIOR** 5 , **;** 5 , 
  
 ## What this user tweeted
  
-@Nessie13Nessie I think he nailed it right. That's what we all feel. It's extremely cruel and villainous for someon… https://t.co/HQ3KB0RHum
+RT @UN: The number of journalists killed worldwide significantly increased in 2022. 
+
+Latest update from @UNESCO highlights the grave risks…
  
-# YoriBakUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611729717215875073/0C3TzwBb_normal.png)
+# irinagonar42USER INFO
+![image](http://pbs.twimg.com/profile_images/1614230708611866624/tS5vpRD0_normal.png)
  
-`User ScreenName:` YoriBak 
+`User ScreenName:` irinagonar42 
  
-`User chosen Name:` Bak Yori 
+`User chosen Name:` ирина гончар 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 14:21:23 +0000 2023 
+`User signup date?:` Sat Jan 14 11:59:26 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `8 
+`Followers?: `5 
  
-`Following?:` 140 
+`Following?:` 17 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 19 
+`Number of tweets extracted`  : 4 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1611729717215875073/0C3TzwBb_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1614230708611866624/tS5vpRD0_normal.png 
  
-`Number of tweets excluding replies:` 19 
+`Number of tweets excluding replies:` 4 
  
 
  
@@ -149,7 +355,128 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJEC
  
 ## User Top tweeted words 
  
-**🎨** 9 , **OSCP** 6 , **INFOSEC** 5 , **CYBERSECURITY** 5 , **PENTESTING** 5 , **REDTEAM** 4 , **@SHUBHAM_PEN:** 4 , **LINUX** 4 , **DESIGN** 4 , **1** 3 , **2** 3 , **INFORMATIONSECURITY** 3 , **HACKING** 3 , **CISSP** 3 , **COMMANDS** 3 , **TOOLS** 3 , **DE** 3 , **PRACTICE** 2 , **3** 2 , **12** 2 , 
+**@DORADUS_IO:** 4 , **TASKS** 2 , **AVAILABLE** 2 , **15** 2 , **RT** 1 , **🎁** 1 , **NEW** 1 , **COMPLETING** 1 , **SOME** 1 , **PLANET** 1 , **REWARD** 1 , **GETDOGE** 1 , **REWARDSPOINTS** 1 , **P2E…RT** 1 , **PLAYTOEARN** 1 , **BSC** 1 , **NFTGIVEAWAYS** 1 , **DORADUS** 1 , **TEAM** 1 , **REGULARLY** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Doradus_io: 🟢 We have successfully passed the audit from QuillAudit and have not identified any serious vulnerabilities.
+
+https://t.co/…
+ 
+# GrebenukDmitroUSER INFO
+![image](http://pbs.twimg.com/profile_images/1614710488650194945/3r3CwpWO_normal.jpg)
+ 
+`User ScreenName:` GrebenukDmitro 
+ 
+`User chosen Name:` Дмитро Гребенюк 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Jan 15 19:45:54 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `0 
+ 
+`Following?:` 2 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 2 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1614710488650194945/3r3CwpWO_normal.jpg 
+ 
+`Number of tweets excluding replies:` 2 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**RT** 1 , **@DORADUS_IO:** 1 , **🟢** 1 , **SUCCESSFULLY** 1 , **PASSED** 1 , **AUDIT** 1 , **QUILLAUDIT** 1 , **IDENTIFIED** 1 , **ANY** 1 , **SERIOUS** 1 , **VULNERABILITIES** 1 , **HTTPS://TCO/…RT** 1 , **@KAIF_PLATFORM:** 1 , **TEAM** 1 , **COMMUNITY** 1 , **HARD** 1 , **WORK** 1 , **WEEK** 1 , **LOTS** 1 , **AWESOME** 1 , 
+ 
+## What this user tweeted
+ 
+RT @Doradus_io: 🟢 We have successfully passed the audit from QuillAudit and have not identified any serious vulnerabilities.
+
+https://t.co/…
+ 
+# cook05183315USER INFO
+![image](http://pbs.twimg.com/profile_images/1615021387680202753/8pnlnkqZ_normal.png)
+ 
+`User ScreenName:` cook05183315 
+ 
+`User chosen Name:` Les Cook 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Jan 16 16:21:18 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 56 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 52 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1615021387680202753/8pnlnkqZ_normal.png 
+ 
+`Number of tweets excluding replies:` 52 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@KANEKOATHEGREAT:** 32 , **CENSORSHIP** 6 , **@ELONMUSK** 5 , **ELECTION** 5 , **TRUMP** 4 , **2020** 4 , **ATLANTIC** 4 , **STARBIRD** 4 , **CISA** 4 , **SPEECH** 3 , **2016** 3 , **VOTING** 3 , **EIP** 3 , **US** 3 , **FACEBOOK** 3 , **DHS** 3 , **BROOKIE** 3 , **DISINFORMATION** 3 , **NETWORK** 3 , **TIME** 2 , 
+ 
+## What this user tweeted
+ 
+RT @KanekoaTheGreat: 25/ In effect, the left was allowed to discuss the vulnerabilities of voting machines after the 2016 election, and the…
+ 
+# g4mb01USER INFO
+![image](http://pbs.twimg.com/profile_images/1613271459412975629/kShFdL7F_normal.jpg)
+ 
+`User ScreenName:` g4mb01 
+ 
+`User chosen Name:` Gambo 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Wed Jan 11 20:27:43 +0000 2023 
+ 
+`User Description?:`  
+ 
+`Followers?: `5 
+ 
+`Following?:` 58 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 13 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1613271459412975629/kShFdL7F_normal.jpg 
+ 
+`Number of tweets excluding replies:` 13 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**@AISHA_NASSEER:** 3 , **MANY** 3 , **MUSLIM** 3 , **SAW❤️❤️** 3 , **CYBERSECURITY** 2 , **BEFORE** 2 , **SECURITY** 2 , **INTERNET** 2 , **RT** 1 , **@HACKINARTICLES:** 1 , **SEARCH** 1 , **ENGINE** 1 , **PENTESTERS** 1 , **INFOSEC** 1 , **CYBERSECURITYTIPS** 1 , **PENTESTING** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURIT…RT** 1 , **HTTPS://TCO/JXAICJJKCXRT** 1 , 
  
 ## What this user tweeted
  
@@ -157,32 +484,32 @@ RT @hackinarticles: Search Engine for Pentesters
 
 #infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurit…
  
-# frogpiggyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1614275146449051648/gXE21dzG_normal.jpg)
+# Vitalij86605740USER INFO
+![image](http://pbs.twimg.com/profile_images/1615339728114487298/sTvJG7vP_normal.png)
  
-`User ScreenName:` frogpiggy 
+`User ScreenName:` Vitalij86605740 
  
-`User chosen Name:` BOOTSTRAP PARADOX 
+`User chosen Name:` Vitaliy 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 07 10:29:37 +0000 2023 
+`User signup date?:` Tue Jan 17 13:26:17 +0000 2023 
  
-`User Description?:` Software engineer💻,Tech Guy 💫💻,account recovery | spying | iCloud ID | Crypto | and all social media services | DM 247. 
+`User Description?:` Cybersecurity enthusiast and advocate. Dedicated to raising awareness and educating the public on the importance of online security. #Cybersecurity #InfoSec 
  
-`Followers?: `12 
+`Followers?: `1 
  
-`Following?:` 2 
+`Following?:` 8 
  
 `User URL?:` None 
  
-`Location:` United States 
+`Location:`  
  
-`Number of tweets extracted`  : 200 
+`Number of tweets extracted`  : 2 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1614275146449051648/gXE21dzG_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1615339728114487298/sTvJG7vP_normal.png 
  
-`Number of tweets excluding replies:` 222 
+`Number of tweets excluding replies:` 2 
  
 
  
@@ -190,30 +517,28 @@ RT @hackinarticles: Search Engine for Pentesters
  
 ## User Top tweeted words 
  
-**ACCOUNT** 89 , **HACKED** 65 , **SNAPCHAT** 59 , **HACKING** 51 , **INBOX** 50 , **HACK** 44 , **AVAILABLE** 38 , **DM** 36 , **RECOVER** 35 , **24/7** 32 , **I'M** 24 , **HACKER** 23 , **RECOVERY** 23 , **DE** 22 , **SNAP** 22 , **ANY** 21 , **HELP** 21 , **INSTAGRAM** 20 , **SERVICES** 20 , **ICLOUD** 19 , 
+**KASLR** 2 , **KERNEL** 2 , **EXPLOIT** 2 , **FEATURE** 1 , **ARRANGES** 1 , **MEMORY** 1 , **LAYOUT** 1 , **MAKE** 1 , **HARDER** 1 , **LOCATE** 1 , **VULNERABILITIES…** 1 , **HTTPS://TCO/JHUUBBOOHYRT** 1 , **@0XOR0NE:** 1 , **COOL** 1 , **WRITEUP** 1 , **CVE-2022-4543:** 1 , **BYPASS** 1 , **INTEL** 1 , **BASED** 1 , **SYSTEMS** 1 , 
  
 ## What this user tweeted
  
-Recovery of all accounts, you can message me
-#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam… https://t.co/yMF0oQaxF4(Recovery of all accounts, you can message me
-#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam… https://t.co/ZJx3mMqboD
+KASLR feature that arranges the memory layout of the kernel to make it harder to locate and exploit vulnerabilities… https://t.co/JHuUbBOohy
  
-# FaizanK65809043USER INFO
-![image](http://pbs.twimg.com/profile_images/1614173689108471809/Vsn1cLQb_normal.png)
+# ArchRoyalKnightUSER INFO
+![image](http://pbs.twimg.com/profile_images/1615337353685667840/uolX1kzI_normal.jpg)
  
-`User ScreenName:` FaizanK65809043 
+`User ScreenName:` ArchRoyalKnight 
  
-`User chosen Name:` Faizan Khan 
+`User chosen Name:` RoyalKnight 🇬🇧🐕‍🦺🇺🇸 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sat Jan 14 08:12:51 +0000 2023 
+`User signup date?:` Sun Jan 08 15:37:42 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Keeping up with the lies and manipulations of malignant narcissistic Sussex royals - Harold and Me-Me-Meghan. The duped Sussexsquad call me BOT. 😳 
  
-`Followers?: `0 
+`Followers?: `31 
  
-`Following?:` 2 
+`Following?:` 55 
  
 `User URL?:` None 
  
@@ -221,48 +546,9 @@ Recovery of all accounts, you can message me
  
 `Number of tweets extracted`  : 200 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1614173689108471809/Vsn1cLQb_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1615337353685667840/uolX1kzI_normal.jpg 
  
-`Number of tweets excluding replies:` 380 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NIMRITAHLUWALIA** 177 , **@VOOTSELECT** 176 , **@ARCHANAGAUTAMM** 175 , **@IAMTINADATTA** 175 , **@SHALINBHANOT** 175 , **@SOUNDARYA_20** 175 , **@FAIZANK55418866:** 100 , **@NIMRITTM:** 82 , **NIMRITISTHEBOSS** 81 , **…RT** 29 , **NIMRITISTHEBOSS…RT** 21 , **N…RT** 20 , **NIMRITKAURAHLUWALIA** 19 , **FIFTY** 10 , **SIXTY** 10 , **NIMRI…RT** 10 , **SEVENTY** 10 , **EIGHTY** 10 , **FORTY** 10 , **THIRTY** 10 , 
- 
-## What this user tweeted
- 
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# FaizanK70375024USER INFO
-![image](http://pbs.twimg.com/profile_images/1612366091463925767/ScrLfGLt_normal.png)
- 
-`User ScreenName:` FaizanK70375024 
- 
-`User chosen Name:` Faizan Khan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 09 08:30:06 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 2 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1612366091463925767/ScrLfGLt_normal.png 
- 
-`Number of tweets excluding replies:` 734 
+`Number of tweets excluding replies:` 973 
  
 
  
@@ -270,249 +556,11 @@ RT @NimritTM: People can say whatever they want to say .. for them definition of
  
 ## User Top tweeted words 
  
-**@NIMRITAHLUWALIA** 177 , **@VOOTSELECT** 176 , **@ARCHANAGAUTAMM** 175 , **@IAMTINADATTA** 175 , **@SHALINBHANOT** 175 , **@SOUNDARYA_20** 175 , **@FAIZANK55418866:** 100 , **@NIMRITTM:** 82 , **NIMRITISTHEBOSS** 81 , **…RT** 29 , **NIMRITISTHEBOSS…RT** 21 , **N…RT** 20 , **NIMRITKAURAHLUWALIA** 19 , **NIMRI…RT** 10 , **EIGHTY** 10 , **SEVENTY** 10 , **SIXTY** 10 , **FIFTY** 10 , **FORTY** 10 , **THIRTY** 10 , 
+**HAROLD** 24 , **MEGHAN** 23 , **@KAISERATCB** 18 , **TODGER** 13 , **HARRY** 13 , **PRINCE** 11 , **SPARE** 10 , **@JADEDCREATIVE** 10 , **THAT'S** 9 , **@CODEIT** 9 , **WILLIAM** 8 , **@YOUREALLMAD** 8 , **QUITE** 7 , **CARE** 7 , **@HARRYTHRIVING** 7 , **ROYAL** 6 , **AFTER** 6 , **BEING** 6 , **I'M** 6 , **NEVER** 6 , 
  
 ## What this user tweeted
  
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# NimritisbossUSER INFO
-![image](http://pbs.twimg.com/profile_images/1611670483543511040/R7tqqtBz_normal.jpg)
- 
-`User ScreenName:` Nimritisboss 
- 
-`User chosen Name:` Nimrit 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 07 10:04:27 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 4 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1611670483543511040/R7tqqtBz_normal.jpg 
- 
-`Number of tweets excluding replies:` 794 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@NIMRITAHLUWALIA** 177 , **@VOOTSELECT** 176 , **@ARCHANAGAUTAMM** 175 , **@IAMTINADATTA** 175 , **@SHALINBHANOT** 175 , **@SOUNDARYA_20** 175 , **@FAIZANK55418866:** 100 , **@NIMRITTM:** 82 , **NIMRITISTHEBOSS** 81 , **…RT** 29 , **NIMRITISTHEBOSS…RT** 21 , **N…RT** 20 , **NIMRITKAURAHLUWALIA** 19 , **FIFTY** 10 , **SIXTY** 10 , **NIMRI…RT** 10 , **SEVENTY** 10 , **EIGHTY** 10 , **FORTY** 10 , **THIRTY** 10 , 
- 
-## What this user tweeted
- 
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# EraMaskmanUSER INFO
-![image](http://pbs.twimg.com/profile_images/1614311636780879872/3AZyZlZi_normal.png)
- 
-`User ScreenName:` EraMaskman 
- 
-`User chosen Name:` Maskman Era 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 14 17:21:00 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 13 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1614311636780879872/3AZyZlZi_normal.png 
- 
-`Number of tweets excluding replies:` 604 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@VOOTSELECT** 138 , **@NIMRITAHLUWALIA** 104 , **@ARCHANAGAUTAMM** 103 , **@IAMTINADATTA** 103 , **@SHALINBHANOT** 103 , **@SOUNDARYA_20** 103 , **NIMRITISTHEBOSS** 63 , **NIMRITKAURAHLUWALIA** 55 , **NIMRIT** 52 , **@MAK_427:** 35 , **BEST** 33 , **@NIMRITTM:** 25 , **NIMRITKAURAHLUWALIART** 16 , **NIMRITISTHEBOSSRT** 14 , **@SHRUTIMODISM5:** 9 , **@ZT_PRODUCTION:** 8 , **@BIGGBOSS_TAK** 8 , **HAI** 8 , **@SHRUTIM1119:** 8 , **@AYESHARAAT:** 8 , 
- 
-## What this user tweeted
- 
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# ani66884033USER INFO
-![image](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
- 
-`User ScreenName:` ani66884033 
- 
-`User chosen Name:` ani 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Jan 07 13:24:53 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 36 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png 
- 
-`Number of tweets excluding replies:` 793 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NIMRITKAURAHLUWALIA** 67 , **SHIVRIT** 41 , **SHIVTHAKARE** 38 , **NIMRIT** 31 , **BIGGBOSS16** 23 , **@SHARAIANS:** 21 , **PLAYER** 19 , **LOVE** 17 , **@CHAKRAWAR_ONKAR:** 16 , **ACE** 16 , **NIMDU** 16 , **SUMBULTOUQEERKHAN** 15 , **HAI** 15 , **ABDUROZIK** 14 , **KO** 13 , **SHIBDU** 13 , **U** 13 , **BB16** 12 , **SHIV** 12 , **ABDU** 12 , 
- 
-## What this user tweeted
- 
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# AnabiaA97670531USER INFO
-![image](http://pbs.twimg.com/profile_images/1614597343684489217/KI8wbp2U_normal.jpg)
- 
-`User ScreenName:` AnabiaA97670531 
- 
-`User chosen Name:` Anabia Ali 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Jan 08 09:26:08 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `33 
- 
-`Following?:` 79 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1614597343684489217/KI8wbp2U_normal.jpg 
- 
-`Number of tweets excluding replies:` 4913 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**NIMRITKAURAHLUWALIA** 86 , **NIMRIT** 40 , **SHIVRIT** 35 , **NIMRITISTHEBOSS** 29 , **NIMRITIANS** 24 , **HAI** 24 , **KO** 18 , **KI** 18 , **KE** 17 , **@DREAMERMUSINGS2:** 17 , **SHIVTHAKARE** 15 , **@ZT_PRODUCTION:** 13 , **MANDALI** 12 , **SE** 12 , **@MOHAMME77383441:** 11 , **BB16** 11 , **BHI** 9 , **BIGGBOSS16** 9 , **TINA** 9 , **MCSTAN** 8 , 
- 
-## What this user tweeted
- 
-RT @NimritTM: People can say whatever they want to say .. for them definition of strong is a louder voice and nonsensical fights however be…
- 
-# avallitemelodyUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613321457890721792/2-UNnLW0_normal.jpg)
- 
-`User ScreenName:` avallitemelody 
- 
-`User chosen Name:` Azura 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Jan 09 00:10:54 +0000 2023 
- 
-`User Description?:` Songstress and Princess. 
- 
-`Followers?: `44 
- 
-`Following?:` 41 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 126 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1613321457890721792/2-UNnLW0_normal.jpg 
- 
-`Number of tweets excluding replies:` 127 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**MEOW** 8 , **I'M** 7 , **DON'T** 6 , **LASLOW** 5 , **LITTLE** 5 , **X** 4 , **MAKE** 4 , **BEING** 4 , **PEOPLE** 4 , **COULD** 4 , **PET** 4 , **KID** 3 , **MEAN** 3 , **ODIN** 3 , **DIE** 3 , **ISN'T** 3 , **NEED** 3 , **EVEN** 3 , **DEAD** 3 , **HOSHIDO** 3 , 
- 
-## What this user tweeted
- 
-"Neither Nohrians nor Hoshidans have a liking towards me, and showing anything to them at all, any vulnerabilities.… https://t.co/syTekNtZJK
- 
-# CyberIsabellaUSER INFO
-![image](http://pbs.twimg.com/profile_images/1613082937083273216/T8GX-P_s_normal.jpg)
- 
-`User ScreenName:` CyberIsabella 
- 
-`User chosen Name:` Isabella Ward 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Jan 10 14:54:46 +0000 2023 
- 
-`User Description?:` security researcher❤❤
-python developer👩‍💻
-cyclist🚴‍♀️ 
- 
-`Followers?: `2 
- 
-`Following?:` 15 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 5 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1613082937083273216/T8GX-P_s_normal.jpg 
- 
-`Number of tweets excluding replies:` 5 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**PENTESTING** 2 , **WINDOWS** 2 , **LIST** 1 , **AWESOME** 1 , **PEN** 1 , **TEAMING** 1 , **RESOURCES** 1 , **OSINT** 1 , **HTTPS://TCO/NZ1DOEEIRDRT** 1 , **@HACKINARTICLES:** 1 , **NMAP** 1 , **QUICK** 1 , **REFERENCE** 1 , **GUDIE** 1 , **INFOSEC** 1 , **CYBERSECURITY** 1 , **CYBERSECURITYTIPS** 1 , **OSCP** 1 , **REDTEAM** 1 , **INFORMATIONSECURITY…NEW** 1 , 
- 
-## What this user tweeted
- 
-RT @hackinarticles: Nmap Quick Reference Gudie
-
-#infosec #cybersecurity #cybersecuritytips #pentesting #oscp #redteam #informationsecurity…
+@Nessie13Nessie I think he nailed it right. That's what we all feel. It's extremely cruel and villainous for someon… https://t.co/HQ3KB0RHum
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
