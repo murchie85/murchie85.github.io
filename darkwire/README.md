@@ -1,22 +1,20 @@
 # DARKWIRE SOCIAL CYBER INSIGHTS 
-&#x1F34E; **TOPIC = "vulnerabilities"**
+&#x1F34E; **TOPIC = "cybersecurity"**
 
 ## AUTOMATED RESEARCH SUMMARY
   ![image](darkLogo.png)   
 
 |  Trending  |   Images | 
 :-------------------------:|:-------------------------:
-|  ![image](assets/vulnerabilities/imageFile1.jpg)     <img width=200/> | ![image](assets/vulnerabilities/imageFile2.jpg) <img width=200/> |   
+|  ![image](assets/cybersecurity/imageFile1.jpg)     <img width=200/> | ![image](assets/cybersecurity/imageFile2.jpg) <img width=200/> |   
  
  
-![image](assets/vulnerabilities/TWEETS.png)
+![image](assets/cybersecurity/TWEETS.png)
 <br></br>
-The most popular user is: **QuaiNetwork**  
+The most popular user is: **mtaibbi**  
  
 
-## Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of… https://t.co/QX5nMfPBHU 
+## 43.VP would later say it partnered with “several government agencies,” including the Office of the Surgeon General… https://t.co/SSJa9D30H3 
 
   
 
@@ -25,25 +23,25 @@ Learn the vulnerabilities of… https://t.co/QX5nMfPBHU
 
 ### TRENDING SHARED IMAGE
 
-![image](assets/vulnerabilities/twitterPostedImage.png)
+![image](assets/cybersecurity/twitterPostedImage.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Just-In: Critical Vulnerabilities in iOS and macOS Risks##crypto Assets Losshttps://t.co/EOz1iN6RYS https://t.co/zyWUM3Kld0 |
-| RT @0dayCTF: Easily Decompile APK's &amp; Scan For Vulnerabilities-QuadraInspects framework integrates Andropass, APKUtil, and MobFS to autom… |
-| RT @sushma12346: I have respect for artists/celebrities who never bother to shy away showing their vulnerabilities to audience rather proje… |
+| Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect https://t.co/bbPqdIQyz4… https://t.co/s4OlEBLAMv |
+| RT @DeLanceCrockett: Cybercriminals are thoughtful about ransomware attacks, taking time to maximize your organization's potential damage &amp;… |
+| Focusing on the apps, data, and processes that mean most to the business can reduce risk and save money.… https://t.co/i1Z3P5kTgZ |
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **QuaiNetwork** |
-| #2 Most tweeted to  | **mechanikalk** |
-| #3 Most tweeted to  | **WuBlockchain** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 7.52%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **4n6lady** |
+| #2 Most tweeted to  | **hackinarticles** |
+| #3 Most tweeted to  | **BowTiedCyber** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 5.4%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -52,294 +50,55 @@ Learn the vulnerabilities of… https://t.co/QX5nMfPBHU
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VULNERABILITIES**  |
-| second  | **QUAI**  |
-| third  | **LEARN** |
-| fourth  | **CO-FOUNDER**  |
-| fifth  | **WATCHED**  |
+| first  | **INFOSEC**  |
+| second  | **US**  |
+| third  | **DATA** |
+| fourth  | **TEAM**  |
+| fifth  | **INFOSECURITY**  |
 
 
-## Twitter Bio Analysis![image](assets/vulnerabilities/BIO.png)
+## Twitter Bio Analysis![image](assets/cybersecurity/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/vulnerabilities/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (45.45%) & **NEGATIVELY-SUBJECTIVE** (27.27%) **OBJECTIVE** (27.27%)
+![image](assets/cybersecurity/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?Learn the vulnerabilities of all ex… |
+|Allen &amp; Overy welcomes top data privacy and cybersecurity partner Helen Christakos https://t.co/NYF0hfksaz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QuaiNetwork**  |
+| The most retweeted user is: **mtaibbi**  |
 | ------------- |
-| Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?Learn the vulnerabilities of… https://t.co/QX5nMfPBHU |
+| 43.VP would later say it partnered with “several government agencies,” including the Office of the Surgeon General… https://t.co/SSJa9D30H3 |
 
 # Potential Fake Accounts
  
-# KhalidBinShamsUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646488740309680129/xP34ryxd_normal.jpg)
+# creeptoolUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648355925290516485/6KD5idfS_normal.jpg)
  
-`User ScreenName:` KhalidBinShams 
+`User ScreenName:` creeptool 
  
-`User chosen Name:` Khalid Bin Shams 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 13 12:16:40 +0000 2023 
- 
-`User Description?:` Banker 
- 
-`Followers?: `3 
- 
-`Following?:` 3 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 195 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646488740309680129/xP34ryxd_normal.jpg 
- 
-`Number of tweets excluding replies:` 221 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**DE** 17 , **يوتيوب** 14 , **من** 13 , **بريميوم** 12 , **CHECK** 11 , **CRYPTO** 11 , **و** 9 , **الباقة** 9 , **اعلانات** 9 , **CAMPAIGN** 8 , **√** 8 , **@STRUSTORG:** 7 , **LOOKING** 7 , **BOX** 7 , **RED** 7 , **PACKET** 7 , **VIP** 7 , **ريال** 7 , **NFT** 7 , **اليوتيوب** 7 , 
- 
-## What this user tweeted
- 
-RT @SolidityFinance: 📣We have completed the Smart Contract Audit for the @ShanghaiInu contract!
-
-⚪️New ERC-20 token on Ethereum mainnet.
-🔵N…
- 
-# RebeccaKas23007USER INFO
-![image](http://pbs.twimg.com/profile_images/1648108226540363776/HFdzuGdl_normal.jpg)
- 
-`User ScreenName:` RebeccaKas23007 
- 
-`User chosen Name:` Help Stop Human Trafficking 
+`User chosen Name:` 🤖 TheCreeptool 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Wed Apr 12 10:42:37 +0000 2023 
+`User signup date?:` Tue Apr 11 22:34:51 +0000 2023 
  
-`User Description?:` Educating Our Global World While Spreading Awareness on Human Trafficking. Working To Stop Human Trafficking and Smuggling across our Nation. Join My Fight 
+`User Description?:` Your go-to bot for all things tech, blockchain, and AI. Let's explore the future together! 
  
-`Followers?: `234 
+`Followers?: `65 
  
-`Following?:` 1347 
- 
-`User URL?:` None 
- 
-`Location:` Florida, USA 
- 
-`Number of tweets extracted`  : 38 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648108226540363776/HFdzuGdl_normal.jpg 
- 
-`Number of tweets excluding replies:` 38 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**HUMAN** 29 , **TRAFFICKING** 28 , **CHILDREN** 8 , **AWARENESS** 7 , **YOUNG** 6 , **CHILD** 6 , **EDUCATE** 6 , **RETWEET** 5 , **MUST** 5 , **SPREAD** 5 , **FOLLOW** 4 , **TWEET** 4 , **STOP** 4 , **STOPING** 4 , **VICTIMS** 4 , **WOMEN** 4 , **IMPORTANT** 4 , **STOPPING** 3 , **HELP** 3 , **WORLD** 3 , 
- 
-## What this user tweeted
- 
-RT @UNODC_HTMSS: Traffickers mainly focus on 6⃣ vulnerabilities, but there are more which can lead people to become victims of #HumanTraffi…
- 
-# SchwimSchwim920USER INFO
-![image](http://pbs.twimg.com/profile_images/1646610686594744320/-wnFIuVq_normal.png)
- 
-`User ScreenName:` SchwimSchwim920 
- 
-`User chosen Name:` Schwim 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Thu Apr 13 20:25:54 +0000 2023 
- 
-`User Description?:` Last time I looked, we were free to discuss issues we want to discuss? 
- 
-`Followers?: `35 
- 
-`Following?:` 14 
+`Following?:` 426 
  
 `User URL?:` None 
  
-`Location:`  
- 
-`Number of tweets extracted`  : 122 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646610686594744320/-wnFIuVq_normal.png 
- 
-`Number of tweets excluding replies:` 122 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@HELENASHBY72** 39 , **VULNERABLE** 19 , **PEOPLE** 15 , **@OTHER_MRS** 13 , **PRIVACY** 12 , **PRIVATE** 11 , **PERSON** 8 , **SOCIAL** 7 , **WORLD** 7 , **PPL** 7 , **MOTHER** 7 , **CONCERNS** 7 , **I'M** 6 , **T…** 6 , **ACCOUNT** 6 , **ISSUES** 6 , **DAUGHTER** 6 , **BEHAVIOUR** 5 , **DEFINITELY** 5 , **TWITTER** 5 , 
- 
-## What this user tweeted
- 
-@lauraAn54074147 If people are labelled as vulnerable everyday by their family and their family swamp social media… https://t.co/fuVkJ1aQsh
- 
-# Elonmusk5112USER INFO
-![image](http://pbs.twimg.com/profile_images/1648406209022644224/F2NvVms2_normal.jpg)
- 
-`User ScreenName:` Elonmusk5112 
- 
-`User chosen Name:` Elon Musk 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 18 19:06:37 +0000 2023 
- 
-`User Description?:` Nothing 
- 
-`Followers?: `2 
- 
-`Following?:` 12 
- 
-`User URL?:` None 
- 
-`Location:` A shortfall of gravitas  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648406209022644224/F2NvVms2_normal.jpg 
- 
-`Number of tweets excluding replies:` 306 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@ELONMUSK:** 161 , **@SPACEX:** 23 , **TWITTER** 16 , **→** 8 , **FALCON** 8 , **LAUNCH** 8 , **…** 7 , **VERIFIED** 7 , **STARLINK** 6 , **STAGE** 6 , **SOURCE** 6 , **I’M** 6 , **DRAGON** 5 , **AI** 5 , **PEOPLE** 5 , **OPEN** 5 , **FOLLOW** 5 , **ACCOUNTS** 5 , **MOST** 5 , **FIRST** 5 , 
- 
-## What this user tweeted
- 
-RT @elonmusk: Caused by expired ground station cert. We’re scrubbing the system for other single-point vulnerabilities.
- 
-# D_lfc_SurvivorUSER INFO
-![image](http://pbs.twimg.com/profile_images/1647608451604926465/upf6J0FZ_normal.jpg)
- 
-`User ScreenName:` D_lfc_Survivor 
- 
-`User chosen Name:` D-lfc-Survivor 🇮🇪 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sat Apr 15 22:29:45 +0000 2023 
- 
-`User Description?:` Liverpool Fc mad•#JFT97•YNWA🔴 
- 
-`Followers?: `55 
- 
-`Following?:` 119 
- 
-`User URL?:` None 
- 
-`Location:` All over the place. 
- 
-`Number of tweets extracted`  : 184 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647608451604926465/upf6J0FZ_normal.jpg 
- 
-`Number of tweets excluding replies:` 184 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@LFC:** 13 , **😂** 12 , **ACCOUNT** 7 , **@CELTICNOTORIOUS:** 7 , **@BRIANCANAVAN1:** 6 , **DONE** 5 , **MAN** 5 , **ABUSE** 5 , **MADE** 5 , **DAY** 5 , **@GRIPTMEDIA:** 5 , **@SCOTTYGOESAGAIN:** 5 , **@JULIANNAJ3** 5 , **WON'T** 4 , **THANK** 4 , **CHILD** 4 , **PEOPLE** 4 , **MEN** 4 , **THEMSELVES** 4 , **SEX** 4 , 
- 
-## What this user tweeted
- 
-RT @defendsurvivors: Why do child sexual abuse survivors feel like there was something about them that made this happen? Because CSA ‘preve…
- 
-# Aleeyu774USER INFO
-![image](http://pbs.twimg.com/profile_images/1648362399244730369/bbhpev7v_normal.png)
- 
-`User ScreenName:` Aleeyu774 
- 
-`User chosen Name:` Abdullahi Aliyu 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Tue Apr 18 16:26:35 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `0 
- 
-`Following?:` 7 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 101 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1648362399244730369/bbhpev7v_normal.png 
- 
-`Number of tweets excluding replies:` 101 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 94 , **QUAI** 72 , **@QUAINETWORK** 19 , **NETWORK** 18 , **@MECHANIKALK** 13 , **IRON** 10 , **PROOF-OF-WORK** 10 , **CO-FOUNDER** 9 , **UNIVERSITY** 9 , **POEM** 9 , **COMMUNITY** 8 , **AGE** 8 , **TESTNET** 8 , **CONSENSUS** 8 , **CALL** 8 , **4** 8 , **NEW** 7 , **➡️** 6 , **JOIN** 6 , **SOCIAL** 6 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# IChykunov96244USER INFO
-![image](http://pbs.twimg.com/profile_images/1647551592349007872/oEE8fAis_normal.png)
- 
-`User ScreenName:` IChykunov96244 
- 
-`User chosen Name:` Ihor Chykunov 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 16 10:44:44 +0000 2023 
- 
-`User Description?:` TastyMucus 
- 
-`Followers?: `2 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:`  
+`Location:` TheMetaverse 
  
 `Number of tweets extracted`  : 22 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1647551592349007872/oEE8fAis_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1648355925290516485/6KD5idfS_normal.jpg 
  
 `Number of tweets excluding replies:` 22 
  
@@ -349,40 +108,38 @@ Learn the vulnerabilities of all ex…
  
 ## User Top tweeted words 
  
-**QUAI** 20 , **@QUAINETWORK:** 16 , **@MECHANIKALK** 5 , **NETWORK** 3 , **LEARN** 3 , **UNIVERSITY** 3 , **5** 3 , **CO-FOUNDER** 3 , **@QUAINETWORK** 3 , **$QUAI** 3 , **SOCIAL** 2 , **REWARDS** 2 , **JOIN** 2 , **REMINDER** 2 , **CALL** 2 , **DISCORD!** 2 , **DOES** 2 , **AGE:** 2 , **PROOF-OF-WORK** 2 , **RT** 1 , 
+**ITS** 4 , **REVOLUTIONIZING** 4 , **SCALABILITY** 3 , **NEWS** 3 , **ENABLE** 2 , **PODCASTS** 2 , **NEW** 2 , **COULD** 2 , **SECURITY** 2 , **WAY** 2 , **NETWORK** 2 , **TECH** 1 , **INDUSTRY** 1 , **FULL** 1 , **INNOVATORS!** 1 , **@ELONMUSK** 1 , **@BILLGATES** 1 , **@GOOGLE** 1 , **@AMAZON** 1 , **@APPLE** 1 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
+Startup life in SF has its perks: moderate weather, great food, and the world’s largest concentration of venture ca… https://t.co/qtUCFFOTrL
  
-# nezu_kk40768USER INFO
-![image](http://pbs.twimg.com/profile_images/1648326908172435456/ZP_HRgkb_normal.png)
+# drw0011USER INFO
+![image](http://pbs.twimg.com/profile_images/1647932072013492224/KxKURV9Y_normal.png)
  
-`User ScreenName:` nezu_kk40768 
+`User ScreenName:` drw0011 
  
-`User chosen Name:` Usman Usman 
+`User chosen Name:` dreew dreew 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 18 14:05:33 +0000 2023 
+`User signup date?:` Mon Apr 17 11:56:37 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `3 
+`Followers?: `0 
  
-`Following?:` 160 
+`Following?:` 0 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 5 
+`Number of tweets extracted`  : 1 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648326908172435456/ZP_HRgkb_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1647932072013492224/KxKURV9Y_normal.png 
  
-`Number of tweets excluding replies:` 5 
+`Number of tweets excluding replies:` 1 
  
 
  
@@ -390,38 +147,38 @@ Learn the vulnerabilities of all ex…
  
 ## User Top tweeted words 
  
-**@OPENAI:** 4 , **@OPENAI** 1 , **NICERT** 1 , **ADDING** 1 , **SUPPORT** 1 , **PLUGINS** 1 , **CHATGPT** 1 , **EXTENSIONS** 1 , **WHICH** 1 , **INTEGRATE** 1 , **THIRD-PARTY** 1 , **SERVICES** 1 , **ALLOW** 1 , **ACCESS** 1 , **UP…RT** 1 , **BELIEVE** 1 , **NUMBER** 1 , **USERS** 1 , **WHOSE** 1 , **DATA** 1 , 
+**TELEGRAM** 2 , **–** 2 , **SENDER** 1 , **PRO** 1 , **V8740** 1 , **FULL** 1 , **ACTIVATED** 1 , **MARKETING** 1 , **DISCOUNT** 1 , **100%** 1 , **OFF** 1 , **HTTPS://TCO/RHNICDBIP2…** 1 , **HTTPS://TCO/WB1FWQ1JTL** 1 , 
  
 ## What this user tweeted
  
-RT @OpenAI: We're launching the OpenAI Bug Bounty Program — earn cash awards for finding &amp; responsibly reporting security vulnerabilities.…
+Telegram Sender Pro v8.7.4.0 Full Activated – Telegram Marketing – Discount 100% OFF https://t.co/rhnIcDbip2… https://t.co/wb1FWQ1jtL
  
-# RajNegi1990USER INFO
-![image](http://pbs.twimg.com/profile_images/1648243655797522435/4RNMKcxW_normal.jpg)
+# KodyLynwoodUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647130608311881728/Usxusjno_normal.jpg)
  
-`User ScreenName:` RajNegi1990 
+`User ScreenName:` KodyLynwood 
  
-`User chosen Name:` Raj Negi 
+`User chosen Name:` Lynwood Kody 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 18 08:34:44 +0000 2023 
+`User signup date?:` Sat Apr 15 06:49:54 +0000 2023 
  
 `User Description?:`  
  
-`Followers?: `1 
+`Followers?: `28 
  
-`Following?:` 3 
+`Following?:` 47 
  
 `User URL?:` None 
  
 `Location:`  
  
-`Number of tweets extracted`  : 3 
+`Number of tweets extracted`  : 22 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648243655797522435/4RNMKcxW_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647130608311881728/Usxusjno_normal.jpg 
  
-`Number of tweets excluding replies:` 3 
+`Number of tweets excluding replies:` 22 
  
 
  
@@ -429,24 +186,179 @@ RT @OpenAI: We're launching the OpenAI Bug Bounty Program — earn cash awards f
  
 ## User Top tweeted words 
  
-**QUAI** 5 , **@QUAINETWORK:** 3 , **CO-FOUNDER** 2 , **$QUAI** 2 , **RT** 1 , **DON'T** 1 , **FORGET** 1 , **JOIN** 1 , **DISCORD** 1 , **SET** 1 , **REMINDER** 1 , **UNIVERSITY** 1 , **CALL** 1 , **5** 1 , **@MECHANIKALK** 1 , **THIS…RT** 1 , **EARNING** 1 , **SOCIAL** 1 , **MEDIA** 1 , **REWARDS** 1 , 
+**ACCESSIBILITY** 4 , **AI** 4 , **TECHNOLOGY** 4 , **POSTED** 4 , **REDDIT** 4 , **USE** 3 , **INDUSTRY** 3 , **AVAILABLE** 3 , **SECURITY** 3 , **MOST** 3 , **VISUAL** 2 , **OVERALL** 2 , **GAME** 2 , **WORTH** 2 , **GENERATIVE** 2 , **CYBERSECURITY** 2 , **POTENTIAL** 2 , **AID** 2 , **ANTICIPATION** 2 , **QUANTUM** 2 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
+@ChrisMorga50424 the use of Generative AI in the cybersecurity industry has the potential to aid in the identificat… https://t.co/oqjWt33etk
  
-# LoiNguyen80ntlUSER INFO
-![image](http://pbs.twimg.com/profile_images/1648133538804551680/UirpNYKI_normal.png)
+# voluntee01USER INFO
+![image](http://pbs.twimg.com/profile_images/1647391351170818048/JK59EE8l_normal.jpg)
  
-`User ScreenName:` LoiNguyen80ntl 
+`User ScreenName:` voluntee01 
  
-`User chosen Name:` Loi Nguyen 
+`User chosen Name:` Diane Lee 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Tue Apr 18 01:17:10 +0000 2023 
+`User signup date?:` Sun Apr 16 00:07:59 +0000 2023 
+ 
+`User Description?:` MAGA 🇺🇸Second account, my first was stolen, I married a fighter pilot, I have 3 sons, 2 were pilots.❤️Trump, let’s bring our country back! 🇺🇸 🚫DM 
+ 
+`Followers?: `187 
+ 
+`Following?:` 441 
+ 
+`User URL?:` None 
+ 
+`Location:` Oklahoma, USA 
+ 
+`Number of tweets extracted`  : 11 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647391351170818048/JK59EE8l_normal.jpg 
+ 
+`Number of tweets excluding replies:` 11 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**ACCOUNT** 6 , **PICTURE** 4 , **OLD** 4 , **FOLLOWERS** 3 , **HACKER** 3 , **TIME** 2 , **AGO** 2 , **REMEMBER** 2 , **OTHER** 2 , **I’M** 2 , **NEW** 2 , **BACK** 2 , **FOLLOWED** 2 , **PLEASE** 2 , **DIDN’T** 2 , **POST** 2 , **@BILLYROGERLIFE** 1 , **LOVE** 1 , **LONG** 1 , **TOO** 1 , 
+ 
+## What this user tweeted
+ 
+Btw I know who my hackers are and so does cybersecurity and the FBI, it’s just a matter of time before they are cau… https://t.co/KCWYKSjnVS
+ 
+# Architect392043USER INFO
+![image](http://pbs.twimg.com/profile_images/1647045944293355520/GiSmu0ka_normal.png)
+ 
+`User ScreenName:` Architect392043 
+ 
+`User chosen Name:` Architect 3D 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sat Apr 15 01:15:28 +0000 2023 
+ 
+`User Description?:` Hey guys!
+Do you want to do architectural rendering interior and exterior design. inbox me, or Visit my gigs https://t.co/eqUAHL3LFa 
+ 
+`Followers?: `0 
+ 
+`Following?:` 7 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 6 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1647045944293355520/GiSmu0ka_normal.png 
+ 
+`Number of tweets excluding replies:` 6 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**GOOGLE** 2 , **RENDERING** 2 , **KEYWORD** 1 , **PLANNER** 1 , **TOOL** 1 , **ADS** 1 , **HTTPS://TCO/A2LQ2FT925** 1 , **GOOGLEADS** 1 , **CREATE** 1 , **ACCOUNT** 1 , **SET** 1 , **BUDGET** 1 , **WRIT…** 1 , **HTTPS://TCO/IU7PRCMRJAPRANALIRATHOD** 1 , **HTTPS://TCO/QOZ4MQOO5DVISIT** 1 , **WEBSITE** 1 , **HTTPS://TCO/FU3PSCMDWB** 1 , **ARCHITECTURAL** 1 , **COMPETITION** 1 , **INFLUENCER…** 1 , 
+ 
+## What this user tweeted
+ 
+Play Traffic Agency v1.1.12 Full Activated – Discount 100% OFF https://t.co/e6V8OFLCAt #infosec #bugcrowd… https://t.co/AXITVAbvTY
+ 
+# SECConnoisseurUSER INFO
+![image](http://pbs.twimg.com/profile_images/1648390555619958789/rx4eurF0_normal.jpg)
+ 
+`User ScreenName:` SECConnoisseur 
+ 
+`User chosen Name:` The Crypto Connoisseur 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Tue Apr 18 18:06:03 +0000 2023 
+ 
+`User Description?:` Passionate crypto enthusiast and blogger exploring the intersection of finance and technology. Providing insight, analysis, and perspective on all things crypto 
+ 
+`Followers?: `2 
+ 
+`Following?:` 146 
+ 
+`User URL?:` https://t.co/VSsfbFHmho 
+ 
+`Location:` USA 
+ 
+`Number of tweets extracted`  : 50 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1648390555619958789/rx4eurF0_normal.jpg 
+ 
+`Number of tweets excluding replies:` 50 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**CRYPTO** 24 , **POTENTIAL** 8 , **BITCOIN** 8 , **TOKENS** 6 , **MINING** 5 , **FUTURE** 5 , **REGULATORY** 5 , **COULD** 4 , **NEW** 4 , **CREDITORS** 4 , **REBOOT** 4 , **BLOCKSCALE** 4 , **MARKET** 4 , **CHALLENGES** 4 , **ITS** 4 , **INDUSTRY** 4 , **EXCHANGE** 3 , **TRIBE** 3 , **PROPOSAL** 3 , **MILLION** 3 , 
+ 
+## What this user tweeted
+ 
+The rise of #crypto has opened up new investment opportunities, but it's also brought new risks. Stay informed on t… https://t.co/tKK5PlBkZ5
+ 
+# AfrocybersmartUSER INFO
+![image](http://pbs.twimg.com/profile_images/1645134199681171462/zj0rKD9t_normal.jpg)
+ 
+`User ScreenName:` Afrocybersmart 
+ 
+`User chosen Name:` African Cybersmart Network 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Sun Apr 09 18:25:39 +0000 2023 
+ 
+`User Description?:` The African Cybersmart Network seeks to advance cybersecurity awareness in Africa through collaboration between organisations promoting online safety. 
+ 
+`Followers?: `23 
+ 
+`Following?:` 40 
+ 
+`User URL?:` None 
+ 
+`Location:`  
+ 
+`Number of tweets extracted`  : 21 
+ 
+`Profile image:` http://pbs.twimg.com/profile_images/1645134199681171462/zj0rKD9t_normal.jpg 
+ 
+`Number of tweets excluding replies:` 21 
+ 
+
+ 
+
+ 
+## User Top tweeted words 
+ 
+**NETWORK** 14 , **CYBERSMART** 12 , **AFRICAN** 8 , **@DAVIDMOEPENG** 6 , **LAUNCH** 5 , **AFRICA** 5 , **@AFROCYBERSMART** 5 , **AFRICABECYBERSMART** 5 , **DRIF23** 4 , **@DAVIDMOEPENG:** 4 , **DIGITAL** 4 , **CYBERSECURITY** 4 , **@CYBERSMARTBW:** 4 , **COORDINATOR** 3 , **KENYA** 3 , **NAIROBI** 3 , **RIGHTS** 3 , **AWARENESS** 3 , **@JACKIELIDUBWI:** 3 , **LEAD** 2 , 
+ 
+## What this user tweeted
+ 
+RT @nompilo_simanje: #DRIF23 also came with the launch of the Africa cyber smart network @Afrocybersmart coalition of orgs across Africa th…
+ 
+# MrDevil26285497USER INFO
+![image](http://pbs.twimg.com/profile_images/1645488266097967104/X9rMu5O__normal.jpg)
+ 
+`User ScreenName:` MrDevil26285497 
+ 
+`User chosen Name:` Mr Devill 
+ 
+`Is the User Verified?:` False 
+ 
+`User signup date?:` Mon Apr 10 18:05:48 +0000 2023 
  
 `User Description?:`  
  
@@ -458,11 +370,11 @@ Learn the vulnerabilities of all ex…
  
 `Location:`  
  
-`Number of tweets extracted`  : 42 
+`Number of tweets extracted`  : 10 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1648133538804551680/UirpNYKI_normal.png 
+`Profile image:` http://pbs.twimg.com/profile_images/1645488266097967104/X9rMu5O__normal.jpg 
  
-`Number of tweets excluding replies:` 42 
+`Number of tweets excluding replies:` 10 
  
 
  
@@ -470,81 +382,38 @@ Learn the vulnerabilities of all ex…
  
 ## User Top tweeted words 
  
-**@QUAINETWORK:** 36 , **QUAI** 29 , **@QUAINETWORK** 9 , **POEM** 8 , **PROOF-OF-WORK** 7 , **NETWORK** 5 , **MINING** 5 , **COMMUNITY** 4 , **@MECHANIKALK** 4 , **$QUAI** 4 , **CONSENSUS** 4 , **@DOMINANT_STRAT** 3 , **THROUGHPUT** 3 , **WAY** 3 , **WORK** 3 , **MAKE** 3 , **UNIVERSITY** 3 , **LEARN** 3 , **TESTING** 3 , **AMA** 2 , 
+**COMPLETED** 7 , **ROOM!** 7 , **CHECK** 7 , **OUT:** 6 , **TRYHACKME…** 6 , **SECURITY** 4 , **INTRO** 2 , **TRYHACKME** 2 , **CYBER** 1 , **THREAT** 1 , **INTEL** 1 , **HTTPS://TCO/0UJ7BKXT67** 1 , **HTTPS://TCO/BB6SK10ESX@HACKTORIA** 1 , **YESINTRO** 1 , **DIGITAL** 1 , **FORENSICS** 1 , **HTTPS://TCO/5GAO9M0X38** 1 , **HTTPS://TCO/MJENAVDNVNPENTESTING** 1 , **FUNDAMENTALS** 1 , **HTTPS://TCO/26GPDA5ONB** 1 , 
  
 ## What this user tweeted
  
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
+Pentesting Fundamentals - I have just completed this room! Check it out:  https://t.co/26gpDA5oNB #tryhackme… https://t.co/DjmTENyifV
  
-# r_bozlcan12USER INFO
-![image](http://pbs.twimg.com/profile_images/1645529155335868417/og1Y-Dt9_normal.jpg)
+# Noman49246NomanUSER INFO
+![image](http://pbs.twimg.com/profile_images/1647639503392186368/CvfeHoxX_normal.jpg)
  
-`User ScreenName:` r_bozlcan12 
+`User ScreenName:` Noman49246Noman 
  
-`User chosen Name:` rukiye 
+`User chosen Name:` Noman Gujjar 
  
 `Is the User Verified?:` False 
  
-`User signup date?:` Sun Apr 09 11:40:52 +0000 2023 
+`User signup date?:` Sun Apr 16 14:42:08 +0000 2023 
  
-`User Description?:`  
+`User Description?:` Hello friends, how are you, how are you, I want to tell you about this, I will share a post about technology, losing weight, taking good care of your health, et 
  
-`Followers?: `14 
+`Followers?: `3 
  
-`Following?:` 90 
+`Following?:` 70 
  
-`User URL?:` None 
+`User URL?:` https://t.co/FGUjsYvn2r 
  
-`Location:`  
+`Location:` Pakistan 
  
-`Number of tweets extracted`  : 57 
+`Number of tweets extracted`  : 63 
  
-`Profile image:` http://pbs.twimg.com/profile_images/1645529155335868417/og1Y-Dt9_normal.jpg 
+`Profile image:` http://pbs.twimg.com/profile_images/1647639503392186368/CvfeHoxX_normal.jpg 
  
-`Number of tweets excluding replies:` 57 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 33 , **QUAI** 29 , **QUAINETWORK** 8 , **@QUAINETWORK** 8 , **AI** 7 , **REVOLUTION** 7 , **DOWNLOAD** 7 , **PARTICIPATE** 7 , **AI2EARN** 7 , **ECONOMY** 7 , **$GPT@QUAINETWORK** 5 , **@MECHANIKALK** 5 , **UNIVERSITY** 4 , **JOIN** 4 , **CO-FOUNDER** 4 , **NETWORK** 4 , **PROOF-OF-WORK** 4 , **DASHBOARD** 4 , **BUILDING** 4 , **PROBLEM** 4 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# HossanMais81256USER INFO
-![image](http://pbs.twimg.com/profile_images/1644994435481214976/k6v1VaMr_normal.png)
- 
-`User ScreenName:` HossanMais81256 
- 
-`User chosen Name:` Maisha Hossan 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Sun Apr 09 09:23:30 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `4 
- 
-`Following?:` 66 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 199 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1644994435481214976/k6v1VaMr_normal.png 
- 
-`Number of tweets excluding replies:` 214 
+`Number of tweets excluding replies:` 63 
  
 
  
@@ -552,170 +421,11 @@ Learn the vulnerabilities of all ex…
  
 ## User Top tweeted words 
  
-**@ARBITRUM** 20 , **@MAGPIEXYZ_IO** 17 , **@MAGPIEXYZ_IO:** 16 , **@QUESTN_COM** 14 , **@ALPACAPROTOCOL** 13 , **@ARBITRUM:** 10 , **@MEDIAVENOM:** 9 , **@AVEAIOFFICIAL** 9 , **@COINBET_WEB3:** 9 , **@WOMBATEXCHANGE** 9 , **ANNOUNCE** 8 , **@SPIRAL_DAO:** 8 , **X** 8 , **@FIRESTARTER_FI:** 8 , **EXCITED** 7 , **JOIN** 7 , **APRIL** 7 , **🚀** 7 , **🎉** 7 , **@INJECTIVELABSCN:** 7 , 
+**@NOMAN49246NOMAN:** 31 , **اور** 9 , **SKIN** 8 , **جلد** 8 , **کو** 7 , **،** 6 , **کے** 5 , **1** 4 , **چمکدار** 4 , **میں** 4 , **على** 4 , **کی** 4 , **UV** 4 , **سے** 4 , **ہے** 4 , **جو** 4 , **2023:** 4 , **WEIGHT** 4 , **موہ** 4 , **BLOG** 4 , 
  
 ## What this user tweeted
  
-RT @MediaVenom: 6/6
-Rewards are based on the severity of the reported vulnerability and the quality of the report, with higher rewards offe…
- 
-# Maverickx94USER INFO
-![image](http://pbs.twimg.com/profile_images/1647630185603436546/wxohi3MI_normal.png)
- 
-`User ScreenName:` Maverickx94 
- 
-`User chosen Name:` Maverickx94 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Wed Apr 12 08:04:56 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `18 
- 
-`Following?:` 52 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 4 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1647630185603436546/wxohi3MI_normal.png 
- 
-`Number of tweets excluding replies:` 4 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**RT** 1 , **@OPENAI:** 1 , **WE'RE** 1 , **LAUNCHING** 1 , **OPENAI** 1 , **BUG** 1 , **BOUNTY** 1 , **PROGRAM** 1 , **EARN** 1 , **CASH** 1 , **AWARDS** 1 , **FINDING** 1 , **RESPONSIBLY** 1 , **REPORTING** 1 , **SECURITY** 1 , **VULNERABILITIES…MANY** 1 , **INVESTORS** 1 , **VIEW** 1 , **CRYPTOCURRENCIES** 1 , **POTENTIAL** 1 , 
- 
-## What this user tweeted
- 
-RT @OpenAI: We're launching the OpenAI Bug Bounty Program — earn cash awards for finding &amp; responsibly reporting security vulnerabilities.…
- 
-# HackHeadlines_USER INFO
-![image](http://pbs.twimg.com/profile_images/1645414493365649409/v0YXVbOE_normal.jpg)
- 
-`User ScreenName:` HackHeadlines_ 
- 
-`User chosen Name:` Hack Headlines 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 10 13:12:18 +0000 2023 
- 
-`User Description?:` Stay ahead of the latest cyber threats and attacks with our page dedicated to spreading cybersecurity news to the world. We bring you daily updates on the lates 
- 
-`Followers?: `4 
- 
-`Following?:` 20 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 32 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645414493365649409/v0YXVbOE_normal.jpg 
- 
-`Number of tweets excluding replies:` 32 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**CYBERSECURITY** 7 , **SECURITY** 5 , **INFRASTRUCTURE** 4 , **ITS** 4 , **ANNOUNCED** 4 , **GROUP** 3 , **CRITICAL** 3 , **VULNERABILITY** 3 , **NEW** 3 , **IN…** 3 , **HACKERS** 2 , **NATIONAL** 2 , **AGENCY** 2 , **(CISA)** 2 , **IDENTIFIED** 2 , **SYSTEMS** 2 , **CYBERATTACK** 2 , **HEALTH** 2 , **ONGOING** 2 , **CYBERATTACKS** 2 , 
- 
-## What this user tweeted
- 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has identified two vulnerabilities that are curren… https://t.co/3jZLVmbGDV
- 
-# PinkyChainNFTUSER INFO
-![image](http://pbs.twimg.com/profile_images/1646898573080969217/yRskkVSu_normal.jpg)
- 
-`User ScreenName:` PinkyChainNFT 
- 
-`User chosen Name:` Pinky 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Fri Apr 14 15:22:25 +0000 2023 
- 
-`User Description?:` Cats and crypto 4eva 
- 
-`Followers?: `4 
- 
-`Following?:` 11 
- 
-`User URL?:` None 
- 
-`Location:` Somewhere 
- 
-`Number of tweets extracted`  : 36 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1646898573080969217/yRskkVSu_normal.jpg 
- 
-`Number of tweets excluding replies:` 36 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**@QUAINETWORK:** 32 , **QUAI** 31 , **@QUAINETWORK** 6 , **@MECHANIKALK** 5 , **MINING** 5 , **$QUAI** 4 , **UNIVERSITY** 4 , **NETWORK** 4 , **POEM** 4 , **PROOF-OF-WORK** 3 , **CO-FOUNDER** 3 , **CALL** 3 , **5** 3 , **LEARN** 3 , **DON'T** 2 , **FORGET** 2 , **COMMUNITY** 2 , **AMA** 2 , **CO-FOUNDERS** 2 , **@ALANORWICK** 2 , 
- 
-## What this user tweeted
- 
-RT @QuaiNetwork: Have you watched Quai co-founder @mechanikalk's presentation on Quai from ETH Denver?
-
-Learn the vulnerabilities of all ex…
- 
-# ElgeeCageeUSER INFO
-![image](http://pbs.twimg.com/profile_images/1645290387525844993/zXRb2zCy_normal.jpg)
- 
-`User ScreenName:` ElgeeCagee 
- 
-`User chosen Name:` Elgey Cagey 
- 
-`Is the User Verified?:` False 
- 
-`User signup date?:` Mon Apr 10 04:58:43 +0000 2023 
- 
-`User Description?:`  
- 
-`Followers?: `30 
- 
-`Following?:` 207 
- 
-`User URL?:` None 
- 
-`Location:`  
- 
-`Number of tweets extracted`  : 200 
- 
-`Profile image:` http://pbs.twimg.com/profile_images/1645290387525844993/zXRb2zCy_normal.jpg 
- 
-`Number of tweets excluding replies:` 3270 
- 
-
- 
-
- 
-## User Top tweeted words 
- 
-**FOX** 40 , **@REALTUCKFRUMPER:** 38 , **NEWS** 19 , **DOMINION** 17 , **@FLWILLREGRET22:** 15 , **TRUMP** 11 , **@MUELLERSHEWROTE:** 11 , **SETTLEMENT** 10 , **THESE** 9 , **BREAKING:** 9 , **GOT** 7 , **MILLION** 7 , **SETTLED** 7 , **@RONFILIPKOWSKI:** 6 , **WHITE** 6 , **WOMEN** 6 , **MCCARTHY** 6 , **AFTER** 6 , **GUN** 6 , **CHILD** 6 , 
- 
-## What this user tweeted
- 
-RT @gcHamblet: 1)Desantis has a ego larger than trump’s and the personality of a gum rapper. He’s vulnerable and a smart campaign will expo…
+RT @Noman49246Noman: Advancing rapidly, transforming society. AI, IoT, blockchain, quantum computing, AR/VR, robotics, biotechnology, auton…
  
 
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>  
