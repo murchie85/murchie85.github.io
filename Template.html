@@ -1,22 +1,18 @@
 	<!DOCTYPE HTML>
-<!--
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html prefix="og: http://ogp.me/ns#">
 	<head>
-		<title>INSERT TITLE HERE </title>
-		<meta property="og:url"           content="https://murchie85.github.io" /> <!-- URL -->
-		<meta property="og:type"          content="website" /> 
-		<meta property="og:title" content="INSERT TITLE HERE "/> <!-- TITLE--> 
+		<title>[PROJECTTITLE]</title>
+		<meta property="og:url"           content="https://murchie85.github.io/[PAGENAME].html" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title" content="[URLTITLE]" />
 		<meta prefix="og: http://ogp.me/ns#" charset="utf-8" />
-		<meta itemprop="image" content="images/bg.jpg" />   <!-- IMAGE -->
-		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/bg.jpg"> <!-- IMAGE -->
-		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="This is a Template for Murchie's tutorials ">  <!-- BLURB -->
+		<meta itemprop="image" content="[IMAGEPATH]" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:image" content="[IMAGEPATH]">
+
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="[BLOGDESCRIPTION]">
 		<meta prefix="og: http://ogp.me/ns#" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body>
@@ -28,7 +24,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0&appId=1751839964842666&autoLogAppEvents=1';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -53,6 +49,7 @@
 
 
 
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -60,7 +57,7 @@
 					<header id="header">
 						<div class="content">
 							<div class="inner">
-								<a href="index.html"><h1>title</h1></a>
+								<a href="index.html"><h1>[INLINETITLE]</h1></a>
 							</div>
 						</div>
 					</header>
@@ -69,51 +66,14 @@
 				<div id="blogs">
 					<article id="Blog">
 
+[MAINCONTENT]
 
-
- 															<center>	<h2>heading</h2> </center>
-
-
-
- 									
-
-
-
-	<center> <span class="image smaller"><img src="images/blog/xjpg" alt="" /></span></center>
-
-	<a style = "color:silver;" href = "https://github.com/murchie85/DEMO-RESTfull-API"> here</a>. 
-
-
-
- 									<center>	<h2>Installing the required Software</h2> </center>
-
-						
-																<h3>Composer</h3>
-
-											<center><code>$ mv composer.phar /usr/local/bin/composer</code></center> <br>
-N
-	<pre><code> 
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule . index.php [L]
-	</pre></code>
-
-
-
-
-
-<div>
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=Building%20a Rest Service">
-Tweet</a></div>
-
-<br><strong> Adam McMurchie  1/May/2017 </strong>
+<br><strong> Adam McMurchie  <br></br>[DATE]</strong>
+<br><br>
 <br><br>
 
 
 
-<div class="fb-like" data-href="https://murchie85.github.io/rest.html" data-width="12" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
 		<!-- **************************footer picture goes here *********************************************** -->
 
@@ -132,7 +92,7 @@ Tweet</a></div>
 			</div>
 
 		<!-- **************************background picture goes here *********************************************** -->
-			<div id="bg2"></div>
+			<div id="[BACKGROUNDIMAGE]"></div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
